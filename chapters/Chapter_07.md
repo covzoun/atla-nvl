@@ -12,7 +12,7 @@ He had made himself the one who stood still. That had been his decision on the b
 
 His hands had been quiet for the length of the walk from the boat. Standing in the cold, they started again.
 
-It began under the gloves, a slow pulse in the palms that kept time with his heart. The splits ran across the middle of each hand, short and ragged, and the linen over them had gone damp and stiff in the night. The leather on top had dried into the shape of a closed fist. Every time he straightened his fingers to point at a cask, the wrap pulled where it had stuck, and something under it opened a little wider. He kept his face pleasant. He pointed anyway.
+It began under the gloves, a slow pulse in the palms that kept time with his heart. He had wrapped them himself before first light, two turns each, snug across the heel and the splits, and the linen had gone damp and stiff under the leather by the time the casks were counted. The leather on top had dried into the shape of a closed fist. Every time he straightened his fingers to point at a cask, the wrap pulled where it had stuck, and he stopped short of forcing it. He kept his face pleasant. He pointed anyway.
 
 "Fresh water first," he told Kaito, "then wood. The stream runs clear above the bend. Don't fill from here, the coal's fouling it."
 
@@ -180,7 +180,7 @@ It was a small ledge, chest high, with a good hold on top. He reached for it and
 
 "I'm here."
 
-The next slope was loose shale, and he went up it on his knees and wrists, hands curled into loose fists so that only the leather backs touched. Warm wetness spread under the linen with every fistful of grit. He thought about the weight of the cord weapon at his belt, and about nothing else at all, because it was much easier.
+The next slope was loose shale, and he went up it on his knees and wrists, hands curled into loose fists so that only the leather backs touched. Warm wetness spread under the linen with every fistful of grit. He thought about the weight of the knife at his belt, and about nothing else at all, because it was much easier.
 
 The trail bent around a spur of gray rock, and Zuko stopped.
 

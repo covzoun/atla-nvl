@@ -1,3 +1,5 @@
+> **Note (2026-10-18):** `run_kit/`, `-SyncPhase2/-SyncPhase3`, and `setup/phase1/` upload folders are **local machine tooling, not in this repository** (audit finding A). If following this doc without your local kit, treat those references as manual steps: stage the named files yourself in a folder, or run Option A (CLI/agent), which reads straight from disk.
+
 ## Manual Workflow (Phases 1–2 manual; Phase 3 provider-agnostic)
 
 Phases 1–2 run manually — copy prompt into tool, paste output back, save files by hand. Phase 3 runs in either mode: CLI/agent (e.g. OpenCode + any free model, reads/writes disk on CONFIRM) or manual web chat (any free LLM, manual save/apply). Switching Phase 3 providers never requires file or workflow changes — restage/re-upload and continue. Log tool/quota exhaustion in `workflow/provider_status.md` as you go.

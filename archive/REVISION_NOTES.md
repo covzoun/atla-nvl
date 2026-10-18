@@ -1,3 +1,11 @@
+# Archived 2026-10-18 — superseded
+
+Describes 13 chapters, four folded time-skips, a ChatGPT Phase 3, and files that are not in the repository. Superseded by the v3 index and the current workflow docs. Kept as process history.
+
+Do not edit. See `workflow/` for the current governing documents.
+
+---
+
 # Revision Notes — Workflow & Base File Alignment
 
 Date: 2026-07-19

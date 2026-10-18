@@ -189,6 +189,8 @@ Future scenes should portray Jake's non-bending combat as an extension of Flowin
 ## Core Principle: Risk Assessment
 Jake's bending decisions follow a calculated risk assessment based on witness identity and potential consequences, not arbitrary restrictions. His waterbending is his PRIMARY combat ability — weapons and martial arts are SECONDARY tools for when bending risks are unacceptable.
 
+**What casual observers get (corrected, per `workflow/Base_Files_Audit.md` finding G):** style ambiguity and environmental cover buy Jake **a beat of doubt** in an observer trained enough to be looking — nothing more. It does not reliably prevent recognition. The drafts are proof: Katara reads his form within a moment of standing still, and the Kyoshi Warriors react to his bending in Chapter 4. Write observers accordingly: ambiguity delays understanding; it does not prevent it.
+
 ## When Jake CAN Bend Openly (Low Risk)
 - **Private/crew-only settings:** Ship scenes, training, solo moments with trusted crew
 - **Non-Fire-Nation combatants:** Kyoshi Warriors, Earth Kingdom soldiers, pirates, or other enemies with no connection to Fire Nation command
@@ -206,6 +208,9 @@ Jake's bending decisions follow a calculated risk assessment based on witness id
 - **Zhao's forces:** Specific high risk due to Zhao's personal knowledge and political ambition
 - **Fire Nation territories:** Where waterbending display equals immediate execution
 - **Deliberate exposure situations:** Any scenario where bending would clearly identify Jake as a waterbender to hostile observers
+
+## The Chapter 9 Override (Locked)
+> **The Chapter 9 reveal is a locked exception to everything above.** In the river-shore brawl, Jake bends **openly, clearly, and for long enough in Katara's sightline that she can read the form**. No risk tier, no witness tabu, and no suppression rule may be used to prevent or blur this scene. It is deliberate exposure with a calculated cost, and it is the model for the one kind of bending a high-risk beat may contain: costly, chosen, and paid for afterward.
 
 ## Strategic Reasoning Behind Restrictions
 1. **Fire Nation Political Threat:** If Ozai learns Zuko travels with a waterbender, it provides political ammunition to declare Zuko a traitor, justifying harsher punishment or execution.
@@ -239,24 +244,29 @@ White Heron's weapon style is the non-bending expression of Jake's combat philos
 
 Shared principles include circular movement, redirection, controlling space, entangling rather than overpowering, creating openings instead of forcing them, and protecting allies before pursuing enemies. Observers familiar with Jake's fighting habits may eventually notice subtle similarities between the two styles, although the connection is not immediately obvious. The disguise hides Jake's identity, but it does not change how he instinctively fights.
 
-## White Heron Weapon Philosophy (Locked)
+## White Heron Weapon Doctrine (Locked)
 
-**Name:** The weapon is intentionally **unnamed**. It is a practical, personal tool created and adapted by Jake himself, not a ceremonial or legendary artifact. In prose, it should be referred to using functional descriptions such as: *rope dart, weighted cord, flexible cord weapon, braided cord weapon,* or *flexible weapon*.
+Jake carries **two blades**, and they do different jobs. The earlier single "flexible cord weapon" design (braided silk-and-steel rope dart) is retired and must not appear in any file.
 
-**Physical Description:** The weapon is inspired by both a rope dart and a meteor hammer. Its physical characteristics include:
-- A braided silk-and-steel cord designed for flexibility and durability.
-- A weighted striking head used for impact attacks.
-- A counterweight, ring, or secondary grip point opposite the striking end.
-- Designed for control, redirection, restraint, and unpredictable movement.
+### The Working Knife
+- A plain sailor's knife: 12–15 cm, sheepsfoot blade, wooden handle, no maker's mark — the kind sold in any port for a few coins.
+- Carried openly on his belt from Chapter 1. Used for rope, food, sailcloth, splinters, cutting knots and snares, prying doors, crates, and grates, and cutting people free.
+- Common, cheap, replaceable. Losing it costs nothing and leaves no trail; thousands exist. If Jake is ever searched, disarmed, or stripped of weapons, this is the blade they find.
+- In prose, refer to it simply as *the knife* or *the working knife*. It is deliberately unremarkable.
 
-**Combat Applications:**
-- Wrapping around wrists or weapons to disarm opponents.
-- Sweeping legs or disrupting balance.
-- Creating distance against multiple attackers.
-- Redirecting enemy attacks through circular momentum.
-- Striking from unexpected angles.
+### The Heron's Bill
+- An old stage blade made for the popular Fire Nation play *The Heron and the Net* — a prop, not a relic, made by a working smith for a travelling troupe and retired when the troupe broke up. It is not magical and carries no power; it is dangerous only because it can be recognised.
+- **Blade:** about 35 cm, single-edged, with a pronounced hawkbill curve. The edge runs along the inside of the curve, so it cuts by hooking and drawing rather than thrusting. The point is blunt — it was never sharpened for the stage, and Jake never sharpens it.
+- **Spine:** decorated with a cast brass feather that is worn smooth at the high points.
+- **Guard:** cast in the shape of a folded wing — the one unmistakable element.
+- **Grip:** dark wood, cord-wrapped, with a brass ferrule.
+- **Mark:** a small troupe stamp at the base of the blade, half worn away. This is the detail that can betray him.
+- **Scabbard:** the original prop scabbard, lacquered red, cracked, lined with felt.
+- Debuts **with the mask, in Chapter 13**, and never appears unmasked. It is kept with the mask among Iroh's forgotten prop set from the play; Jake takes the set himself, in secret, so the Chapter 13 lock holds (Iroh never knows the boys left the ship).
+- **How it can betray him:** the stamp identifies the object; a collector, theatre owner, or old actor could read it. Mask and bill together are the White Heron. If the bill is left behind or seen in daylight, the trail runs object → play → troupe → Iroh → the boy who travels with him. This is a genuine Book 2 or Book 3 threat, and it is earned rather than invented.
+- **Combat limits (keep him dependent on positioning):** it cannot parry a sword without notching, cannot reach, and cannot cut armour. Masked uses: cutting captives free without a waterbending signature; hooking a wrist, blade, or bowstring off line; cutting ropes, bridges, mooring lines, and cage latches; prying and wedging; threatening without stabbing.
 
-The weapon reflects Jake's overall combat philosophy: defensive first, adaptive, precise, and focused on disabling opponents rather than overwhelming them. It complements, rather than replaces, his waterbending and Flowing Guard style.
+Both blades reflect Jake's overall combat philosophy: defensive first, adaptive, precise, and focused on disabling opponents rather than overwhelming them. They complement, rather than replace, his waterbending and Flowing Guard style.
 
 ---
 

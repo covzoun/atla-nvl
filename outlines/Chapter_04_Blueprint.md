@@ -467,7 +467,7 @@ Sets the baseline of exhaustion and logistical strain that will drive the origin
 - The ship is repaired enough to sail but still bears cosmetic scars from the avalanche.
 
 ### Items / Equipment Status:
-- Jake has his gloves, cord weapon, and Haru's keepsake. Zuko has his standard armor.
+- Jake has his gloves, his working knife, and Haru's keepsake. Zuko has his standard armor.
 
 ---
 

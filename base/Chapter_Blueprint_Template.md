@@ -298,6 +298,18 @@ Examples:
 
 ---
 
+# Required Fields (added Pass 0, 2026-10-18)
+
+Every blueprint must include these five fields. The "Final Blueprint Verification" is all yes/no ticks with no evidence required; these fields supply the evidence.
+
+1. **Target Length** — the planned word count for the chapter, inside the Book 1 length band (7,000–8,500; Chapter 9 may run to 10,000 as the tentpole; per `workflow/Ch1-10_Analysis_and_Revision_Plan.md` §6.3.5).
+2. **Canon Beats That Must Survive** — numbered list of the five to eight events from the episode that must remain, in order and unaltered. Copy from `workflow/Canon_Beat_Sheets.md`. Revisions are checked against this list, not against memory.
+3. **Exposure Ledger** — for every scene where Jake bends (or nearly does): who might see it, why they cannot report it, and what it costs. If no entry can justify a witness's silence or blindness, the bending does not happen in that scene.
+4. **Reader Comprehension** — what a reader who has never seen *Avatar* must understand about the situation by the end of this chapter, stated as a short list. Feeds the cold-reader test in revision §6.6.
+5. **Evidence Final Check** — each "Final Blueprint Verification" tick must name the evidence that proves it (the field above it draws on, the exact line or section), not just a ✓.
+
+---
+
 # Final Blueprint Verification
 
 Before prose generation, confirm:

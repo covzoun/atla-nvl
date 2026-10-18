@@ -295,6 +295,7 @@ The psychological fallout of the waterbending reveal, highlighting Jake's parano
 **Tracker Seeds:**
 - Jake's paranoia regarding exposure is heightened.
 - Zuko's protective instincts over Jake are actively triggered.
+- **The locked external beat (2026-10-18):** a Fire Nation patrol sweeps through the woods near camp — no contact, but the boys hide, the trek loses ground, and the exposure pressure compounds rather than resets (decision per the Ch1–10 revision plan §6.3.4; the Gaang's Jet arc stays off-screen).
 
 ---
 
@@ -366,8 +367,8 @@ Introduce the parallel identities of Blue Spirit and White Heron, showcase their
 - Aftermath: In the forest, Aang has a quiet moment with them before leaving; Zuko and his companion return to the ship.
 
 **Jake Integration (White Heron):**
-- Zuko sneaks out of the ship alone. Jake notices his absence, secretly grabs an old bird mask (the "White Heron"), and follows him. **Iroh remains completely unaware that either boy has left the ship.**
-- **The Infiltration:** They operate in perfect, silent tandem. Blue Spirit provides the aggressive, lethal threat; White Heron provides silent takedowns, utility, and defense (flexible cord weapon). 
+- Zuko sneaks out of the ship alone. Jake notices his absence, secretly takes the White Heron mask (and the Heron's bill with it) from Iroh's forgotten prop set, and follows him. Iroh already **named the mask to Jake in a quiet shipboard scene during Chapters 11–12** (locked ruling — see `Story_Bible.md`); on this night he takes it himself while Iroh sleeps. **Iroh remains completely unaware that either boy has left the ship.**
+- **The Infiltration:** They operate in perfect, silent tandem. Blue Spirit provides the aggressive, lethal threat; White Heron provides silent takedowns, utility, and defense (the Heron's bill, debuting here with the mask). 
 - **The Double Arrow (Locked Injury):** At the final gate, when Zhao's archer fires, one arrow knocks out Zuko. Jake throws himself into the line of fire to shield Zuko's fallen body, taking a severe, debilitating hit from the second arrow.
 - **The Recognition Beat:** A bleeding, struggling White Heron ignores Aang entirely, desperately trying to drag Zuko to safety alone. Hearing a familiar pained gasp and catching sight of Jake's heavily scarred hands, Aang realizes this is the boy from Zuko's ship. Aang steps in to help the injured White Heron carry Zuko out.
 - Jake, despite his severe injuries, manages to extract Zuko back to the ship. 
@@ -502,7 +503,7 @@ Strip away Zuko's remaining resources, force the stowaway infiltration, and begi
 - Zuko, injured from the explosion, disguises himself as a Fire Nation guard to stow away on Zhao's lead ship alongside Iroh.
 
 **Jake Integration:**
-- Jake survives the explosion but loses his few remaining comforts. He manages to grab his "go-bag" (containing his White Heron mask, flexible cord weapon, and Haru's keepsake) just before the ship goes down.
+- Jake survives the explosion but loses his few remaining comforts. He manages to grab his "go-bag" (containing his White Heron mask, the Heron's bill in its red scabbard, and Haru's keepsake) just before the ship goes down. The working knife stays on his belt and is replaceable.
 - **The Crew:** The crew's departure is a *perceived* betrayal by Zuko, but Jake knows they were commandeered. The crew remains loyal to the boys' secret.
 - **The Stowaway:** Jake must hide and disguise himself aboard Zhao's fleet alongside Zuko and Iroh. To avoid immediate recognition by Zhao or the commandeered crew, Jake cannot be a public-facing servant. He remains a **hidden stowaway** in the bowels of the ship with Zuko. Jake uses his stealth skills to sneak through vents to steal medical supplies for Zuko's explosion injuries.
 
@@ -512,7 +513,7 @@ Strip away Zuko's remaining resources, force the stowaway infiltration, and begi
 
 **Tracker Seeds:**
 - **Item lost:** Zuko's ship is destroyed. The Blue Spirit broadswords are lost.
-- **Item saved:** Jake successfully retains his White Heron mask, flexible cord weapon, and Haru's keepsake.
+- **Item saved:** Jake successfully retains his White Heron mask, the Heron's bill, and Haru's keepsake.
 - Zuko is injured (explosion burns/concussion).
 - Former crew reassigned aboard Zhao's fleet.
 
@@ -573,4 +574,4 @@ The climax of Book 1. Jake chooses Zuko over the spiritual crisis of his birthpl
 **Tracker Seeds:**
 - Book 1 ends.
 - Zuko, Jake, and Iroh are fugitives on a small catamaran.
-- **Optional Coda:** A brief, dramatic-irony POV shift to Azula receiving her mission from Ozai (a sanctioned POV exception).
+- No POV coda: the Azula coda is cut for the Book 1 restart (per `Book_1_Chapter_Index.md` and the POV record in `base/Style_Guide.md`). Azula's awareness grows off-page.

@@ -184,7 +184,7 @@ He took hold of the first glove at the wrist and drew it off.
 
 It did not want to come. The leather stuck where the skin beneath it had wept and dried and wept again, and he had to peel it, slowly, from the fingertips back. A sound went through the room. It was not quite a word. It was the sound of men who knew what they were about to see and had not expected to be shown.
 
-The palm was a ruin. The old burn scars ran across it from the base to the fingertips, shiny and tight and red, so much redder than they should have been. The heat of Zuko's wrists the night before still lived in them. And across the middle of the palm, where the hemp had gone, the skin had split in two short ragged lines and was bleeding, slowly, sluggishly, a bead at a time, with a dull dark shine in the lamplight.
+The palm was worse than it had been at midnight. The old burn scars ran across it from the base to the fingertips, shiny and tight. The heat of Zuko's wrists the night before still lived in them. Across the middle of the palm, where the hemp had gone, the skin had split in two short ragged lines and was bleeding, slowly, sluggishly, a bead at a time, with a dull dark shine in the lamplight.
 
 He took off the other glove. The same.
 

@@ -111,16 +111,16 @@ Locked continuity:
 
 ---
 
-# The 3-Year Exile Timeline (Age 15 to 18)
+# The 3-Year Exile Timeline (Age 13 to 16)
 
 This timeline bridges the gap between the Agni Kai and the start of Book 1.
 
 Unless a later canon revision explicitly supersedes it, this section serves as the project's authoritative chronology for Jake's physical recovery, waterbending development, evolving relationship with Zuko, and major exile milestones.
 
-## Year 1 (Age 15–16): The Aftermath & Awakening
+## Year 1 (Age 13–14): The Aftermath & Awakening
 - **Focus:** Shock, physical healing, and the harsh adjustment to life at sea.
 - **Jake’s State:** Jake is in pure survival and caretaking mode. His hands are severely burned. Iroh gives him the gloves. 
-- **First Waterbending (Locked):** Jake instinctively uses waterbending to cool and soothe his own burned hands. He does not consciously understand he is bending at first. Iroh notices and helps him understand what happened. Jake begins learning basic control.
+- **First Conscious Waterbending (Locked):** Jake instinctively uses waterbending to cool and soothe his own burned hands. This is his **first conscious, deliberate use** — private and instinctive. The Agni Kai remains his **first (involuntary, public, witnessed) manifestation**, per the locked ruling in `Canon.md`; these are two different firsts and must never be conflated.
 - **Zuko’s State:** Zuko is at his most volatile, angry, and obsessed with finding the Avatar. He pushes everyone away, but Jake stubbornly absorbs the anger and refuses to leave his side.
 - **The Suspicion:** Zuko begins suspecting there is more to Jake's origins, but is too blinded by his own trauma and obsession to fully investigate.
 
@@ -128,52 +128,33 @@ Unless a later canon revision explicitly supersedes it, this section serves as t
 - **The Reveal:** Through accumulated evidence, conversations, and Iroh's guidance, Zuko finally pieces together the full truth of Jake's Southern Water Tribe heritage.
 - **The Shift:** The realization forces Zuko to confront the danger Jake has been unknowingly living under: a Water Tribe descendant serving aboard a Fire Nation ship while being hunted by the empire that destroyed his homeland. Zuko's view of Jake shifts from seeing him merely as a servant/protector to recognizing him as another victim of the Fire Nation's actions.
 
-## Year 2 (Age 16–17): Forging the Bond & Flowing Guard
+## Year 2 (Age 14–15): Forging the Bond & Flowing Guard
 - **Focus:** Routine, tactical partnership, and deepening co-dependence.
-- **Combat Evolution:** Jake's progression is gradual. He is *not* a secret waterbending master. He moves from basic control to understanding movement principles and defensive applications. Iroh teaches him universal martial principles, and Jake’s *Flowing Guard* begins to take shape as something uniquely his. He also trains with his flexible cord weapon.
+- **Combat Evolution:** Jake's progression is gradual. He is *not* a secret waterbending master. He moves from basic control to understanding movement principles and defensive applications. Iroh teaches him universal martial principles, and Jake’s *Flowing Guard* begins to take shape as something uniquely his. He also trains with his working knife.
 - **First Deliberate Combat Use (Locked):** During a skirmish (e.g., with Earth Kingdom forces or pirates), Jake deliberately uses waterbending in combat for the first time to save Zuko’s life. This is a major emotional milestone that cements their tactical trust.
 
-## Year 3 (Age 17–18): The Book 1 Baseline
+## Year 3 (Age 15–16): The Book 1 Baseline
 - **Focus:** Exhaustion and the established dynamic.
 - **The Dynamic:** Jake and Zuko's partnership is highly functional but **emotionally unhealthy**. They operate seamlessly in a fight, but they are using each other as coping mechanisms to avoid their respective traumas. Before Aang, Zuko has Jake, Jake has Zuko, and both are avoiding their trauma.
 - **The Toll:** Three years at sea have worn them down. The search for the Avatar feels hopeless. When Aang is finally discovered, it disrupts not just Zuko's mission, but their entire co-dependent coping mechanism. Zuko begins questioning his obsession, and Jake begins questioning whether protecting Zuko is enough.
 
 ---
 
-# Book 1 Episode Insertion Map
+# Book 1 Episode Map (Retired 2026-10-18)
 
-This map dictates how Jake alters or experiences major ATLA canon events.
+**This section is retired.** It covered only five of twenty chapters and had drifted out of agreement with the v3 index (it still treated Episodes 1–2 as a single chapter). Duplication is the enemy: do not restate episode structure in two files.
 
-## Episodes 1–2: The Boy in the Iceberg / The Avatar Returns
-- **Jake's Role:** Jake accompanies Zuko during the Southern Water Tribe raid, but stays hooded and keeps a low profile to avoid drawing attention or immediate recognition. He coordinates the crew and covers Zuko's blind spots rather than engaging directly, protecting Zuko from a distance while the attack unfolds.
-- **Emotional Beat:** Seeing his birthplace for the first time triggers a quiet internal crisis. He recognizes things subconsciously and feels an "unfamiliar familiarity." The tragedy is that he has finally reached his homeland but cannot claim it. He hides this crisis from Zuko.
+The authoritative sources are:
+- `base/Book_1_Chapter_Index.md` — chapter numbering, titles, and episode coverage (v3, twenty chapters).
+- `base/Book_1_Macro_Map.md` — per-chapter anchors, Jake integration, locks, knowledge limits.
+- `workflow/Canon_Beat_Sheets.md` — the five to eight canon beats per chapter that must survive revision.
 
-## Episode 3: The Southern Air Temple (Zhao's Introduction)
-- **Jake's Role:** Commander Zhao recognizes Jake as "the servant boy from the Agni Kai" who remained beside the disgraced prince. 
-- **Political Tension:** Zhao uses Jake's presence to mock Zuko's disgrace. Jake must bite his tongue and endure the humiliation to protect Zuko. 
-- **Knowledge Limit:** Zhao does *not* know Jake is Southern Water Tribe, a waterbender, or the White Heron. He only knows Jake's disgraced palace identity. This gives Zhao political leverage while preserving Jake's secrets.
-
-## Episode 9: The Waterbending Scroll
-- **Jake's Role:** Jake fights the pirates alongside Zuko. During the river-shore brawl, with chaos covering much of the fight, Jake bends openly enough — close enough to Katara, clearly enough — that style ambiguity no longer protects him. Katara sees him bend and can read the form. This is the locked reveal moment.
-- **What the Reveal Actually Is (Locked):** This is **not** the first time Jake bends in combat, nor the first time Katara has seen water move near him. What makes Chapter 9 the reveal is that Katara is now close enough and still enough to recognize the bending as bending — and trained enough to notice the form is wrong. It does not look like anything taught in the Water Tribes. The real beat is not "he bends" but "where did he learn to bend like *that*?" The dissonance between his Fire-Nation-shaped style and his element raises the question his Southern Water Tribe origin would answer — but she does not have that answer yet.
-- **Knowledge Limit (Locked):** Katara learns only that a waterbender fights beside Zuko. She does **not** learn his name, his origin, or anything else. His Southern Water Tribe identity remains fully hidden. The style ambiguity that protected him before Chapter 9 now deepens the mystery rather than resolving it — a waterbender with Fire Nation body language is stranger and more confusing than a straightforward Water Tribe fighter would have been.
-- **Emotional Beat (Jake):** Watching Katara bend gives Jake a sharp pang of alienation. She represents the culture he lost and the identity he never had. He does not feel an immediate sense of belonging; instead, he feels the painful contradiction of: *"This should feel familiar. Why doesn't it?"* The moment is mutual — both recognize each other as waterbenders in the same instant, across enemy lines.
-- **Forward Thread:** After Chapter 9, the open question for Team Avatar is not "is there a waterbender with Zuko?" but "why is a waterbender fighting for the Fire Nation, and where did he come from?" That question is intentionally left unresolved through the end of Book 1. See `Conflicts / Open Questions` below.
-
-## Episode 13: The Blue Spirit (Locked Major Divergence)
-- **Jake's Role:** Jake adopts the White Heron mask — an existing folkloric identity he inherits rather than invents — to secretly follow Zuko.
-- **Complementary Roles:** White Heron does *not* overshadow Blue Spirit.
-  - **Blue Spirit:** Direct action, infiltration, freeing Aang.
-  - **White Heron:** Misdirection, delaying patrols, protecting escape routes, and ensuring Zuko's successful withdrawal.
-- **Injury (Locked):** During the escape, Jake is seriously injured but remains conscious long enough to extract Zuko. His recovery shapes the following original-content chapter (see `Book_1_Macro_Map.md`, Episode 14).
-
-## Episodes 18–20: The Siege of the North
-- **Jake's Role:** Jake infiltrates the North Pole with Zuko. He struggles with the extreme cold. When Zuko captures Aang and marches into the blizzard, Jake is the one keeping them both alive in the tundra. 
-- **Combat Limit:** Jake is *not* overpowered here. He does not defeat major opponents or change Yue's sacrifice. His role is keeping Zuko alive and supporting his retreat.
-- **Emotional Beat:** During the climax, Jake prioritizes getting Zuko out alive over fighting the Northern Water Tribe. He chooses Zuko over the larger conflict, a decision he must confront later.
+The three narrative rulings this old map carried that are still load-bearing live where they belong now:
+- Chapter 9 reveal mechanics and knowledge limit → `Bending_Styles.md` (Chapter 9 Narrative Beat) and the year-by-year timeline below.
+- Episode 13 divergence and injury lock → `Book_1_Macro_Map.md`, Chapter 13.
+- Episodes 18–20 role and combat limit → `Book_1_Macro_Map.md`, Chapters 18–20.
 
 ---
-
 # Secret Identities & Folklore
 
 ## Blue Spirit
@@ -184,7 +165,7 @@ This map dictates how Jake alters or experiences major ATLA canon events.
 ## White Heron
 The White Heron is based upon an existing but obscure Fire Nation folkloric figure. Jake does **not** invent the legend. 
 
-Instead, while preparing to secretly follow Zuko during the Blue Spirit rescue, Jake searches for a disguise. Iroh recognizes an old bird mask among forgotten belongings and quietly remarks: *"That is the White Heron."* He offers no lengthy explanation. Jake accepts the mask simply as a practical disguise. Only later does both Jake and the audience gradually discover the folklore surrounding it.
+Instead, Iroh shows Jake the mask earlier — a quiet shipboard scene during **Chapters 11–12**, in which Iroh, going through his forgotten prop set from *The Heron and the Net*, holds up the old bird mask and names it: *"That is the White Heron."* He offers no lengthy explanation. Jake accepts it simply as a curiosity before it ever becomes a disguise. On the night of Chapter 13, **Jake takes the mask himself, in secret, while Iroh sleeps** — so the Chapter 13 lock holds: Iroh knows Jake has seen the mask, but never knows either boy has left the ship.
 
 This establishes that:
 - the White Heron existed before Jake
@@ -203,6 +184,15 @@ Within Fire Nation folklore, the White Heron traditionally represents:
 - safe passage
 - quiet protection
 - hope during times of war
+- a hooked blade used to **cut snares**, never to hunt
+
+### The Heron and the Net (Locked)
+The popular stage version of the White Heron tale. In it, a heron finds a spirit caught in a fisherman's net, cuts the net instead of taking the catch, and asks for nothing. The fisherman, shamed, leaves one net open every season.
+
+- The play gives the folk figure its one object a shape: the **Heron's bill**, a stage blade carried by the actor. *(Full physical description is in `Bending_Styles.md`.)*
+- The bill was made by a working smith for a travelling troupe and retired when the troupe broke up; the retired set (mask, bill, and red lacquered scabbard) is kept among **Iroh's forgotten belongings**, because Iroh patronised the troupe in his port years.
+- Two versions of the same story meet across Fire Nation society: **Jake** heard the tale as a child in the palace kitchens, told by servants to their children; **Iroh** knows the play from port theatres. That is why Iroh can name the mask in Chapter 13, and why Jake already half-knows what it means.
+- Jake takes the set himself, in secret; Iroh never knows the boys left the ship.
 
 ### White Heron Identity Rules
 While acting as White Heron:
@@ -213,7 +203,7 @@ While acting as White Heron:
 - White Heron avoids unnecessary killing whenever possible.
 - White Heron disappears before recognition whenever circumstances allow.
 
-*(Note: White Heron's combat philosophy and signature weapon details are documented exclusively in `Bending_Styles.md`.)*
+*Note: White Heron's combat philosophy and blade details are documented exclusively in `Bending_Styles.md`.*
 
 ---
 
@@ -239,7 +229,7 @@ Future drafting should consistently preserve:
 - The distinction between Jake's ordinary identity and White Heron.
 - White Heron and Blue Spirit should never become interchangeable identities.
 - White Heron exists to complement Blue Spirit rather than replace or compete with it.
-- Jake's flexible weapon should visually echo the philosophy of Flowing Guard without functioning as substitute waterbending.
+- Jake's blades — the working knife, and masked the Heron's bill — should visually echo the philosophy of Flowing Guard without functioning as substitute waterbending.
 
 ---
 
@@ -248,7 +238,6 @@ Future drafting should consistently preserve:
 The following items are intentionally unresolved and should remain unlocked until future planning explicitly canonizes them.
 - [INSERT DETAIL] Circumstances surrounding Jake's removal from the Southern Water Tribe.
 - [INSERT DETAIL] Timeline and circumstances surrounding Jake learning his complete birth history.
-- [INSERT DETAIL] Final name, construction history, and cultural origin of White Heron's signature flexible weapon.
 - [INSERT DETAIL] Exact progression of White Heron's reputation throughout Books 2 and 3.
 
 ---
@@ -258,6 +247,6 @@ The following items remain intentionally unresolved pending future planning:
 - When and how Aang, Sokka, and the rest of Team Avatar learn of Jake's waterbending (Katara witnesses it in Episode 9 — Locked).
 - Team Avatar's timeline for discovering Jake's Southern Water Tribe origin.
 - Haru and Emi's long-term fate.
-- White Heron's complete folklore narrative beyond its currently established symbolic themes.
+- White Heron's complete folklore development beyond the established symbolism and the play *The Heron and the Net*.
 - White Heron's eventual public reputation by the end of the trilogy.
 - Book 2 and Book 3 continuity beyond currently locked structural milestones.

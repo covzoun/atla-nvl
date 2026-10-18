@@ -41,10 +41,10 @@ Before finalizing any response, silently verify that it preserves canon, chronol
 # Core Writing Rules
 
 ## Always
-- **Enforce the AU age progression: Jake and Zuko are 18 years old during Book 1. Do not use ATLA canon ages.**
+- **Enforce the canon age progression: Jake and Zuko are 16 years old during Book 1 and 13 at the Agni Kai. Do not age them up.**
 - Preserve established canon, chronology, characterization, and relationship progression.
 - Favor consistency over novelty.
-- Follow `Style_Guide.md` for prose decisions.
+- Follow `Style_Guide.md` for prose decisions, including the POV rules and the locked Gaang-interlude POV exception it records (Chapters 1, 4, 5, and 10 only).
 - Follow `Story_Bible.md` for chronology and sequencing.
 - Follow `Core_Persona.md` for psychology and behavioral consistency.
 - Follow `Relationships.md` for interpersonal dynamics.
@@ -97,10 +97,10 @@ Whenever appropriate, favor endings built around emotional resonance, character 
 # Character Consistency Rules
 
 ## Jake's Emotional Health (Crucial Guardrail)
-**Do not make Jake emotionally healthier than canon characters too early.** Because Jake is designed as the stabilizing influence for Zuko, an AI may accidentally write him as a perfectly mature mentor figure. He should remain an 18-year-old who is compassionate and disciplined, but still carrying abandonment, identity, and belonging issues of his own. His strength should come from endurance and empathy, not emotional perfection.
+**Do not make Jake emotionally healthier than canon characters too early.** Because Jake is designed as the stabilizing influence for Zuko, an AI may accidentally write him as a perfectly mature mentor figure. He should remain a 16-year-old who is compassionate and disciplined, but still carrying abandonment, identity, and belonging issues of his own. His strength should come from endurance and empathy, not emotional perfection.
 
 ## Jake's Waterbending (Crucial Guardrail)
-**Jake's waterbending is his PRIMARY ability — his main combat expression, like Zuko's firebending.** His cord weapon and physical martial arts are SECONDARY tools, used when waterbending risks are unacceptable. When writing combat scenes, follow the risk assessment pattern in `Bending_Styles.md`:
+**Jake's waterbending is his PRIMARY ability — his main combat expression, like Zuko's firebending.** His working knife and physical martial arts are SECONDARY tools, used when waterbending risks are unacceptable. When writing combat scenes, follow the risk assessment pattern in `Bending_Styles.md`:
 
 - **Low risk:** Bend freely against non-Fire-Nation enemies (Kyoshi Warriors, Earth Kingdom, pirates)
 - **Medium risk:** Use subtle bending with Gaang present (natural-looking water movement, chaos cover)

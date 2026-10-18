@@ -7,11 +7,13 @@
 - **Canon relationship:** The project remains tied to ATLA’s major plot spine, but it does not need to dramatize every canon event if that event does not materially affect Jake, Zuko, or the consequences surrounding them.
 
 ## Exile Timeline Baseline
-- Jake and Zuko are **15** at the time of the Agni Kai and the beginning of exile.
+- Jake and Zuko are **13** at the time of the Agni Kai and the beginning of exile.
 - The project follows the original ATLA timeline in which approximately **three years pass between Zuko’s banishment and the opening of Book 1**.
-- Jake and Zuko are therefore **18 at the start of Book 1**.
+- Jake and Zuko are therefore **16 at the start of Book 1**.
 - **Immediate post-Agni-Kai / early exile** and **Book 1 baseline** should be treated as distinct periods in future files.
 - Book 1 relationship and character-state material should assume Jake and Zuko have already spent **three years** living in exile together.
+- **Exile and hunting are two different clocks (Locked ruling 2026-10-17):** exile lasts **three years**; the active Avatar hunt within that span lasts **two years** (Zhao, Episode 3: "Two years at sea"; Zuko: "I've been hunting the Avatar for two years"). The first year of exile precedes the hunt proper. Prose may say *exiled three years* freely, but never *hunting for three years* — the hunt is two.
+- **First waterbending (Locked ruling 2026-10-17):** the Agni Kai is Jake's **first manifestation** — involuntary, public, and witnessed. Year 1 at sea is his **first conscious, deliberate use** — private and instinctive, when he cools and soothes his own burned hands. These are different firsts; no file may conflate them.
 - **Story_Bible.md** is the project's authoritative source for detailed chronology within this three-year period. `Canon.md` establishes only the fixed timeline boundaries and continuity constraints.
 
 ## Core Premise
@@ -212,8 +214,8 @@ Jake may **not**:
 
 ### Friendship timeline
 - Their early relationship is uneven and shaped by class imbalance, curiosity, irritation, and repeated encounters rather than instant intimacy.
-- Their relationship shifts into genuine friendship at approximately **age 12–13**, once Jake becomes a consistent presence and Zuko starts seeking him out rather than merely tolerating him.
-- By the Agni Kai at **15**, they already have several years of shared routine, familiarity, and meaningful emotional reliance behind them, even if some of the deeper unhealthy dependence between them develops during exile.
+- Their relationship shifts into genuine friendship at approximately **age ten or eleven**, once Jake becomes a consistent presence and Zuko starts seeking him out rather than merely tolerating him.
+- By the Agni Kai at **13**, they already have several years of shared routine, familiarity, and meaningful emotional reliance behind them, even if some of the deeper unhealthy dependence between them develops during exile.
 
 ## Pre-Agni Kai Emotional Baseline Between Jake and Zuko
 - Jake and Zuko are **not** immediate childhood soulmates and should not be written as inseparable from the start.
@@ -403,4 +405,4 @@ The following items are intentionally delegated to supporting files. Where respo
   - Jake already knowing he was a waterbender before the Agni Kai
   - Jake having a more formal legal adoption status in the Fire Nation
   - Jake and Zuko functioning as immediate childhood best friends rather than a bond that formed gradually across palace life
-  - Jake and Zuko being 18 at the Agni Kai rather than 15
+  - Jake and Zuko being 16 at the Agni Kai rather than 13

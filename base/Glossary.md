@@ -77,9 +77,17 @@ The non-bending expression of Flowing Guard, prioritizing protection and redirec
 **Status:** Locked
 The mask worn while Jake operates as White Heron. Beyond concealing his identity, it connects him to an existing Fire Nation folktale whose meaning gradually evolves through his actions.
 
-## White Heron Weapon
+## White Heron Weapon (Two-Blade Doctrine)
 **Status:** Locked
-Jake's signature unnamed flexible cord weapon used while acting as White Heron. *(Full physical description and combat applications are centralized in `Bending_Styles.md`).*
+Jake carries **two blades** when fighting without bending: the **working knife** and the **Heron's bill**. *(Full physical descriptions and combat doctrine are centralized in `Bending_Styles.md`).*
+
+## The Working Knife
+**Status:** Locked
+A plain, unmarked sailor's knife — sheepsfoot blade, wooden handle, sold in any port. Carried openly on Jake's belt from Chapter 1. Common, cheap, and replaceable; losing it costs nothing and leaves no trail. It is Jake's tool when bending is impossible or too risky: cutting Zuko or others free, prying, snare work, and everyday ship's use.
+
+## The Heron's Bill
+**Status:** Locked
+The unique stage-prop blade from the Fire Nation play *The Heron and the Net*, kept with the White Heron mask until Jake takes both in Chapter 13. Single-edged, hawkbill-curved, with a blunt tip, a cast brass feather spine, a folded-wing guard, and a half-worn troupe stamp that can identify the object. Dangerous only because it is recognisable — the trail runs object → play → troupe → Iroh → the boy who travels with him. Debuts masked, and never appears unmasked before Chapter 13.
 
 ## Jake's Gloves
 **Status:** Locked
@@ -107,7 +115,7 @@ Jake's childhood home and workplace before exile. It is where he is raised by Ha
 
 ## Exile Ship
 **Status:** Locked
-The vessel shared by Zuko, Iroh, Jake, and the exile crew throughout the three-year exile preceding Book 1. It functions as the primary setting of Jake and Zuko's shared early adulthood.
+The vessel shared by Zuko, Iroh, Jake, and the exile crew throughout the three-year exile preceding Book 1. It functions as the primary setting of Jake and Zuko's shared adolescence.
 
 ## Agni Kai
 **Status:** Locked
@@ -215,8 +223,8 @@ Treat Blue Spirit as Zuko's established covert identity rather than merely descr
 ## Flowing Guard
 Always use the complete name **Flowing Guard**. Do not shorten or rename the style.
 
-## White Heron Weapon
-The weapon is intentionally unnamed. In prose, refer to it using functional descriptions such as: *rope dart, weighted cord, flexible cord weapon, braided cord weapon,* or *flexible weapon*. Do not invent a permanent name or treat it as a legendary artifact.
+## White Heron Weapons
+The **working knife** is referred to in prose as *the knife*. It is deliberately unremarkable and unnamed. The **Heron's bill** is named only when masked or hidden; do not name or describe the bill to any unmasked witness. Do not treat either blade as magical or legendary; the bill is dangerous only because the play it comes from made it recognisable.
 
 ## Jake's Upbringing
 **Prefer:** raised in the Fire Nation, raised by Haru and Emi, Fire Nation upbringing.
@@ -227,8 +235,41 @@ For Book 1, describe Jake and Zuko as: closest companions, closest friends, deep
 
 ---
 
+# Ship and Sea Terms (Back-of-Book Reference, Pass 0 skeleton)
+
+**Rule:** this reference is a safety net, not a substitute for clarity. First use in prose must still follow the Reader Clarity rule: replace the term with the plain thing, or gloss it in the same sentence. Each term is glossed once per book on first use, then free.
+
+- **halyard** — the rope that raises and lowers a sail
+- **block** — a pulley in a wooden case
+- **sheave** — the wheel inside a pulley that the rope runs over
+- **yard** — the horizontal spar a square sail hangs from
+- **foresail** — the forward-most sail
+- **cleat** — a fitting for tying off rope
+- **hitch** — a knot for fastening rope to something
+- **davits** — small cranes used to lower and raise a launch
+- **gunwale** — the top edge of a boat's side
+- **thwarts** — the cross-benches you sit on while rowing
+- **tholes** — pegs in the gunwale that a oar rowed against
+- **scuppers** — drains that let water run off the deck
+- **coaming** — the raised lip around a hatch to keep water out
+- **bilge** — the lowest part of the hull, where seepage collects
+- **bulkhead** — an interior wall of the ship
+- **plating** — the metal skin of the hull
+- **stern / bow** — the back / front of the ship
+- **port / starboard** — the left / right side, looking forward
+- **fathom** — six feet of water depth
+- **launch / tender** — a small boat carried alongside, for landing parties
+- **binnacle** — the case that holds the ship's compass
+- **companionway** — the stairway down into the ship
+- **deckhouse** — the low cabin structure built on the deck
+- **hold** — the cargo space below decks
+
+Add terms here as the prose adopts them.
+
+---
+
 # Pending Terminology
 The following concepts remain intentionally undefined and should not be expanded within this glossary until future canon approval establishes their terminology elsewhere in the project:
-- Complete folklore surrounding the White Heron beyond currently established symbolism.
+- Complete folklore surrounding the White Heron beyond the currently established symbolism and the play *The Heron and the Net*.
 - Additional named combat techniques introduced in later books.
 - Any future White Heron equipment or identities not yet established in canon.

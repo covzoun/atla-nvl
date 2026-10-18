@@ -1,3 +1,11 @@
+# Archived 2026-10-18 — superseded
+
+One-time test packet, complete 2026-09-12 (winner: Claude free web; outcome recorded in provider_status.md). Kept as process history.
+
+Do not edit. See `workflow/` for the current governing documents.
+
+---
+
 # Phase 2 Model Test Packet (COMPLETE 2026-09-12 — winner: Claude free web. Kept as record; do not re-run.)
 
 Do this once, before Chapter 1 Phase 2. Goal: pick one Phase 2 prose model for all of Book 1.
