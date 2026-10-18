@@ -365,7 +365,7 @@ Sets up the Gaang's ongoing suspicion and Jake's paranoia in Chapter 10.
 - The ship's engines are cracked and losing pressure.
 - Jake's hands are severely injured (left seam burst, bleeding freely into the leather).
 ### Items / Equipment Status:
-- Jake wears Iroh's ruined gloves over blood-soaked linen. He has his cord weapon and Haru's keepsake.
+- Jake wears Iroh's ruined gloves over blood-soaked linen. He has his working knife and Haru's keepsake.
 - Zuko has the blue-ribbon necklace in his pocket.
 
 ## Chapter Opening Relationship To Previous Chapter

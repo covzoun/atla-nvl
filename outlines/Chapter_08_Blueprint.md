@@ -307,7 +307,7 @@ The dark, echoing stone corridors of the Fire Temple, just outside the main sanc
 
 ### Action Beats:
 - Zuko and Jake infiltrate the temple. Zuko signals Jake to hold the perimeter/escape route in the upper corridors while Zuko goes after the Avatar.
-- Jake waits in the shadows, his flexible cord weapon loose in his aching hands.
+- Jake waits in the shadows, the working knife at his hip, his aching hands pressed flat against the gallery wall.
 - He hears shouting below. He creeps to a vantage point overlooking the antechamber.
 - He sees the massive sanctuary doors seal shut. Zuko is standing there.
 - **Canon Beat:** Zhao marches into the antechamber with a squad of guards. 
@@ -368,7 +368,7 @@ The antechamber, transitioning to the crumbling corridors, and finally the exter
 - Zuko doesn't hesitate. He scrambles up the stairs toward Jake's position.
 - Jake steps out of the shadows, grabbing Zuko's arm to steady him. "This way!"
 - The temple begins to violently shake as Roku bends the magma beneath them. The floor splits.
-- Jake and Zuko sprint through the collapsing corridors. Jake uses his cord weapon to swing them across a widening fissure in the floor, his ruined hands screaming in protest.
+- Jake and Zuko sprint through the collapsing corridors. Jake cuts a temple hoist rope free with his working knife and wraps it around his forearms to swing them across a widening fissure in the floor, his ruined hands screaming in protest. The rope takes their weight; the knife never does. (Re-blocked per `workflow/White_Heron_Weapon_Proposal.md` — the cord weapon design is retired.)
 - They burst out of the temple just as the structure begins to sink into the lava.
 - They reach their small boat and push off into the water, rowing frantically away from the heat.
 - **Canon Beat:** From the boat, Zuko and Jake look up and watch the Avatar's flying bison soar away into the night sky.
@@ -449,7 +449,7 @@ Sets up the aftermath and the reunion with their damaged ship in the next chapte
 
 # AI Drafting Instructions
 
-- **Bending Risk Assessment (CRITICAL):** This chapter is strictly **HIGH RISK**. Zhao and the Fire Nation military are present. Jake MUST suppress his waterbending entirely. During the blockade run (Scene 2) and at the temple (Scenes 4 & 5), he relies strictly on physical action, stealth, and his flexible cord weapon.
+- **Bending Risk Assessment (CRITICAL):** This chapter is strictly **HIGH RISK**. Zhao and the Fire Nation military are present. Jake MUST suppress his waterbending entirely. During the blockade run (Scene 2) and at the temple (Scenes 4 & 5), he relies strictly on physical action, stealth, and his working knife.
 - **Injury Continuity (CRITICAL):** Jake's hands are ruined from Chapter 7. Every physical action (rowing, pulling bandages, gripping his weapon) must cause him severe pain. Show the blood, the stiffness of the leather gloves, and his effort to hide the pain from Zuko.
 - **Knowledge Limits (CRITICAL):** Jake stays OUTSIDE the sanctuary. He does not hear Roku's warning about Sozin's Comet. He only sees the doors blow open and the fire blast.
 - **Character Introductions:** Aang, Katara, and Sokka are **not yet introduced** by name to Jake or Zuko. Refer to them only as "the Avatar," "the flying bison," etc. 

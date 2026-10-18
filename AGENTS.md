@@ -37,7 +37,7 @@ See `workflow/Pipeline.md` for the exact step-by-step checklist.
 ## Critical Rules
 
 1. **Never invent canon** — only the blueprint and base files authorize facts.
-2. **Follow POV discipline** — Jake or Zuko only, per the blueprint's assigned POV. No Azula coda in Book 1 (Macro Map Ch20 optional coda cut for restart).
+2. **Follow POV discipline** — Jake or Zuko only, per the blueprint's assigned POV, except the locked short Gaang-interlude exception (Chapters 1, 4, 5, and 10; full rule in `base/Style_Guide.md`). No Azula coda in Book 1.
 3. **Respect file-scoping** — Phase 2 reads only the always-on four plus the blueprint's declared reference files. Context overload causes rule-prioritization failures.
 4. **Bending/combat rules trace to one source** — `Book_1_Macro_Map.md`'s per-chapter Locks first, `Bending_Styles.md`'s risk tiers if no Lock exists. Never let a blueprint invent a stricter or looser rule than these.
 5. **No rule stated twice differently** — if a blueprint contains two instructions on the same subject that don't match, that's a bug. Catch it at Gate 1, not after prose is written.

@@ -1,3 +1,11 @@
+# Archived 2026-10-18 — superseded
+
+Describes a 14-chapter Book 1 that no longer exists. Superseded by the v3 index (20 chapters, one episode per chapter). Kept as process history.
+
+Do not edit. See `workflow/` for the current governing documents.
+
+---
+
 # Book 1 Macro Map & Chapter Index — Editorial Review
 
 **Scope:** Review of `base/Book_1_Macro_Map.md` and `base/Book_1_Chapter_Index.md` against `Synopsis_Book_1.md` (all 20 episodes), per the project's core philosophy: *the story of Jake and Zuko during the events of Avatar: The Last Airbender* — not "ATLA with Jake added."

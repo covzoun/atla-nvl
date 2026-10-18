@@ -546,11 +546,76 @@ She is especially important as Jake's mirror for identity and belonging.
 * Smug, confident, treats subordinates as inferiors.
 * Knows how to push Zuko's buttons — references the scar, the exile, the father's rejection.
 * Does NOT know Jake's waterbending or Southern Water Tribe origins — only knows Jake as the disgraced servant from the Agni Kai.
-* Uses Jake's low status to humiliate Zuko — but only when Jake isn't present (tent scene) or when the insult is veiled (public).
+* **Uses Jake's low status to humiliate Zuko (corrected ruling 2026-10-18, per `workflow/Base_Files_Audit.md` finding F):** Zhao may be **directly cruel about Jake in private or in front of subordinates** (the Chapter 3 tent scene — "Dragging some disgraced servant boy around the world with you" — is the model, not an exception) and **only veiled in formal public settings**. Insulting Jake in front of Jake is deliberate: Jake's presence is what makes the insult land harder on Zuko.
 * His insult about Jake should reference what he would know from reports: the Agni Kai intervention, the burned hands, the fact that Zuko still keeps Jake around.
 * Dishonorable when cornered — attacks Zuko's back after the Agni Kai.
 
 **Avoid:** making him purely evil. He is ambitious, political, and dangerous — not cartoonishly villainous.
+
+---
+
+# Lieutenant Jee
+
+## Key Reminders (Book 1 exile crew)
+
+* The ship's de facto second-in-command and the crew's voice; veteran, blunt, loyal to the crew first.
+* Pushes back on Zuko through Jake rather than to Zuko's face — he has learned what arguing directly costs.
+* Pride is his weak point: takes blame personally, bows his head a fraction when overruled, and holds ribs rather than complain.
+* Can be driven to check his sword hilt when a mutiny brink approaches — Jake is the bridge that pulls him back.
+* Not a coward: he runs hoses through blockade fire and reports bad news straight.
+
+**Avoid:** making him sycophantic, comic relief, or secretly loyal to Iroh above the prince.
+
+---
+
+# Kaito
+
+## Key Reminders (Book 1 exile crew)
+
+* Named deckhand, about 19; earnest, physical, still learning the ship.
+* Calls Jake "sir" without irony — treats Jake's standing on deck as settled fact.
+* Favors an injury he thinks nobody noticed; takes care of his gear; finishes casks rather than leave them short.
+* Useful as the crew's viewpoint in small moments: singed, dazed "sir" after the blockade fire, blistered palm rewrapped by Jake.
+
+**Avoid:** promoting him into decisions or making him a second Jee; he is fifteen years younger and knows it.
+
+---
+
+# Suki
+
+## Key Reminders (Book 1, Chapter 4)
+
+* Leader of the Kyoshi warriors; disciplined, dry-humored, teaches rather than taunts.
+* Runs her fan drill with unison precision; takes Sokka down a peg with a demonstration first, gloating later.
+* Shows Jake a measure of warrior's respect: she watches his defensive style with professional interest, not fear.
+* Rides with her warriors; logistical mind — she thinks in patrol lines and island geography.
+
+**Avoid:** making her a romantic lead for anyone in Book 1, or flattening her into "the girl who fought Zuko".
+
+---
+
+# June
+
+## Key Reminders (Book 1, Chapter 15+)
+
+* Bounty hunter with the shirshu Nyla; mercenary, sardonic, unimpressed by rank.
+* Works for whoever pays; her ledger is money, not honor — she can be hired, re-hired, or walked away from.
+* Tends competence over menace: she wins by preparation and by the shirshu's tongue, not by swagger.
+
+**Avoid:** making her cruel for cruelty's sake; she is transactional, not sadistic.
+
+---
+
+# Bato
+
+## Key Reminders (Book 1, Chapter 15)
+
+* Sokka and Katara's father's friend; Southern Water Tribe commander of the raiding ships.
+* Outwardly reserved, inwardly guided by loyalty to his people and to the siblings.
+* Tests what people claim to be before he extends trust — and Jake is a walking contradiction of every claim the boys can safely make.
+* His presence is the first direct brush with Water Tribe adulthood and ritual that Jake has faced since exile began.
+
+**Avoid:** making him hostile or suspicious without cause; his doubt is navigational, not personal.
 
 ---
 

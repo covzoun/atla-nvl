@@ -178,9 +178,9 @@ Zuko didn't move to obey, but something in his shoulders loosened by a fraction,
 
 The light kept crawling.
 
-Jake busied his hands with things that didn't need doing—straightening the folded armor, checking the strap he'd already checked twice, anything that kept his fingers occupied and his mind a half-step behind the images trying to surface. The smell of ozone before a strike. The particular quality of silence in a room full of people who all knew what was coming and none of whom would stop it. He had been fifteen the last time he stood this close to an Agni Kai about to happen, and his hands had not known yet what they were about to do, and everything after that moment had cost him everything he'd ever had.
+Jake busied his hands with things that didn't need doing—straightening the folded armor, checking the strap he'd already checked twice, anything that kept his fingers occupied and his mind a half-step behind the images trying to surface. The smell of ozone before a strike. The particular quality of silence in a room full of people who all knew what was coming and none of whom would stop it. He had been thirteen the last time he stood this close to an Agni Kai about to happen, and his hands had not known yet what they were about to do, and everything after that moment had cost him everything he'd ever had.
 
-He was eighteen now. His hands knew exactly what they could do, and tonight, whatever else happened, he would not be allowed to use them. If he stepped into that arena—if the water in the harbor so much as answered him in front of two hundred Fire Nation soldiers—there would be no exile waiting on the other side of it. There would be nothing waiting at all, for either of them.
+He was sixteen now. His hands knew exactly what they could do, and tonight, whatever else happened, he would not be allowed to use them. If he stepped into that arena—if the water in the harbor so much as answered him in front of two hundred Fire Nation soldiers—there would be no exile waiting on the other side of it. There would be nothing waiting at all, for either of them.
 
 He didn't say any of that. He picked up the strip of cloth meant to bind back Zuko's hair for the duel instead, and stepped behind him, and began working it through with the same steady, unhurried care he gave to everything he did with his hands when his chest had nothing steady left to offer.
 
@@ -228,7 +228,7 @@ Zuko didn't answer aloud. His jaw was set, his stance already dropping into the 
 
 The gong sounded.
 
-The sound cracked through Jake's chest like a physical blow, and for one terrible moment the arena dissolved and he was not standing at a harbor barrier in the Earth Kingdom at all, but fifteen years old again, in a throne room that smelled of incense and fear, watching a boy he loved kneel before a man made of fire and judgment. He gripped the rail hard enough that the metal bit into his palms through the leather of his gloves, hard enough that the old scars beneath ached in immediate, furious protest, and made himself stay upright through sheer, grinding will.
+The sound cracked through Jake's chest like a physical blow, and for one terrible moment the arena dissolved and he was not standing at a harbor barrier in the Earth Kingdom at all, but thirteen years old again, in a throne room that smelled of incense and fear, watching a boy he loved kneel before a man made of fire and judgment. He gripped the rail hard enough that the metal bit into his palms through the leather of his gloves, hard enough that the old scars beneath ached in immediate, furious protest, and made himself stay upright through sheer, grinding will.
 
 Zuko struck first, a fast, low sweep of flame aimed at Zhao's legs. Zhao blocked it without visible effort, stepped through the dissipating heat, and answered with a two-handed blast that caught Zuko square in the chest and threw him backward across the stone.
 

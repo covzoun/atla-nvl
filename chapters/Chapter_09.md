@@ -6,7 +6,7 @@ The salve smelled of crushed mint and something older underneath, a bitter root 
 
 Jake spread his fingers over the old man's knee. The linen came away from the left palm in a slow peel, and the cloth stuck at the base of the thumb, where the split ran longest. Iroh stopped, wet the cloth from a cup of warm water, and waited for it to loosen. He did not hurry. The alcove was the ship's one corner without a vent, barely wide enough for a cot and a crate, and the lamp swung with every shudder of the hull. Somewhere aft the engines ground along in an uneven rhythm, a stutter and a drag, and the sound came up through the plates and into Jake's teeth.
 
-The wound underneath had stopped bleeding sometime in the night. It was not better. The edges were swollen and shiny, and the old scar tissue had torn along its own seam where the cord had taken his weight over the fissure. Iroh turned the hand to the light and said nothing for a while.
+The wound underneath had stopped bleeding sometime in the night. It was not better. The edges were swollen and shiny, and the old scar tissue had torn along its own seam where the rope had taken his weight over the fissure. Iroh turned the hand to the light and said nothing for a while.
 
 "Close it for me," he said at last.
 
@@ -274,7 +274,7 @@ Nothing came. He looked at the pattern down the front of her parka and had no id
 
 Beside him, Zuko lifted two fingers. The signal was small, and everyone saw it.
 
-The pirates moved first. The thin one broke from the ferns with a shout, and the girl spun toward it, and the water in the air lashed out in a blue crack that caught him across the chest and flung him backward into a bush. The captain laughed. Two more were on her before she could turn again. Zuko came down the bank in three strides, one hand already open, and a soldier cut around the other side of the pool. Jake slid out from the roots and took the high ground at the lip of the hollow where he could see all of it, his hand sliding to the cord at his belt and stopping there. The girl got a second whip of water out. It struck a pirate's shoulder, and then someone caught her wrists from behind, and the water dropped from the air in a heavy splash.
+The pirates moved first. The thin one broke from the ferns with a shout, and the girl spun toward it, and the water in the air lashed out in a blue crack that caught him across the chest and flung him backward into a bush. The captain laughed. Two more were on her before she could turn again. Zuko came down the bank in three strides, one hand already open, and a soldier cut around the other side of the pool. Jake slid out from the roots and took the high ground at the lip of the hollow where he could see all of it, his hand sliding to the knife at his belt and stopping there. The girl got a second whip of water out. It struck a pirate's shoulder, and then someone caught her wrists from behind, and the water dropped from the air in a heavy splash.
 
 It took four of them to move her. She fought the whole way, kicking, twisting, and she was shouting in a high, furious voice that had no fear in it at all. Zuko took a rope from a soldier and went around the nearest tree with her back against it. He wound the line three times about her arms and waist, his own hands quick and rough in their linen. When he drew the knot tight she hissed at him, and he did not look away.
 
@@ -366,7 +366,7 @@ He came last, bound at the wrists with a rope that was too thick for him. Bare f
 
 "The Avatar," said the captain, with some satisfaction. "Fresh delivered."
 
-Zuko did not so much as glance at the boy with the shaved sides. He stared at the smaller one. A muscle moved in his cheek, and he stopped moving at all. The hunt had been three years of closed doors, and now the child stood ten paces off with a rope around his wrists.
+Zuko did not so much as glance at the boy with the shaved sides. He stared at the smaller one. A muscle moved in his cheek, and he stopped moving at all. The hunt had been two years of closed doors, and now the child stood ten paces off with a rope around his wrists.
 
 "Give me the boy," Zuko said.
 
@@ -402,7 +402,7 @@ Somewhere in the confusion a pirate flung something small and round against a st
 
 Neither said anything. They had not needed to for a long time.
 
-"Right," Zuko said, short and low. A pirate lunged out of the haze on that side, and a ribbon of flame took the man's blade at the hilt, and he dropped it with a yelp. Jake turned his shoulder a hand's breadth and was already facing the next, a stocky pirate with a hooked cutlass who had thought the boy in the coat would be the easier mark. Jake did not draw the cord. He let the man come in, side-stepped the first cut, and caught the second on his forearm, and the shock of it ran to his shoulder. He heard himself make a sound. He kept his feet.
+"Right," Zuko said, short and low. A pirate lunged out of the haze on that side, and a ribbon of flame took the man's blade at the hilt, and he dropped it with a yelp. Jake turned his shoulder a hand's breadth and was already facing the next, a stocky pirate with a hooked cutlass who had thought the boy in the coat would be the easier mark. Jake did not draw the knife. He let the man come in, side-stepped the first cut, and caught the second on his forearm, and the shock of it ran to his shoulder. He heard himself make a sound. He kept his feet.
 
 Behind his back, Zuko pivoted to his left, to the side where the scar had taken most of the light from his eye. A shadow was moving there. Jake saw it a half-second before he saw the blade: a big man, a heavy, curved sword raised high in both hands, coming out of the smoke on the prince's blind side with the whole weight of his body behind it.
 
@@ -414,7 +414,7 @@ The river answered.
 
 Water rose off the shallows in a single dense strand and came to him through the smoke like a thrown cord. He did not swing it in a wide arc. He cut it short and tight along a straight line, and the end of it cracked across the big man's wrists as the sword came down. The blade jerked and slid sideways, off Zuko's shoulder by a hand's width, and buried itself in the mud. Jake's right hand snapped back, and the water folded and shot forward again, and the man went off his feet into the reeds.
 
-Pain came up his arms in a white sheet. He heard the linen tear inside the left glove, and the warm wet run of blood, and he let it come and kept the stance. A second pirate rushed him. He stepped inside the man's reach with a short quick pivot, whipped a thin lash of water across the man's knees, and watched the legs go out from under him. Another burst. Another half-step. Pressure, release, reposition. The river spun about him in quick tight coils, never longer than he needed, and he gave the pirates no room to circle. Zuko's fire flared and died on his other side. A pirate yelled. A shape fell. For a handful of heartbeats the shore was only the two of them, back to back, a wall with no gap.
+Pain came up his arms in a white sheet, and he kept his hands open. The left one would not close all the way, so he did not ask it to. When a second pirate rushed him, he turned his forearm into the man's guard and stepped inside with a short quick pivot, whipped a thin lash of water across his knees, and watched the legs go out from under him. Another burst. Another half-step. Pressure, release, reposition. The river spun about him in quick tight coils, never longer than he needed, and he gave the pirates no room to circle. Zuko's fire flared and died on his other side. A pirate yelled. A shape fell. For a handful of heartbeats the shore was only the two of them, back to back, a wall with no gap.
 
 Then the smoke tore.
 
@@ -532,7 +532,7 @@ And everything Iroh had built since the Agni Kai, the whole fragile structure th
 
 He would not be exiled again. They did not exile you twice.
 
-Jake lifted his hands and looked at them. The right glove was dark with river water. The left was soaked to the wrist in something thicker. Under the leather the linen had torn and the old scars had opened again along the lines where he had cut them open in the fissure, and his fingers had begun to shake very slightly. He pressed them together and the shaking stopped, or he made it look as though it had.
+Jake lifted his hands and looked at them. The right glove was dark with river water. The left was dark to the wrist as well, but the wetness was river water and the stale seep of the wound from the night before, not new blood. Under the leather the linen had held. His fingers had begun to shake very slightly. He pressed them together and the shaking stopped, or he made it look as though it had.
 
 He had survived. That was the thing to hold on to. A boy had come at the prince's back with a sword, and the boy had gone into the reeds, and Zuko had not been touched. Jake had done what he was for.
 

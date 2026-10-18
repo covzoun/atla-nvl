@@ -7,8 +7,8 @@
 * **Relationship role / history**
   * Jake begins crossing paths with Zuko around age 6–7 through palace routine and servant-prince overlap rather than through a single formative event.
   * The relationship does **not** begin as instant friendship. It develops gradually through repeated proximity, class imbalance, irritation, curiosity, and familiarity.
-  * By approximately age 12–13, the relationship has shifted into genuine friendship, with Zuko increasingly seeking Jake out rather than merely tolerating him.
-  * By the Agni Kai at 15, Jake and Zuko are already emotionally important to one another, though the deeper dependence and distortion in the bond intensify during exile rather than being fully formed before it.
+  * By approximately age ten or eleven, the relationship has shifted into genuine friendship, with Zuko increasingly seeking Jake out rather than merely tolerating him.
+  * By the Agni Kai at 13, Jake and Zuko are already emotionally important to one another, though the deeper dependence and distortion in the bond intensify during exile rather than being fully formed before it.
   * The Agni Kai is the relationship’s foundational rupture point: Jake intervenes to protect Zuko, is burned, exposes his waterbending, and is exiled alongside him. Their bond becomes publicly catastrophic and privately inescapable in the same moment.
   * **The Realization:** Near the end of Year 1 of their exile, Zuko discovers that Jake is Southern Water Tribe. The realization forces him to confront the danger Jake has been unknowingly living under. Zuko's view of Jake shifts from seeing him merely as a servant/protector to recognizing him as another victim of the Fire Nation's actions.
   * By the start of Book 1, Jake and Zuko have already spent **three years in exile together**. Their relationship should therefore be treated as a long-conditioned survival bond rather than a fresh post-trauma attachment.
@@ -81,6 +81,21 @@
   * Iroh remains one of Jake’s most stable non-Zuko relationships and an important counterweight to the Jake/Zuko co-dependence loop.
   * The relationship should preserve both warmth and asymmetry: Iroh is safe, but he is still an adult who held power, made decisions for Jake, and kept truths from him.
   * Depending on later Book 2–3 developments, Iroh may also become one of the clearest witnesses to the difference between Jake and Zuko’s old exile bond and the healthier bond they have to build later.
+
+### Zhao
+* **Relationship role:** antagonist, not a relationship. Zhao knows Jake only as the disgraced servant boy from the Agni Kai and uses his low status as leverage against Zuko (directly in private, veiled in formal public — see `Character_Guide.md`, corrected ruling).
+* **Jake-facing dynamic:** fear and concealment. Jake stays silent, small, and unremarkable in Zhao's presence; his whole survival depends on Zhao never adding three facts together.
+* **Book 1 arc:** Ketu Harbor contact (Ch 3), blockade and traitor-branding witnessed from the gallery (Ch 8), then no contact but rising dread — capture of the Gaang plus "Zuko's waterbender" collapses Iroh's cover story.
+
+### Lieutenant Jee
+* **Relationship role:** crew-side counterweight. Jee brings the crew's problems to Jake first, and Jake absorbs them as the price of peace between deck and prince.
+* **Trust:** earned, practical, unromantic. Jee accepts Jake's orders about furnace shifts, lines, and rice without asking why a servant outranks nothing and is obeyed by everything.
+* **Book 1 arc:** strain (Ch 5), mutiny brink pulled back by Jake's open scarred palms (Ch 6), blockade fire fought side by side (Ch 8), bruised rib (Ch 9), overruled dry-dock veto (Ch 10).
+
+### Kaito
+* **Relationship role:** the crew's junior face. Nineteen, earnest, calls Jake "sir" without irony and takes Jake's injuries as ordinary ship routine rather than a secret.
+* **Trust:** simple and loyal; the relationship tells the reader the crew has accepted Jake without a single speech.
+* **Book 1 arc:** seeded in Ch 6 (blistered palm, tea), carries the hose crew and is dragged clear of the bulkhead in Ch 8.
 
 ### Haru
 * **Relationship role / history**
@@ -241,7 +256,7 @@ These patterns describe recurring tendencies rather than immutable rules. Indivi
 ## Known Gaps
 
 These items remain intentionally unlocked pending later continuity work.
-* [INSERT DETAIL] The exact early-exile phase of Jake and Zuko’s relationship still needs a more explicit continuity map so that the shift from **Agni Kai aftermath at 15** to **Book 1 baseline at 18** remains emotionally consistent across future files.
+* [INSERT DETAIL] The exact early-exile phase of Jake and Zuko’s relationship still needs a more explicit continuity map so that the shift from **Agni Kai aftermath at 13** to **Book 1 baseline at 16** remains emotionally consistent across future files.
 * [INSERT DETAIL] The precise sequence of Jake’s growing trust or conflict with Katara, Aang, and Sokka across Books 1–3 has not yet been locked beyond broad directional guidance.
 * [INSERT DETAIL] The exact shape of Jake’s later feelings about Haru and Emi’s secrecy once he fully understands more of his origins has not yet been separately mapped from his exile guilt.
 * [INSERT DETAIL] Azula’s relationship entry may need expansion later if future Book 2–3 planning makes her a more personally active force in Jake’s life than she is currently defined here.

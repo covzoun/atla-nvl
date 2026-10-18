@@ -262,6 +262,6 @@ He crossed the last few feet to Zuko without being asked and settled into place 
 
 Zuko didn't look at him. But his shoulders eased, fractionally, the way they only ever did with Jake standing this close.
 
-Jake looked past him instead, out at the ice burying half their ship, at the long gray line of open water where the Avatar had simply flown away into the sky like the whole raid, the whole capture, the whole three years of searching, had been nothing more than a delay before the real hunt began. Three years of empty water and false leads had felt endless while he was living through them. Looking at the wreckage around him now, he understood with a kind of settling cold that had nothing to do with the wind that those years had been the easy part.
+Jake looked past him instead, out at the ice burying half their ship, at the long gray line of open water where the Avatar had simply flown away into the sky like the whole raid, the whole capture, the whole three years of exile and two of searching, had been nothing more than a prologue before the real hunt began. Two years of empty water and false leads had felt endless while he was living through them. Looking at the wreckage around him now, he understood with a kind of settling cold that had nothing to do with the wind that those years had been the easy part.
 
 He picked up a length of splintered decking half-buried in snow, testing its weight as a makeshift lever, and moved to help the nearest knot of crewmen digging at the ice choking the bow.

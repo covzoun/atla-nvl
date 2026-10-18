@@ -1,3 +1,5 @@
+> **Note (2026-10-18):** `run_kit/`, `-SyncPhase2/-SyncPhase3`, and `setup/phase1/` upload folders are **local machine tooling, not in this repository** (audit finding A). If following this doc without your local kit, treat those references as manual steps: stage the named files yourself in a folder, or run Option A (CLI/agent), which reads straight from disk.
+
 # Chapter Generation Pipeline (Manual)
 
 Human-run checklist. No agent executes this — you do, copy-pasting between tools per `Phases.md`.

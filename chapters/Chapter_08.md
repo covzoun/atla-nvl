@@ -14,7 +14,7 @@ The gloves were on the blanket beside him. Iroh's gloves, dark to the knuckles n
 
 Fine, he thought. It would hold as long as it had to.
 
-He found his coat and put it on over the stiff sleeves. His belt was still where he'd hung it, with the flexible cord weapon coiled flat against his hip. He checked that it sat right, because checking was something to do. Then he reached into his pocket and found Haru's braided cord. His fingers couldn't feel the weave through the leather, only the small knot of it. He left it where it was.
+He found his coat and put it on over the stiff sleeves. His belt was still where he'd hung it, with the plain working knife sheathed flat against his hip. He checked that it sat right, because checking was something to do. Then he reached into his pocket and found Haru's braided cord. His fingers couldn't feel the weave through the leather, only the small knot of it. He left it where it was.
 
 Overhead the ship's bell rang, two strokes and a pause and two more, the signal for all hands who weren't at the boilers. Jake stood up too fast, caught the bulkhead with his shoulder instead of his hand, and went up the ladder.
 
@@ -70,7 +70,7 @@ His right hand moved toward his pocket and found only leather. He pressed the fi
 
 Jake had never heard Iroh say that word to anyone.
 
-Zuko stood with his hands on the rail and did not look at the line of ships, or at his uncle, or at Jake. He lowered his head. His eyes closed. For a moment he looked exactly as he had at fifteen, standing in a stone courtyard with the whole court watching, and Jake's throat tightened before he could stop it.
+Zuko stood with his hands on the rail and did not look at the line of ships, or at his uncle, or at Jake. He lowered his head. His eyes closed. For a moment he looked exactly as he had at thirteen, standing in a stone courtyard with the whole court watching, and Jake's throat tightened before he could stop it.
 
 "I'm sorry, Uncle," Zuko said.
 
@@ -280,9 +280,9 @@ Zuko hesitated. It was brief. His eyes dropped for half a second to the gloves, 
 
 Jake went up the stair.
 
-The gallery above ran along the inner wall of the temple like a balcony, a narrow ledge of red-lacquered wood with a rail at waist height and heavy pillars at intervals. He found a place between two of them where the shadow was deepest and set his back against the wall. Then he unhooked the flexible cord from his belt.
+The gallery above ran along the inner wall of the temple like a balcony, a narrow ledge of red-lacquered wood with a rail at waist height and heavy pillars at intervals. He found a place between two of them where the shadow was deepest and set his back against the wall. Then he checked the working knife once with his thumb, and settled where he could reach it without looking.
 
-It was an old, familiar weight. He let the weighted end hang and wound the cord in a loose coil around his wrist, and the grip in his right palm lay against the cut like a nail. He tightened his fingers on it anyway. He could not let the leather go slack. In the dark he waited, listening to the groan of the mountain, and counted his heartbeats because there was nothing else to count.
+It was an old, familiar weight. The sheath lay flat against his hip, and the grip's linen wrapping lay against the cut in his right palm like a nail. He tightened his fingers on the hilt anyway. He could not let the leather go slack. In the dark he waited, listening to the groan of the mountain, and counted his heartbeats because there was nothing else to count.
 
 He got to ninety. Then the shouting began.
 
@@ -304,7 +304,7 @@ Bolts shot home. A latch of black iron the size of a man's arm swung down across
 
 Zuko stood in front of them with his hands open at his sides.
 
-Jake started to rise. Every part of him wanted to be down there, at Zuko's shoulder, with the cord already spinning. Then, from the far arch, he heard the tramp of armored boots.
+Jake started to rise. Every part of him wanted to be down there, at Zuko's shoulder, in the smoke and the noise, doing something. Then, from the far arch, he heard the tramp of armored boots.
 
 He froze, one knee on the gallery floor.
 
@@ -318,7 +318,7 @@ He crossed the black floor as if it were his, and the sages scattered from his p
 
 Zuko's hands flared. A curl of flame spat from one fist. Before it could grow, two of the guards on the nearer line took a single stride each, and one caught Zuko's right arm in both gauntlets while the other took the left. They bore him down against their weight. He roared and kicked, and a third guard hit him across the back of the knees with the butt of a spear and he dropped to his knees on the stone.
 
-Jake's hand closed on the cord until his teeth ached.
+Jake's hand closed on the knife hilt until his teeth ached.
 
 "Two traitors in one day." Zhao stepped closer. He almost seemed to be enjoying himself. "The Fire Lord will be pleased."
 
@@ -340,7 +340,7 @@ He turned and raised one hand, and the guards fanned out across the chamber and 
 
 "Wait," Zhao said. "Let him come to us."
 
-Jake knelt on the gallery floor in the dark with the cord wound tight around his wrist and his heart slamming against his ribs. It was twenty feet to the rail and thirty to the floor. A dozen firebenders and a commander who wanted them both dead stood between him and Zuko's chains. He could not spend one drop of water without bringing the whole fleet down on every person he knew. He could not move without being seen.
+Jake knelt on the gallery floor in the dark with the knife hilt under his palm and his heart slamming against his ribs. It was twenty feet to the rail and thirty to the floor. A dozen firebenders and a commander who wanted them both dead stood between him and Zuko's chains. He could not spend one drop of water without bringing the whole fleet down on every person he knew. He could not move without being seen.
 
 Zuko turned his head. His eyes swept the shadows of the gallery, once, slowly, and passed over the place where Jake knelt, and did not stop.
 
@@ -400,25 +400,25 @@ They ran. The corridors that had been silent half an hour ago were now alive wit
 
 At the third junction the floor ended.
 
-A crack had split the corridor from side to side. It was already six feet across and widening as they stood there, and the glow that came up out of it was so bright that Jake's eyes watered. On the far side the passage continued, sound and whole, and a heavy beam of dark wood spanned the ceiling above the gap, thick as a mast.
+A crack had split the corridor from side to side. It was already six feet across and widening as they stood there, and the glow that came up out of it was so bright that Jake's eyes watered. On the far side the passage continued, sound and whole, and a heavy beam of dark wood spanned the ceiling above the gap, thick as a mast. From a crusted iron ring on the beam hung an old temple hoist rope, thick as a wrist, for raising censers and lacquered buckets to the upper floors; its tail had fallen on their side of the crack and was looped around a rusted stanchion, tied off out of long dead habit.
 
 "We can't jump it," Zuko said. His face was streaked red-orange from below. "Jake, it's too wide."
 
 "No."
 
-Jake unwound the cord from his wrist.
+Jake drew the working knife.
 
-His hand did not want to open. He made it. The weighted head swung free, and he whipped it up and out in a long flat arc and felt it bite the beam just above the gap, whirl twice around the timber, and catch. The braided silk-and-steel cord went taut. He felt the impact in his shoulder. A hot slick of blood ran down his wrist inside the sleeve.
+His hands could not saw with it, and he did not trust them to try. The cut had to come from the rope's weight and not his grip. He laid the rope over the rusted stanchion, where its own heaviness held it taut, and set the sheepsfoot edge against the underside of it. Then he hauled the free tail across the steel with both arms from the shoulder, the way someone empties a net. Something in the rope gave with a creak, and the whole line sighed down along the beam and hung free over the glow. The motion had cost him nothing in the fingers and everything in the palm; the leather went hot, and a wet line ran down inside the right sleeve.
 
-"Hold on to me," he said.
+"Take hold of the rope," he said. "Not of me."
 
 Zuko stared. "What?"
 
 "Hold on!"
 
-Zuko caught him round the waist with one arm and a fistful of his coat. Jake wrapped both hands around the cord and kicked off the edge.
+Zuko caught him around the waist with one arm and a fistful of his coat, and his free hand wrapped the hanging rope. Jake wound the other end twice around both his forearms, crossed them at the wrist, and leaned back, and they kicked off the edge together.
 
-The pain was enormous. It came up through both palms and met somewhere behind his eyes and exploded. The leather burst along the left seam. The cord ran through his fingers as they swung, and he held it by sheer will and not by grip, jaw locked so tight his teeth squeaked. For one long moment the whole world hung underneath them in a bowl of orange light, and the heat on his boots was a living thing. Then the arc brought them over the far lip, and he let go. They struck the stone on their knees and rolled. Behind them the old floor gave way altogether with a long ripping crack, and the beam above the gap sagged and fell in a shower of sparks.
+The pain was enormous. It came up through both arms and met somewhere behind his eyes and exploded. The leather burst along the left seam. The rope hung all its weight on the crossings above his wrists, not the ruined grip at all, and he knew even while he swung that he could not have held a thing; he had not trusted himself to try. His jaw was locked so tight his teeth squeaked. For one long moment the whole world hung underneath them in a bowl of orange light, and the heat on his boots was a living thing. Then the arc brought them over the far lip. He shook his arms apart, and the rope unraveled and went back, and they struck the stone on their knees and rolled. Behind them the old floor gave way altogether with a long ripping crack, and the beam above the gap sagged and fell in a shower of sparks, the rope going down with it into the fire.
 
 Jake lay face down for a count of two, with his hands curled against his chest and a rushing sound in his head.
 

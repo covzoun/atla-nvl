@@ -19,6 +19,13 @@
 2. Zuko (secondary POV)
 3. Other POVs only when they materially improve the story.
 
+### The Gaang Interlude Exception (Locked, 2026-10-18)
+A recorded POV exception permits **short non-Jake interlude sections written from a Gaang member's POV** — currently Katara (the Chapter 9 coda is the template) — approved for Chapters 1, 4, 5, and 10 at 600–1,200 words each:
+- Clearly separated with a scene break; never mid-scene.
+- One POV per interlude; no head-hopping.
+- The interlude must teach the reader something the book cannot teach from Jake's side (what the Gaang believes, fears, or has just decided).
+- Interludes must not resolve, explain, or editorialize on Jake's secrets.
+
 ### POV Switching Rules
 - Each scene belongs to exactly one POV.
 - POV changes only after a clear scene break or chapter break.
@@ -208,3 +215,37 @@ The story should feel like **ATLA written for readers who have grown up with it*
 - Adventure and emotional intimacy should continually reinforce one another.
 - Every scene should ideally advance at least one of: plot, character, relationship, theme.
 - Whenever possible, conclude scenes on an emotional or thematic beat rather than an explanatory one.
+
+---
+
+## Reader Clarity Ceilings (Pass 0, 2026-10-18)
+
+These are **ceilings, not targets**, applied to every Book 1 chapter. They exist because the measure of this book is that a reader who has never seen *Avatar* can follow it.
+
+- Average sentence length 15–19 words; no sentence over 45 words; no paragraph over 120 words except deliberate set pieces.
+- Dialogue should carry at least 25% of paragraphs in any chapter.
+- Every technical term (ship, bending, politics) is either **replaced with the plain thing** or **glossed in the same sentence on first use** — e.g. "the halyard — the rope that raised the sail — had frozen in its pulley." A term is glossed once and never re-glossed.
+- No chapter opens with Jake waking, taking inventory of his body, or inspecting a wound. Vary openings: an object, a sound, a line of dialogue, a decision.
+- One injury escalation per chapter maximum. A wound already described is referred to in a clause, not re-described.
+- No chapter ends with a thesis statement or a summary of what the chapter meant. End on an image, an action, or a line of dialogue.
+- POV: no narrator knowledge Jake cannot have. No "he would come to know" constructions.
+- Em dashes at or below three per 1,000 words, and at a consistent rate across all chapters.
+- No more than three "the way ..." constructions per chapter.
+- Reader test: after each chapter, a person who has never seen *Avatar* must be able to answer the comprehension questions in `workflow/Ch1-10_Analysis_and_Revision_Plan.md` §6.6.
+
+---
+
+## Humanizer Editing Checklist (fiction exemptions, 2026-10-18)
+
+Adopted from blader/humanizer v3.1.0 as a **revision pass** on every chapter, run after the ordinary line edit because line editing reintroduces rhythm. Fiction exemptions apply: its fact-invention rule and its non-fiction plainness rules do **not** govern fiction, and its headings/chatbot-residue guidance is irrelevant here.
+
+Check by hand in every chapter, in this order of impact:
+
+1. **Em dashes** — ceiling: three per 1,000 words. Humanizer bans them outright; this project caps them because the voice uses them on purpose.
+2. **"The way ..." similes** — keep the best three or four per chapter; cut the rest. They are the draft's most visible tic and they distance the reader from the moment.
+3. **Split contrasts ("was not X. It was Y.")** — state the thing directly. Watch for it at emotional climaxes, where it does the most damage.
+4. **Chapter-end thesis statements** — cut the closing paragraph and end on the last concrete image.
+5. **Repeated sentence openings ("He/She ...")** — vary in action sequences where it costs nothing.
+6. **Stock AI vocabulary** ("quietly", "landscape" and similar) and the banned stock body language in §Prose Guardrails — should stay at zero.
+
+Use it as a detector for mechanical rhythm and unearned emphasis, not as a style guide.

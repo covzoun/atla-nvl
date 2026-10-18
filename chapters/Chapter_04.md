@@ -36,7 +36,7 @@ He unrolled the scroll case's contents across the little table, weighing the cur
 
 It was nothing like the Fire Nation's naval charts, with their clean grids and confident red lines of projected troop movement. This was a mess — a scatter of small ink marks across half a continent's coastline, each one dated, none of them following anything close to a straight line. A sighting near a fishing village. Three days later, a sighting on the far side of a mountain range that should have taken two weeks to cross on foot. Then nothing for a stretch, then two contradictory reports on the same day in ports a hundred miles apart.
 
-Jake had spent three years reading maps for Zuko — supply lines, patrol routes, weather patterns that might slow or speed a hunt. He understood, looking at this one, exactly why Iroh had reached for the fan before delivering the news rather than after.
+Jake had spent three years reading maps for Zuko — supply lines, patrol routes, weather patterns that might slow or speed the search. He understood, looking at this one, exactly why Iroh had reached for the fan before delivering the news rather than after.
 
 Zuko snatched the scroll from beneath Iroh's flattening palm, ignoring the older man's soft noise of protest, and held it up to the candlelight as though staring hard enough might force the ink to rearrange itself into something that made sense.
 
@@ -96,9 +96,9 @@ Zuko went still in a different way than he had over the candles — no flare of 
 
 "I was going to save it for later," Zuko said, already moving toward the companionway with the dish tucked against his ribs.
 
-Jake didn't wait to be told. He was already running the shift in his head — sparring partner folded away, replaced by the quieter, faster calculations of what a ground assault would need. Cord weapon, secured beneath his sleeve where it always rode when they went ashore. Gloves, already on. Whatever water he could carry close without it slowing him down, because there was no telling yet what kind of ground they'd be fighting on, or what kind of ground the Avatar would choose to run across when the fighting started, and it always started the moment Zuko got close enough to see him.
+Jake didn't wait to be told. He was already running the shift in his head — sparring partner folded away, replaced by the quieter, faster calculations of what a ground assault would need. Knife, seated at his belt where it always rode when they went ashore. Gloves, already on. Whatever water he could carry close without it slowing him down, because there was no telling yet what kind of ground they'd be fighting on, or what kind of ground the Avatar would choose to run across when the fighting started, and it always started the moment Zuko got close enough to see him.
 
-He fell into step behind Zuko without needing to be asked, already reaching for his cord weapon's strap to check it was seated right, and felt something in his chest settle the way it always did once a plan had a shape, however small. Frustration, at least, had somewhere to go now.
+He fell into step behind Zuko without needing to be asked, already checking that the knife's sheath was seated right, and felt something in his chest settle the way it always did once a plan had a shape, however small. Frustration, at least, had somewhere to go now.
 
 ***
 
@@ -108,7 +108,7 @@ Too quiet. He'd learned to distrust quiet like this the same way he'd learned to
 
 "Come out, Avatar!" Zuko's voice rang flat and hard down the empty street, the rhino's heavy footfalls the only answer. "You can't hide from me forever."
 
-He raised a hand, and the two soldiers flanking him spurred their mounts forward, fanning out to search the buildings on either side. Jake fell in a half-step behind Zuko's stirrup, close enough to reach him fast if the quiet broke, water skin slung at his hip beneath his jacket, cord weapon riding loose against his forearm. He scanned the rooftops out of habit rather than expectation.
+He raised a hand, and the two soldiers flanking him spurred their mounts forward, fanning out to search the buildings on either side. Jake fell in a half-step behind Zuko's stirrup, close enough to reach him fast if the quiet broke, water skin slung at his hip beneath his jacket, the knife's sheath riding flat against his other hip. He scanned the rooftops out of habit rather than expectation.
 
 Which was how he saw them a heartbeat before anyone else did — dark shapes unfolding from behind snow-capped eaves, too controlled to be anything but deliberate.
 

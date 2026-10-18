@@ -9,9 +9,9 @@ Where a conflict exists regarding Jake's enduring personality, this file should 
 ## Character Snapshot
 
 * **Full name:** Jake Namiq
-* **Age:** 15 at the time of the Agni Kai and exile; 18 at the start of Book 1
+* **Age:** 13 at the time of the Agni Kai and exile; 16 at the start of Book 1
 * **Role / identity summary:** Jake is a waterbender born in an unspecified Southern Water Tribe community and raised in the Fire Nation. His intervention during Zuko’s Agni Kai exposes his hidden identity and results in his exile alongside Zuko. Within the broader story, he functions as an active participant in canon events and as one half of the project’s central emotional axis with Zuko.
-* **Cultural background / upbringing:** Jake was taken from his southern Water Tribe community at a very young age and raised in the Fire Nation by Haru and Emi, two palace servants. The community is not Wolf Cove, and its exact identity and fate remain unresolved. He grows up with little or no reliable memory of his original home and understands himself primarily as a Fire Nation orphan folded into palace labor and palace life. Before exile, the Fire Nation is the only home he consciously knows, and his sense of belonging is built around Haru and Emi, palace routines, and his long friendship with Zuko rather than around any understood Water Tribe identity.
+* **Cultural background / upbringing:** Jake was separated from his southern Water Tribe community at a very young age and raised in the Fire Nation by Haru and Emi, two palace servants. The community is not Wolf Cove, and its exact identity and fate remain unresolved. He grows up with little or no reliable memory of his original home and understands himself primarily as a Fire Nation orphan folded into palace labor and palace life. Before exile, the Fire Nation is the only home he consciously knows, and his sense of belonging is built around Haru and Emi, palace routines, and his long friendship with Zuko rather than around any understood Water Tribe identity.
 
 ## Physical Profile
 
