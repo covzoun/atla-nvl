@@ -15,10 +15,11 @@ This is the project's **single living continuity document**. It tracks both **st
 
 ## Current Story Position
 
-- **Current Chapter:** Chapter 10 complete — false inland lead to avoid Fire Nation ports after river reveal, bridge veto of dry-dock outpost, shore-party march into deep Earth Kingdom woods and smokeless camp.
-- **Current Location:** Shore-party camp in small clearing with old stone fire-ring in deep Earth Kingdom woods inland north/east; ship anchored off wild coast near unnamed Earth Kingdom port with boilers banked and pump going.
+- **Current Chapter:** Chapter 10 complete — false inland lead to avoid Fire Nation ports after river reveal, bridge veto of dry-dock outpost, shore-party march into deep Earth Kingdom woods, Fire Nation patrol sweep passed near the camp, smokeless camp.
+- **Revision baseline (2026-10-21):** Chapters 00–10 have been through the Ch1–10 revision plan. Story events are unchanged; the tracker was re-derived against the revised prose. See `workflow/Ch1-10_Revision_Log.md`.
+- **Current Location:** Shore-party camp in small clearing with old stone fire-ring in deep Earth Kingdom woods inland north/east, one mile clear of the brush lane a six-man Fire Nation patrol inspected and dismissed as animal sign; ship anchored off wild coast near unnamed Earth Kingdom port with boilers banked and pump going.
 - **Time/Weather:** Same evening into next day after Chapter 09. Night cabin/bridge aboard listing ship, first-light march through warm wet still forest air (rot/damp earth/sap), dusk camp, fire allowed an hour after dark; frogs in gully, stern shudder with shaft drag-catch.
-- **Immediate Goal:** Stay off Fire Nation ports/dry-dock until Zuko says so; keep anchored ship with banked boilers and working port pump alive; wait out Zhao-leak risk under false woods hunt; dry-dock/smithy/boat need refused despite 3-day repair logic; crew spent.
+- **Immediate Goal:** Stay off Fire Nation ports/dry-dock until Zuko says so; stay ahead of the patrol line now between the shore party and the coast (rations stretched from four days to six); keep anchored ship with banked boilers and working port pump alive; dry-dock/smithy/boat need refused despite 3-day repair logic; crew spent.
 
 ## Jake's Current State
 
@@ -67,6 +68,8 @@ This is the project's **single living continuity document**. It tracks both **st
 
 ## Unresolved Threads
 
+- Chapter 12 ("The Quiet at the Center") exists as a draft at `chapters/Chapter_12.md` (2026-10-22), pending Chapter 11, pipeline production, and human gates — no tracker state derived from it yet; its seeds are listed in `workflow/Canon_Beat_Sheets.md`.
+- Chapter 11 prose remains unwritten (`chapters/Chapter_11.md` placeholder); its macro-map state (morale bottomed, weather souring, false-lead exhaustion) is assumed as backstory by the Chapter 12 draft.
 - Jake's exact Southern Water Tribe birthplace and birth family/community remain unresolved.
 - Jake's grief and guilt over Haru and Emi remain unresolved.
 - Jake's Agni Kai trauma and hand scarring remain active baseline continuity.
@@ -115,17 +118,17 @@ This is the project's **single living continuity document**. It tracks both **st
 - Jake: Introduced in Chapter 01
 - Zuko: Introduced in Chapter 01
 - Iroh: Introduced in Chapter 01
-- Aang: Introduced in Chapter 09
-- Katara: Introduced in Chapter 09
-- Sokka: Introduced in Chapter 09
+- Lieutenant Jee: Introduced in Chapter 01
+- Kaito: Introduced in Chapter 01 (seeded; deepened in Chapter 06)
+- Katara: Introduced in Chapter 01 (Gaang interlude, Katara POV; unnamed to Jake throughout Book 1)
+- Aang: Introduced in Chapter 01 (interlude; "the boy with the arrow" to Jake until Chapter 09)
+- Sokka: Introduced in Chapter 01 (interlude; "the boy with the boomerang" to Jake)
 - Zhao: Introduced in Chapter 03
-- Lieutenant Jee: Introduced in Chapter 05
-- Kaito: Introduced in Chapter 06
-- Suki: Not yet introduced
-- Kyoshi Warriors: Not yet introduced
+- Suki: Introduced in Chapter 04
+- Kyoshi Warriors: Introduced in Chapter 04
 
 ## Recent Events Summary
 
 Chapter 09: A day or two later the reunited ship diverts to an unnamed Earth Kingdom port on Iroh's false lotus-tile errand while Jake's hands are salved and rewrapped and Zuko drives Jee to a knee in punishing sparring. Zuko allies with pirates hunting a bald monk and Water Tribe girl, ties Katara to a tree and leverages her blue-ribbon necklace plus a flame-held waterbending scroll to force a woods search. Pirates deliver Sokka and Aang but void the trade on black-market value; in the smoke-bomb brawl Jake bends the river openly in tight Fire-shaped guard to save Zuko's blind side and locks eyes with Katara from the rail as she pushes the stolen pirate ship free. Both ships are lost over the falls with the launch wrecked bottom-up, the bison carries its riders north with the reclaimed scorched scroll, Zuko hurls the sleeve-found tile and storms off while Iroh silently notes Jake's exposure, leaving Jake fearing Zhao will learn of Zuko's waterbender if the Gaang is taken.
 
-Chapter 10: That evening aboard the listing ship Jake reopens his split palm picking at scars while looping Zhao-capture to execution via the dock servant boy. Zuko finds him, cold-cloths and rebinds the hand, then vetoes Jee's sound naval-outpost dry-dock with a table-slam and covers it with an invented rumor they'd gone inland up the river. At first light Zuko leads Jake and three cloaked soldiers around the port into trackless woods, shielding Jake's body 5+ times without words, and camps in a stone-ring clearing. On shared watch Zuko catches Jake's picking wrist, holds it, and says they go to no ports until he says so; Jake nods and sleeps while Zuko keeps watch.
+Chapter 10: That evening aboard the listing ship Jake reopens his split palm picking at scars while looping Zhao-capture to execution via the dock servant boy. Zuko finds him, cold-cloths and rebinds the hand, then vetoes Jee's sound naval-outpost dry-dock with a table-slam and covers it with an invented rumor they'd gone inland up the river. At first light Zuko leads Jake and three cloaked soldiers around the port into trackless woods, shielding Jake's body 5+ times without words. That afternoon a six-man Fire Nation patrol sweeps past them at three hundred paces; the party lies in the ferns while a sergeant inspects the cut brush and dismisses it as animal sign, then the patrol moves on toward the ford, putting it between the shore party and the coast and stretching the rations from four days to six. They camp deeper in, in a stone-ring clearing. On shared watch Zuko catches Jake's picking wrist, holds it, and says they go to no ports until he says so; Jake nods and sleeps while Zuko keeps watch.

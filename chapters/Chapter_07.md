@@ -1,4 +1,4 @@
-﻿# Chapter 7: Winter Solstice, Part 1
+# Chapter 7: The Sandal Trail
 
 The forest smelled like something that had never been burned.
 
@@ -6,7 +6,29 @@ Jake noticed it first as a lack. Three days of coal smoke had settled into his c
 
 The ship sat at anchor a quarter mile out, black and low in the gray water, with a thin thread of smoke from the one boiler they were still willing to feed. The engines had been given a rest to cool. Nobody had said what it would cost to ask them to start again.
 
-The camp was a flat of trampled fern just above the tideline. Two casks stood open by the stream. A third lay on its side while Kaito rolled it upright with his boot, because his left palm still wore the knot Jake had tied for him and he was careful with it. Beyond him, six or seven of the crew were scattered through the trees with hatchets and canvas sacks, hunting dead branches for the stove and for anything else that would burn. Somebody had found a seam of brown coal showing in the stream bank, and two men were prying at it with a boat hook. It was crumbling to wet powder under the iron. Jake watched them for a moment and then looked away, because he had counted the days left in the ledger before they landed, and the seam did not change the number.
+The camp was a flat of trampled fern just above the tideline. Two casks stood open by the stream. A third lay on its side while Kaito rolled it upright with his boot, because his left palm still wore the knot Jake had tied for him and he was careful with it.
+
+There were two men missing from the shore party. They were the two who had been missing from the watch since the night of the sail, and Jee had left them aboard without being asked, and had said nothing about it to anyone. Jake had noticed, and had not asked either. It sat in the camp like a stone in a boot.
+
+Beyond him, six or seven of the crew were scattered through the trees with hatchets and canvas sacks, hunting dead branches for the stove and for anything else that would burn. Somebody had found a seam of brown coal showing in the stream bank, and two men were prying at it with a boat hook. It was crumbling to wet powder under the iron. Jake watched them for a moment and then looked away, because he had counted the days left in the ledger before they landed, and the seam did not change the number.
+
+The date was written at the head of the ledger in Jake's own hand, because Jake was the one who wrote dates. Three days to the winter solstice, the shortest day of the year, and after that the northern weather shut down for the season. Storms came down off the ice in the first week of the new year and sat on the coast until spring, and a ship that lost a day in the north lost a week, and a week in the north was the season gone.
+
+Kaito came to stand at his elbow, waiting to be told where to put the number.
+
+"How long past the solstice can a ship work the north coast, sir?"
+
+"Depends on the weather. The storms come down off the ice."
+
+"Then the solstice is the last day we can count on."
+
+"It is."
+
+"We want to be north of the sound before it."
+
+"We want to be north of the sound a week ago." Jake turned the board over. "Take the casks to the stream. And when you come back, I want the north chart out of the box. We are going to be in a hurry, and I do not want to be doing it in the dark."
+
+The Avatar was a boy with a bison. He could sit out a storm as easily as a day. Every hour the ship lost in a harbour was one he did not have to be found, and Jake had done that sum in six ports now, and it had never once come out in the Fire Nation's favour.
 
 He had made himself the one who stood still. That had been his decision on the beach: tally the casks, mark the wood, keep the work moving and keep his hands out of it. When a cask needed lifting, he found a reason to be looking at something else, and someone stronger stepped in. Nobody questioned it. He doubted anyone had noticed there was a pattern.
 
@@ -42,7 +64,7 @@ It came out even. Jake was pleased with that. He let his hands hang loose at his
 
 "Oh, I'd hardly call this a delay."
 
-Iroh had come up the stream path with his hands folded behind him, his robe belted loose and a folded towel over one shoulder that Jake had not seen him bring from the ship. He moved the way he always moved on land after too long at sea, a little rolling, taking his time. He stopped beside Jake and breathed in through his nose, slow, like a man tasting wine.
+Iroh had come up the stream path with his hands folded behind him, his robe belted loose and a folded towel over one shoulder that Jake had not seen him bring from the ship. He moved as he always moved on land after too long at sea, a little rolling, taking his time. He stopped beside Jake and breathed in through his nose, slow, like a man tasting wine.
 
 "The forest," he said, "is very good for the lungs."
 
@@ -58,7 +80,7 @@ Iroh had come up the stream path with his hands folded behind him, his robe belt
 
 "Then the engines will thank me for giving them an hour." Iroh patted Zuko's arm on his way past, as though Zuko had said something agreeable. "And I will be back before the casks are full. Nephew. Jake."
 
-He gave Jake a look as he passed. It lasted about as long as it took to step over a root. Iroh's eyes went to the stiff leather of the gloves, then to Jake's face, then to Zuko's back, where the prince stood with his shoulders drawn up around his ears, and then he was gone down the path with his towel and his easy walk, whistling something that did not have a tune.
+He gave Jake a look as he passed. It lasted about as long as it took to step over a root. Iroh's eyes went to the stiff leather of the gloves, then to Jake's face, then to Zuko's back, where the prince stood with his shoulders drawn up around his ears. Then he was gone down the path with his towel and his easy walk, whistling something that did not have a tune.
 
 Jake understood. Iroh had picked an hour out of the day and carried it away where Zuko could not spend it on anyone. It was a generous theft. It was not likely to work.
 
@@ -70,7 +92,7 @@ Zuko resumed his walking. Jake let him.
 
 He stood a while with the tally board and made marks he did not need to make. Then he sat on the lid of the nearest cask, carefully, and set his hands on his knees palm-up, a little apart from the wool of his coat, so that nothing touched them. The cold felt good on the leather. He did not take the gloves off. He could not have put them on again.
 
-The fire popped. Somewhere deep in the trees a hatchet struck dead wood, and the sound came back flat and late. Jake watched the line of Zuko's back go out and come back, out and back, and thought that something about the way he was walking had stopped being restless and started being something that would eventually give.
+The fire popped. Somewhere deep in the trees a hatchet struck dead wood, and the sound came back flat and late. Jake watched the line of Zuko's back go out and come back, out and back, and thought that something in his walking had stopped being restless and started being something that would eventually give.
 
 He did not know which of them it would be.
 
@@ -82,11 +104,10 @@ He was already walking. He did not look back to see if he was followed. He never
 
 Jake stood. The tally board slid from his knee and he caught it against his ribs, forearm only, and told Kaito over his shoulder to finish the casks and keep the crew on the wood. Then he went after the prince into the trees, ahead of the ache, with his hands held a little out from his sides.
 
-***
-
+---
 The spring lay in a hollow past the ridge, where the pines opened up and the ground fell away in a bowl of dark, wet stone. Steam rose from it in slow sheets. Jake smelled it before he saw it, a faint mineral sourness like struck flint that sat oddly against all that cold green. The rocks around the rim were bare of frost. So was the moss between them, for a yard in every direction, as if a lamp had been left burning under the pool.
 
-Iroh sat in the middle of it with his arms spread along the edge and his eyes shut. The towel was folded on a boulder. His robe was folded beside it, with his sandals set neatly on top. One of his hands trailed in the water. Jake thought he saw the surface near the fingers shiver, once, in the way water does when something warm has been put into it on purpose. The pool had not been this hot when Iroh found it. He had made it so, the way he made a pot of tea, because it pleased him to.
+Iroh sat in the middle of it with his arms spread along the edge and his eyes shut. The towel was folded on a boulder. His robe was folded beside it, with his sandals set neatly on top. One of his hands trailed in the water. Jake thought he saw the surface near the fingers shiver, once, as if something warm had been put into it on purpose. The pool had not been this hot when Iroh found it. He had made it so, as he made a pot of tea, because it pleased him to.
 
 Zuko stopped at the rim and did not so much as look at the view.
 
@@ -122,8 +143,7 @@ Zuko strode up the slope with his arm still half over his face. He passed Jake w
 
 Jake followed the prince back into the trees.
 
-***
-
+---
 The half hour took a very long time.
 
 It passed in Zuko's strip of ground by the fire, and by the end of it there was a visible groove worn in the ferns. The casks were full. Three of the wood-gatherers had come in and were being very busy near the stove. Jake spent the time rewrapping nothing, because he could not do it here without someone seeing, and sat on the cask lid again with his hands hanging between his knees. When Zuko finally stopped, the half hour was one minute over, and he said only, "Two of you. With us," and pointed at the nearest soldiers.
@@ -154,11 +174,11 @@ Nobody spoke. Jake's pulse had begun to fill his ears.
 
 "My uncle," Zuko said, "has been captured by earthbenders."
 
-It reached Jake as a drop in his stomach, quick and cold. Not Iroh. Iroh was the one who stayed. Iroh had folded the towel. He had sat in the water with his eyes closed and a hand trailing in it, easy as a man in his own house, and Jake had walked away and left him there, and had been *sorry* to, a little, because the hour had been so plainly a kindness. He had thought the worst thing out here was the engines.
+It reached Jake as a drop in his stomach, quick and cold. Not Iroh. Iroh was the one who stayed. Iroh had folded the towel. He had sat in the water with his eyes closed and a hand trailing in it, easy as a man in his own house. Jake had walked away and left him there, and had been *sorry* to, a little, because the hour had been so plainly a kindness. He had thought the worst thing out here was the engines.
 
 He put his hands to the tops of his gloves and pulled the cuffs down, hard, to settle them. Something shifted in the left palm and let go. The warm trickle that followed felt almost like relief. He did not look at it. He worked the leather smooth over his wrist and kept his face still.
 
-Zuko had turned. His eyes found Jake's without searching, the way they always did, and held. There was no argument in them. They did not ask if Jake could, or whether he should. Jake nodded once.
+Zuko had turned. His eyes found Jake's without searching, as they always did, and held. There was no argument in them. They did not ask if Jake could, or whether he should. Jake nodded once.
 
 "You two," Zuko said to the soldiers, "back to the ship. Tell Lieutenant Jee to bring up the steam and have everything ready to leave the moment we return. Nobody sails without us." He did not wait for acknowledgment. "Go."
 
@@ -166,8 +186,7 @@ They went. Their boots receded up the ridge.
 
 Zuko was already walking the other way, along the churned line of ground where the earth had been disturbed, bent forward with his eyes on the soil. Jake fell in beside him, a half-step back and to the left, where he always walked. Neither of them said anything at all.
 
-***
-
+---
 The tracks were not hard to follow. Whoever had taken Iroh had not troubled to hide them.
 
 Past the hollow the ground climbed into rock and scrub pine, and the churned earth turned into a line of deep, three-toed prints pressed into the dirt, each one the size of a dinner plate. Ostrich horses. Heavy ones, loaded, from the depth. Between the prints lay the short, scuffed drag of something carried or hauled, and then it was gone, because the trail had gone up onto stone and the stone kept its own counsel.
@@ -234,8 +253,7 @@ They crested the next rise together, scrambling up the last rocks on elbows and 
 
 Below them, in a hollow of broken stone, someone was shouting. There was the heavy sound of rock being dragged across rock, and a low laugh, and under it, thin and unmistakable and unhurried, a voice that Jake would have known in any dark.
 
-***
-
+---
 Iroh was kneeling in the dust of the hollow in his underclothes.
 
 That was the first thing Jake took in, and it stayed with him through all the rest. The old man had been stripped to a cotton undershirt and loose drawers, and his belly and bare feet were gray with grit. He knelt before a flat slab of stone with his wrists chained in front of him, and he did not look afraid. He looked like a man waiting for a late meal. Five soldiers in green-brown armor stood in a loose ring around him. A sixth, wearing the heavier plates of an officer, stood a little apart with his arms raised.
@@ -250,7 +268,7 @@ Jake's breath stopped in his chest.
 
 The boulder dipped. Jake saw it settle in the air above the slab, directly over the chained wrists, and the soldiers move back a pace to give it room.
 
-Zuko did not say a word. He was up on his feet on the rock before Jake had finished understanding what he saw, one hand already pulled back, and Jake's own body moved without asking him. His left palm hit the ledge as he came up beside the prince. It split the rest of the way along the old tear, and the pain went through him white to the elbow. He did not slow. There was a thin dark stream running down the rock beside him, snowmelt, a few finger-widths across, and he put his hand flat to it and *pulled*, and felt the water answer. His whole arm sang. He held it anyway.
+Zuko did not say a word. He was up on his feet on the rock before Jake had finished understanding what he saw, one hand already pulled back, and Jake's own body moved without asking him. His left palm hit the ledge as he came up beside the prince. It split further along the old tear, and the pain went through him white to the elbow. He did not slow. There was a thin dark stream running down the rock beside him, snowmelt, a few finger-widths across, and he put his hand flat to it and *pulled*, and felt the water answer. His whole arm sang. He held it anyway.
 
 Zuko went off the rock.
 
@@ -302,8 +320,7 @@ Iroh was walking across the hollow, humming, to a small pile of cloth that had b
 
 Jake held his eyes. Then he nodded, once, that he was all right, and watched Iroh believe him exactly as far as he meant to.
 
-***
-
+---
 They did not stay to see the soldiers wake.
 
 Zuko had stood over the officer's heap of stone for as long as it took to be certain the man was breathing. Then he kicked the nearest fallen helmet out of reach and walked away without another glance. Iroh followed him, tying the sash of his robe. Jake came last, a few paces behind, with his hands held out from his sides like something he was carrying.
@@ -314,7 +331,7 @@ The sandal was back on Iroh's foot. Zuko had given it to him at the edge of the 
 
 Jake fell into step beside him.
 
-He did not decide to. His eyes had been going over Iroh since the hollow, and now they went on doing it in the quiet, quickly and thoroughly, the way he went over a deckhand after a fall. The robe was dusty to the knees. There was a graze above one elbow. The skin of both wrists was red and raised in a wide band, rubbed raw where the chain had sat, and there was a scrape on the left shin that had bled a little and stopped. Nothing was crooked. Iroh moved his shoulders freely. When he turned his head, he turned it all the way.
+He did not decide to. His eyes had been going over Iroh since the hollow, and now they went on doing it in the quiet, quickly and thoroughly, as he went over a deckhand after a fall. The robe was dusty to the knees. There was a graze above one elbow. The skin of both wrists was red and raised in a wide band, rubbed raw where the chain had sat, and there was a scrape on the left shin that had bled a little and stopped. Nothing was crooked. Iroh moved his shoulders freely. When he turned his head, he turned it as far as it would go.
 
 "Your wrists," Jake said.
 
@@ -332,7 +349,7 @@ It was not a hard grip. The fingers closed around the leather of the cuff and st
 
 Iroh was looking at his gloves.
 
-They were dark to the knuckles. Jake had known that, in the way he knew the weather. The palms were the worst of it. The leather over them had gone black and glossy, and while he stood there something heavy let go inside the left one and soaked through and touched the edge of Iroh's fingers. A small dark bead appeared on the cuff. It ran down toward the thumb, slowly. Neither of them looked at it for very long.
+They were dark to the knuckles. Jake had known that, as he knew the weather. The palms were the worst of it. The leather over them had gone black and glossy, and while he stood there something heavy let go inside the left one and soaked through and touched the edge of Iroh's fingers. A small dark bead appeared on the cuff. It ran down toward the thumb, slowly. Neither of them looked at it for very long.
 
 He waited for it to be said. *You should have told me. You should have stayed on the ship. You should have let someone else.* He had the answers ready, one after another, folded small and tidy. He had been carrying them since the morning.
 
@@ -346,7 +363,7 @@ Ahead of them, Zuko had stopped.
 
 He stood in a pool of the low gold light where the trees thinned, with his back to them and his head tipped up. Jake saw his armor take the sun along one shoulder. He saw the line of the prince's arm, and the dark of his pocket where his hand was not, and he knew where Zuko was looking before his own eyes followed. West, and up, to the far hills over the tops of the pines. A rag of cloud lay across it. There was nothing else.
 
-He felt his whole body go still and ready, the way it did before Zuko's temper broke. He thought about the grooves in the fern, and the tracks on the ridge, and the sound the prince had made at the top of the hill. It would come now. Something would be kicked, or burned, or shouted at the sky, and then at him, and he would stand through it and take what came.
+He felt his whole body go still and ready, as it did before Zuko's temper broke. He thought about the grooves in the fern, and the tracks on the ridge, and the sound the prince had made at the top of the hill. It would come now. Something would be kicked, or burned, or shouted at the sky, and then at him, and he would stand through it and take what came.
 
 Zuko breathed out.
 
@@ -362,4 +379,6 @@ The pocket of his tunic was flat and heavy. It stayed shut.
 
 Neither of them spoke. Behind them Iroh's slow tread had picked up the same beat without being asked, so that all three boots fell together, and the sound went ahead of them down the trail, steady and tired and unhurried. Jake kept his eyes on the ground and watched the stripes of light slide under his feet, and carried his hands in front of him, and thought of nothing at all except that he would have followed this walk a good deal farther.
 
-The pines thinned. The air changed, wetter, with salt in it. Then the last trunks fell away and they came out onto the shingle with the whole gray width of the water opening in front of them, and there, riding at anchor in the failing light with one lamp lit on her bridge, sat the ship.
+The pines thinned. The air changed, wetter, with salt in it. Three days to the solstice, and then the coast closed, and the ship would have to move tomorrow whatever the engines did. Zuko would spend the whole evening deciding how to run the sound on a cold engine, and Jake would sit at the table and do the arithmetic he had been doing since Ketu Harbor.
+
+Then the last trunks fell away and they came out onto the shingle with the whole gray width of the water opening in front of them, and there, riding at anchor in the failing light with one lamp lit on her bridge, sat the ship.

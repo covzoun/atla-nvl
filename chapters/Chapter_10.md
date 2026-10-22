@@ -1,4 +1,4 @@
-﻿# Chapter 10: Jet
+# Chapter 10: No Ports
 
 Jake got as far as the cabin before his legs reminded him what the day had cost.
 
@@ -8,31 +8,31 @@ The engines were going badly. He felt it before he heard it, a long grinding dra
 
 The left glove needed to come off. He looked at it for a while before he tried.
 
-It had dried to the linen underneath, and the linen had dried to his palm. The seam Iroh had pinned that morning had burst again, and the whole thing had set around his hand like a shell. Jake got two fingers of his right hand under the cuff and found he could not make them close on anything. He tried a second time and the bone needle caught his thumb, and he swore under his breath, the way Haru used to over a knotted net. Then he stopped and sat with both hands in his lap until they were still enough to try again.
+It had dried to the linen underneath, and the linen had dried to his palm. The seam Iroh had pinned that morning had burst again, and the whole thing had set around his hand like a shell. Jake got two fingers of his right hand under the cuff and found he could not make them close on anything. He tried a second time and the bone needle caught his thumb, and he swore under his breath, as Haru used to over a knotted net. Then he stopped and sat with both hands in his lap until they were still enough to try again.
 
 The glove came away all at once. The leather peeled off the linen with a wet, tearing sound that he felt in his back teeth.
 
 The smell followed. It was blood, old and new, and river water, and the bitter-mint tang of Iroh's salve gone brown on the cloth. Under that was the plain close smell of leather that had been soaked, dried, and soaked again against a living hand. Jake turned the glove over. Inside, the neat wrap Iroh had laid on that morning was in shreds across the palm. Where the linen had pulled free, the old scar had split along the line it always split along, from the base of the thumb toward the wrist, and the edges were swollen and shiny and hot.
 
-He had seen it worse. He had seen it worse three days ago, on the rope at the fissure.
+He had seen it worse. He had seen it worse two days ago, on the rope at the fissure.
 
 *I'd do it again.*
 
-He made himself think the sentence all the way through, because it was the one solid thing in the cabin. The pirate's blade had been coming around Zuko's blind side, and Zuko had not seen it. Jake had been on the high ground with the river at his back, and the river had been right there. He had not argued with himself on the bank. There had not been time to, and he knew that was not the same as having made no choice. He had done the sum in the half second it took to put his hand out, and he had known what it came to.
+He made himself think the sentence through to the end, because it was the one solid thing in the cabin. The pirate's blade had been coming around Zuko's blind side, and Zuko had not seen it. Jake had been on the high ground with the river at his back, and the river had been right there. He had not argued with himself on the bank. There had not been time to, and he knew that was not the same as having made no choice. He had done the sum in the half second it took to put his hand out, and he had known what it came to.
 
 Now the half second was over, and he had the rest of his life to look at the answer.
 
-He laid it out in order, the way he used to lay out a week's stores. For three years he had bent in front of exactly three kinds of witness. Kyoshi Warriors, who had no lord to report to. Earth Kingdom soldiers in a broken hollow with nobody left to carry word. And pirates, who would tell their stories only to other pirates, and whose word no Fire Nation officer would take over a stray dog's. That was the margin. It had not been wide, but it had held.
+He laid it out in order, as he used to lay out a week's stores. For three years he had bent in front of exactly three kinds of witness. Kyoshi Warriors, who had no lord to report to. Earth Kingdom soldiers in a broken hollow with nobody left to carry word. And pirates, who would tell their stories only to other pirates, and whose word no Fire Nation officer would take over a stray dog's. That was the margin. It had not been wide, but it had held.
 
 The girl at the rail was outside it.
 
 She had stood there in a blue parka with her hands still raised from pushing the hull off the bank, and she had turned her head and looked straight down the shore at him. A boy in Fire Nation red, with bandaged hands, standing back-to-back with Zuko. He knew what she must have seen, and he knew who was hunting her.
 
-He took the next piece. Zhao worked this same coast. Zhao wanted the Avatar badly enough to fire on a flagged ship without a signal. If he took that boy, he would take the rest of them too, and in a locked room someone would say *the prince has a waterbender.* Zhao would only have to remember the dock at Ketu Harbor: the servant, the burned hands, the prince who had kept him on anyway. It would take him an afternoon to set those three things side by side. After that, Iroh's careful story would give way, and a letter would go north. They did not exile a boy twice.
+He took the next piece. Zhao worked this same coast. Zhao wanted the Avatar badly enough to fire on a flagged ship without a signal. If he took that boy, he would take the rest of them too. The rest of that sum he had already run at the river, and it came out the same with sleep in it. Zhao would be told. He would set the *servant*, the burned hands, and the prince who had kept him on anyway side by side in an afternoon. Iroh's careful story would give way, and a letter would go north.
 
 Jake had no answer to that. He had turned the sum every way he could and it came to the same place each time. So he stopped looking at it and looked at his hand instead.
 
-She had moved the water the way you breathe. He had seen that, too, in the same half second. It had risen when she asked and gone where she pointed, round and slow and certain, like the sea itself putting out a hand. He had stood on the other bank with a form built out of fire and guesswork and a decade of making do, and for one moment he had felt like the one in a costume. He did not know what to do with that, so he put it down. It was no use to him tonight.
+She had moved the water as easily as breathing. He had seen that, too, in the same half second. It had risen when she asked and gone where she pointed, round and slow and certain, like the sea itself putting out a hand. He had stood on the other bank with a form built out of fire and guesswork and a decade of making do, and for one moment he had felt like the one in a costume. He did not know what to do with that, so he put it down. It was no use to him tonight.
 
 The sting reached him slowly. He looked down and found that his right thumbnail had gone to the edge of the scar on his left palm and was working at the loose skin there, small and neat and patient. A thin line of red had come up along the pale ridge. There was something dark under the nail. His other hand had started on the far side. He had no idea how long it had been going on. He kept his eyes on the bulkhead, where a knot in the grain stared back at him like an eye, and his hands went on without him.
 
@@ -62,8 +62,7 @@ Zuko said nothing more. He fetched the second wrap that Iroh had cut for tomorro
 
 He was at the door before Jake had found his boots. Jake picked the glove up off the cot and stood holding it, and found he could not leave it lying there. He pushed it inside his coat. Then he got to his feet, and the deck slid sideways under him, and he followed the prince out into the grinding dark.
 
-***
-
+---
 The bridge smelled of wet iron and scorched paint. The black fan Zuko had burned into the overhead two days ago was still there, and the lantern made it look like a stain spreading across the ceiling. Someone had hung the lantern from the map table's brass hook, and it swung with the list, so the light slid across the chart and back, across and back, like a slow hand smoothing a sheet.
 
 Lieutenant Jee stood on the far side of the table with his left arm pressed against his ribs. He held it a little too carefully, and Jake saw that he had stopped trying to hide it. Iroh stood at the head of the table with his hands in his sleeves. He had not brought tea. That was the first thing Jake noticed about him, and it bothered him more than it should have.
@@ -114,11 +113,16 @@ Iroh had not moved at the head of the table. He kept his eyes on the chart and h
 
 "Jee," Zuko said. "Three soldiers. Cloaks, not armor. Rations for four days, rope, as much water as they can carry." He did not look up from the map. "We leave at first light. Jake comes with me."
 
-***
-
+---
 They left at first light, and by midmorning Jake had stopped believing in the road.
 
-The last of the port fell away behind them in a muddle of tarred roofs and drying nets. Zuko led them around its edge instead of through it, well clear of the lanes and the wells and the one wide, rutted track that ran inland. Then the ground began to rise, the trees closed over the sky, and the world narrowed to green.
+The last of the port fell away behind them in a muddle of tarred roofs and drying nets. Zuko led them around its edge instead of through it, well clear of the lanes and the wells and the one wide, rutted track that ran inland.
+
+A woman stood in a doorway with a basket on her hip and watched them go by the way a person watches men she has decided are not hers. Jake kept his face turned three degrees to the left and let the hood do the work. The soldier with the limp kept the limp on his left side, where the light would not find it.
+
+A boy of six or seven came out of a doorway to watch them pass and put his thumb in his mouth. Jake thought, with a clarity that arrived from nowhere, that the boy would remember a tall man in red with a bandaged hand. He would tell it to somebody. Stories were the whole of the danger, and he had just watched one get made.
+
+Then the ground began to rise, the trees closed over the sky, and the world narrowed to green.
 
 There was no trail. Jake had expected a deer path at least, something a hunter had worn down. There was only the forest floor, spongy with a hundred years of fallen leaves, and a tangle of vine and fern and thorn that came chest-high and caught at every sleeve. The air was warm and wet and held still, like a damp cloth laid over the face. It smelled of rot and sharp cut sap.
 
@@ -130,7 +134,9 @@ The forest was never quiet. A bird went up shrieking from a thicket on his right
 
 *She could be anywhere in this.*
 
-He knew it was foolish. He had watched the white bison lift over the falls and turn north, hours ago, a day ago now. But the trees made no distinction. They pressed in at shoulder and knee and hid whatever they pleased, and the last time he had walked between trees like these there had been a girl in a blue parka tied to a trunk, looking at him over Zuko's shoulder as if she had already guessed. Perhaps she was sitting by a fire at this moment, telling it. *There was a waterbender with the prince.* And the sharp-tongued brother with the boomerang would listen and ask the right questions, one after another. Each retelling moved the clock another notch toward whoever was waiting at the end of the road.
+He knew it was foolish. He had watched the white bison lift over the falls and turn north, hours ago, a day ago now. But the trees made no distinction. They pressed in at shoulder and knee and hid whatever they pleased. The last time he had walked between trees like these, a girl in a blue parka had been tied to a trunk, looking at him over Zuko's shoulder as if she had already guessed.
+
+Perhaps she was sitting by a fire at this moment, telling it. *There was a waterbender with the prince.* And the sharp-tongued brother with the boomerang would listen and ask the right questions, one after another. Each retelling moved the clock another notch toward whoever was waiting at the end of the road.
 
 A vine caught his glove and he yanked it free, and the pin bit through the leather into the heel of his palm. He made no sound. His eyes went to the shadows between the trunks, one after another, and each time he counted what lay in them: a fallen log, a hollow, a stand of pale fungus, a deer-colored rock.
 
@@ -148,7 +154,83 @@ Zuko never turned to see whether he had been noticed. His eyes did not come back
 
 Jake caught himself watching another dark gap between the trunks, and a moment later he saw Zuko's head tilt toward the same place. They were crossing the forest as though it were a trap, and each of them was watching for the same thing to spring it.
 
-His whole body ached by then, from the knees up. The mud had worked into his boots and the damp into his coat, and the ache had a hollow quality he knew by now. It came when he was too tired to hold anything off. At moments like that the girl's face came back to him unasked, the blue parka and the wet hair at her temples, and under it the thing he had put down on the cot the night before. She had *known* the water. He had come to it from outside, with a stranger's borrowed form. Whatever she had been born into, it had not followed him across the sea. Nothing was waiting for him in this forest, or in any other, that shared his blood. What walked ahead of him was a Fire Nation prince, hacking a lane through the mud with a sword and refusing to look back.
+His whole body ached by then, from the knees up. The mud had worked into his boots and the damp into his coat, and the ache had a hollow quality he knew by now. It came when he was too tired to hold anything off. At moments like that the girl's face came back to him unasked, the blue parka and the wet hair at her temples, and under it the thing he had put down on the cot the night before.
+
+She had *known* the water. He had come to it from outside, with a stranger's borrowed form. Whatever she had been born into, it had not followed him across the sea. Nothing was waiting for him in this forest, or in any other, that shared his blood. What walked ahead of him was a Fire Nation prince, hacking a lane through the mud with a sword and refusing to look back.
+
+The clearing was a mile in, or near enough.
+
+The soldier with the limp found it. He made no sound at all. He stopped, and put one hand out flat behind him for the others to hold, and stood looking at the ground.
+
+Jake came up and looked.
+
+A ring of stones with cold grey ash in the middle of it, fine as flour, no heat left in the stones at all. A heap of fish bones in the corner, picked clean and stacked. And the print.
+
+Jake had seen the shape in the sky twice and had stopped believing in it the second time. The print in the soft ground at the edge of the ring was the size of a table, three toes at the front and a heel like a scupper. It was pressed deep enough in the wet leaf mould that a man could have put his forearm in it. Beside it, two sets of small prints, and the drag of a rope where something heavy had been towed.
+
+The print pointed north.
+
+"It was here," the soldier said. His voice was low and careful. "Two days, maybe three. The big animal came through and went north, and they camped, and they went on."
+
+Zuko came up and stood at the edge of the ring and looked at it. Jake watched the thing that happened to his face, which was nothing at all. Some part of Zuko had known since the bridge that a story told in front of three tired men would one day meet the ground, and he had decided in advance what his face would do when it did.
+
+"The animal flies," the soldier with the limp said, and he was not looking at the ring. He was looking at Zuko. "If it went north two days ago, it is a long way north of us now. On legs, sir, we will never come up with it."
+
+Nobody spoke. Jake could see the other two arriving at the same sum he was arriving at, and he could see where it ended, because there was only one place for it to end. Who told you they went up the river. There had been no man who had seen them. The prince had made it up on the bridge to keep them off a dock, and three men had carried it a day and a half up a coast road without being asked.
+
+"My informant was wrong," Zuko said. "That is not the same as the road being wrong. The road is north. We go north."
+
+"It goes north," the soldier said.
+
+"Then the rumour was wrong." The man said it without heat, the way a man lays a card down on a table. "There was no man, sir."
+
+There was a silence with a shape to it.
+
+"There was a man," Zuko said, "who was wrong."
+
+The soldier looked at the ash for a while longer. Then he saluted, badly, and went back to his place in the line, and Jake saw exactly what it cost him to stop asking, because the man was not stupid and had not been stupid since the day Jake had met him.
+
+They heard the patrol a little after the sun started down.
+
+It was the sound of a man coughing, three hundred paces off through the trees, and then the knock of metal on metal, and then voices, low and ordinary and unhurried. Jake was on his knees in the ferns before he had decided anything. Zuko's hand was already up. The two soldiers in front sank down where they stood, and the third went flat on his belly with a grunt.
+
+Through a gap in the undergrowth Jake counted them.
+
+Six. Fire Nation infantry, light kit, no rhinos. A sergeant in front with a hooked nose and his helmet pushed back, and behind him a boy carrying a pot, and behind him four more in a loose file. They were not hunting. They were sweeping, which was worse. A sweep meant they had a line and a direction and a thing they had been told to look for, and they would walk it for a day and a half and then report.
+
+The pot-boy stopped to piss against a tree. The sergeant told him to hurry up. The sound of that voice came through the trees as clear as if the man had been standing in the clearing, and it was a Fire Nation voice, and it was ordinary, and Jake found his own breath going shallow and hot.
+
+Beside him Zuko had not moved. He was on one knee in the leaf litter with his sword still in his hand, and his knuckles were white on the grip. Jake watched him do the arithmetic. Six men. Two of them could have them both down in a minute. The other four would run, and one of them would reach a post, and the post would send a rider, and by dark there would be a hundred men in this forest instead of six.
+
+Zuko's jaw worked. He did not move.
+
+The sergeant had stopped. He was standing in the cut brush at the edge of the lane Zuko had hacked that morning, looking down at it. He crouched, and picked something out of the leaves, and turned it over between his fingers. A curl of fresh wood. He looked along the lane, one way and then the other, for what felt like a very long time.
+
+"Sir?" the pot-boy said.
+
+"Nothing," the sergeant said. "Animals." He dropped the curl and straightened and put his helmet back on. "Come on. We'll be at the ford by dark."
+
+They went on. The sound of them went with them, the voices and the knocking and the crack of their boots in the leaves, until it was only the forest again and the frogs and Jake's own heart going like a bird in a bag.
+
+Nobody moved for a long count.
+
+Then Zuko rose. His face had gone somewhere Jake had seen it go only a handful of times in three years, and it had gone past the rage to the cold thing underneath it. "They'll come back along that lane," he said. "Tomorrow, or the day after, with more. We don't sleep within a mile of it."
+
+"They'll find the track," Jake said.
+
+"They'll find a track. Tracks are everywhere. A man who finds one track in a forest and reports it is a man who gets laughed at." Zuko was already moving, gathering his pack. "But they'll be behind us now instead of ahead, and they'll be between us and the coast. Which means we go further in and stay longer. Four days is now six."
+
+"We have rice for four."
+
+"Then we'll eat less." Zuko looked at him, and the cold thing in his face eased a fraction, and he was just a tired boy in a forest with a sword he had been using to cut brush. "Nobody saw us. Nobody's seen us all day. That's the whole of the good news, and I'll take it."
+
+The soldier with the limp was still looking at the trees where the patrol had gone.
+
+"A sweep like that goes over every clearing it finds," he said. "If they find that ring, they'll know an animal the size of a house stood in it."
+
+"Leave the ring," Zuko said. "And if the Avatar comes back this way, we will want to know it."
+
+The soldiers got to their feet. The one with the limp was looking at the trees where the patrol had gone, and the look on his face was not fear so much as arithmetic. Jake had seen that look on a deck before. He fell in behind the prince and said nothing, and they went on deeper, away from the coast, away from the lane with its fresh white curls of wood.
 
 The light turned the color of weak tea. The soldiers were stumbling, and the one with the limp had gone gray around the mouth. Zuko lowered his sword and stood a moment with his back to them, his shoulders rising once. Then he turned and pointed with the blade at a place ahead where the trees fell back.
 
@@ -158,11 +240,10 @@ It was a small clearing. The ground was trampled flat by some animal's passing, 
 
 The soldiers dropped their packs without a word. Jake stood at the edge of the clearing with his bandaged hands loose at his sides, and watched Zuko walk the perimeter once, slowly, looking into every dark place between the trunks before he let himself stop.
 
-***
-
+---
 Zuko allowed the fire an hour after dark.
 
-He built it himself, which Jake had not expected. He knelt in the ring of old stones with a handful of dead branches, snapped each one to the same short length, and stacked them with a care that seemed out of place in a man who had spent the day hacking a lane through a forest. He chose only the driest wood. The rest he threw back into the brush with a flick of the wrist. Then he put two fingers to the pile and a small, low flame woke at its heart, orange with no trace of white, so tight it barely lit the ground around the stones.
+He built it himself, which Jake had not expected. He knelt in the ring of old stones with a handful of dead branches and snapped each one to the same short length. He stacked them with a care that seemed out of place in a man who had spent the day hacking a lane through a forest. He chose only the driest wood. The rest he threw back into the brush with a flick of the wrist. Then he put two fingers to the pile and a small, low flame woke at its heart, orange with no trace of white, so tight it barely lit the ground around the stones.
 
 It made almost no smoke. A thin gray thread rose a handspan and thinned out in the leaves overhead. Zuko watched it a long moment with his head tilted back before he sat down on the far side of the ring with his back against a fallen trunk.
 
@@ -172,7 +253,7 @@ The three soldiers were asleep along the far edge of the clearing, rolled in the
 
 "I'll take it with you," Jake had said, and Zuko had looked at him and not argued.
 
-That had been a while ago. The fire had burned down to coals, and neither of them had fed it. The cold had come up out of the ground the way it does beneath trees, a damp that went through the coat and settled in the knees, and Jake sat with his boots drawn up and his back against a log. The bark was rough through the wool. In the gully a frog started up and was answered by another, then a third, until the dark was full of their small wet voices. Whenever they fell silent, his eyes went to the trees.
+That had been a while ago. The fire had burned down to coals, and neither of them had fed it. The cold had come up out of the ground, as it does beneath trees, a damp that went through the coat and settled in the knees, and Jake sat with his boots drawn up and his back against a log. The bark was rough through the wool. In the gully a frog started up and was answered by another, then a third, until the dark was full of their small wet voices. Whenever they fell silent, his eyes went to the trees.
 
 His legs ached from the knee down, and his shoulders, and the hands. The weariness had a weight to it, like wet rope. It dulled the edges of things, but it did nothing for the loop. *Zhao.* The name came back as it had all day, in the gaps. The dock, the head turning, the three things set side by side. A plain white room at the end of it, and a letter, and a man he had not seen in three years. He knew every step now, and still he walked them to the end.
 
@@ -202,7 +283,7 @@ There were things he might have said. He turned over a dozen and let them all go
 
 So he nodded once, slowly. And Zuko, still looking into the coals, seemed to feel it through the bones of his wrist, because his shoulders came down a fraction.
 
-The fire ticked. Far off, something large crossed the gully, and the frogs went silent and began again. Beyond the clearing the trees stood very close and very black, and for the first time that day Jake did not count what was in them.
+The fire ticked. Far off, something large crossed the gully, and the frogs went silent and began again. Beyond the clearing the trees stood very close and very black. Somewhere back along the ridge, six men were walking north toward a ford. Jake listened to the frogs and let himself stop counting.
 
 Zuko let go. He drew his hand back slowly and went around the ring to his old place against the trunk. He laid the sword across his knees, and his eyes went to the dark between the trees.
 
@@ -215,3 +296,58 @@ Zuko let go. He drew his hand back slowly and went around the ring to his old pl
 Jake stayed where he was a moment longer, his left hand turned palm-up in his lap and the glove lying quiet. Then he shifted down against the log and drew his coat closed over his chest. The coals were warm on his face. Across the fire a shape sat upright and unmoving, watching the forest with its whole attention.
 
 He closed his eyes. The frogs went on. His hand throbbed once, twice, and eased, and the dark behind his eyelids was only dark.
+---
+
+*Somewhere north of the pipeline, the same night.*
+
+The dam had burst, and the village below it was gone.
+
+Katara sat on a rock above the floodline with her knees drawn up and her hands still shaking, and watched the water spread out over the fields in the moonlight. It was everywhere. It was in the streets, and in the market, and in the houses, and the old man who had let them sleep in his barn was sitting on the roof of it with his family and his dog and nothing else at all.
+
+Jet had not meant for that to be the outcome. That was what he had said, and she thought he probably believed it, and it did not matter in the slightest.
+
+"You knew," Sokka said. He was standing over Jet with his boomerang in his hand and his voice as flat as she had ever heard it. "You knew there were people down there and you did it anyway."
+
+"There were soldiers down there."
+
+"There were farmers."
+
+"Sometimes instincts are wrong," Jet said. He said it to Katara, not to Sokka, and he said it like a man offering her a way to keep liking him. "You trusted me. That's not a crime."
+
+"I trusted you," she said.
+
+"Yes."
+
+"I trusted you, and you were going to drown a village, and I didn't see it until the water was already coming." She stood up. Her legs were not steady. "So I don't think much of my instincts tonight."
+
+He looked at her for a moment, and something in his face changed, and she saw him decide not to say the thing he had been going to say. That was the worst part. Even now, with the village under water behind him, he could make the decision look like a kindness.
+
+"Go north," he said. "Get out of my forest."
+
+They went.
+
+Appa rose off the ridge with the three of them on his back, and the flooded valley fell away below, and Katara looked down at it until she could not make out the roofs anymore.
+
+She was thinking about a river.
+
+She had spent the day being sure of a boy with a smile and a plan and a story about what was right. She had spent the evening being wrong. And under all of that, in the part of her she did not like to look at directly, there was the other thing. The boy in the smoke on the bank. The water in his hands, tight and strange and wrong, and the look on his face when he had seen her see him.
+
+She had been sure about him too. She had been sure he was a monster, because of the coat and the company and the hands, and she had not been able to stop thinking about him since, and now she did not know what her sureness was worth.
+
+"Hey," Aang said, from the front of the saddle. "You're quiet."
+
+"I'm tired."
+
+"You're doing the face."
+
+"What face?"
+
+"The one where you're arguing with somebody who isn't here." He said it lightly, and then, because he was Aang, he said the true thing without seeming to notice he had. "You don't have to know everything tonight."
+
+"I know."
+
+"Good." He turned back around. "Because Sokka's asleep, and somebody has to help me steer."
+
+She went forward. The night was cold and clear and very wide. Somewhere south of them a ship was limping north along a coast, with a boy in it who moved water as if he had been taught by someone with no patience at all. She did not know if she would ever see him again.
+
+She put her hands on the reins and helped steer.

@@ -10,15 +10,17 @@ Prince Zuko's voice carried best of all.
 
 Jake heard it break upward through the floor: a boy's pitch in a room of grown men, arguing with men who outranked him.
 
-"A strike at dawn, and the town falls before the Earth King learns we have touched it," a general said from somewhere above the joists.
+"The new division goes in first," a general said from somewhere above the joists. "Untried men. The Earth Kingdom line will spend itself on them, and the veterans walk through the gap."
 
-"You would shell a town with no soldiers in it, and call that strategy?" Prince Zuko said.
+"They are not a gap," Prince Zuko said. "They are boys from the colonies who have never held a spear. You would spend them like coals and call it a plan."
 
 There was laughter after it, brief and respectful, the kind that closed a door. Then the Fire Lord spoke, and the laughter went out of the room entirely.
 
 A runner came to the doorway. He looked past Jake, as runners always did, and spoke to the steward instead.
 
 "The prince has insulted the war council," the runner said. "The Fire Lord has called an Agni Kai, and the gallery is to attend."
+
+An Agni Kai was a fire duel. Every child in the palace knew the shape of it: two benders in a swept circle, no weapons, no armor, the court at the rail to witness. It settled an insult the way a debt was settled, in front of everyone, and it ended when one of the two could not get up. Jake had seen two, both between officers, both over before he had understood what he was watching. He had never seen one called on a prince.
 
 Jake filled the pot. He did not remember deciding to.
 
@@ -32,7 +34,7 @@ Jake, at the back of the rail with the pot, saw his face go smooth and bare. He 
 
 "You will not fight me," said a voice from those doors. It did not rise. It did not need to. "You will fight me, Prince Zuko, or you will learn what a prince is who refuses his father."
 
-"I won't fight you." Zuko's voice had cracked on it in the war room once already; he held it whole now. "You called my strategy dishonorable in front of your council, and you were wrong. Punish me for the words if you mean to punish me, but I won't brawl for you in the sand like a—" He stopped, and finished smaller. "I won't fight you."
+"I won't fight you." Zuko's voice had cracked on it in the war room once already; he held it whole now. "I said what I said at the council table, and I meant it. Punish me for the words if you mean to punish me, but I won't brawl for you in the sand like a—" He stopped, and finished smaller. "I won't fight you."
 
 "Then you will learn respect," said the Fire Lord, "and suffering will be your teacher."
 

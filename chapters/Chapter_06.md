@@ -1,24 +1,24 @@
 # Chapter 6: The Weight of the Line
 
-Jake woke before the bell, which was the only mercy the morning offered.
+Six men came up for the watch that morning. There should have been eight.
 
-The alcove off Zuko's cabin was dark and close, and for a few breaths he lay still and took inventory the way he did every morning. Shoulders stiff. Back sore from the cold deck planks, a day old now. Then his hands, which he had left for last because he already knew. They lay on the blanket where he had put them, wrapped in strips of clean cloth, and when he curled the fingers the scars pulled tight and shiny and the throb climbed up into his wrists.
+Jake counted them from the hatch and did not say anything about it. The two who were missing had been on the deck the night before, and their names were on a list in his head that he had not decided yet what to do with. He put his coat on instead.
 
-Through the partition he could hear Zuko breathing. It was the heavy, slack breathing of a man who had gone down hard and would come up swinging. Jake lay a moment longer and listened to it.
+The gloves had not dried. Iroh's good leather had gone dark and stiff at the fingertips, and when he pulled them on it was like pushing his hands into cold bark. He pressed his thumbs once into each palm to seat the leather, felt the old burns pull, and let the pull be the last thing he thought about his hands that morning.
 
-Then he got up. He eased the cloth off his hands and checked them in the gray seep of light from the porthole. The skin was angrier than it had been at midnight, redder along the lines of the old burns, but nothing had split. He worked the stiffness out as quietly as he could, finger by finger. The gloves were on the shelf where he had left them to dry, and they had not dried well. Iroh's good leather had gone dark and stiff at the fingertips and palms, and when he pulled them on it was like pushing his hands into cold bark. He did not let himself make a sound. He pressed his thumbs once into each palm to seat the leather, then took his coat from the hook and went out.
+The cold met him at the hatch. It had a different edge than yesterday's, drier and meaner, and it came with the smell of ice on iron. The sky over the Earth Kingdom coast had gone the color of a healing bruise, gray going to yellow-brown at the horizon, with no sun behind it. The ship was already moving. They had left the cove in the dark, Jake realized, while he slept.
 
-The cold met him at the hatch. It had a different edge than yesterday's, drier and meaner, and it came with the smell of ice on iron. The sky over the Earth Kingdom coast had gone the color of a healing bruise, gray going to yellow-brown at the horizon, with no sun behind it. The ship was already moving. They had left the cove in the dark, Jake realized, while he slept. Somewhere below, the engines turned over with a grinding that hadn't been there a week ago, a low metallic complaint under every plank. The deck felt wrong under his boots. It had no lift in it. The ship pushed at the water like a man wading a river with a heavy pack, and the water pushed back.
+Somewhere below, the engines turned over with a grinding that hadn't been there a week ago, a low metallic complaint under every plank. The deck felt wrong under his boots. It had no lift in it. The ship pushed at the water like a man wading a river with a heavy pack, and the water pushed back.
 
 Spray had frozen in the night. Every rail wore a skin of clear ice, and the coils of rope along the foredeck had stiffened into things that looked like carved bone. Crewmen moved among them slowly, with their shoulders up around their ears, and none of them were talking. Jake counted the watch out of habit. Six on deck. There should have been eight.
 
 He flexed his hands inside the gloves, once, slow, and felt the scars drag. A wince started in his face and he put it away before it finished. Then he went forward, because that was where the work was.
 
-The signal halyard on the foremast had frozen in its block. Jake saw it before he saw the man fighting it, a long line gone stiff as a pipe, running up into a gray tangle of ice at the masthead. Below it a deckhand had both arms wrapped around the rope and his weight thrown back, trying to haul it down through the block by sheer stubbornness. He wasn't winning. The line gave a hand's width and stopped, gave another and stopped. Each time it stopped he swayed, and Jake could see the man's knees were not entirely under him.
+The signal halyard, the rope that raised the flag, had frozen in its block, the pulley at the masthead. Jake saw it before he saw the man fighting it, a long line gone stiff as a pipe, running up into a gray tangle of ice at the masthead. Below it a deckhand had both arms wrapped around the rope and his weight thrown back, trying to haul it down through the block by sheer stubbornness. He wasn't winning. The line gave a hand's width and stopped, gave another and stopped. Each time it stopped he swayed, and Jake could see the man's knees were not entirely under him.
 
 He knew the boy, but he looked at him properly now. Kaito was nineteen, or said he was. He had signed on at a port Jake had never seen, with a mother's cooking still on him, and he had a way of whistling through his teeth when he thought no one was near. He wasn't whistling today. His lips were cracked and gray. His wrapped hands had come unwound at the left wrist, and where the cloth hung loose Jake could see the palm underneath. The blisters had broken and broken again, and what was left was raw and weeping pink, and the hemp was rubbing it open a little more with every pull.
 
-Jake didn't say anything. He stepped in behind the boy, close on the left, and took hold of the line above Kaito's hands, where the weight was. The frozen hemp bit into his palms through the leather. It was like gripping a rasp. The pain ran straight up his arms, hot and bright, and for a moment the whole deck narrowed to the two places where the rope touched him.
+Jake didn't say anything. He stepped in behind the boy, close on the left, and took hold of the line above Kaito's hands, where the weight was. The frozen hemp cut into his palms through the leather. It was like gripping a rasp. The pain ran straight up his arms, hot and bright, and for a moment the whole deck narrowed to the two places where the rope touched him.
 
 He set his feet and hauled.
 
@@ -26,7 +26,7 @@ The line broke free of the ice with a crack like a snapped bone and came down th
 
 Only then did he let go. His fingers did not want to open. He opened them anyway, one at a time, and held his hands a little away from his body while the blood came back into them.
 
-Kaito stood with his arms hanging, breathing through his mouth. "I had it," he said. There was no heat in it. It was only a thing a man says.
+"I had it," he said. Kaito stood with his arms hanging, breathing through his mouth. There was no heat in it. It was only a thing a man says.
 
 "I know," Jake said. He caught the boy's left wrist, gently, and turned the loose cloth over. "You've got this open. Get it wrapped tight before you touch another line, or it'll go septic." He tucked the end of the strip back under the fold. Kaito watched him do it as though it were a long way off.
 
@@ -46,7 +46,7 @@ Kaito's eyes flicked to the empty rail and the unfinished lines still coiled in 
 
 "I'll cover it."
 
-The boy looked at him a moment longer. Whatever he had been going to say went out of him, and he nodded once, jerkily, the way a man nods when he has been given something he can't afford to refuse. Then he went aft along the iced rail with his wrapped hand held against his chest.
+The boy looked at him a moment longer. Whatever he had been going to say went out of him, and he nodded once, jerkily, as a man nods when he has been given something he can't afford to refuse. Then he went aft along the iced rail with his wrapped hand held against his chest.
 
 Jake watched him to the hatch. Then he turned back to the foremast and the other lines, the ones that were still frozen and still waiting.
 
@@ -56,11 +56,10 @@ When the final hitch was made he stood with his hand flat against the cold mast.
 
 He lifted his face to the gray and kept it there a moment, then went to see what else needed carrying.
 
-***
-
+---
 By midday the sea had stopped pretending to be anything but an enemy.
 
-The swells came in long and gray from the northwest, each one with a hard white lip, and the ship took them badly. She climbed slowly and came down heavy, and every time her bow struck the trough the whole deck shuddered and spray went over the rail in sheets. It froze where it landed. Jake had stopped trusting his footing an hour ago and moved from handhold to handhold, the way the older hands did, never with both feet free at once.
+The swells came in long and gray from the northwest, each one with a hard white lip, and the ship took them badly. She climbed slowly and came down heavy, and every time her bow struck the trough the whole deck shuddered and spray went over the rail in sheets. It froze where it landed. Jake had stopped trusting his footing an hour ago and moved from handhold to handhold, as the older hands did, never with both feet free at once.
 
 The foresail was up. Jake and Lieutenant Jee had rigged it two days back to spare the boilers, and on a good tack it bought them half a knot for nothing. Today it was straining. It cracked and bellied against the yard, and the rope that held it hummed.
 
@@ -70,7 +69,7 @@ From the bridge came a shout, and Jake could not make out the words. He felt the
 
 The sail slammed over. The deck pitched sideways under Jake's boots and he caught the coaming with his shoulder. Men grabbed at rails. Somewhere a bucket skated across the planking. And high up on the mast, something gave with a sound like a gunshot.
 
-Jake's head came up before he understood why. The halyard had parted at the block. The frayed end whipped out of the sheave, and the iron-bound block that had held it, a lump of oak and iron the size of a man's torso, dropped free of the yard and began to fall.
+Jake's head came up before he understood why. The halyard had parted at the block. The frayed end whipped out of the pulley, and the iron-bound block that had held it, a lump of oak and iron the size of a man's torso, dropped free of the beam and began to fall.
 
 It fell straight down the face of the mast, and Kaito sat at the foot of it with his head bent over a rope.
 
@@ -78,7 +77,7 @@ It fell straight down the face of the mast, and Kaito sat at the foot of it with
 
 The boy looked up. That was all he had time for. Jake was twenty feet away across a deck that was tilting under him, with a hatch between them, and he knew he could not reach him. He knew it the way he knew his own name. There wasn't time to run, to shove, or to do anything with his hands that had to touch.
 
-His body decided before he did. He dropped into a low stance, knees bent, weight rolling onto the balls of his feet. His hands came up open and wide, the way a man braces against a door, and he reached for the only water there was.
+His body decided before he did. He dropped into a low stance, knees bent, weight rolling onto the balls of his feet. His hands came up open and wide, as a man braces against a door, and he reached for the only water there was.
 
 It was everywhere. The deck wore a skin of it, spray and slush frozen into a gray crust, and underneath the crust a thin cold film still moved with the roll of the ship. Jake felt it answer him through the planks, through his boots, through the gloves. He did not call it up in a wave. He pulled a sheet of it, thin and quick, and snapped it upward in one flat curving surge that met the falling block a hand's breadth above Kaito's head.
 
@@ -94,7 +93,7 @@ Nobody on deck said a word about what they had seen. Not one man looked at him w
 
 Then the bridge hatch banged open.
 
-Zuko came down the ladder fast. He wore no coat, and his hair was plastered to his forehead with spray. He did not look at the block, or at the gouge in the deck, or at Kaito sitting white-faced against the mast. His eyes went up. They went straight to the yard where the foresail now hung from one corner and flapped like a dying bird.
+Zuko came down the ladder fast. He wore no coat, and spray had soaked his hair flat across his forehead. He did not look at the block, or at the gouge in the deck, or at Kaito sitting white-faced against the mast. His eyes went up. They went straight to the yard where the foresail now hung from one corner and flapped like a dying bird.
 
 "What happened to the sail?"
 
@@ -104,13 +103,13 @@ No one answered.
 
 "It parted, Prince Zuko." Lieutenant Jee had come aft from the bridge ladder. He said it quietly, with his hands at his sides, but Jake saw them. They were not still. "It was frozen through and it parted under load. It nearly killed a man."
 
-Zuko's glance flicked to Kaito at last and slid off him as though he were a part of the mast. "Then he's alive. Get it fixed."
+"Then he's alive." Zuko's glance flicked to Kaito at last and slid off him as though he were a part of the mast. "Get it fixed."
 
 It was very quiet on the deck. The wind seemed to drop to nothing. Jake looked at the faces around him. Kaito, gray, with the splinter still in his sleeve. The deckhand who'd nodded. Two stokers who had come up from below for air and stopped at the hatch. And Jee, whose right hand had drifted down to the hilt of his sword and closed on it, and who did not seem to know he'd done it.
 
 Jake felt his own anger come up. It was a small, hard, tired thing, the first real anger he had let himself feel in days, and it was aimed at the prince. He saw how it would end. He saw Jee's blade clear the scabbard, and Zuko turn, and fire in the cold air, and afterward the long nothing of a court-martial, with a lieutenant of twenty years' service on the end of a rope.
 
-He put the anger down. He did it the way he put down the pain in his hands, by deciding to. Then he walked forward across the pitching deck, past Jee and past the prince, to the heavy broken halyard lying in a coil by the foot of the mast.
+He put the anger down. He did it as he put down the pain in his hands, by deciding to. Then he walked forward across the pitching deck, past Jee and past the prince, to the heavy broken halyard lying in a coil by the foot of the mast.
 
 He took hold of it in both hands.
 
@@ -124,7 +123,7 @@ There was a pause.
 
 The boy scrambled to his feet. He came across the deck with his wrapped hand pressed against his coat and took the line behind Jake, and the weight came onto them together. Beyond them somebody moved. A second man took the rope, and a third. A stoker threw his shoulder against the lower end. The block, the splinters, the prince all stayed behind them. Jee's hand came off his sword.
 
-They hauled the line back through the sheave in the swaying cold. Jake called the count and the men pulled to it. He watched the frayed end reach the block, spliced it with a seaman's knot he'd learned in the first month of exile, and made it fast. The foresail filled with a crack. The ship steadied under it, a little, and ran.
+They hauled the line back through the pulley in the swaying cold. Jake called the count and the men pulled to it. He watched the frayed end reach the block, spliced it with a seaman's knot he'd learned in the first month of exile, and made it fast. The foresail filled with a crack. The ship steadied under it, a little, and ran.
 
 Behind him Zuko stood a moment longer at the head of the deck. Jake felt him there without looking, a pressure at his back like a stove. Then boots rang on the ladder. The bridge hatch banged shut.
 
@@ -134,8 +133,37 @@ The men stood where they were, with their breath smoking and their hands hanging
 
 Jake stayed where he was and uncurled his fingers from the rope. He did not look at his gloves.
 
-***
+Jee came up beside him with his sword still loose in its sheath.
 
+"That was well done," Jee said. "The line."
+
+"The line was going to fall on him either way. I only got there first."
+
+"You got there first with your hands." Jee looked at the gloves. "You've split them."
+
+"Not badly."
+
+"Everything you say about your hands is *not badly*." Jee rubbed his jaw. "Two men didn't come up for the watch. Did you notice?"
+
+"I noticed."
+
+"They're not sick. They're frightened, and they're right to be." Jee looked at the bridge hatch. "If I put them on report, the prince hears it, and then he has to do something about it, and what he does will be worse than what they did."
+
+"Then don't put them on report."
+
+"And if it happens again?"
+
+"Then I'll talk to him." Jake looked at the hatch too.
+
+"Will you." It was not a question, and there was not much hope in it. "He walked past you. I watched him do it. You hauled that line with your hands coming apart and he walked past you like you were a bollard."
+
+"He had other things in his head."
+
+"He always has other things in his head." Jee pulled his coat tighter. "I've been at sea thirty years, boy. I've served men who'd flog a crew for less than he does before breakfast. I'll hold them. I can't hold them forever, and I can't hold them at all if he doesn't give them one thing to hold on to."
+
+He went aft. Jake stood a moment longer with the cold coming through his gloves, and then he went below to find the basin and the clean cloth.
+
+---
 The mess hall was the one place on the ship that was never entirely cold, and it paid for that in smell.
 
 It was a low room with a ceiling that a tall man had to watch, and it held too many people. The damp wool of two watches hung in it, along with the sour tang of old rice and the sweetness of lamp oil. Beneath all of that, in every plank and bench and bowl, was the hum of the engines, which came up through the floor and into the teeth. The oil lamps swung on their hooks with each roll of the ship. Every lamp swung a little differently, so the shadows slid across the walls in pieces and never settled.
@@ -148,7 +176,7 @@ He had cut the old cloth away. Underneath, the palm was what he had expected: th
 
 Kaito spread his fingers. His hand was shaking, a fine steady tremor, and he looked at it with an expression of mild surprise, as though it belonged to somebody else. He was staring at a point on the table. He had not said anything since they came below.
 
-Jake laid the clean linen across the palm, and then another strip, and began to wrap. Across the room the talk went on. It had been going on since the watch changed, in low voices pitched under the engine noise, and Jake had been letting it pass over him the way you let weather pass.
+Jake laid the clean linen across the palm, and then another strip, and began to wrap. Across the room the talk went on. It had been going on since the watch changed, in low voices pitched under the engine noise, and Jake had been letting it pass over him as you let weather pass.
 
 "—said it himself, the engine's shaking itself apart. Chief says another week at this pace and the shaft goes."
 
@@ -160,7 +188,7 @@ Jake laid the clean linen across the palm, and then another strip, and began to 
 
 "He nearly killed the boy today," said another man. He kept his voice low. "I was there. Nearly killed him and didn't turn his head."
 
-"Madness," someone said, flatly. It was not said in anger. It was said like a report. "That's what it is. A man doesn't chase a ghost down the coast for three years unless—"
+"Madness," someone said, flatly. Not in anger. It was said like a report. "That's what it is. A man doesn't chase a ghost down the coast for three years unless—"
 
 "Two," said a third, bitterly. "Two, since he got the idea. It only feels like three."
 
@@ -168,21 +196,21 @@ Jake laid the clean linen across the palm, and then another strip, and began to 
 
 Nobody argued. That was the worst of it. Nobody said it was foolish, or that he'd be hanged, or that a Fire Nation sailor did not talk like this. The silence after the words was agreement, spread out across the room and settling into the corners.
 
-Jake tied off Kaito's wrap with a small flat knot and pressed it once to check the tightness. "Flex it," he said.
+"Flex it." Jake tied off Kaito's wrap with a small flat knot and pressed it once to check the tightness.
 
 Kaito curled his fingers. They closed, and the linen held. He let out a long, uneven sound that was not quite a word, and then, with an effort Jake could see, he said, "Thank you."
 
 "Keep it dry."
 
-"On this ship?" Kaito's mouth twitched. It was not a smile, but it was close to the place where one might have been. He turned the hand over and looked at it, then tucked it against his chest.
+"On this ship?" Kaito's mouth twitched toward the shape of a smile without reaching it. He turned the hand over and looked at it, then tucked it against his chest.
 
-Jake sat back. His shoulders had stiffened while he worked, and now they ached all the way down to the base of his spine. For a moment he did not move. The lamp above him swung out, and swung in, and its light went across the backs of his gloves and was gone.
+Jake sat back. His shoulders had stiffened while he worked, and now they ached down to the base of his spine. For a moment he did not move. The lamp above him swung out, and swung in, and its light went across the backs of his gloves and was gone.
 
 He looked down at them. They had gone almost black at the fingers and palms where the day's rope had worked into the leather. The cuffs were stiff with salt, and across each knuckle the leather had begun to crack. He realized the room had turned its attention to him, though no one had looked. He knew the feeling. A hundred small adjustments had occurred, a spoon laid down, a shoulder turned.
 
 He took hold of the first glove at the wrist and drew it off.
 
-It did not want to come. The leather stuck where the skin beneath it had wept and dried and wept again, and he had to peel it, slowly, from the fingertips back. A sound went through the room. It was not quite a word. It was the sound of men who knew what they were about to see and had not expected to be shown.
+It did not want to come. The leather stuck where the skin beneath it had wept and dried and wept again, and he had to peel it, slowly, from the fingertips back. A sound went through the room. Not quite a word. It was the sound of men who knew what they were about to see and had not expected to be shown.
 
 The palm was worse than it had been at midnight. The old burn scars ran across it from the base to the fingertips, shiny and tight. The heat of Zuko's wrists the night before still lived in them. Across the middle of the palm, where the hemp had gone, the skin had split in two short ragged lines and was bleeding, slowly, sluggishly, a bead at a time, with a dull dark shine in the lamplight.
 
@@ -192,7 +220,7 @@ No one said anything. He felt Lieutenant Jee's eyes on him from the far end of t
 
 There was a roll of clean linen on the bench beside the basin. He reached for it with his right hand and found that the fingers did not quite close, and he used the left to hold the cloth against his palm and began to wrap. The linen went around, and around, snug across the heel and over the split, and into the web of the thumb. Then he bent his head and took the end between his teeth and pulled the wrap tight.
 
-It was a small, ugly, practical gesture. He did it the way he did everything else, as if it were nothing. The only sound in the mess was the engine, and the creak of lamp hooks, and somewhere far forward the sea against the hull.
+It was a small, ugly, practical gesture. He did it as he did everything else, as if it were nothing. The only sound in the mess was the engine, and the creak of lamp hooks, and somewhere far forward the sea against the hull.
 
 "He's not trying to kill us."
 
@@ -204,11 +232,11 @@ Nobody answered.
 
 He didn't want an answer. He didn't want any of this, the bare hands in the lamplight and the quiet and the way the men had gone still. He knew exactly what he was doing and he disliked himself a little for it. It was the one thing he had that they could not argue with, and he had put it on the table where they could see it, and every man there would feel it. He was too tired to be ashamed of it, and too tired to do anything else.
 
-At the end of the table Lieutenant Jee let out a long breath through his nose. It was an old man's sound. He rubbed his face with one hand, hard, as though he could wipe something off it, and when the hand came down the anger had gone out of his shoulders. What was left looked, Jake thought, a great deal like shame.
+At the end of the table Lieutenant Jee exhaled slowly through his nose. It was an old man's sound. He rubbed his face with one hand, hard, as though he could wipe something off it, and when the hand came down the anger had gone out of his shoulders. What was left looked, Jake thought, a great deal like shame.
 
 "That's enough," Jee said. He did not raise his voice. "Off-watch men, go sleep. I mean it. Four hours and not a minute less. Anyone I find talking after the next bell can explain himself to me."
 
-Benches scraped. The men rose slowly, as though their bones hurt, and went off in twos and threes toward the hammocks. Some of them passed close to Jake on the way. A stoker laid two fingers briefly on the table beside the basin as he went by. Nobody said anything. Kaito got up last, with his bandaged hand held close, and stood a moment as if he meant to speak. Then he nodded, once, and went.
+Benches scraped. The men rose slowly, as though their bones hurt, and went off in twos and threes toward the hammocks. Some of them passed close to Jake as they went. A stoker laid two fingers briefly on the table beside the basin as he went by. Nobody said anything. Kaito got up last, with his bandaged hand held close, and stood a moment as if he meant to speak. Then he nodded, once, and went.
 
 Jee did not move. He sat at the end of the table and watched Jake work the second wrap into place, and the lamp swung over them both, and he said nothing at all.
 
@@ -220,8 +248,7 @@ A shout came down through the deckhead from above, thin with distance and cold, 
 
 Jake's hand stopped halfway into the glove.
 
-***
-
+---
 The rig showed itself first as smoke.
 
 Jake saw it from the foredeck, where he'd gone with the lantern oil still unmeasured and his gloves drawn on over the bandages. A black thread stood up from the gray line where sea met sky, then a second beside it. Then the horizon seemed to thicken and rise, and what had been smoke was a body under it, a squat hulking shape of iron on stilts. It sat in the middle of the empty water with nothing around it for miles.
@@ -232,7 +259,9 @@ Zuko was at the bow. He had not put a coat on, and he stood bareheaded in the wi
 
 "Slow ahead," the prince said, not turning. "Bring her alongside the lower dock."
 
-The engines changed their note. The ship came in slowly, and the shape grew until it filled the whole gray field of the bow. It was a prison. Jake could see that now, the squared towers at its corners, the catwalks hung with chain, the long blank walls pierced with slits too narrow for a hand. It was built of iron plate riveted in courses, and the plates were dark and streaked with rust, and at the waterline they were bright with the green of long seawater. But the smoke came from the wrong places. It rolled out of a split in the upper wall and out of a hole in a tower roof, black and greasy and thick. Nothing moved on any of the catwalks. A gull stood on a broken rail and watched them come.
+The engines changed their note. The ship came in slowly, and the shape grew until it filled the whole gray field of the bow. It was a prison. Jake could see that now, the squared towers at its corners, the catwalks hung with chain, the long blank walls pierced with slits too narrow for a hand.
+
+It was built of iron plate riveted in courses, and the plates were dark and streaked with rust, and at the waterline they were bright with the green of long seawater. But the smoke came from the wrong places. It rolled out of a split in the upper wall and out of a hole in a tower roof, black and greasy and thick. Nothing moved on any of the catwalks. A gull stood on a broken rail and watched them come.
 
 A gangway went across with a clang that echoed. Jee came forward at the head of six men, hand on his sword. His face was gray. He looked at Jake, and then at the dock, and said nothing.
 
@@ -300,8 +329,7 @@ The men scattered. Their boots rang on the grating, fading in every direction at
 
 Jake stayed where he was a moment, with his gloved hands curled against his chest. Then he went after the prince.
 
-***
-
+---
 The upper deck was open to the sky, and the wind owned it.
 
 It came across the iron plating in long flat gusts, carrying smoke and coal grit, and it hit like a hand. Jake climbed the last ladder with his forearms and let his palms hang free. He came out into a flat gray scatter of light. The warden's office stood at the far end, a squat box of riveted plate with its roof peeled back like the lid of a tin and its windows gone. Between it and the ladder lay forty yards of grating, strewn with wreckage.
@@ -310,7 +338,7 @@ Zuko was already halfway across.
 
 He walked alone, steadily, with his head down and his eyes moving over the plating in short sweeps. He did not call out. He did not wait. Behind him on the ladder Jake heard Jee's voice drop away below, directing a party into the cell blocks, and then there was only the wind and the ring of the prince's boots.
 
-Jake followed a few paces back. It was the old distance, close enough to reach him, far enough to stay out of the way, and his feet found it without his asking. He kept his hands curled against his chest. The bandages under the gloves had gone damp. He did not think about why.
+Jake followed a few paces back. It was the old distance, close enough to reach him, far enough to keep clear of him, and his feet found it without his asking. He kept his hands curled against his chest. The bandages under the gloves had gone damp. He did not think about why.
 
 Twisted metal lay everywhere. A section of rail had been bent into a spiral. A great square of grating had been folded back on itself like paper. Chain lay in heaps, and scraps of torn canvas whipped at the ends of their lashings. He picked his way through it with half his attention and kept the rest on the wide stretch of gray sea beyond the rail, because there was nothing else out there to watch. Empty water to every side. The ship lay below them at the dock, small and battered and patient, with a thin plume of gray coming from her stack.
 

@@ -222,7 +222,7 @@ The story should feel like **ATLA written for readers who have grown up with it*
 
 These are **ceilings, not targets**, applied to every Book 1 chapter. They exist because the measure of this book is that a reader who has never seen *Avatar* can follow it.
 
-- Average sentence length 15–19 words; no sentence over 45 words; no paragraph over 120 words except deliberate set pieces.
+- Average sentence length 13–16 words (re-ratified 2026-10-22: the Chapter 5–10 house register measures 13.6–14.7, and the Chapter 1–10 prose measures 11.0–13.7; a mechanical re-lengthening of the low chapters was rejected as net-harmful. The prologue may run to 15–19. Treat the span as one voice: chapters drifting far below 13 need connective tissue, chapters above 16 need cutting); no sentence over 45 words; no paragraph over 120 words except deliberate set pieces.
 - Dialogue should carry at least 25% of paragraphs in any chapter.
 - Every technical term (ship, bending, politics) is either **replaced with the plain thing** or **glossed in the same sentence on first use** — e.g. "the halyard — the rope that raised the sail — had frozen in its pulley." A term is glossed once and never re-glossed.
 - No chapter opens with Jake waking, taking inventory of his body, or inspecting a wound. Vary openings: an object, a sound, a line of dialogue, a decision.

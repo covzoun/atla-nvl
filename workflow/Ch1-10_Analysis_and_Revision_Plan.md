@@ -239,7 +239,7 @@ Write these into `base/Style_Guide.md` as a new "Reader Clarity" section. They a
 
 Work in this order. It front-loads the chapters that set the reader's expectations.
 
-1. Prologue — **drafted 2026-10-18 at `chapters/Chapter_00.md`**, awaiting Gate 1 review. Naming decided: front matter lives in `chapters/` beside the numbered chapters (`Prose/Prologue.md` rejected). All six canon beats on-page; 2,543 words; Reader Clarity metrics pass (avg sentence 17.7, zero sentences >45, dialogue 26%, em dashes 1).
+1. Prologue — **written at `chapters/Chapter_00.md`; revised 2026-10-21 and now free of re-staging overlap with Chapter 12.** Naming decided: front matter lives in `chapters/` beside the numbered chapters (`Prose/Prologue.md` rejected). All six canon beats on-page; 2,543 words; Reader Clarity metrics pass (avg sentence 17.7, zero sentences >45, dialogue 26%, em dashes 1).
 2. Chapter 1 — regenerate.
 3. Chapter 2 — expand and rewrite.
 4. Chapter 3 — continuity and line edit.
@@ -340,3 +340,5 @@ Original Pass 0 checklist (kept for audit trail):
 Pass 0 changes no prose and makes every later decision testable. The first prose work is then the prologue, followed by Chapter 1, because those two set the reader's contract for the whole book.
 
 **Status update 2026-10-18 (later) — prologue drafted.** `chapters/Chapter_00.md` ("The Agni Kai", 2,543 words, Jake POV) is written against `workflow/Canon_Beat_Sheets.md`; all six beats verified on-page and in order, locked rulings preserved (Iroh maneuver outcome-only for Chapter 12, Azula unnamed with no clean read, no mask material, involuntary-only cell scene so the Year 1 "cooling his hands" first-use lock survives). Self-lint green against the §6.1 / Style_Guide ceilings. **Pending: human Gate 1 read and the §6.6 comprehension test, then Chapter 1 regeneration.**
+
+**Status update 2026-10-21 — Chapters 0–10 revised; see `workflow/Ch1-10_Revision_Log.md` for the chapter-by-chapter record.** The prologue's two defects were fixed (Agni Kai glossed, war-council cause returned to canon's sacrifice of new recruits). Chapter 1 was regenerated properly at 8,166 words with all five blueprint scenes and its Katara interlude; it had been a 2,638-word partial covering three of five scenes with no dramatised light and several quotation bugs. Chapters 2–4 were rebuilt to the line standard; 5–7 were targeted; 10 gained its locked patrol beat. Chapters 8 and 9 remain above the length band — their cuts are the largest outstanding item. The four Gaang interludes (Ch 1, 4, 5, 10) are written and inserted. Chapter 12's instruction to re-stage the Agni Kai was removed from the Macro Map and replaced with an anti-duplication lock: the prologue is the only staging of the duel, and Chapter 12 carries the telling and the aftermath. Expectations of a human Gate 1/Gate 2 read are unchanged.

@@ -24,6 +24,8 @@ Purpose: for each Book 1 chapter, the five to eight **canon events that must sur
 
 **Constraint:** must not resolve anything the Chapter 12 flashback is locked to carry (Iroh's maneuver detail, Azula's aftermath inference can stay summary-level; Azula does not instantly identify Jake as a waterbender — `Canon.md` Azula limit).
 
+**Anti-duplication lock (2026-10-21):** the prologue is the only on-page staging of the duel. Chapter 12 keeps canon's *telling* (Iroh to the crew) and Jake's aftermath memory; it must not render Ozai's punishment, the intervention, the first bending, or the burning again. See `Book_1_Macro_Map.md` Chapter 12.
+
 ---
 
 ## Chapter 1 — "The Reality of Exile" (Ep 1: The Boy in the Iceberg)
@@ -182,5 +184,24 @@ Purpose: for each Book 1 chapter, the five to eight **canon events that must sur
 1. Every required beat **present, in order, unaltered** (structural edits may change *packaging*, never the event).
 2. No chapter actor learns an [off-screen] beat's content unless a later canon moment legitimately informs them.
 3. Overlays must respect Macro Map locks and knowledge limits (`State_Tracker.md` records what actually got known when).
-4. The `Ep` synopses in `source/Season 01/` are the authority for [off-screen] and [on-page] canon content; the sheet marks where each sits.
-5. Chapters 11–20 get their sheets as they are planned (add below this line, same format).
+4. The `Ep` synopses in `source/Season 01/` are the authority for [off-screen] and [on-page] canon content; the sheet marks where each sits.5. Chapters 11–20 get their sheets as they are planned (add below this line, same format).
+
+## Chapter 12 — "The Quiet at the Center" (Ep 12: The Storm)
+
+Sheet built 2026-10-22 for the draft at `chapters/Chapter_12.md` (7,412 words at first assembly, 7,515 after the ceiling pass, Jake POV) and checked against the draft before the gates.
+
+| # | Beat |
+|---|------|
+| 1 | Iroh predicts the storm and asks for a course change to the coastal anchorage; Zuko refuses: the Avatar comes before the crew's safety; Jee overhears; Iroh covers for Zuko with Jee. [on-page] |
+| 2 | The storm arrives broadside; Jee confronts Zuko at the bow — respect, "spoiled prince"; Zuko challenges him to an Agni Kai; Iroh separates them with a pot of noodles; Zuko refuses Iroh's hand. [on-page] |
+| 3 | Jake's ship-side storm work, open bending under crew cover: mornings' pump relay, flooded forepeak bailed by bending with a stoker matching him bucket for bucket, parted spar line caught flat against the mast so the watch can belay it. [on-page] |
+| 4 | Below decks the crew vents around the stove; Iroh tells them Zuko's story — the councils at eleven, the recruits division, the challenge, the opponent revealed as his father, the kneeling refusal, "suffering will be your teacher"; Jee's "training accident" belief; the banishment and the hunt as his hope. [on-page] |
+| 5 | AU lock inside beat 4: Iroh's telling covers Zuko's layer only and never names the waterbender in the ring; the crew does the arithmetic silently and closes ranks (Jee: none of it goes above decks); Jake's own memories surface only as clause-level flashes (the corridor of generals, the room with a grate window). [on-page, per Macro Map Ch 12 anti-duplication lock] |
+| 6 | Lightning strikes the ship; the helmsman hangs under the fouled crow's nest; Zuko and Jee climb; Iroh walks into the open and redirects the bolt; the helmsman falls and Zuko catches his wrist and rides the fall down to the mast collar. [on-page] |
+| 7 | The eye: sound-off by department, forepeak dry, Zuko's shoulders down; Zuko's apology to Iroh. [on-page] |
+| 8 | Appa bursts up inside the eye with three riders; boy and prince lock eyes; Zuko lets him go and gives the course for safer waters and thanks the crew; Jee's fist over his own heart at the ladder. [on-page] |
+| 9 | Aftermath: the shore of the omission holds — the burned stoker boy starts the forbidden question and Jee closes it with rope work; Iroh's tea by name; Kaito's "Tea's hot below"; end on dialogue and the ship going north. [on-page] |
+
+**Knowledge limits honored:** Iroh does not expose Jake's origin or layer to the crew; no Book 1 scene re-stages the Agni Kai (the duel exists only in Iroh's telling, as dialogue); no interlude in this chapter (locked to Chapters 1, 4, 5, 10). **Sequel seeds:** crew morale re-anchored; Jee's fist-over-heart gesture goes unremarked by prose; the helmsman's marked wrist; the davit loss leaves the ship boatless; Chapter 13's storm-adjacent injuries begin clean.
+
+
