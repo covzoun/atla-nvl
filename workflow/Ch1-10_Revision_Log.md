@@ -97,8 +97,10 @@ The locked external beat is now written: a six-man Fire Nation patrol sweeps pas
 | 08 | 8,371 | 12.1 | 42 | 0 | 25.2% | 0.1 | 1 |
 | 09 | 9,496 | 10.8 | 44 | 0 | 37.6% | 0.9 | 3 |
 | 10 | 7,240 | 13.1 | 43 | 0 | 30.5% | 0.7 | 3 |
+| 11 | 7,221 | 13.4 | 45 | 0 | 52.9% | 0.6 | 2 |
+| 12 | 7,542 | 13.9 | 45 | 0 | 47.0% | 1.9 | 3 |
 
-All eleven chapters are inside their bands (prologue 2,000–3,000; Chapters 1–10 at 7,000–8,500 with Chapter 9's 10,000 tentpole allowance), every ceiling in `Style_Guide.md` / plan §6.1 is met, and the dialogue floor (25% of paragraphs) holds in all chapters, with Chapters 2, 6 and 8 the closest at 25.2–26.3%.
+All thirteen chapters are inside their bands (prologue 2,000–3,000; Chapters 1–10 and 11–12 at 7,000–8,500 with Chapter 9's 10,000 tentpole allowance), every ceiling in `Style_Guide.md` / plan §6.1 is met, and the dialogue floor (25% of paragraphs) holds in all chapters, with Chapters 2, 6 and 8 the closest at 25.2–26.3%.
 
 ## Closed items (2026-10-22, final pass of this revision)
 
@@ -111,7 +113,7 @@ All eleven chapters are inside their bands (prologue 2,000–3,000; Chapters 1�
 
 ## Open items, stated plainly
 
-- **Chapter 11 is still an unwritten placeholder** (`chapters/Chapter_11.md`). Its macro-map state (morale bottomed, weather souring, shore party back aboard) is assumed as backstory by the Chapter 12 draft; drafting Chapter 11 prose will not require changing any Chapter 12 beats, but the two must be read in sequence at Gate 2.
+- **Chapter 11 is now drafted** (`chapters/Chapter_11.md`, "The Divide Below Decks", 7,221 words) — see the addendum below. It has not cleared Gates 1–3; it and Chapter 12 have now been sequenced against each other, but they must still be read in sequence at Gate 2.
 - **The Chapter 12 draft awaits the pipeline** (Phase 1/Gate 1 against its new beat sheet, then Gate 2) and a tracker re-derivation at Gate 3.
 
 - **Chapter 9 no longer opens on wound care (addressed 2026-10-22: the chapter opens on the sound of the ragged sparring through the deck, wound care folded in as the second beat, the "listening from two rooms" bridge turned into the opening frame).**
@@ -140,7 +142,90 @@ The chapter's first paragraph now opens on the ragged sparring overhead as a sou
 - **Follows the Macro Map locks.** The Agni Kai is never re-staged: Iroh's storm-night telling covers Zuko's layer only, the waterbender in the ring is never named, and Jake's own memory surfaces only as clause-level flashes (the corridor of generals; the room with a grate window). Aftermath-flash limit honored.
 - **The crew's arithmetic is silent.** Kaito, the stokers and Jee do the sum about the ring without asking Jake anything; Jee's line closes it: "that goes no further than this deck." The knowledge ledger from Chapter 9/10 (Gaang knows a waterbender fights for Zuko, no name/origin) is untouched.
 - **Continuity carried in:** the ship limp (pump relay, cracked housing, no boats after Chapter 9's launch loss), Jake's bound left hand, Zuko's gray wrist wraps, the shore-party reunion left implicit off-page, Jee's bruised rib from Chapter 9, Kaito's forearm burn.
-- **Chapter 11 dependency.** `chapters/Chapter_11.md` is still an unwritten placeholder; this draft quietly absorbs the macro-map state at the top of Chapter 11 (morale bottomed, weather souring, false-lead exhaustion) as backstory and does not stage its scenes. Drafting Chapter 11 prose will not require changing any Chapter 12 beats; it may require resynchronizing the first scene's word-of-mouth.
+- **Chapter 11 dependency.** `chapters/Chapter_11.md` was an unwritten placeholder when this draft was written; it has since been drafted (see addendum item 4). The Chapter 12 draft absorbed the macro-map state at the top of Chapter 11 (morale bottomed, weather souring, false-lead exhaustion) as backstory rather than staging its scenes, and the Chapter 11 draft has now been sequenced against it: no Chapter 12 beat changed, and the two-line edits to Chapter 12's opening are recorded in addendum item 4.
 - **Tracker.** `State_Tracker.md` was NOT re-derived from the draft (unchanged at Chapter-10-complete). Tracker seeds for Chapter 12 (crew morale re-anchored, Jee's fist-over-heart gesture, the helmsman's marked wrist, the boatless davit loss) are listed in the beat sheet and will be pushed into the tracker at Gate 3.
 - **Deliberate, accepted echo:** Iroh's telling quotes the prologue's Ozai line "suffering will be your teacher" — flagged by the cross-chapter scan and kept, because the point of the telling is that the reader already heard it at the source.
 
+### 4. Chapter 11 drafted: "The Divide Below Decks"
+
+`chapters/Chapter_11.md` (7,221 words, Jake POV, no interlude) written against the Macro Map B-plot anchor for the Episode 11 slot, with a new beat sheet in `workflow/Canon_Beat_Sheets.md` and the title recorded in `base/Book_1_Chapter_Index.md` first, per the 2026-10-18 title rule.
+
+- **Episode 11 stays off-screen.** The Gaang's canyon crossing, the two tribes and the football feud happen off-screen; no character aboard knows or guesses any of it. There is no interlude in this chapter — the locked exception is Chapters 1, 4, 5 and 10.
+- **The chapter's spine is the ship's arithmetic, not a montage.** The shore party returns with a bust (a dead Fire Nation camp, a deer path that stopped), one soldier's heel has gone bad, and the prince goes below without a word. The coal is down to four days of hard steam, the pump is on a two-man relay, and the crew does the sum out loud in small voices. Jee asks for ten minutes at the rail; the door does not open; Jake lies to him. The complaint is planted and stays planted — Chapter 12 breaks it.
+- **Jake has agency and a cost.** He rations, binds, mediates, takes the pump relay himself for three nights, and tells Jee one lie he cannot keep. The chapter's last image is the birds and the count, with the sum not closing.
+- **Continuity carried in:** the shore party of three soldiers (Chapter 10's composition), the bad heel bound in Chapter 10, the cracked housing and the one working port pump, no boats since Chapter 09, Jake's rebound left palm, Jee's bruised rib, Kaito's forearm burn, the crew count (twelve men around the stove in Chapter 12, eleven other men at the ration tin here).
+- **Seam to Chapter 12 verified.** The gulls are established here and are still there — low, inland, one direction, and in sight of the ship though they will not come back to it — at the last line, so Chapter 12's opening departure is not pre-empted. The pump relay, the two-man relay, the coal counted once a day here against twice a day in Chapter 12, the hull sighting three times on the haze (Zhao's line working the same coast) and the big island man's unstated inability to swim all carry across without contradiction.
+- **Three small edits to Chapter 12 were required for the seam** and are recorded here: the opening line's day-count ("The gulls left two days out of the river valley") was removed, because the ship's own arithmetic puts them roughly a week out of that valley; the stoker boy's identifying phrase was shortened to match this chapter's usage; and the coal figures were put on the right sides of the disagreement (see addendum item 5).
+- **Chapter 12 tracker seeds** (crew morale re-anchored, Jee's fist-over-heart gesture, the helmsman's marked wrist, the boatless davit loss) and **Chapter 11's** (four days of hard steam, the two-man relay, Jake's broken promise to Jee, the glass falling, the third false lead) are listed in the beat sheets and are pushed into `State_Tracker.md` at Gate 3. The tracker itself still reads "Chapter 10 complete".
+- **Metrics (sentence-accurate splitter `tools/sent.py`):** 7,221 words, average sentence 13.4, longest 45, none over 45, 259 paragraphs with none over 120, dialogue 52.9% of paragraphs, em dashes 0.6 per 1,000 words, "the way" 2, no split contrasts, no "quietly", no "not just". The cross-chapter 6-gram scan shows no Chapter 11/12 echoes left; the three remaining Chapter 11 hits elsewhere are generic connective phrasing ("he said it like a man", "there was a red line", "and stood at the edge of"). (Figures are the post-second-pass numbers; see addendum item 6.)
+
+
+### 5. Chapter 11 ↔ Chapter 12 sequencing pass (2026-10-22)
+
+The Chapter 11 draft and the Chapter 12 draft were read against each other and the Chapter 11 blueprint was reconciled with the prose it produced. No Chapter 12 beat moved.
+
+**Prose fixes in Chapter 11**
+- **Gulls.** The birds were said to "not come back" in the same chapter that ends with them still overhead at midnight — a flat contradiction on the one image Chapter 12 opens on. They now refuse to come back to the ship but stay in sight of it, which is what the last line needed all along.
+- **Jee's shore watch.** "Had taken the noon watch off them when they had not shown" read backwards — a watch stood down *because* the party had not arrived. It now reads as the watch doubled at noon when the party failed to show, and the two men are sent out over the shelf (the ship has had no boat since the launch went over the falls in Chapter 09, so they wade).
+- **Sentence ceiling.** The paragraph describing the ship at anchor ran 47 words on the crude splitter; it is split in two at the sentence boundary.
+- **Cross-chapter echo.** "The big island man, who could not swim" repeated Chapter 12's identification line verbatim across the seam. Chapter 11 now reads "who had never once said so", which points back at the earlier line in the same chapter where the fact is established and leaves Chapter 12's identification fresh.
+
+**Prose fix in Chapter 12**
+- **Coal figures.** The opening said the chief's optimism "put them eight days out under easy steam and four out under hard", which made the optimistic count the smaller one and contradicted Chapter 11, where the chief calls it five days at hard steam and Jake says four. The chief's figure was moved onto the optimistic side of the disagreement and Jake's onto the pessimistic side; the absolute figures were moved a day down in addendum item 6, which is the state the chapters now carry.
+- **"The forward head."** The chapter's second sentence opened on a term the book had never used and never glossed ("head" for a ship's toilet), in the sentence a reader crosses from Chapter 11 into. It is now glossed once, in the plain style the Style Guide asks for, and not re-glossed.
+
+**Blueprint reconciliation (`outlines/Chapter_11_Blueprint.md`)**
+- Scene 1's action beat said the prince "goes straight below without a word to anybody, including Jake", which contradicted both the draft (he says one line — "Get the anchor up. We go north.") and the blueprint's own relationship beat. The beat now matches the draft.
+- The timeline line said "four to six days of running north"; the draft runs six days from the anchor coming up to the last night, so the blueprint now says six.
+- Added a continuity touchpoint for Zhao's hulls (three sightings: two on-page, one earlier in the week) so Chapter 12's "sighted three times" closes the count instead of starting a new one, and the gull touchpoint now states that the birds must still be in sight at the last line.
+- The final verification list carries the coal-count seam (once a day here, twice a day from Chapter 12) and the hull count.
+
+**Verification after the pass.** `tools/sent.py` — Chapter 11: 7,221 words, average sentence 13.4, longest 45, none over 45, 259 paragraphs with none over 120, dialogue 52.9%. Chapter 12: 7,542 words, average sentence 13.9, longest 45, none over 45, 200 paragraphs with none over 120, dialogue 47.0%. `tools/metrics.py` — em dashes 0.6/1k and 1.9/1k, "the way" 2 and 3, no "not just", no "quietly". `tools/dupscan.py` — no 6-gram shared between Chapters 11 and 12. (Numbers are the post-second-pass figures; see addendum item 6.)
+
+
+### 6. Second Chapter 11 ↔ Chapter 12 pass (2026-10-22)
+
+A second read of the two drafts against each other, against the Chapter 11 blueprint, and against the tracker's established facts. The first pass had fixed the seams; this pass found what the first pass introduced, plus five errors that were already in the drafts.
+
+**Chapter 11 — prose fixes**
+- **Gulls: the opening was circular.** The first sentence put the gulls and the wading men in the same breath, then said the gulls "were the first thing that told Jake anybody was coming" — about men the reader had already been shown. The gulls now come first on their own, gathered on the water in the dark where nothing is ("gulls do not sit on the sea at night"), and the men arrive after. The image also now earns the flush that follows.
+- **"Ragged white sheet."** The gulls took off "in a ragged white sheet" — an image built for a flock, against a ship with three or four birds, and "sheet" is this chapter's standing word for the sea sweeping the deck. It now reads "went up off the water together without making a sound, which gulls do not do."
+- **The gulls' loop.** The birds flew off until they were specks and were still over the water at midnight, with no explanation of how they got back. They now swing back across the bow, low and in line, and go on inland — circling ahead of the storm, which is what a bird does before bad weather.
+- **The chief's coal argument contradicted itself.** The chief said "That's five days at hard steam," was answered "It's four," and then said "Four at hard. Five if the weather's kind" — the optimist conceding the smaller number while holding out the larger. The concession line is gone; the chief now holds five for as long as the weather allows, Jake holds four, and "It's not kind" kills the five.
+- **The ration scene contradicted itself.** One paragraph had the ration set out in a row of bowls for the men to take their own, the next had the men standing in a line while a boy counted shares out of a tin. The tin and the bowls are now one act: a boy counts the shares out of a tin into the bowls, and the men take their own and no more. The paragraph was split to stay inside the 120-word ceiling.
+- **The prince's door.** "Jake heard his door shut, down the aft passage" — Jake is on the beach at that point and could not hear an aft-passage door. The narration now reports the door shutting without putting the sound in Jake's ears, and the prince goes up "the ladder at the bow" instead of "up the side of the ship."
+
+**Chapter 12 — prose fix**
+- **The coal figures were a day stale.** Chapter 11 ends on the night of day six with four days of hard steam; Chapter 12 opens the next morning. The chief now carries nine days easy and four hard and Jake seven and three — one day down from the pair Chapter 11 ends on — and the paragraph says so: "They had burned a day of it since the count in the hold." The gap between the two counts (a quarter ton) is unchanged, and the paragraph was split so it stays inside the paragraph ceiling.
+
+**Blueprint reconciliation (`outlines/Chapter_11_Blueprint.md`)**
+- Scene 1's gull beat now matches the new opening (gathered on the water, silent flush), and Scene 5's gull beat records the swing back across the bow.
+- Scene 2 said the chief and Jake "never say the other's figure out loud"; they do say the figures to each other, in the dark, and the point is that they never say them in front of the men. The beat now says that.
+
+**Verification after the pass.** `tools/sent.py` — Chapter 11: 7,221 words, average sentence 13.4, longest 45, none over 45, 259 paragraphs with none over 120, dialogue 52.9%. Chapter 12: 7,542 words, average sentence 13.9, longest 45, none over 45, 200 paragraphs with none over 120, dialogue 47.0%. `tools/metrics.py` — em dashes 0.6/1k and 1.9/1k, "the way" 2 and 3, no "not just", no "quietly", no split contrasts. `tools/dupscan.py` — no 6-gram shared between Chapters 11 and 12. `tools/verify.py` still reports two and three over-length "sentences" per chapter; that is its known artifact (it glues dialogue to the following narration), and the quote-aware `tools/sent.py` is the canonical measure.
+
+
+### 7. Third Chapter 11 ↔ Chapter 12 pass — continuity audit (2026-10-22)
+
+A third read of the two drafts against each other, against the Chapter 11 blueprint, against the tracker's established facts and against canon. This pass found five logic errors (two of them introduced by the second pass), one canon slip and one dangling reference. No beat moved in either chapter.
+
+**Chapter 11 — prose fixes**
+- **The shore party was six people, not five.** "Four men came up out of the water" was followed by "the three ahead and on to the man in the channel", which put five men in the water besides Jake. The party is five (Jake, the prince, three soldiers), so three men come up and the bad heel is the fourth, still in the channel.
+- **The shore watch contradicted the patrol lantern.** The second pass had put two men on the beach at dawn and doubled them at noon, which left them on the sand when the patrol lantern worked that same beach four hours later — and would have added four more bodies to the water on the chapter's first page. The watch is gone: the gulls are the signal that the party is out, which is what the chapter's first sentence already said. Jee's anxiety now rides on the four days of nothing rather than on men on the sand.
+- **The raft paragraph contradicted itself.** "A raft was a thing you built when you meant to need it, not a thing you carried around" sat two sentences after the crew spent a day getting one back into the hold. The raft is now built during the three-day dry dock (Chapter 10) and stowed in the hold where it still is, and the irony is carried by the last clause.
+- **Two men with forearm burns.** Kaito carried "a burn on his forearm" and the stoker boy carried "a burn the length of his forearm" — in a chapter that names both, and in a Chapter 12 whose roster line puts Kaito's burn next to "the boy with the burn" in every later paragraph. Kaito's burn is now on his shoulder; the boy's stays on his forearm.
+- **The big island man was in Jee's paragraph.** "The sea came over the rail and went away again, and the big island man ... watched the water" landed in the middle of a paragraph about Jee and read as Jee being re-described. He is now a few feet off, standing apart.
+
+**Chapter 12 — prose fixes**
+- **The coal belief was on the wrong number.** "Jake's own figures were seven and three, and the seven was the one he believed" made Jake believe the easy-steam figure — the optimistic one. Chapter 11 ends with him holding the *hard* figure against the chief (four against five), so the sentence now reads "and the three was the one he believed". The cause of the disagreement is also stated now: the chief's count runs a quarter ton high and he reads the same pile as burning slower than it will.
+- **"Easy steam" was unglossed.** The chapter used easy steam against hard steam for the first time, in the sentence a reader crosses the seam on. It is glossed once — the ship barely under way.
+- **A dangling plural.** "We've all seen them" followed "a sixteen-year-old boy" (Zuko: sixteen, the prince with the boat), so "them" had no antecedent, and the line could be misread as being about the Avatar — who is twelve in this book. It now reads: "A sixteen-year-old boy with a boat, and his father gave him men to lose."
+- **Canon slip.** "My brother's on the Northern Expedition" named a Fire Nation campaign canon does not have in Book 1: no canon event carries that name, and the northern operation canon knows (Zhao's siege of the Northern Water Tribe) is later and is not something a sailor on this ship would know. The boy now says his brother is in the army and went north last spring, which keeps the beat — another man spent by the same war — inside canon.
+
+**Blueprint reconciliation (`outlines/Chapter_11_Blueprint.md`)**
+- Scene 1's staging now states the party count (three men out of the water, the bad heel in the channel), that the useless raft is still in the hold from the dry dock, and that nobody is posted on the beach because the gulls are the signal.
+- Kaito's touchpoint moves his burn to his shoulder; the stoker boy's touchpoint now names the forearm as the thing that keeps the two apart.
+- Zhao's hulls touchpoint: the second sighting, on the third night, is the stoker boy with the burn — the prose says boy, not deckhand.
+- The final verification list now carries the coal arithmetic across the seam (nine easy and four hard against seven and three, with the three the one Jake believes) and the party count.
+
+**Verification after the pass.** `tools/sent.py` — Chapter 11: 7,216 words, average sentence 13.4, longest 45, none over 45, 259 paragraphs with none over 120, dialogue 52.9%. Chapter 12: 7,544 words, average sentence 13.9, longest 45, none over 45, 200 paragraphs with none over 120, dialogue 47.0%. `tools/metrics.py` — em dashes 0.6/1k and 1.9/1k, "the way" 2 and 3, split contrasts 0 and 0, no "not just", no "quietly", no stock vocabulary. `tools/dupscan.py` — no 6-gram shared between Chapters 11 and 12. `tools/final_check.py` — stock vocabulary 0 for both chapters, and their loose "not X but Y" counts (20 and 9) sit inside the book's range (Chapter 2: 34, Chapter 7: 27, Chapter 12 is the lowest in the book).

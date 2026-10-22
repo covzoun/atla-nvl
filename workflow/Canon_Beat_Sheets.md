@@ -1,4 +1,4 @@
-# Canon Beat Sheets — Book 1, Chapters 1–10
+# Canon Beat Sheets — Book 1, Chapters 1–12
 
 Date: 2026-10-18
 Purpose: for each Book 1 chapter, the five to eight **canon events that must survive** an adaptation, in order and unaltered. Revisions are checked against these sheets, **not against memory** (revision plan §6.2). A chapter may add, compress, or re-frame around these beats; it may not delete, reorder, or alter them.
@@ -186,9 +186,27 @@ Purpose: for each Book 1 chapter, the five to eight **canon events that must sur
 3. Overlays must respect Macro Map locks and knowledge limits (`State_Tracker.md` records what actually got known when).
 4. The `Ep` synopses in `source/Season 01/` are the authority for [off-screen] and [on-page] canon content; the sheet marks where each sits.5. Chapters 11–20 get their sheets as they are planned (add below this line, same format).
 
+## Chapter 11 — "The Divide Below Decks" (Original B-plot; Ep 11 The Great Divide off-screen)
+
+Sheet built 2026-10-22 for the draft at `chapters/Chapter_11.md` (7,216 words, Jake POV, no interlude) and checked against the draft before the gates.
+
+| # | Beat | Tag |
+|---|------|-----|
+| 1 | The shore party comes back at night: the lead is a bust (a dead Fire Nation camp with a cold ring, a deer path that stopped, a river that leaves no line to read); the soldier whose heel Jake bound in Chapter 10 has gone bad and the salt has got into it. [on-page] |
+| 2 | Zuko comes ashore, says one line — "Get the anchor up. We go north." — and goes below without a word to anyone; the report is a course; the ship runs north at half speed. [on-page] |
+| 3 | The ship's daily arithmetic tightens: the coal counted once a day by the chief and Jake, the chief optimistic, four days of hard steam left; Jake rations rice and flour out of the tin into a row of bowls, gives the stokers the extra half-meal, and puts the pump on a two-man relay. [on-page] |
+| 4 | Below decks the crew does the sum out loud in small voices — not mutiny, arithmetic; Kaito names what the stokers want (sleep) and Jake takes the pump relay himself for three nights. [on-page] |
+| 5 | Jee's near-insubordination: he asks for ten minutes at the rail so the men can see the prince; Jake carries the request; the door does not open; Jake lies to Jee that the prince will see him in the morning. [on-page — the chapter's one moral cost] |
+| 6 | Iroh declines to speak to the prince and gives Jake the cold fact instead: the crew's loyalty is lent to Jake, not to Zuko, and Jake is spending it; the stoker boy with the burn on his forearm watches Jake's hands half a second too long. [on-page] |
+| 7 | Jee does not come to the door at the morning watch; Jake goes and finds him and tells him the truth — the prince will not see him — and Jee holds his answer below decks. The complaint stays planted; Chapter 12 breaks it. [on-page] |
+| 8 | The weather turns for real; the gulls go wrong (low, inland, one direction, and will not come back to the ship, though they stay in sight of it); the glass falls; the birds are still there at midnight. [on-page — the last line hands Chapter 12 its opening image] |
+| 9 | Ep 11 (the canyon, the two tribes, the hundred-year football feud) plays off-screen exactly as canon; nobody aboard learns any of it, not even as a guess. [off-screen — untouched] |
+
+**AU overlay:** no Gaang content and no interlude (the locked exception is Chapters 1, 4, 5 and 10); Zuko is never allowed to explain himself and Iroh is never allowed to fix anything; the stoker boy plants the looking but does not ask the forbidden question — Chapter 12 owns it; the gulls are present and wrong at the last line, so Chapter 12's departure is not pre-empted. **Sequel seeds:** coal at four days of hard steam, the chief's five days against Jake's four; the pump on a two-man relay with Jake sitting the last relay himself; Jake's broken promise to Jee and its cost; Jee's answer held below decks; the burn on the stoker boy's forearm (a boy of seventeen, distinct from Kaito's nineteen, and on the other arm — Kaito's burn is on his shoulder); the glass falling; the hull sighting three times on the haze (Zhao's line, working the same coast); the shore party's dead Fire Nation camp as the third false lead.
+
 ## Chapter 12 — "The Quiet at the Center" (Ep 12: The Storm)
 
-Sheet built 2026-10-22 for the draft at `chapters/Chapter_12.md` (7,412 words at first assembly, 7,515 after the ceiling pass, Jake POV) and checked against the draft before the gates.
+Sheet built 2026-10-22 for the draft at `chapters/Chapter_12.md` (7,412 words at first assembly, 7,515 after the ceiling pass, 7,542 after the Chapter 11 sequencing pass, 7,544 after the third sequencing pass, Jake POV) and checked against the draft before the gates.
 
 | # | Beat |
 |---|------|

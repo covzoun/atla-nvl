@@ -68,8 +68,8 @@ This is the project's **single living continuity document**. It tracks both **st
 
 ## Unresolved Threads
 
-- Chapter 12 ("The Quiet at the Center") exists as a draft at `chapters/Chapter_12.md` (2026-10-22), pending Chapter 11, pipeline production, and human gates — no tracker state derived from it yet; its seeds are listed in `workflow/Canon_Beat_Sheets.md`.
-- Chapter 11 prose remains unwritten (`chapters/Chapter_11.md` placeholder); its macro-map state (morale bottomed, weather souring, false-lead exhaustion) is assumed as backstory by the Chapter 12 draft.
+- Chapter 12 ("The Quiet at the Center") exists as a draft at `chapters/Chapter_12.md` (2026-10-22, 7,544 words), pending pipeline production and human gates — no tracker state derived from it yet; its seeds are listed in `workflow/Canon_Beat_Sheets.md`.
+- Chapter 11 ("The Divide Below Decks") exists as a draft at `chapters/Chapter_11.md` (2026-10-22, 7,216 words), pending the pipeline and human gates — no tracker state derived from it yet; its seeds are listed in `workflow/Canon_Beat_Sheets.md`. Its macro-map state (morale bottomed, weather souring, false-lead exhaustion) is now staged on-page rather than assumed.
 - Jake's exact Southern Water Tribe birthplace and birth family/community remain unresolved.
 - Jake's grief and guilt over Haru and Emi remain unresolved.
 - Jake's Agni Kai trauma and hand scarring remain active baseline continuity.

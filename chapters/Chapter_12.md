@@ -1,12 +1,12 @@
 # Chapter 12: The Quiet at the Center
 
-The gulls left two days out of the river valley.
-
-They went all at once, without a single wheel or cry, and they went inland over the steep gray coast until they were a fleck too small to follow. Jake was scrubbing the forward head when the deck went ordinary overhead, and by the time he came up the stair the last of them were gone. Nobody on the crew said anything about it. Kaito coiled line with his face turned away, and nobody on the deck said anything at all, and that was how Jake knew.
+The gulls left all at once, without a single wheel or cry, and they went inland over the steep gray coast until they were a fleck too small to follow. Jake was scrubbing the forward head, the toilet at the bow, when the deck went ordinary overhead, and by the time he came up the stair the last of them were gone. Nobody on the crew said anything about it. Kaito coiled line with his face turned away, and nobody on the deck said anything at all, and that was how Jake knew.
 
 The ship limped north at half speed with the stern riding a hand low and the port pump going. It had gone to a two-man relay, second watch and third, and Jake sat the last relay himself most nights because his hands wanted the salt water and the salt water asked nothing of the palms. That was one of the few jokes the sea had left him. Fresh water made the scars ache and pull and itch. Sea water went into the splits like a hand into a glove and let him keep them until the pump sucked air.
 
-The coal was counted twice a day now, once by the chief and once by Jake, and by the second evening their numbers had stopped agreeing. The chief was optimistic by a quarter ton, which put them eight days out under easy steam and four out under hard. Zhao's ships had been sighted twice at the top of the haze since the river: the same lean hulls, working the same coast, not closing. A deckhand had called one of them "the same wake as the river," and nobody had said more than that.
+The coal was counted twice a day now, once by the chief and once by Jake, and by the second evening their numbers had stopped agreeing. The chief's count ran a quarter ton high every time and he read the same pile as burning slower than it would, which on his figures put them nine days out under easy steam, the ship barely under way, and four out under hard. Jake's own figures were seven and three, and the three was the one he believed.
+
+Zhao's ships had been sighted three times at the top of the haze since the river: the same lean hulls, working the same coast, not closing. A deckhand had called one of them "the same wake as the river," and nobody had said more than that.
 
 Iroh came up on the fourth morning with his sleeves rolled and stood at the weather rail with his face into the wind, and stayed there so long that Jake carried a pot of tea up and set it on the binnacle ledge without asking. Iroh drank half of it hot and the rest cold and said, "Thank you," as though it were noon tea in the palace.
 
@@ -144,7 +144,7 @@ Jake got the hatch coaming cleared and the scuttle open, and then he did what th
 
 The water came up as water comes up when it is invited properly, obedient, sheeting between the deck frames in flat brown ribbons and hanging for a breath above the planks before it poured for the scuttle. He fed it out and drew it again and fed it out, and the level went down the way sand goes down in an hourglass, faster and faster. The two stokers who had come to bail behind him stood with their buckets hanging and did exactly nothing, which was right. Their buckets were for after. His arms were for now.
 
-The level went down. Once, palms-down over standing water in a room with a grate window, he had held a roof of it instead of a floor, and that was a room he did not visit. Somewhere in the middle of it the ship rolled deep and he lost the sheet for a moment, and a bucket's worth slapped down across the plates. One of the stokers — the boy with the burn on his forearm — said nothing at all and simply took up station on Jake's off side, matching his rhythm with his bucket, pour for pour, until the plates came up dry.
+The level went down. Once, palms-down over standing water in a room with a grate window, he had held a roof of it instead of a floor, and that was a room he did not visit. Somewhere in the middle of it the ship rolled deep and he lost the sheet for a moment, and a bucket's worth slapped down across the plates. One of the stokers — the boy with the burn — said nothing at all and simply took up station on Jake's off side, matching his rhythm with his bucket, pour for pour, until the plates came up dry.
 
 "There," Jake said, when it was dry. "Now it's a matter of the seams. Somebody put cotton in them at the next calm and I will pretend it's been there all along."
 
@@ -174,13 +174,13 @@ Jake set the tray inside the door and went away without a word.
 
 The crew were not in the mess. They had carried the coal stove out of the galley and set it under the bent lamp, and men were packed around it shoulder to shoulder, closer than men sit on a ship when they can choose. The ship was rolling and the bench seat bounced, and the deck plating was the steadiest ground left aboard.
 
-Kaito was there with his forearm burn unwrapped and drying dark. The stokers. The big island man who could not swim and had never once said so. A deckhand Jake knew by his nicknames and nothing else. Twelve men, with the stove-light orange on their faces and the corridor roaring with water-sound through the hull behind the plates.
+Kaito was there with the burn on his shoulder unwrapped and drying dark. The stokers. The big island man who could not swim and had never once said so. A deckhand Jake knew by his nicknames and nothing else. Twelve men, with the stove-light orange on their faces and the corridor roaring with water-sound through the hull behind the plates.
 
 Jee was saying something low and furious that Jake did not catch, and the men around him were nodding, and Jake had his hand on the frame of the passage and should have gone up and did not.
 
 "Who does he think he is?" someone said. The big island man.
 
-"A boy." That was the boy with the burn. "A sixteen-year-old boy with a boat. We've all seen them. His father gave him men to lose."
+"A boy." That was the boy with the burn. "A sixteen-year-old boy with a boat, and his father gave him men to lose."
 
 "He doesn't lose them," said Kaito, unexpectedly. "He's never lost one. Not a man. Not once."
 
@@ -246,7 +246,7 @@ The words hung there. Somewhere up on deck something banged loose against a stan
 
 The stove ticked. Twelve men looked into it.
 
-Then the boy with the burn said, "My brother's on the Northern Expedition. Went north last spring."
+Then the boy with the burn said, "My brother's in the army. Went north last spring."
 
 "That's different," the big island man said, automatically. He stopped. Looked down at his own hands, big as spades, scarred across the backs.
 
