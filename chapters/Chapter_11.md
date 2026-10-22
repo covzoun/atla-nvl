@@ -22,7 +22,7 @@ He went out to the man. He had the man's arm over his own shoulders before the m
 
 "You never said when."
 
-The sand came up under them. The ship grew over them, black and enormous and dripping. The men ahead of them hauled the line hand over hand, and the gulls went up off the water together without making a sound, which gulls do not do.
+The sand came up under them. The ship grew over them, black and enormous and dripping. The men ahead of them hauled the line hand over hand, and the gulls went up off the water together without making a sound, which they had never done in a week of watching them.
 
 Jake got the man up onto the beach and turned him and looked at the heel by the light from the galley door, which was the only light there was.
 
@@ -108,13 +108,13 @@ That was the arrangement. It had not always been.
 
 "Two hundred and six."
 
-"That's five days at hard steam."
+"That's seven days at hard steam."
 
-"It's four."
+"It's six."
 
 The chief did not look up. He had a way of not looking up that was more eloquent than most men's arguing, and it meant they had been here before.
 
-"Five is if the weather's kind and we don't have to hold her up in it," the chief said.
+"Seven is if the weather's kind and we don't have to hold her up in it," the chief said.
 
 "It's not kind."
 
@@ -122,7 +122,9 @@ The chief did not look up. He had a way of not looking up that was more eloquent
 
 Jake put the shutter on the lamp and let the dark take them both, because a man's face arguing about coal was worth more than his face agreeing about it, and the men on the ladder heard words and not arithmetic. He went up the ladder with the number in him where it sat all the time now, and it sat there like a stone at the bottom of a boot.
 
-Four days of hard steam. After that, the fire goes in the bunkers and burns what is left of the ship.
+Six days of hard steam. After that, the fire goes in the bunkers and burns what is left of the ship.
+
+They were not at hard steam and were never going to be. The ship made half speed on a fire kept down to nothing, and the number they were arguing over was a number about a fire they would not light. It fell a day every two days, and it would keep on falling a day every two days until the arithmetic came down to the inside of the ship.
 
 He did not say that to the chief. The chief did not say it to him. Both of them went up the ladder into a morning that had no business being as gray as it was.
 
@@ -169,6 +171,8 @@ The men asked him about it every day, in the flat voice men use for a question t
 The sea got up out of the north on the second day and never really went down again after that.
 
 No storm yet. The swell came up in sets of three and made the ship work, and the wind stayed in the north where it belonged and did nothing but hold the swell up. They took water over the bow twice a day, a green sheet that came aboard and went aft, and everybody on deck had a job the whole time it was happening, and nobody said anything funny.
+
+There had been one on the first day out, low and long, off the port bow and gone before the light was any good. Jake had it in the log with nothing but the time against it, and since then nobody on the ship had asked him what it was.
 
 Kaito was on the sheet with a line. He was nineteen, with a burn on his shoulder that had not finished doing what burns do, and singed hair above one ear that the whole ship had watched him comb flat and pointless. He hauled when he was told to haul, and made a joke when there was a second in hand to make one in.
 
@@ -228,9 +232,9 @@ It became arithmetic.
 
 "It's not a new number because nobody's counted."
 
-"Four days of coal."
+"Five days of coal."
 
-"Four days of coal," somebody agreed, and did not say anything else, and the not-saying was the sentence.
+"Five days of coal," somebody agreed, and did not say anything else, and the not-saying was the sentence.
 
 Jake lay in his alcove off the prince's quarters with his eyes open and the water working under the deck. He listened to the sum being done on the other side of the bulkhead, and he could have gone out and said the number, and it would have stopped them for an hour.
 
@@ -400,7 +404,7 @@ Jake looked at the tea.
 
 The engine missed its beat again.
 
-"How long have you known the coal was four days?" Jake said.
+"How long have you known the coal was six days?" Jake said.
 
 "Since the day you counted it."
 

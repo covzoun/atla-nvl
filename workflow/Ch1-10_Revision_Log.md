@@ -97,8 +97,8 @@ The locked external beat is now written: a six-man Fire Nation patrol sweeps pas
 | 08 | 8,371 | 12.1 | 42 | 0 | 25.2% | 0.1 | 1 |
 | 09 | 9,496 | 10.8 | 44 | 0 | 37.6% | 0.9 | 3 |
 | 10 | 7,240 | 13.1 | 43 | 0 | 30.5% | 0.7 | 3 |
-| 11 | 7,221 | 13.4 | 45 | 0 | 52.9% | 0.6 | 2 |
-| 12 | 7,542 | 13.9 | 45 | 0 | 47.0% | 1.9 | 3 |
+| 11 | 7,342 | 13.5 | 45 | 0 | 52.5% | 0.5 | 2 |
+| 12 | 7,555 | 13.9 | 45 | 0 | 47.0% | 2.1 | 3 |
 
 All thirteen chapters are inside their bands (prologue 2,000–3,000; Chapters 1–10 and 11–12 at 7,000–8,500 with Chapter 9's 10,000 tentpole allowance), every ceiling in `Style_Guide.md` / plan §6.1 is met, and the dialogue floor (25% of paragraphs) holds in all chapters, with Chapters 2, 6 and 8 the closest at 25.2–26.3%.
 
@@ -113,7 +113,7 @@ All thirteen chapters are inside their bands (prologue 2,000–3,000; Chapters 1
 
 ## Open items, stated plainly
 
-- **Chapter 11 is now drafted** (`chapters/Chapter_11.md`, "The Divide Below Decks", 7,221 words) — see the addendum below. It has not cleared Gates 1–3; it and Chapter 12 have now been sequenced against each other, but they must still be read in sequence at Gate 2.
+- **Chapter 11 is now drafted** (`chapters/Chapter_11.md`, "The Divide Below Decks", 7,342 words) — see the addendum below. It has not cleared Gates 1–3; it and Chapter 12 have now been sequenced against each other, but they must still be read in sequence at Gate 2.
 - **The Chapter 12 draft awaits the pipeline** (Phase 1/Gate 1 against its new beat sheet, then Gate 2) and a tracker re-derivation at Gate 3.
 
 - **Chapter 9 no longer opens on wound care (addressed 2026-10-22: the chapter opens on the sound of the ragged sparring through the deck, wound care folded in as the second beat, the "listening from two rooms" bridge turned into the opening frame).**
@@ -229,3 +229,27 @@ A third read of the two drafts against each other, against the Chapter 11 bluepr
 - The final verification list now carries the coal arithmetic across the seam (nine easy and four hard against seven and three, with the three the one Jake believes) and the party count.
 
 **Verification after the pass.** `tools/sent.py` — Chapter 11: 7,216 words, average sentence 13.4, longest 45, none over 45, 259 paragraphs with none over 120, dialogue 52.9%. Chapter 12: 7,544 words, average sentence 13.9, longest 45, none over 45, 200 paragraphs with none over 120, dialogue 47.0%. `tools/metrics.py` — em dashes 0.6/1k and 1.9/1k, "the way" 2 and 3, split contrasts 0 and 0, no "not just", no "quietly", no stock vocabulary. `tools/dupscan.py` — no 6-gram shared between Chapters 11 and 12. `tools/final_check.py` — stock vocabulary 0 for both chapters, and their loose "not X but Y" counts (20 and 9) sit inside the book's range (Chapter 2: 34, Chapter 7: 27, Chapter 12 is the lowest in the book).
+
+
+### 8. Fourth Chapter 11 ↔ Chapter 12 pass — the coal clock (2026-10-22)
+
+A fourth read of the two drafts against each other, against the Chapter 11 blueprint, against the tracker and against the macro map. The third pass had cleaned up the logic; this pass fixed the one number that could not sit still, and the three lines the coal change touched.
+
+**The coal figure stood still for six days.** The chapter's clock is Jake's count, and Jake is the character who counts things. The count scene put the chief at five days of hard steam and Jake at four, and neither figure moved again — so the sum the crew does aloud below decks on the fourth night came to "Five days of coal", which is exactly what Jake had said on the first morning. The count is now a live figure: the ship's speed and the weather bear on it, and it falls.
+
+- **The count scene.** The chief now calls it seven days at hard steam and Jake says six, with the same one-day gap he carries for the whole chapter.
+- **The rule, stated once.** The ship is never at hard steam — it makes half speed on a fire kept down to nothing — so the number they are arguing over is a number about a fire they will not light. It falls a day every two days. The prose now says so in one sentence, which is what lets a reader check the arithmetic.
+- **The three checkpoints.** Six on the first morning (Jake's figure), five when the crew does the sum aloud below decks on the fourth night, four at the last line. Chapter 12 opens the next morning one day lower at three, and now says why: a day of coal burned since the count in the hold.
+- **Iroh's question.** "How long have you known the coal was four days?" could not stand, because the count gave six and the answer ("Since the day you counted it") was about the count. It now asks about six days — the figure the count gave — which makes the answer exactly true.
+- **The chief's concession stays gone**, as in the second pass: he holds seven while the weather allows it, Jake holds six, and "It's not kind" kills the seven.
+
+**Chapter 12 — prose fix**
+- **The seam line.** The paragraph that opens the chapter's arithmetic now says where the third figure came from ("a day of coal burned since the count in the hold"), so the drop from four to three is visible rather than merely correct. It is the sentence an earlier pass wrote and then dropped.
+
+**Chapter 11 — prose fix**
+- **"Which gulls do not do."** The chapter used the same "gulls do not" construction twice — once at the opening (gulls do not sit on the sea at night) and once at the flush (which gulls do not do). The second is now "which they had never done in a week of watching them", which keeps the wrongness and drops the echo.
+
+**Blueprint reconciliation (`outlines/Chapter_11_Blueprint.md`)**
+- Scene 1's gull beat now matches the amended opening and flush; the timeline line now says the chapter closes one day above the three Chapter 12 opens on.
+
+**Verification after the pass.** `tools/sent.py` — Chapter 11: 7,342 words, average sentence 13.5, longest 45, none over 45, 261 paragraphs with none over 120, dialogue 52.5%. Chapter 12: 7,555 words, average sentence 13.9, longest 45, none over 45, 200 paragraphs with none over 120, dialogue 47.0%. `tools/final_check.py` — em dashes 0.5/1k and 2.1/1k, "the way" 2 and 3, "not just" 0 and 0, stock vocabulary 0 and 0. `tools/dupscan.py` — no 6-gram shared between Chapters 11 and 12; the Chapter 11 hits elsewhere are generic connectives plus the ship's own state phrase ("the boilers banked and the pump going"), which is deliberate continuity with Chapter 10.

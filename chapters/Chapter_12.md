@@ -4,7 +4,7 @@ The gulls left all at once, without a single wheel or cry, and they went inland 
 
 The ship limped north at half speed with the stern riding a hand low and the port pump going. It had gone to a two-man relay, second watch and third, and Jake sat the last relay himself most nights because his hands wanted the salt water and the salt water asked nothing of the palms. That was one of the few jokes the sea had left him. Fresh water made the scars ache and pull and itch. Sea water went into the splits like a hand into a glove and let him keep them until the pump sucked air.
 
-The coal was counted twice a day now, once by the chief and once by Jake, and by the second evening their numbers had stopped agreeing. The chief's count ran a quarter ton high every time and he read the same pile as burning slower than it would, which on his figures put them nine days out under easy steam, the ship barely under way, and four out under hard. Jake's own figures were seven and three, and the three was the one he believed.
+The coal was counted twice a day now, once by the chief and once by Jake, and by the second evening their numbers had stopped agreeing. The chief's count ran a quarter ton high every time and he read the same pile as burning slower than it would, which on his figures put them nine days out under easy steam, the ship barely under way, and four out under hard. Jake's own figures were seven and three — a day of coal burned since the count in the hold — and the three was the one he believed.
 
 Zhao's ships had been sighted three times at the top of the haze since the river: the same lean hulls, working the same coast, not closing. A deckhand had called one of them "the same wake as the river," and nobody had said more than that.
 
