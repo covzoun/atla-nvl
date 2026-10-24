@@ -2,7 +2,7 @@
 
 The freshwater line had frozen to the rail sometime before dawn, and now it fought Jake for every inch.
 
-He worked it free with a mallet, one careful rap at a time. A line chipped in a hurry snapped at the ice's mercy, and the ship needed every strand of rope it had. Frost had crept over the deck in a fine grey fur. It lay on the rigging, on the belaying pins, on the shoulders of the two men at the bow who stood hunched in their coats like birds. Every exhale went up white and stayed a while.
+He worked it free with a mallet, one careful rap at a time. A line chipped in a hurry snapped at the ice's mercy, and the ship needed every strand of rope it had. Frost had crept over the deck in a fine grey fur. It lay on the rigging, on the wooden pegs that held it, on the shoulders of the two men at the bow who stood hunched in their coats like birds. Every exhale went up white and stayed a while.
 
 Three years this had been his life. Cold water, colder work, and a ship that complained about both.
 
@@ -14,7 +14,7 @@ He heeled the loosened ice overboard in a grey slide, coiled the freed line, and
 
 Further along the deck, the prince was not working.
 
-Zuko had been pacing since the second dog watch, a tight worn track between the mast and the rail, his boots striking the frost with more force than footing required. He had come up in his under-robe with the sleeves pushed back. Steam lifted off his bare forearms where the heat inside him leaked out without his noticing. His topknot had come half loose in the wind. Every few strides he stopped at the rail and looked out at the rolling dark water, and every few strides he began again. Jake kept count of it. He had long since learned not to trust the count.
+Zuko had been pacing since the small hours, a tight worn track between the mast and the rail, his boots striking the frost with more force than footing required. He had come up in his under-robe with the sleeves pushed back. Steam lifted off his bare forearms where the heat inside him leaked out without his noticing. His topknot had come half loose in the wind. Every few strides he stopped at the rail and looked out at the rolling dark water, and every few strides he began again. Jake kept count of it. He had long since learned not to trust the count.
 
 "Anything?" Zuko asked, not looking at him. He never looked at him when he asked it. He asked the horizon, mostly, and Jake happened to be standing nearby.
 
@@ -30,7 +30,7 @@ It caught him before he expected it to. It always did.
 
 There was nothing about the ice that should have meant anything to him. It was only water, frozen and refrozen a thousand different ways, stretching out flat and blinding under a colorless sky, broken here and there by pressure ridges that threw long blue shadows across the snow.
 
-He had never set foot on southern ice before this voyage. He had no memory of a village, a home, a mother's face, nothing that this landscape should have been able to reach.
+He had never set foot on southern ice before this voyage. He had no memory of a village, a home, a mother's face, nothing that all that white should have been able to reach.
 
 And still something in him kept turning toward it. It was like standing in a room where somebody had been kind to you once and being unable to remember who. Some old current under his ribs recognized the cold, the light, the particular grey-white color of the sky, however flatly his mind refused to.
 
@@ -40,7 +40,7 @@ His hand had gone still on the rope. He noticed that before he noticed why, and 
 
 He told himself that, mostly believed it, and went back to his knots.
 
-The ladder well banged open behind him and three men came up the companionway in single file, their boots ringing on the grating. The watch change. The oldest of them was already talking, complaining about the cold in the boiler room and the cold in the galley and the special cold of a man who has to leave his bunk at the hour when the bunk has finally got warm. The other two laughed. Then all three saw Zuko at the rail and the laughing stopped.
+The ladder well, the ship's stair from below, banged open behind him and three men came up it in single file, their boots ringing on the grating. The watch change. The oldest of them was already talking, complaining about the cold in the boiler room and the cold in the galley and the special cold of a man who has to leave his bunk at the hour when the bunk has finally got warm. The other two laughed. Then all three saw Zuko at the rail and the laughing stopped.
 
 None of the three looked at him for longer than a moment. They walked past him the careful way men walk past a dog they know.
 
@@ -62,7 +62,7 @@ Jee looked at him a moment, then grunted, which was as close as the man came to 
 
 "You'll tell him in your own way," Jee said, and said it without malice, which was how Jake knew it was nearly a compliment. He turned and went aft, bellowing at the watch, and the three men scattered to their places.
 
-Jake finished the last length of line, stood, and felt his knees complain about the standing. He gathered the coil and carried it to the pin rail.
+Jake finished the last length of line, stood, and felt his knees complain about the standing. He gathered the coil and carried it to the rail.
 
 Down the deck Zuko had started pacing again, faster now. His bare arms were goosefleshed despite the heat still coming off him in faint visible waves. Jake watched him from the corner of his eye. The tight shoulders. The restless hands that kept curling and releasing at his sides. The steady fall of his gaze across the same stretch of horizon. Three years had worn most of the softness out of Zuko. What was left underneath was harder, thinner, strung tight enough that Jake had learned to feel the tension in the air before Zuko ever said a word about it.
 
@@ -76,13 +76,13 @@ He turned his attention back to the horizon Zuko was so certain would eventually
 
 The light came that night.
 
-Jake was below when it happened, in the galley, thawing the last of the freshwater line over the cook's stove and drinking the cook's tea because the cook owed him for the line. The ship had taken on a smell by nightfall that he was used to and did not like: wet wool, iron, and the sourness that came off men who had been cold for a week. Somebody was losing at tiles in the mess, and somebody else was telling him exactly how badly, and Jake had one shoulder against the bulkhead and his eyes half shut and was wondering whether it was worth the climb to his alcove.
+Jake was below when it happened, in the galley, thawing the last of the freshwater line over the cook's stove and drinking the cook's tea because the cook owed him for the line. The ship had taken on a smell by nightfall that he was used to and did not like: wet wool, iron, and the sourness that came off men who had been cold for a week. Somebody was losing at tiles in the mess hall, and somebody else was telling him exactly how badly, and Jake had one shoulder against the cabin wall and his eyes half shut and was wondering whether it was worth the climb to his alcove.
 
 Then the ship changed.
 
 It came up through the deck, a low shudder, and then voices, and then boots, and then somebody shouting up the ladder well. Jake set the mug down and was moving before he had decided to.
 
-On deck the cold hit his face like a hand. The men were all at the port rail. They were not talking.
+On deck the cold hit his face like a hand. The men were all at the port rail — the ship's left side. They were not talking.
 
 A column stood on the horizon.
 
@@ -94,7 +94,7 @@ Jake's hands were cold. Not the ache. A flat, ringing cold, as if he had closed 
 
 "Get my uncle."
 
-Zuko had not raised his voice. He had the rail in both hands and his face turned south, and the torchlight from the aft housing caught the edge of his scar and left the rest of him in shadow.
+Zuko had not raised his voice. He had the rail in both hands and his face turned south, and the torchlight from the cabin behind him caught the edge of his scar and left the rest of him in shadow.
 
 "Get my uncle now," he said again, and this time a soldier moved.
 
@@ -116,7 +116,7 @@ Iroh came up with his nightrobe belted and his hair down and his feet in slipper
 
 "The jasmine is very good."
 
-"I don't want your tea, Uncle, I want —" Zuko turned, and the light from the aft housing caught his whole face, and the words stopped. He breathed in once through his nose, hard, as Iroh had taught him for three years. "That was a bending light. Nothing natural makes a light like that. You know it."
+"I don't want your tea, Uncle, I want —" Zuko turned, and the light from the cabin behind him caught his whole face, and the words stopped. He breathed in once through his nose, hard, as Iroh had taught him for three years. "That was a bending light. Nothing natural makes a light like that. You know it."
 
 "I know it was bright," Iroh said. "I know that we have been down this road forty times, and I know that the last time we chased a light in the sky it was the reflection off a whale's back, and it cost us nine days of coal."
 
@@ -242,11 +242,11 @@ The men had seen his hands before. They had seen them a hundred times, in the ga
 
 "Sir."
 
-"And then come back up and take the fender off the starboard quarter and mend the stitching on it. It's had a hole in it since the last blow. Nobody's had the hands for it and you'll have one good hand and an hour to spare, so you'll do it, and it'll be the best fender on the ship, and that will be that."
+"And then come back up and take the fender that hangs at the back corner down and mend the stitching on it. It's had a hole in it since the last blow. Nobody's had the hands for it and you'll have one good hand and an hour to spare, so you'll do it, and it'll be the best fender on the ship, and that will be that."
 
 The man looked at him, and the anger in his face gave up and went somewhere else. "Yes, sir."
 
-Jake helped him up. The man went below with his good hand wrapped round his bad arm, swearing quietly, and the boy at the mast found something urgent to do with the bucket.
+Jake helped him up. The man went below with his good hand wrapped round his bad arm, swearing low, and the boy at the mast found something urgent to do with the bucket.
 
 Zuko had not moved.
 
@@ -356,7 +356,7 @@ A knock, and Iroh let himself in already halfway into a yawn, his hair loose, hi
 
 Zuko did not answer. Jake kept his eyes on the gauntlets.
 
-"Prince Zuko," Iroh said, more gently. "You need sleep. Even if you are right, and the Avatar is alive, you will not find him tonight. Your father tried. His father before him. For a hundred years, patience has defeated every one of us."
+"Prince Zuko," Iroh said, more gently. "You need sleep. Even if you are right, and the Avatar lives — the one being in the world who can bend all four elements — you will not find him tonight. Your father tried. His father before him. For a hundred years, patience has defeated every one of us."
 
 "Because their honor did not hinge on his capture." Zuko stood up. "Mine does."
 
@@ -462,7 +462,7 @@ The crew were already moving when he got to the mess. Somebody had heard the fla
 
 "Sir," they said, and went to wrap their hands.
 
-Jake found Jee at the boat davits, and gave him the orders, and watched the lieutenant's face do the arithmetic on an hour before first light and the engines staying hot and the men fed first.
+Jake found Jee at the boat davits, the iron arms at the ship's side that swing a boat out over the water, and gave him the orders. He watched the lieutenant's face do the arithmetic on an hour before first light and the engines staying hot and the men fed first.
 
 "He wants it done properly," Jee said.
 

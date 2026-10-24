@@ -198,7 +198,7 @@ Nobody answered that out loud. Iroh came down the corridor anyway and sat, cross
 
 "He wanted to sit in the war councils," Iroh said. "He was eleven."
 
-The story had a shape Jake knew from the other side of it, all its landmarks his. He had poured the tea, and swept the gallery floor, and stood in the corridor where generals went in twice and once came out carrying their pride of office in their hands like something they had been told to take home. (Jake had been in that room and its passing-on for thirteen years, and had served the water at one end of the argument while these men's prince sat invisibly at the other.)
+The story had a shape Jake knew from the other side of it, all its landmarks his. He had poured the tea, and swept the gallery floor, and stood in the corridor where generals went in twice and once came out carrying their pride of office in their hands like something they had been told to take home. (Jake had known that room since he was a boy barely bigger than the washtub he scoured in it, and had served the water at one end of the argument while these men's prince sat invisibly at the other.)
 
 "He was eleven," Iroh said again. "He came to me and he said, Uncle, I want to sit in the councils. How can I rule this nation if I don't know what a war is?" Iroh smiled at the remembered rudeness of it. "I told him no. He asked me again the next day, and the next, and I exhausted every answer that a tired old man keeps in stock, and in the end he won. That is the kind of boy he was, and is. I took him in. I sat him by me. I told him, Nephew, these are old men and they are sensitive, keep your hands in your lap and your mouth shut, and nod."
 
@@ -370,7 +370,7 @@ A sky bison. Rising out of the storm center, into the circle of it, with three s
 
 "I see it," said Zuko.
 
-It beat upward, slow, monstrous, patient. The wind that came off it moved the rain water in the scuppers. At the top of the climb its shape narrowed against the pale circle, and it paused there, spread across the whole light of the eye like a hand across a lamp. One enormous paw hung above the deck that had been trying to sink it all night.
+It beat upward, slow, monstrous, patient. The wind that came off it moved the rain water in the scuppers. At the top of the climb its shape narrowed against the pale circle, and it paused there, spread across the whole light of the eye like a hand across a lamp. One enormous paw hung above the deck the storm had been trying to sink all night.
 
 On its neck the boy turned his head.
 
@@ -408,8 +408,7 @@ Jake carried the linen and the salve around the watch in the weak light, and tie
 
 The boy stood, and rolled the line, and went. Jake did not look at either of them, and his hands finished the knot on nothing, because there was no hand left to tie, and tied it anyway, and put the tray in order. Nobody on the deck had stopped working. Nobody was going to start.
 
-At the rail, Iroh poured tea out of a pot he had carried personally through a typhoon without spilling it,
-and handed cups by name down the line of men still pretending to check lashings. When he came to Jake he put the cup in the ruined glove instead of the sound hand, and held on to it a moment longer than tea requires, and said nothing at all, and went on down the rail.
+At the rail, Iroh poured tea out of a pot he had carried personally through a typhoon without spilling it, and handed cups by name down the line of men still pretending to check lashings. When he came to Jake he put the cup in the ruined glove instead of the sound hand, and held on to it a moment longer than tea requires, and said nothing at all, and went on down the rail.
 
 "Tea's hot below," Kaito said from the ladder head, too loud, cheerful, wet-haired and whole.
 

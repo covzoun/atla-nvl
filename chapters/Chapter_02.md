@@ -68,7 +68,7 @@ It was almost worse, watching.
 
 Zuko caught the club on a forearm brace and twisted, and sent it spinning into the snow. The boy staggered from the momentum of his own swing, and Zuko's boot found his chest a half second later and dropped him hard onto his back. The grunt carried across the whole clearing. He did not get up right away. Jake watched him roll, gasping, and felt something ugly twist in his stomach that had nothing to do with pride in Zuko's form.
 
-"Stay down," Jake said, quietly, under the noise, knowing the boy could not hear him and saying it anyway.
+"Stay down," Jake said, under the noise, knowing the boy could not hear him and saying it anyway.
 
 Zuko did not spare the boy a second look. He was already moving toward the villagers, toward an old woman standing at the front of the huddled group with her chin lifted and her hand braced against the shoulder of the girl beside her. The girl was younger, maybe Jake's own age, in a heavier fur-trimmed parka the colour of deep water. Her dark hair was pulled back in loops at her temples. She had stepped half in front of the old woman without seeming to notice she had done it, as a person moves when the body has decided before the mind.
 
@@ -120,7 +120,7 @@ The boy slid to a stop and planted his feet and looked down at Zuko with an expr
 
 Zuko pushed himself up out of the snow. For a moment he did not move to attack. He stared.
 
-"You're the airbender." It was not quite a question. His eyes dropped to the boy's forehead, to the arrow vanishing under his collar, then came back up. Jake, close enough now to see it, watched something in Zuko's face come apart and rebuild itself in the space of a breath. "You're the Avatar?"
+"You're the airbender." His eyes dropped to the boy's forehead, to the arrow vanishing under his collar, then came back up. Jake, close enough now to see it, watched something in Zuko's face come apart and rebuild itself in the space of a breath. "You're the Avatar?"
 
 The boy planted his staff in the snow and offered something that might have been meant as a reassuring smile, if the moment had allowed for one. "That's me."
 
@@ -220,7 +220,7 @@ Jake stepped closer and reached up without asking, as he always did, fingers fin
 
 "You'll bruise," Jake said, the first words either of them had spoken since the ramp. "Doesn't look worse than that."
 
-Zuko exhaled through his nose, something that was not quite a laugh. "A twelve-year-old hit me harder than most of the men in this crew."
+Zuko exhaled through his nose, an almost-laugh. "A twelve-year-old hit me harder than most of the men in this crew."
 
 Jake's hands moved down without being asked, checking the give of the shoulder plate where the penguin's charge had knocked him flat, testing for anything that pulled wrong. Zuko did not flinch and did not complain. He stood there and let himself be checked over as he only ever did with Jake, and never once allowed a physician aboard to do without an argument first.
 
@@ -248,7 +248,7 @@ Jake did not wait to watch him finish. He was already out the door and into the 
 
 The corridor lights swung in their brackets from the alarm's vibration, throwing long stuttering shadows across the metal walls. Jake moved fast and low, checking each junction before committing to it, as three years of drills had taught him.
 
-He found the first guard slumped against a bulkhead twenty feet on. Breathing, but out cold, no mark on him that Jake could see. No burn, no blood, nothing but a man who looked like he had been hit by something that left no bruise at all. A second guard sat wedged against a doorframe further on, blinking dazed at the ceiling, muttering something about wind that did not make sense until Jake remembered the arrow on the boy's forehead and understood exactly what kind of bending had put him there.
+He found the first guard slumped against the wall twenty feet on. Breathing, but out cold, no mark on him that Jake could see. No burn, no blood, nothing but a man who looked like he had been hit by something that left no bruise at all. A second guard sat wedged against a doorframe further on, blinking dazed at the ceiling, muttering something about wind that did not make sense until Jake remembered the arrow on the boy's forehead and understood exactly what kind of bending had put him there.
 
 He was three corridors on when the crash came. A deep structural boom from somewhere behind him, close to Zuko's quarters, loud enough to rattle a support beam in its housing.
 
@@ -272,7 +272,7 @@ Jake's stomach dropped as Zuko hit the rail without breaking stride and threw hi
 
 He did not think. He was at the rail himself a half second later, hands white-knuckled on the cold metal, watching Zuko's fingers close around the boy's ankle in midair and both of them plummet, tangled together, the glider spinning uselessly away. They hit the lower deck hard, a tangle of limbs and armour skidding across wet metal, and for one endless breath neither of them moved.
 
-Then, distantly, a deep low sound rolled across the water. Not thunder. Not engine. Something animal and enormous. Jake looked up and saw a shape descending out of the clouds that his mind simply refused for a second. A creature the size of a small ship itself. Six-legged, white-furred, dropping toward the water on nothing but the air moving beneath it. Two riders clung to a saddle on its back. Even from this distance Jake could make out the blue of Water Tribe clothing, and something in him went cold and still, recognizing without wanting to that this was no rescue mounted by soldiers or spirits. This was a family coming for their own.
+Then, distantly, a deep low sound rolled across the water. Not thunder. Not engine. Something animal and enormous. Jake looked up and saw a shape coming down out of the clouds, so large it took his mind a full second to hold it. A sky bison, six-legged and white-furred, dropping toward the water on the air moving beneath it. Two riders clung to a saddle on its back. Even from this distance Jake could make out the blue of Water Tribe clothing, and something in him went cold and still, recognizing without wanting to that this was no rescue mounted by soldiers or spirits. This was a family coming for their own.
 
 Below, Zuko was already rolling to his feet, blood at his lip, eyes locked on the boy scrambling backward across the deck toward the rail.
 
@@ -302,11 +302,13 @@ A nearby soldier who should have gone straight over the rail spun sideways into 
 
 Nobody would ever see it as anything but the sea being cruel in one direction and merciful in another. That was the only reason he dared touch it at all.
 
+Behind them the sky bison came down and set itself on the deck beside the fallen boy, Appa at last come to collect them all, and the ship groaned from end to end under a weight she was never built for. The boy in war paint dropped from its saddle.
+
 Zuko went over the rail anyway. The wave was simply too much, even for what little Jake could redirect. His stomach dropped as he watched Zuko vanish over the side, only to reappear a half second later clinging white-knuckled to the massive anchor chain, boots scrabbling for purchase against the hull.
 
 On deck, the boy had collapsed where the wave left him, spent and small again, no trace of the terrible light left in him. The boy in war paint was already scrambling across the drenched deck toward him, snatching up the fallen staff, and found Zuko instead, hauling himself back up over the rail hand over hand. He did not hesitate. He jabbed one finger square into Zuko's forehead and shoved, and Zuko went right back over the side with an undignified shout, catching the chain again as he went down.
 
-The girl in blue had reached the deck too. She dropped from the great white creature's saddle with water already curling and freezing at her fingertips, and Jake watched, genuinely watched, some part of him going quiet and attentive despite everything else. She froze two advancing guards solid from the ankles up with two clean, sure motions. No hesitation in it. No wasted movement. Untrained, maybe, rough at the edges compared to what he imagined proper Water Tribe forms should look like, but real, and strong, and unmistakably his own element moving through someone else's hands for the first time in his life where he could actually see it.
+The girl in blue had reached the deck too. She dropped from the sky bison's saddle with water already curling and freezing at her fingertips, and Jake watched, genuinely watched, some part of him going quiet and attentive despite everything else. She froze two advancing guards solid from the ankles up with two clean, sure motions. No hesitation in it. No wasted movement. Untrained, maybe, rough at the edges compared to what he imagined proper Water Tribe forms should look like, but real, and strong, and unmistakably his own element moving through someone else's hands for the first time in his life where he could actually see it.
 
 He did not have time to feel whatever that stirred in him.
 
@@ -392,7 +394,7 @@ Zuko did not look at him. But his shoulders eased, fractionally.
 
 "They're going to want to know what we do about it."
 
-Jake looked at the ice burying half the ship, at the long grey line of open water where the Avatar had flown away into the sky. Two years of empty water and false leads had felt endless while he was living through them. Looking at the wreckage around him now, he understood with a settling cold that had nothing to do with the wind that those years had been the easy part.
+Jake looked at the ice burying half the ship, at the long grey line of open water where the Avatar had flown away into the sky. Three years of empty water and false leads had felt endless while he was living through them. Looking at the wreckage around him now, he understood with a settling cold that had nothing to do with the wind that those years had been the easy part.
 
 "Then we tell them the truth," he said. "We dig out, and we follow him, and we don't let him do that twice."
 

@@ -4,7 +4,7 @@ Candlelight moved with Zuko's breathing.
 
 Four small flames rose and fell in a ring around him where he sat cross-legged on the cabin floor. Jake had learned the rhythm well enough that he barely looked up anymore. Inhale, and the flames stretched a finger's width taller. Exhale, and they settled back into themselves, small and orange and patient. It was one of the few times Zuko's shoulders came down from around his ears.
 
-Jake sat near the wall with a leather strap across his knee, working a bone needle through a worn seam. The buckle on Zuko's left vambrace had been slipping since Ketu Harbor. A hairline split in the stitching, noticed while helping Zuko out of his armour after the duel, and not mentioned, because there had been nothing to say that night that the quiet was not already saying. He had simply taken the vambrace when Zuko was not looking and set to fixing it in whatever spare hour presented itself.
+Jake sat near the wall with a leather strap across his knee, working a bone needle through a worn seam. The buckle on Zuko's left forearm guard had been slipping since Ketu Harbor. A hairline split in the stitching, noticed while helping Zuko out of his armour after the duel, and not mentioned, because there had been nothing to say that night that the quiet was not already saying. He had simply taken the forearm guard when Zuko was not looking and set to fixing it in whatever spare hour presented itself.
 
 This one, apparently.
 
@@ -52,7 +52,7 @@ It did not sound like a compliment. It sounded like a verdict being handed down 
 
 Jake watched the tension settle back into Zuko's shoulders. Not the sharp dangerous heat of a few moments ago. Something heavier and more familiar. The particular exhaustion of a person who had expected, after Ketu Harbor, that things might finally start moving in a straight line, and was now looking at proof they would not.
 
-He crossed back to the vambrace and picked the needle up again, giving his hands something to do while he waited to see what Zuko needed from him. Patience, or distance, or simply the plain fact of another person still in the room, breathing steady while everything else refused to hold still.
+He crossed back to the forearm guard and picked the needle up again, giving his hands something to do while he waited to see what Zuko needed from him. Patience, or distance, or simply the plain fact of another person still in the room, breathing steady while everything else refused to hold still.
 
 "Say it," Zuko said.
 
@@ -100,7 +100,7 @@ The rhythm built between them without either needing to call it out. Three years
 
 Zuko's next blast went left before Jake finished the word, and Jake's water took it and turned it into a curtain of steam that hung between them, and Zuko came through the steam low with his fist already lit, and Jake was not there. He was behind him, water curling up Zuko's back, and Zuko spun and laughed. Actually laughed, a short breathless sound, and threw a blast at Jake's face that Jake took on a palm's-width of water, and the whole thing was, for about four seconds, fun.
 
-Then the boy came up the companionway with a tray.
+Then the boy came up the ladder well with a tray.
 
 He was young and nervous and balanced the tray against one hip. He stood at the top of the ladder well with his eyes going from the smoke curling off the deck to the prince to the water still hanging in the air around Jake. He did not step forward.
 
@@ -200,13 +200,13 @@ The soldier looked at the whetstone, and at the row of blades, and then at the t
 
 The town came into view through gaps in the fog like something already abandoned.
 
-Low wooden buildings roofed in old snow. Shuttered windows. No smoke rising from a single chimney. Jake kept pace at the flank of Zuko's komodo rhino with his boots finding purchase on the packed dirt of the main street, his eyes moving window to window. Too quiet. He had learned to distrust quiet like this, as he had learned to distrust calm seas before a storm.
+Low wooden buildings roofed in old snow. Shuttered windows. No smoke rising from a single chimney. Jake kept pace at the flank of Zuko's armoured war rhino with his boots finding purchase on the packed dirt of the main street, his eyes moving window to window. Too quiet. He had learned to distrust quiet like this, as he had learned to distrust calm seas before a storm.
 
 Behind them the landing boats were still coming in. Two dozen men, rhinos, the pennant snapping. Ahead of them the street ran straight to a square with a stone statue in it the size of a house, a woman in a long robe with a fan held open in one hand. Beyond the square the town opened onto grey water and the long pale line of the coast.
 
 The square was not empty. Jake saw them as the column came out of the fog. A hundred people at least, herded back against the temple steps. In front of them stood an old man in a green robe with his hands raised, and a girl in blue with her arm around a smaller child. Behind them, a boy in orange with an arrow on his head was being pulled backwards into the crowd by three sets of hands.
 
-"There!" Zuko's voice cracked. "That's him!"
+"There!" Zuko shouted. "That's him!"
 
 The boy looked up. Even at this distance Jake saw his face change, the grin going out of it, and then the crowd closed around him and the old man stepped forward with his hands still raised and said something loud and formal and entirely useless.
 
@@ -292,7 +292,7 @@ He reached him just as Zuko shoved off the splintered doorframe, one hand braced
 
 "He's getting away." Zuko was already moving, shoving past Jake toward the open street where smoke rolled thick off two burning rooftops. Overhead the boy on his glider had banked hard toward the coastline, and beyond him, low over the rooftops, a huge white shape was descending out of the fog. Six-legged. Broad-skulled. Its arrow-marked passenger was already dropping onto its back as it swept past.
 
-"Back to the ship!" Zuko's voice cracked with fury and effort both. "Don't lose sight of them!"
+"Back to the ship!" Zuko's voice came raw with fury and effort both. "Don't lose sight of them!"
 
 Jake ran with him.
 
@@ -334,7 +334,7 @@ Jake got his feet under him. "I don't know," he said, and it was true, and it wa
 
 The cabin door shut against the wind, and the noise of the engines swallowed what was left of the town behind them. Shouting. Wet ash. Soldiers wringing out their sleeves on the open deck.
 
-Iroh was waiting at the top of the companionway with two dry blankets over his arm. His expression was one Jake had learned to read: *I have been standing here for some time and I have decided not to say anything yet.*
+Iroh was waiting at the top of the ladder well with two dry blankets over his arm. His expression was one Jake had learned to read: *I have been standing here for some time and I have decided not to say anything yet.*
 
 "The men are asking questions," Iroh said, handing Jake a blanket.
 

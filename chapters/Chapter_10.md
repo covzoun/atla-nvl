@@ -99,7 +99,7 @@ The crack went through the whole bridge. The lantern jumped on its hook, the cha
 
 Zuko turned his head and looked at him. He did not say anything. It was the way he looked at a door he meant to go through.
 
-Jee set his jaw and tried once more. He did it quietly, and he did it well. They could not anchor a cracked ship off a wild shore and send men tramping into the woods. The crew was spent, and had been since Crescent Island. A squall would put them on the rocks. A patrol would put them in chains. Zuko listened to all of it without moving. When Jee had finished, Zuko said, very low, "The ship stays where it is. Keep the boilers banked and the pump going. If any man aboard thinks he has a better way to restore my honor than I do, he can say so now."
+Jee set his jaw and tried once more. He did it evenly, and he did it well. They could not anchor a cracked ship off a wild shore and send men tramping into the woods. The crew was spent, and had been since Crescent Island. A squall would put them on the rocks. A patrol would put them in chains. Zuko listened to all of it without moving. When Jee had finished, Zuko said, very low, "The ship stays where it is. Keep the boilers banked and the pump going. If any man aboard thinks he has a better way to restore my honor than I do, he can say so now."
 
 Nobody spoke. A wave knocked against the hull, and the lantern ticked on its hook. Somewhere below them the engine dragged and caught.
 
@@ -166,7 +166,7 @@ Jake came up and looked.
 
 A ring of stones with cold grey ash in the middle of it, fine as flour, no heat left in the stones at all. A heap of fish bones in the corner, picked clean and stacked. And the print.
 
-Jake had seen the shape in the sky twice and had stopped believing in it the second time. The print in the soft ground at the edge of the ring was the size of a table, three toes at the front and a heel like a scupper. It was pressed deep enough in the wet leaf mould that a man could have put his forearm in it. Beside it, two sets of small prints, and the drag of a rope where something heavy had been towed.
+Jake had seen the shape in the sky twice and had stopped believing in it the second time. The print in the soft ground at the edge of the ring was the size of a table, three toes at the front and a broad round heel. It was pressed deep enough in the wet leaf mould that a man could have put his forearm in it. Beside it, two sets of small prints, and the drag of a rope where something heavy had been towed.
 
 The print pointed north.
 
@@ -176,13 +176,13 @@ Zuko came up and stood at the edge of the ring and looked at it. Jake watched th
 
 "The animal flies," the soldier with the limp said, and he was not looking at the ring. He was looking at Zuko. "If it went north two days ago, it is a long way north of us now. On legs, sir, we will never come up with it."
 
-Nobody spoke. Jake could see the other two arriving at the same sum he was arriving at, and he could see where it ended, because there was only one place for it to end. Who told you they went up the river. There had been no man who had seen them. The prince had made it up on the bridge to keep them off a dock, and three men had carried it a day and a half up a coast road without being asked.
+Nobody spoke. Jake could see the other two arriving at the same sum he was arriving at, and he could see where it ended, because there was only one place for it to end. *Who told you they went up the river.* There had been no man who had seen them. The prince had made it up on the bridge to keep them off a dock, and three men had carried it a day and a half up a coast road without being asked.
 
 "My informant was wrong," Zuko said. "That is not the same as the road being wrong. The road is north. We go north."
 
 "It goes north," the soldier said.
 
-"Then the rumour was wrong." The man said it without heat, the way a man lays a card down on a table. "There was no man, sir."
+"Then the rumour was wrong." The soldier said it without heat, the way a man lays a card down on a table. "There was no man, sir."
 
 There was a silence with a shape to it.
 
@@ -230,7 +230,7 @@ The soldier with the limp was still looking at the trees where the patrol had go
 
 "Leave the ring," Zuko said. "And if the Avatar comes back this way, we will want to know it."
 
-The soldiers got to their feet. The one with the limp was looking at the trees where the patrol had gone, and the look on his face was not fear so much as arithmetic. Jake had seen that look on a deck before. He fell in behind the prince and said nothing, and they went on deeper, away from the coast, away from the lane with its fresh white curls of wood.
+The soldiers got to their feet. The one with the limp still had his face turned toward the trees, and the look on it was not fear so much as arithmetic. Jake had seen that look on a deck before. He fell in behind the prince and said nothing, and they went on deeper, away from the coast, away from the lane with its fresh white curls of wood.
 
 The light turned the color of weak tea. The soldiers were stumbling, and the one with the limp had gone gray around the mouth. Zuko lowered his sword and stood a moment with his back to them, his shoulders rising once. Then he turned and pointed with the blade at a place ahead where the trees fell back.
 
@@ -298,7 +298,7 @@ Jake stayed where he was a moment longer, his left hand turned palm-up in his la
 He closed his eyes. The frogs went on. His hand throbbed once, twice, and eased, and the dark behind his eyelids was only dark.
 ---
 
-*Somewhere north of the pipeline, the same night.*
+*Somewhere north of the flooded valley, the same night.*
 
 The dam had burst, and the village below it was gone.
 
@@ -348,6 +348,6 @@ She had been sure about him too. She had been sure he was a monster, because of 
 
 "Good." He turned back around. "Because Sokka's asleep, and somebody has to help me steer."
 
-She went forward. The night was cold and clear and very wide. Somewhere south of them a ship was limping north along a coast, with a boy in it who moved water as if he had been taught by someone with no patience at all. She did not know if she would ever see him again.
+She went forward. The night was cold and clear and very wide. Somewhere south of them a damaged ship sat at anchor, with a boy in it who moved water as if he had been taught by someone with no patience at all. She did not know if she would ever see him again.
 
 She put her hands on the reins and helped steer.

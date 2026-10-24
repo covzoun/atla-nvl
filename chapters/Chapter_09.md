@@ -30,11 +30,9 @@ Iroh smoothed salve into the split with his thumb, so lightly that the touch reg
 
 Jake let that stand. He had learned long ago which of Iroh's sentences were suggestions.
 
-Overhead the fighting got heavier. A sharp, flat crack came, then another, and Jake's hands went still in Iroh's.
+Overhead the fighting got heavier. A sharp, flat crack, then another, and Jake's hands went still in Iroh's.
 
-Iroh's thumb paused on the linen.
-
-Iroh finished the wrap, tied it off with a neat flat knot, and moved to the right hand. Another crack came, then a grunt, then the scrape of someone going down hard on one knee.
+Iroh's thumb paused on the linen. Then he finished the wrap, tied it off with a neat flat knot, and moved to the right hand. A second crack came, then a grunt, then the scrape of someone going down hard on one knee.
 
 "Perhaps," Iroh said, tying the second knot, "we should see how the morning is going."
 
@@ -56,7 +54,7 @@ Jee got a hand to his ribs and breathed. The crew had stopped pretending to coil
 
 Jake crossed the deck, close enough to be seen, and went down on one knee beside the lieutenant. He kept his wrapped hands low and open, and took Jee's elbow with his forearm instead of his fingers, because his fingers would not have held.
 
-"Rib?" he said quietly.
+"Rib?" he said.
 
 "Bruised." Jee's voice was dry. He kept his eyes on the planks. "I've had worse from a sandbag."
 
@@ -151,7 +149,7 @@ He had stopped at a stall hung with brass and bamboo and string. Iroh leaned ove
 
 "Not that one," he said. "Not that. A nice piece, though. No."
 
-"Uncle." "We are not here to look at pieces."
+"Uncle, we are not here to look at pieces."
 
 "We are here to find one particular piece, nephew."
 
@@ -227,7 +225,7 @@ Zuko's jaw shifted. Jake saw him weigh it. The hunger in the set of his face was
 
 "Fine," Zuko said. "We work together."
 
-"Then we start now." "They went up the river. Girl was practicing her water tricks in the woods, the last we saw."
+"Then we start now. They went up the river. Girl was practicing her water tricks in the woods, the last we saw."
 
 Jake kept his face still.
 
@@ -439,7 +437,7 @@ He did not drop the water. He did not know how. It hung off his hands in the sun
 
 They looked at each other across the churning river, and the whole noise of the brawl went away.
 
-*She knows,* Jake thought, very clearly. He did not know her name. He could not have said what she was thinking. But he knew that there was no unseeing it, and that whatever he had been, anonymous and safe and uninteresting, he would not be that again. The cold went through him like a wire.
+*She knows,* Jake thought, very clearly. He did not know her name. He could not have said what she was thinking. But he knew that there was no unseeing it, and that whatever he had been, anonymous and safe and uninteresting, he would not be that again. Cold went through him from the inside out.
 
 Then the smoke rolled back over the water, and she was gone.
 
@@ -552,7 +550,7 @@ It was the same place. It felt as though it had moved.
 
 The wind off the gorge had a bite in it, and Katara pulled her parka's fur collar up around her ears.
 
-Appa flew steadily. Sky and cloud and the tops of far hills slid by on either side, and behind them the roar of the falls had dwindled to a murmur and then to nothing. On Appa's neck Aang sat with the reins loose in his hands, glancing back over her shoulder every few moments.
+Appa flew steadily. Sky and cloud and the tops of far hills slid by on either side, and behind them the roar of the falls had dwindled to a murmur and then to nothing. On Appa's neck Aang sat with the reins loose in his hands, glancing back at her over his shoulder every few moments.
 
 He did it again now. She caught his eye.
 
@@ -630,7 +628,7 @@ Sokka's mouth shut.
 
 Aang had been very still. "Maybe someone taught him," he said carefully. "Somewhere else."
 
-"Who?" said Katara. "Who would teach him? I'm the only waterbender I know, Sokka. That's why we're going north." She went on more quietly. "And then I look up and there's another one, close to my age, standing next to the one person who..."
+"Who?" said Katara. "Who would teach him? I'm the only waterbender I know, Sokka. That's why we're going north." Her voice went down. "And then I look up and there's another one, close to my age, standing next to the one person who..."
 
 "He might not be a bad guy," Aang said.
 

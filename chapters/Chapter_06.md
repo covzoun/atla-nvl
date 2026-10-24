@@ -22,7 +22,9 @@ Jake didn't say anything. He stepped in behind the boy, close on the left, and t
 
 He set his feet and hauled.
 
-The line broke free of the ice with a crack like a snapped bone and came down through the block in a rush, nearly pulling both of them off their feet. Frozen water rained down out of the rigging and stung Jake's face. He kept his grip and kept the weight off Kaito, and he walked the line back hand over hand until the yard sat where it was supposed to. Then he took a turn around the cleat, and another, and a third, and pulled each one down hard. The scars under his gloves had a lot to say about it. He ignored them and made the hitch fast.
+The line broke free of the ice with a crack like a snapped bone and came down through the block in a rush, nearly pulling both of them off their feet. Frozen water rained down out of the rigging and stung Jake's face. He kept his grip and kept the weight off Kaito, and he walked the line back hand over hand until it hung where it was supposed to. Then he took a turn around the cleat, the iron horn by the mast where a rope is tied off, and another, and a third, and pulled each one down hard.
+
+The scars under his gloves had a lot to say about it. He ignored them and made the rope fast.
 
 Only then did he let go. His fingers did not want to open. He opened them anyway, one at a time, and held his hands a little away from his body while the blood came back into them.
 
@@ -63,11 +65,11 @@ The swells came in long and gray from the northwest, each one with a hard white 
 
 The foresail was up. Jake and Lieutenant Jee had rigged it two days back to spare the boilers, and on a good tack it bought them half a knot for nothing. Today it was straining. It cracked and bellied against the yard, and the rope that held it hummed.
 
-Kaito had come back on deck after his tea with fresh wrapping on his left hand and color in his face. He was sitting against the base of the foremast with a coil across his knees, picking frost out of the strands. Jake saw him from the hatch coaming where he was counting lamp oil and counted nothing after that. The boy had his back to the mast and his head tipped down. Above him, the foresail's halyard ran up through its block at the yard, forty feet of frozen rope under all that strain.
+Kaito had come back on deck after his tea with fresh wrapping on his left hand and color in his face. He was sitting against the base of the foremast with a coil across his knees, picking frost out of the strands. Jake saw it from the hatchway, where he had been counting lamp oil, and counted nothing after that. The boy had his back to the mast and his head tipped down. Above him, the foresail's halyard ran up through its block at the yard, the spar the sail hangs from, forty feet of frozen rope under all that strain.
 
-From the bridge came a shout, and Jake could not make out the words. He felt them, though. The ship leaned. The helmsman was turning her, hard and late, bringing the bow around across the wind. Jake knew who had ordered it. A scrap of rumor had come over the radio talk and the fishing boats that morning, a flying creature sighted somewhere south and inland, two days old and half a coastline off, and Zuko had decided it was worth the coal.
+From the bridge came a shout, and Jake could not make out the words. He felt them, though. The ship leaned. The helmsman was turning her, hard and late, bringing the bow around across the wind. Jake knew who had ordered it. A scrap of rumor had come in with the fishing boats and the traders that morning, a flying creature sighted somewhere south and inland, two days old and half a coastline off, and Zuko had decided it was worth the coal.
 
-The sail slammed over. The deck pitched sideways under Jake's boots and he caught the coaming with his shoulder. Men grabbed at rails. Somewhere a bucket skated across the planking. And high up on the mast, something gave with a sound like a gunshot.
+The sail slammed over. The deck pitched sideways under Jake's boots and he caught the hatchway rim with his shoulder. Men grabbed at rails. Somewhere a bucket skated across the planking. And high up on the mast, something gave with a sound like a gunshot.
 
 Jake's head came up before he understood why. The halyard had parted at the block. The frayed end whipped out of the pulley, and the iron-bound block that had held it, a lump of oak and iron the size of a man's torso, dropped free of the beam and began to fall.
 
@@ -101,7 +103,7 @@ No one answered.
 
 "I gave an order," Zuko said. His voice cut across the wind. "We are losing speed. Every minute that sail is down is a minute we aren't gaining. Who rigged that line?"
 
-"It parted, Prince Zuko." Lieutenant Jee had come aft from the bridge ladder. He said it quietly, with his hands at his sides, but Jake saw them. They were not still. "It was frozen through and it parted under load. It nearly killed a man."
+"It parted, Prince Zuko." Lieutenant Jee had come aft from the bridge ladder. He said it with his hands at his sides, but Jake saw them. They were not still. "It was frozen through and it parted under load. It nearly killed a man."
 
 "Then he's alive." Zuko's glance flicked to Kaito at last and slid off him as though he were a part of the mast. "Get it fixed."
 
@@ -242,7 +244,7 @@ Jee did not move. He sat at the end of the table and watched Jake work the secon
 
 Jake pulled the last turn of linen snug, caught the end in his teeth again and tied it off. It was done badly, and it would hold. He flexed his fingers once, carefully, then took up the first glove and worked it on over the bandage. It went on tighter than before. He fought it down to the wrist and picked up the second.
 
-A shout came down through the deckhead from above, thin with distance and cold, and then another, and the sound of boots running overhead.
+A shout came down through the deck from above, thin with distance and cold, and then another, and the sound of boots running overhead.
 
 "Sighting!" someone cried, from the deck. "Sighting off the port bow!"
 
@@ -285,7 +287,7 @@ Jake noticed the walls next.
 
 He had been looking at the doors. Then the light caught the bulkhead on his left, and he stopped. The plate was dented. Not once, but many times, in great round domes, each one as big as a man's chest, pushed out from the inside as if the iron had been struck from within by something enormous. One was big enough that he could have lain in it. The edges had cracked. Rust bloomed in the cracks, and there was fresh bright metal where the skin of paint had flaked away.
 
-He had seen this before. Not these walls, but this kind of damage. In Ketu Harbor he had watched a man of the Earth Kingdom shape a wall of stone with his bare hands, in a courtyard, and Jake knew what it left behind. Something had pulled these walls apart with the force of earth itself, and it had not been gentle.
+He had not seen this before, but he knew what it was. On the way to Kyoshi Island Iroh had told him what Avatar Kyoshi had done to a peninsula, and had told him the shape of the power that moves stone. Something had pulled these walls apart with the force of earth itself, and it had not been gentle.
 
 "Earthbenders," he said. He did not mean to say it aloud.
 
@@ -295,9 +297,9 @@ They passed through a second door, a third, and came out onto a gallery above a 
 
 The gouges were deep and clean and curved. They cut down through the iron in long smooth arcs, the width of a man's arm, with edges as sharp as if they'd been planed. There was no heat in them, no melting. The metal had simply been parted, as air parts around a blade. Something had come through here with the force of a gale and it had left its mark across half the gallery wall.
 
-He knew what that was too. He had seen a boy in the village on Kyoshi blast the prince through the wall of a building with a swing of his staff.
+He knew what that was too. He had seen a boy on Kyoshi Island drive the prince backward across a street with one swing of his staff.
 
-"Wind," Jake said, very quietly. This time no one even looked at him.
+"Wind," Jake said, under his breath. This time no one even looked at him.
 
 Zuko had stopped walking.
 
@@ -313,11 +315,11 @@ Nobody spoke.
 
 Jake watched the prince's face.
 
-He had hoped. He saw that now, standing there on the grating with his hands on fire and the black smoke rolling over his head. He had been hoping all morning, in some small tired part of himself, that this trail was dead, that it would turn out to be a burned-out hulk on an empty sea and nothing more. The ship could have limped to a port. The men could have slept. He could have sat for an hour with his back against a wall and done nothing at all.
+He had hoped. He saw that now, standing there on the grating with his hands burning under the leather and the black smoke rolling over his head. He had been hoping all morning, in some small tired part of himself, that this trail was dead, that it would turn out to be a burned-out hulk on an empty sea and nothing more. The ship could have limped to a port. The men could have slept. He could have sat for an hour with his back against a wall and done nothing at all.
 
-The cold knot in his stomach drew tight. Because Zuko was alive again. He was alive the way a banked fire is alive when the wind gets to it, and Jake had seen what followed.
+The cold knot in his stomach drew tight. Because Zuko was alive again. He was alive as a banked fire is alive when the wind gets to it, and Jake had seen what followed.
 
-He looked at the dented walls and the clean gouges in the steel. He thought of the boy with the glider, the one who had grinned over his shoulder on the beach, and he put that grin beside this wreckage and found that the two did not fit. A child had not done this, or if a child had, he was not only a child. Whatever Zuko was chasing had weight in it. Jake had not understood how much.
+He looked at the dented walls and the clean gouges in the steel. He thought of the boy with the glider, the one who had grinned over his shoulder on the beach, and he put that grin beside this wreckage and found that the two did not fit. A child had not done this, or if a child had, whatever Zuko was chasing had weight in it that Jake had never once imagined.
 
 "Spread out," Zuko said.
 
@@ -332,7 +334,7 @@ Jake stayed where he was a moment, with his gloved hands curled against his ches
 ---
 The upper deck was open to the sky, and the wind owned it.
 
-It came across the iron plating in long flat gusts, carrying smoke and coal grit, and it hit like a hand. Jake climbed the last ladder with his forearms and let his palms hang free. He came out into a flat gray scatter of light. The warden's office stood at the far end, a squat box of riveted plate with its roof peeled back like the lid of a tin and its windows gone. Between it and the ladder lay forty yards of grating, strewn with wreckage.
+It came across the iron plating in long flat gusts, carrying smoke and coal grit, and it hit like a shove. Jake climbed the last ladder with his forearms and let his palms hang free. He came out into a flat gray scatter of light. The warden's office stood at the far end, a squat box of riveted plate with its roof peeled back like the lid of a tin and its windows gone. Between it and the ladder lay forty yards of grating, strewn with wreckage.
 
 Zuko was already halfway across.
 

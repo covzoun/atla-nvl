@@ -4,7 +4,7 @@ The ship stopped shuddering an hour before they reached the breakwater.
 
 It had taken two days and every shovel aboard to get her off the ice shelf, and the whole time the men had worked with the particular silence of people who did not want to say out loud how bad it looked. Now the deck was different under Jake's boots. No roll. No grinding creak of ice against the hull. Just the low slap of harbour water and the shouted numbers of men bringing them in to dock.
 
-The stillness was what finally let him sleep. Two hours, maybe less, curled in the alcove with his knees against the bulkhead and the cold worked so far into his bones that even sleep had not warmed him. He woke to the smell of hot iron and the sound of Zuko's voice on the deck, and got up.
+The stillness was what finally let him sleep. Two hours, maybe less, curled in the alcove with his knees against the steel wall and the cold worked so far into his bones that even sleep had not warmed him. He woke to the smell of hot iron and the sound of Zuko's voice on the deck, and got up.
 
 There was always something to do in the last hour before port. Lines to coil. The crew's shore gear to gather. Zuko's second armour checked over so it would be ready the moment they set foot on land. Jake kept his hands moving because hands moving meant his mind had no room to do anything else, and right now his mind wanted to do a great many other things.
 
@@ -16,11 +16,11 @@ Their ship did not belong among it. The bow still wore the scars of the avalanch
 
 Jake understood exactly what that distance meant.
 
-The shipwrights were already alongside, four of them in leather aprons and a yard bosun with a list he intended to read out loud. The crew had spent the walk down the gangway passing their gear to the pier, and the ship had gone quiet in a way Jake had not heard in three years. No bells, no orders, no engines. Hammers somewhere below, and a great many men being paid by the day.
+The shipwrights were already alongside, four of them in leather aprons and a foreman with a list he intended to read out loud. The crew had spent the walk down the gangway passing their gear to the pier, and the ship had gone quiet in a way Jake had not heard in three years. No bells, no orders, no engines. Hammers somewhere below, and a great many men being paid by the day.
 
-The bosun wanted the ice damage opened out and the plating beaten back where the cliff had folded it. That was a week of cranes. The best he would promise by the morning tide was a patch, a coat of red lead over the gouge, and a promise he would not put in writing. A patched hull held water. It held it until the next hard blow, and then it did not.
+The foreman wanted the ice damage opened out and the plating beaten back where the cliff had folded it. That was a week of cranes. The best he would promise by the morning tide was a patch, a coat of red lead over the gouge, and a promise he would not put in writing. A patched hull held water. It held it until the next hard blow, and then it did not.
 
-Jake had done that sum in every port for three years, and it always came out the same. The ship was the only thing they owned that could be repaired, and the Avatar was the only thing they wanted, and they could not have both in the same week. Zuko gave the bosun the morning tide. The bosun took it the way a man takes a blow he has no choice in, and the gangs went over the side with buckets and torches.
+Jake had done that sum in every port for three years, and it always came out the same. The ship was the only thing they owned that could be repaired, and the Avatar was the only thing they wanted, and they could not have both in the same week. Zuko gave the foreman the morning tide. The foreman took it the way a man takes a blow he has no choice in, and the gangs went over the side with buckets and torches.
 
 He found Zuko at the rail above the gangway, already dressed, his jaw set in the particular way it set whenever he was bracing for something he could not burn his way through. Iroh stood a pace behind him, hands tucked into his sleeves, wearing the mild, faintly pleased expression he wore in front of strangers.
 
@@ -232,7 +232,7 @@ Jake reached for the fresh wrap folded on the narrow bunk and began winding it a
 
 He did not ask if Zuko was frightened. He already knew. The rigid line of Zuko's shoulders, held so carefully upright that they had to be costing him something to maintain, said all of it.
 
-Neither of them said Ozai's name. Neither of them needed to. It sat in the cabin with them. It was in the red light crawling across the floor, and in the set of Zuko's jaw, and in Jake's scarred palms, which had begun to itch and burn beneath his gloves the moment the word *Agni Kai* left Zuko's mouth in that tent. His hands remembered fire even when the rest of him tried not to. They had remembered it for three years. Tonight they intended to remember it more loudly than usual.
+Neither of them said the Fire Lord's name. Neither of them needed to. It sat in the cabin with them. It was in the red light crawling across the floor, and in the set of Zuko's jaw, and in Jake's scarred palms, which had begun to itch and burn beneath his gloves the moment the word *Agni Kai* left Zuko's mouth in that tent. His hands remembered fire even when the rest of him tried not to. They had remembered it for three years. Tonight they intended to remember it more loudly than usual.
 
 "You should eat something first," Jake said, because it was true, and because it was easier to say than anything else sitting in his chest.
 
@@ -244,7 +244,7 @@ Zuko did not move to obey, but something in his shoulders loosened by a fraction
 
 He went out onto the deck and stood in the wind for a while, because the cabin had reached the point where every thought came back round to the same three things.
 
-Below the rail the harbour moved black and slow. On the bow the red lead over the gouge had dried to the colour of a scab, and the bosun's gangs were still at work by lantern light. Somewhere north of all of it a boy with an arrow on his head was riding a creature the size of a ship, and every hour the two of them spent in this harbour was an hour he did not have to be found.
+Below the rail the harbour moved black and slow. On the bow the red lead over the gouge had dried to the colour of a scab, and the foreman's gangs were still at work by lantern light. Somewhere north of all of it a boy with an arrow on his head was riding a creature the size of a ship, and every hour the two of them spent in this harbour was an hour he did not have to be found.
 
 Zuko came out and stood at the rail three paces off, and did not ask what he had come out for. They watched the water until a man on the pier beat a gong for the arena, and neither of them moved to go.
 
@@ -296,7 +296,7 @@ Jake did not doubt it.
 
 Zuko shed his own robe a moment later. The sight of him bare-chested on that stone, the fading sun throwing his scar into sharp relief along the left side of his face, sent something cold straight through Jake's chest. He had seen this before. Not this arena, not this opponent. But this. The specific geometry of two figures facing each other across an open circle of stone while the world went silent and waiting around them.
 
-"Remember your firebending basics, Prince Zuko," Iroh said quietly, close enough that only Zuko and Jake could hear. "They are your greatest weapon."
+"Remember your firebending basics, Prince Zuko," Iroh said, close enough that only Zuko and Jake could hear. "They are your greatest weapon."
 
 Zuko did not answer aloud. His jaw was set, his stance already dropping into the low coiled readiness Jake had watched him drill into his body a thousand times.
 
@@ -306,7 +306,7 @@ Iroh turned his head, not far enough for anyone watching the ring to see, and sp
 
 "Sir."
 
-"Whatever happens, stay where you are." His hands stayed folded in his sleeves and his eyes stayed on the stone. "If the harbour water answers you in front of two hundred men, there is no exile at the end of it. There is a cell, and a letter, and a room with a door."
+"Whatever happens, stay where you are." His hands stayed folded in his sleeves and his eyes stayed on the stone. "If the harbour water answers you in front of two hundred men, there is no exile at the end of it. There is a cell, and an order written for it, and a room with a door that does not open twice."
 
 "I know."
 
@@ -316,7 +316,7 @@ Iroh turned his head, not far enough for anyone watching the ring to see, and sp
 
 The gong sounded.
 
-The sound cracked through Jake's chest like a physical blow, and for one terrible moment the arena dissolved. He was thirteen again, in a room that smelled of incense and fear, watching a boy he loved kneel in front of a man made of fire. He gripped the rail hard enough that the metal bit into his palms through the leather, hard enough that the old scars ached in immediate furious protest, and made himself stay upright through sheer grinding will.
+The sound cracked through Jake's chest like a physical blow, and for one terrible moment the arena dissolved. He was thirteen again, in a courtyard that smelled of torch smoke and fear, watching a boy he loved stand unarmed in front of a man made of fire. He gripped the rail hard enough that the metal bit into his palms through the leather, hard enough that the old scars ached in immediate furious protest, and made himself stay upright through sheer grinding will.
 
 Zuko struck first. A fast low sweep of flame aimed at Zhao's legs. Zhao blocked it without visible effort, stepped through the dissipating heat, and answered with a two-handed blast that caught Zuko square in the chest and threw him backward across the stone.
 
@@ -338,7 +338,7 @@ Zuko's fist came down.
 
 The flame struck stone an inch from Zhao's ear. Close enough to singe hair. Close enough to leave no doubt about how easily it could have gone the other way, and it did not touch him at all.
 
-For one full second nothing in Jake moved. Not his breath. Not his pulse. Not the endless spinning dread that had been building in his chest since the word *Agni Kai* first left Zuko's mouth. Then it broke all at once, not into relief exactly, but into something larger and stranger that he had no name for yet.
+Jake did not move. His breath, his pulse, and the endless spinning dread that had been building since the word *Agni Kai* first left Zuko's mouth — all of it stopped. Then it broke all at once, not into relief exactly, but into something larger and stranger that he had no name for yet.
 
 Zuko straightened. He looked down at the man he had every right and every provocation to maim. Then he stepped back.
 
@@ -356,7 +356,7 @@ The old man was over the barrier and across the sand before Jake had finished dr
 
 "No, Prince Zuko," Iroh said, and his voice had lost every trace of the mild old man he played for strangers. It rang clean and hard across the silent arena. "Do not taint your victory." He looked down at Zhao. "So this is how the great Commander Zhao behaves in defeat. Disgraceful." He turned, unhurried, toward the ranks of watching soldiers, then back to the man on the ground. "Even in exile, my nephew conducts himself with more honour than you have ever shown in command." A pause, deliberate. "Thank you again for the tea, Commander. It was delicious."
 
-Zuko had stopped and turned back at the sound of it. Jake watched his face in the fading light. Not triumphant. Not even relieved. Just very still, watching his uncle stand over the man who had tried to kill him from behind.
+Zuko had stopped and turned back at the sound of it. Jake watched his face in the fading light. There was no triumph in it, and no relief either, only stillness, and the watching of his uncle standing over the man who had tried to kill him from behind.
 
 Then Iroh turned and walked back toward the barrier without another word, and Zuko fell into step beside him.
 
@@ -380,7 +380,7 @@ Jake glanced sideways in time to see him watching Iroh with something uncertain 
 
 "Of course," Iroh said, without hesitation, without any of his usual theatre. "I told you. Ginseng tea is my favourite."
 
-Zuko huffed out something that was not quite a laugh, and the corner of his mouth pulled up in a faint unguarded curve that Jake had learned, over three years, was rarer than almost anything else Zuko's face knew how to do. It did not last more than a moment.
+Zuko huffed, and the corner of his mouth pulled up in a faint unguarded curve that Jake had learned, over three years, was rarer than almost anything else Zuko's face knew how to do. It did not last more than a moment.
 
 Jake took his place at Zuko's shoulder as they walked, close enough to be felt, and reached without a word into the bag he had carried down from the ship. He pulled out the canteen he had filled before they left and held it out. Zuko took it without comment, drank, and handed it back. That was all that passed between them. No grand words. No acknowledgment of what either of them had just survived. Just the same quiet exchange of care they had traded a thousand times over three years, dressed tonight in the ordinary shape of water and cloth.
 

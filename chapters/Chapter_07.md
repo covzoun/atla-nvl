@@ -213,7 +213,7 @@ Zuko turned it in his hands. He touched the strap where it crossed, then lifted 
 
 Zuko made a short sound that was nearly a laugh and was gone before it finished. He stood, shoved the sandal through his belt, and went on up the trail faster than before.
 
-They reached the ridge at the top of the next climb. It was bare stone and a few stunted trees, flung up out of the forest like a knuckle, with the ground falling steeply away on the far side into folded gray hills. The wind found them as soon as they cleared the spur. It came cold off the sea and smelled of salt and distance, and it hit Jake in the face like a hand. He lifted his head into it, grateful. Zuko stood at the crest and swept the land below with a hard, scanning stare, hunting for the tracks.
+They reached the ridge at the top of the next climb. It was bare stone and a few stunted trees, flung up out of the forest like a knuckle, with the ground falling steeply away on the far side into folded gray hills. The wind found them as soon as they cleared the spur. It came cold off the sea and smelled of salt and distance, and smacked him full in the face. He lifted his head into it, grateful. Zuko stood at the crest and swept the land below with a hard, scanning stare, hunting for the tracks.
 
 Something cold slid across the stone at Jake's feet.
 
@@ -247,7 +247,7 @@ He did it all at once, hard, like a man putting out a fire with his hand. Then h
 
 Jake did not need to be told. He was moving before the boots had left the stone, and the sudden pull of his own stride tore the left glove at the palm and he did not feel it. Behind him the great shadow was all gone from the ridge. Ahead lay the dirt trail, narrow and walled in with rock, and Zuko's back, dark against the gray, pounding on down it as though no sky had ever existed.
 
-Something loosened in Jake's chest. It was not quite relief. It was larger than that, and he did not look at it directly, because the trail was steep and Zuko was fast. He only knew that the pain in his hands, which had been a thing he carried, had turned into a thing he was paying for something. He ran harder.
+Something loosened in Jake's chest, bigger than relief, and he did not look at it directly, because the trail was steep and Zuko was fast. He only knew that the pain in his hands, which had been a thing he carried, had turned into a thing he was paying for something. He ran harder.
 
 They crested the next rise together, scrambling up the last rocks on elbows and knees, and lay flat at the top with their faces in the cold grit.
 
@@ -308,7 +308,7 @@ It was a little thing. He took three loose steps along the edge of the fight in 
 
 For a moment nothing moved in the hollow. Dust drifted. The last two soldiers stood in front of Zuko with their hands half raised and looked at the officer, and at the chain, and at the prince. One of them dropped his stone.
 
-Zuko stood over the nearest man, panting, with the heat still coming off his shoulders. His hair was plastered to his forehead and the old burn along the side of his face had gone dark with blood. He looked at his uncle.
+Zuko stood over the nearest man, panting, with the heat still coming off his shoulders. His hair had come loose across his forehead and the old burn along the side of his face had gone dark with blood. He looked at his uncle.
 
 "Now," he said, "would you *please* put on some clothes?"
 
@@ -357,7 +357,7 @@ Iroh did not say any of it.
 
 He looked at the gloves, and then up at Jake's face. For a moment his mouth worked once, as if he were about to speak. Then it eased, and what was left in his eyes was very plain and very tired, and Jake looked away from it first. It was not a look he could answer. It was gratitude with a grief folded inside it, and the old man did not make him explain what either was for.
 
-"Come," Iroh said at last, quietly. He let go of Jake's wrist, gave it one slow pat, and went on down the path.
+"Come," Iroh said at last. He let go of Jake's wrist, gave it one slow pat, and went on down the path.
 
 Ahead of them, Zuko had stopped.
 
@@ -367,7 +367,7 @@ He felt his whole body go still and ready, as it did before Zuko's temper broke.
 
 Zuko breathed out.
 
-It was a long breath, slow and ragged at the end, as if it had been a long time coming from somewhere deep. His shoulders dropped half an inch. He reached up, found the strap of his pauldron where the climb had dragged it crooked, and pulled it straight. Then he turned and started walking again toward the coast.
+It was a long breath, slow and ragged at the end, as if it had been a long time coming from somewhere deep. His shoulders dropped half an inch. He reached up, found the strap of his shoulder plate where the climb had dragged it crooked, and pulled it straight. Then he turned and started walking again toward the coast.
 
 He said nothing. He did not curse the earthbenders, or the hills, or the day. He did not look at the sky a second time.
 

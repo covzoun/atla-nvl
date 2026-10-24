@@ -178,6 +178,8 @@ Kaito was on the sheet with a line. He was nineteen, with a burn on his shoulder
 
 "The bosun says this is a good sea," Kaito said.
 
+The bosun was the oldest hand aboard, the man who ran the deck for Jee, and he had opinions about every sea that came along the coast.
+
 "That's the bosun's job."
 
 "Yesterday he said the same about the wind, and then the wind came round and took his hat."
@@ -224,7 +226,7 @@ The talk below decks changed in the fourth night. It did not become mutiny. It w
 
 It became arithmetic.
 
-"Eleven days to the strait," the chief said, somewhere in the dark, over a bill he had gone over before. "The chief says eleven."
+"Eleven days to the strait," a voice said somewhere in the dark, and Jake knew it for the chief's, over an argument he had gone over before.
 
 "The chief said eleven on Tuesday."
 
@@ -288,7 +290,7 @@ He had been standing there a while, Jake thought, before he spoke. He stood with
 
 "Jake." Jee did not turn. "There's a thing I want to say to the prince, and I want to say it to his face, once, and then I'll let it go."
 
-"Alright."
+"All right."
 
 "I'm not asking him for anything." Jee said it as a man says a thing he has already said to himself several times. "I want to tell him what the ship is doing. I want him to stand on the deck one time. Ten minutes. At the rail. Let them see him."
 
@@ -346,7 +348,7 @@ Jee turned his head slowly. He was a big man and Jake was not, and there was a c
 
 "Tomorrow," Jee said. "I've given you till the morning watch. After that I'll go and stand outside that door myself, and I won't knock, and I'll say it loud enough for the whole passage to hear, and I don't care what he does about it."
 
-"Alright."
+"All right."
 
 "That's not a threat, boy. That's a man telling you when his patience runs out." Jee put his hand on the rail. "You know what the worst of it is? He's right. About the Avatar. Any one of us would run for it too, if we were him. It's how he does it that's eating us, and he doesn't know that's what's eating us."
 
@@ -394,7 +396,7 @@ Jake did not have an answer for that, and he was grateful, because the not havin
 
 "You came up here to have the thing handed to you, and I am not going to hand it to you either." Iroh refilled the cup and pushed it across the deck. "What I will tell you is a fact, and then you will do with it what you can."
 
-"Alright."
+"All right."
 
 "The crew has not given their loyalty to the prince." Iroh said it without any weight on it at all, which made it worse. "They have given it to you. They ask you for the shift, and they take the ration from your hand, and they tell you their feet hurt. They do not do it to the boy in the cabin with the scar, because the boy in the cabin has never once asked them how their feet are."
 
@@ -478,7 +480,7 @@ He did not shout. Jake had been half expecting him to shout, and had braced for 
 
 "Then I have my answer, and I will hold it, and I will keep it below this deck with the rest of us." He put his hand on the rail. "But you will tell me one thing, Jake, and you will not soften it, because I am too tired to be handled."
 
-"Alright."
+"All right."
 
 "Does he know what he is spending?"
 
@@ -494,7 +496,7 @@ Jake stood beside him and let it be true. That was the thing about Jee: he did n
 
 "Tell him one more thing for me," Jee said, without turning. "Not a message. Just tell him that the men know the price, whatever he does or doesn't know it, and that we have been paying it without complaint, and that the complaint is not about the money."
 
-"Alright."
+"All right."
 
 "He'll not understand it."
 

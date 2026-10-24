@@ -30,7 +30,7 @@ Jake stopped at the bulkhead, just out of the wind, and made himself stand witho
 
 Jake watched the tendons stand up in the back of Zuko's neck. A muscle moved in it.
 
-"You give him too much credit," Iroh said quietly. "My brother is not the understanding type."
+"You give him too much credit," Iroh said. "My brother is not the understanding type."
 
 Zuko did not answer. He lifted the telescope with one hand and put it to his eye, and the other hand stayed on the rail, white at the knuckles. Jake saw the small stiff set of Zuko's shoulders and knew what it was. It was not anger. Zuko held anger loosely, like a tool he was used to. This was something he was gripping to keep it from moving.
 
@@ -38,7 +38,7 @@ Out beyond the bow the haze thinned for a moment. Jake looked where the telescop
 
 "There," Zuko said. He lowered the telescope an inch, and his voice dropped with it. "The Avatar. He's heading straight for the coast." He swung round. "Full steam ahead!"
 
-The order carried down through the speaking tube, and the deck shook as the engines took it. Jake felt the grinding change pitch under his boots. It went up and coarse, and he thought of the shaft and the coal ledger, and then made himself stop thinking about any of it.
+The order carried down the voice pipe, and the deck shook as the engines took it. Jake felt the grinding change pitch under his boots. It went up and coarse, and he thought of the shaft and the coal ledger, and then made himself stop thinking about any of it.
 
 Iroh's eyes found his across the bridge.
 
@@ -103,7 +103,7 @@ Heat came after the noise. It hit the back of his neck like a hand. The paint on
 
 Jake got up. His ears rang with a high, thin note. Men were down all along the deck, some crawling, some not. Through the smoke he made out the aft bulkhead, where planking had split and flames licked up the seam, and beside it a crumpled shape in a crew tunic that wasn't moving.
 
-He ran. Smoke closed over him, bitter and greasy, and he pulled his collar over his mouth and kept going bent double. It was Kaito, on his side with one arm flung out, the hair above his ear singed to a crust. His chest was moving.
+He ran. Smoke closed over him, bitter and greasy, and he pulled his collar over his mouth and kept going bent double. It was Kaito, on his side with one arm flung out, the hair above his ear scorched to a crust. His chest was moving.
 
 "Kaito." Jake dropped to his knees. "Kaito. Up."
 
@@ -198,7 +198,7 @@ Zuko did not answer at once. His eyes moved along the smoke from the stern to th
 
 Zuko was already walking. He passed Jake with his eyes fixed ahead and did not look at him or say a word. Jake fell in behind him.
 
-The boat was a plain, shallow, dark-timbered launch, no more than a dozen feet long, with two thwarts and a pair of oars lashed along the gunwale. Zuko reached the davit and stopped. Jake went past him and got to the line first. His hands were already wrecked, and he could not leave Zuko to fumble at the knots alone.
+The boat was a plain, shallow, dark-timbered launch, no more than a dozen feet long, with two thwarts — the cross-benches a rower sits on — and a pair of oars lashed inside the gunwale, the top edge of its sides. Zuko reached the davit and stopped. Jake went past him and got to the line first. His hands were already wrecked, and he could not leave Zuko to fumble at the knots alone.
 
 He knelt on the planks and began to work the cover free. The lashings were stiff with salt. His fingers would not bend around them, so he used the heels of his hands and his teeth, and each pull on the cord laid a thin line of heat across both palms. A dark smear marked the rope where he'd held it.
 
@@ -212,13 +212,13 @@ Between them the boat dropped from its slings by degrees. Smoke rolled over the 
 
 It was Iroh. He had come up behind them without a sound, which he could do, large as he was. He did not say anything more. He looked at the stained leather, at Jake's face, at Zuko's back as Zuko swung one leg over the rail, and closed one broad hand around Jake's shoulder and held it there, not hard.
 
-"Both of you," Iroh said, very quietly.
+"Both of you," Iroh said, very low.
 
 "Yes," Jake said.
 
 It was all he could say. He gave the shoulder a single pressure and let go. Jake went over the side after Zuko with his arms trembling and did not look back until he was in the boat. By then the smoke had closed over it, and he could only see the mast, and one hand lifted against the dark.
 
-Zuko had taken the stern seat, facing forward over Jake's shoulder, with the tiller line looped around one wrist. Jake took the middle thwart. He hooked the grips under his palms, let the wrap take what it could, and pulled.
+Zuko had taken the stern seat, facing forward over Jake's shoulder, with the steering line looped around one wrist. Jake took the middle thwart. He hooked the grips under his palms, let the wrap take what it could, and pulled.
 
 The first stroke put a hot wire through both wrists. The second was worse. By the fifth he had found a rhythm that was not so much strength as refusal, long and level and shallow, using the hinge of his back and keeping his hands as loose on the grips as he could. The linen turned wet under the leather, and he felt it pull free of the cut and stick again with every stroke. He kept rowing.
 
@@ -230,7 +230,7 @@ The water was dark and glassy, with a slick surface that scarcely moved. It was 
 
 That was nearly all either of them said. Jake did not need more. Zuko's voice came a half-beat before the change of the water, and Jake's body answered it before his mind did, shortening a stroke, leaning on the other oar, easing. He had done this beside Zuko before, in drills and in knots of rope on a hundred nights. Now he did it on the open sea with no hull under them, and it was the one easy thing in a very long day.
 
-He looked over his shoulder once. Zuko sat bolt upright with the tiller line tight around his wrist and his eyes fixed ahead on the haze. The smoke had gotten into his hair and left black streaks along the scar. His back was as straight as a post.
+He looked over his shoulder once. Zuko sat bolt upright with the steering line tight around his wrist and his eyes fixed ahead on the haze. The smoke had gotten into his hair and left black streaks along the scar. His back was as straight as a post.
 
 Jake looked at that rigid line and understood something plainly, as he might have read it off a chart. Zuko had burned everything: his ship, his crew, his uncle's deck, the whole clean road home. There was nothing to go back to.
 
@@ -254,7 +254,7 @@ He knew buildings like this. He had walked past their cousins in the palace gard
 
 Jake bent his back and rowed.
 
-The shore came up fast. The water went from glass to black stone, a rim of jagged volcanic rock heaped in broken plates. The boat slid in on a long slow swell. Jake shipped the oars, braced his boots, and felt the hull grind onto the rock with a groan that carried a long way over the silent water.
+The shore came up fast. The water went from glass to black stone, a rim of jagged volcanic rock heaped in broken plates. The boat slid in on a long slow swell. Jake brought the oars in, braced his boots, and felt the hull grind onto the rock with a groan that carried a long way over the silent water.
 
 There was a stair cut into the rock above the landing, a long switchback of black steps worn smooth in the middle by generations of sandals. Zuko took it two at a time. Jake followed, and the heat came down to meet them as they climbed, rising off the stone until his coat clung to his back and sweat ran into the linen under his gloves. Every time he curled his fingers to balance he felt the cuts pull open along their old lines.
 
@@ -270,7 +270,7 @@ Jake understood. He held the escape route, the corridors above, the road back to
 
 "I'll be here," he said instead, very low.
 
-"Don't," he said, and nothing more. Zuko hesitated. It was brief. His eyes dropped for half a second to the gloves, to the dark leather, and rose again, and Jake could not tell whether the end of that sentence was *come in* or *get hurt* or something else. Then Zuko was gone through the arch, and the sound of his boots faded into the dark.
+"Don't—" Zuko said, and nothing more came out of him. He hesitated. It was brief. His eyes dropped for half a second to the gloves, to the dark leather, and rose again, and Jake could not tell whether the end of that sentence was *come in* or *get hurt* or something else. Then Zuko was gone through the arch, and the sound of his boots faded into the dark.
 
 Jake went up the stair.
 
@@ -375,7 +375,7 @@ It did not burn him. It rolled over him and the two guards holding his arms, and
 
 He did not stay there for even a breath.
 
-Zuko surged up off the floor with a cry and ran. He did not run for the doors or the glowing thing in them. He ran for the stair that climbed to the gallery, and he took the steps three at a time, with his head down and his bare wrists flaming, looking straight at the shadow where Jake had been kneeling for the past hour.
+Zuko surged up off the floor with a cry and ran. He did not run for the doors or the glowing thing in them. He ran for the stair that climbed to the gallery, and he took the steps three at a time, with his head down and his bare wrists scorched red, looking straight at the shadow where Jake had been kneeling for the past hour.
 
 Jake stepped out of it.
 
@@ -401,7 +401,7 @@ At the third junction the floor ended.
 
 A crack had split the corridor from side to side. It was already six feet across and widening as they stood there, and the glow that came up out of it was so bright that Jake's eyes watered. On the far side the passage continued, sound and whole.
 
-A heavy beam of dark wood spanned the ceiling above the gap, thick as a mast. From a crusted iron ring on it hung an old temple hoist rope, thick as a wrist, for raising censers to the upper floors. Its tail had fallen on their side of the crack and was looped around a rusted stanchion, tied off out of long dead habit.
+A heavy beam of dark wood spanned the ceiling above the gap, thick as a mast. From a crusted iron ring on it hung an old temple hoist rope, thick as a wrist, for hoisting the brass incense burners to the upper floors. Its tail had fallen on their side of the crack and was looped around a rusted post, tied off out of long dead habit.
 
 "We can't jump it," Zuko said. His face was streaked red-orange from below. "It's too wide."
 
@@ -409,7 +409,7 @@ A heavy beam of dark wood spanned the ceiling above the gap, thick as a mast. Fr
 
 Jake drew the working knife.
 
-His hands could not saw with it, and he did not trust them to try. The cut had to come from the rope's weight and not his grip. He laid the rope over the rusted stanchion, where its own heaviness held it taut, and set the sheepsfoot edge against the underside of it.
+His hands could not saw with it, and he did not trust them to try. The cut had to come from the rope's weight and not his grip. He laid the rope over the rusted post, where its own heaviness held it taut, and set the blunt-nosed edge of the blade against the underside of it.
 
 Then he hauled the free tail across the steel with both arms from the shoulder. Something in the rope gave with a creak, and the line sighed down along the beam and hung free over the glow. The motion had cost him nothing in the fingers and everything in the palm; the leather went hot, and a wet line ran down inside the right sleeve.
 
@@ -439,7 +439,7 @@ It went slowly, with a dreadful grace. The red-and-gold roofs tilted and settled
 
 "Don't look," Zuko said hoarsely. "Run!"
 
-They ran down the black stair, slipping on the hot stones, and flung themselves onto the landing rocks. The boat lay where they'd left it, pulled up on the glassy shingle with its oars shipped. Zuko hit it with his shoulder and shoved, and it grated off the rock into the water. Jake went over the gunwale, landed on the thwart half on his side, and fumbled for an oar. Zuko came in after him and set the second one in the lock.
+They ran down the black stair, slipping on the hot stones, and flung themselves onto the landing rocks. The boat lay where they'd left it, pulled up on the glassy shingle with its oars in the locks. Zuko hit it with his shoulder and shoved, and it grated off the rock into the water. Jake went over the gunwale, landed on the thwart half on his side, and fumbled for an oar. Zuko came in after him and set the second one in the lock.
 
 "Row!"
 

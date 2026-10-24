@@ -185,7 +185,7 @@ Zuko turned his head away. It was the look of a man being made to look at someth
 
 The heat went out of the air by degrees, as a stove cools when the door is left open. Zuko stood with his hands at his sides and his back rigid, and Jake became aware that his own heart was hammering, and that it had nothing to do with the prince. It was the coast. It was the dark line of the cliffs growing in the windows and the water the color of slate below them, broken, white where it hit stone. He had seen the swells from the deck yesterday. He had seen what the current did to driftwood. He set all of that down somewhere behind his ribs and let his face stay still.
 
-"Thank you, sir," Jee said quietly, to the room, not looking at anyone.
+"Thank you, sir," Jee said, to the room, not looking at anyone.
 
 Zuko said nothing. He was already at the glass again, watching the cliffs come on.
 
@@ -212,7 +212,7 @@ He had planted himself at the very tip, one hand on the forward rail, leaning in
 
 "Depth's shelving!" a lookout called from the rigging, somewhere above the fog. "Twelve fathoms. Eleven!" A fathom was a man's reach, his two arms, six feet. Jake heard the number drop and understood that the water under them was going from deep to shallow faster than any chart allowed.
 
-"Hold the line," someone answered. It was Jee's voice, gone thin and flat through the speaking tube on the mast. "Hold it."
+"Hold the line," someone answered. It was Jee's voice, gone thin and flat down the voice pipe on the mast. "Hold it."
 
 Eleven. Ten.
 
@@ -224,9 +224,9 @@ It was a tooth of black stone, ragged and streaming, thrusting up through the su
 
 "*Reef!*" Someone screamed it. "Port bow, reef—"
 
-"Hard a-starboard!"
+"Wheel hard right!"
 
-The helmsman threw the wheel. The whole ship groaned with it, a long metal complaint through the hull, but the bow was heavy and the current was setting west, straight onto the stone, and it did not turn. Jake watched the black tooth come on. He did the arithmetic without meaning to. It was easy arithmetic. Forty feet. Thirty. The current pushed the bow sideways in a slow, inevitable slide, and the hull would meet the rock along the port quarter, where the plating was still scarred and weak.
+The helmsman threw the wheel. The whole ship groaned with it, a long metal complaint through the hull, but the bow was heavy and the current was setting west, straight onto the stone, and it did not turn. Jake watched the black tooth come on. He did the arithmetic without meaning to. It was easy arithmetic. Forty feet. Thirty. The current pushed the bow sideways in a slow, inevitable slide, and the hull would meet the rock along the scarred old plating at the rear, where the ship was weakest.
 
 Nobody was going to get to it in time. Not with a wheel. Not with rope.
 
@@ -372,7 +372,7 @@ He didn't look up when the door opened. He didn't move at all. His hands hung be
 
 Jake did not say anything.
 
-He crossed the room to the low table beside the bunk and set the tray down on it, quietly, as he might have set it beside a sleeper. He lifted the pot and poured. The tea came out dark and fragrant, and steam rose from the cup in a thin thread and bent in the draft. He turned the cup so the handle faced Zuko's right hand, and pushed it an inch closer to the edge of the table, within easy reach. Then he stepped back.
+He crossed the room to the low table beside the bunk and set the tray down on it, as he might have set it beside a sleeper. He lifted the pot and poured. The tea came out dark and fragrant, and steam rose from the cup in a thin thread and bent in the draft. He turned the cup so the handle faced Zuko's right hand, and pushed it an inch closer to the edge of the table, within easy reach. Then he stepped back.
 
 Zuko's eyes flicked to the cup and away again.
 
