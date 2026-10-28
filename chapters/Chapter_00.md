@@ -6,7 +6,7 @@ This afternoon he stood at the back wall of the war gallery with an empty teapot
 
 If he did not move and did not speak and kept his hands folded on the pot, the room stopped counting him. Men said things in front of him they would never have said to a boy who was listening. He had heard a great deal that way, and he had never once been asked what he heard. Servants got to be furniture. This one had chosen it.
 
-Below the arches the courtyard lay quiet in the late light. A sanded circle waited in the center. Braziers—shallow iron bowls of burning coals—stood along the ring, unlit. A shallow stone basin sat in the alcove by the west door. Jake had filled that basin at first light because that was his hour and his basin. He had not known why it needed filling. He had only done the work.
+Below the arches the courtyard lay quiet in the late light. Braziers—shallow iron bowls of burning coals—stood unlit along the open ground. A shallow stone basin sat in the alcove by the west door. Jake had filled that basin at first light because that was his hour and his basin. He had not known why it needed filling. He had only done the work.
 
 The argument started over the maps.
 
@@ -24,7 +24,7 @@ There was laughter after it, brief and respectful, the kind that closed a door. 
 
 An Agni Kai was a formal fire duel. Every child in the palace knew the shape of it: two firebenders in a swept circle, no weapons, no armor, the court at the rail to witness. It settled an insult the way a debt was settled—in front of everyone—and it ended when one of the two could not get up. Jake had seen two, both between officers, both over before he had understood what he was watching. He had never seen one called on a prince.
 
-The gallery began to move at once. Stewards gave quiet orders. Servants left their places and went down toward the courtyard. Below the arches, men started lighting the braziers. The sanded circle that had been waiting all afternoon was suddenly in use.
+The gallery began to move at once. Stewards gave quiet orders. Servants left their places and went down toward the courtyard. Below the arches, men started lighting the braziers and raking a circle into the sand. The open ground that had been empty a moment earlier was suddenly being made ready.
 
 Jake stayed where he was for a moment, teapot still in his hands. He watched the courtyard change. The braziers caught. The lower doors were cleared. People were already gathering at the rail. He did not fully understand what was about to happen, only that Zuko had spoken out of turn and that the Fire Lord had answered with a duel. Something in his chest had gone tight and cold. He set the teapot down on a side table because his hands had started to shake, then followed the others to the rail.
 
@@ -94,7 +94,7 @@ Uncle Iroh stood in the doorway. He was the Fire Lord’s brother. He said Jake�
 
 They cut Zuko’s topknot in the fountain court at noon. He knelt with his chin up while the fire-knife took it. His face was swathed to the hairline in linen. The hair fell on the stones between his knees. Nobody spoke. Somewhere behind Jake a woman was crying with her mouth shut. He spent the ceremony hunting for her in the crowd instead of watching, because hunting was bearable and watching was not.
 
-“The two from the kitchen were taken before dawn,” a woman on the dismissed line said without turning her head. “Nobody is to speak of it.”
+“The two from the kitchen were taken for questioning before dawn,” a woman on the dismissed line said without turning her head. “Nobody is to speak of it.”
 
 He did not see Haru. He did not see Emi. He stood at the back with a bundle in both bandaged hands and listened for their voices. The ceremony ended. The servants were turned out through the side gate. They were not in it.
 
