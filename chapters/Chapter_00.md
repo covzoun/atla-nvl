@@ -14,7 +14,7 @@ The argument started over the maps.
 
 “They are not a gap.”
 
-The second voice belonged to Prince Zuko. Jake did not need to look to know it. He had known that voice for years, from the stairs where he carried trays too hot to hold and from one afternoon across a courtyard when the prince sat with him on the fountain steps and spoke to him as if Jake were a person instead of a servant. Zuko was thirteen as well, tall for his age. To most of the palace he was the Fire Lord’s son. To Jake he was the one person who had ever looked at him as though he might answer back.
+The second voice belonged to Prince Zuko. Jake did not need to look to know it. He had known that voice for years, from the stairs where he carried trays too hot to hold. Once, across a courtyard, the prince had sat with him on the fountain steps and spoken to him as if Jake were a person instead of a servant. Zuko was thirteen as well, tall for his age. To most of the palace he was the Fire Lord’s son. To Jake he was the one person who had ever looked at him as though he might answer back.
 
 “They are boys from the colonies who have never held a spear,” Zuko said. “You would spend them like coals and call it a plan.”
 
