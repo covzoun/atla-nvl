@@ -48,7 +48,7 @@ No signal followed. No bell rang. Fire gathered down the long line of the Fire L
 
 The first edge of the blast struck Zuko across the face and shoulder. He fell, his arms still raised. The fire did not stop.
 
-Jake ran, every habit that had kept him unnoticed suddenly useless. He crossed the sand in four strides and threw the water up out of the basin in a single flat sheet between Zuko and the continuing blast. The water rose green with basin-stain, like a lid being lifted.
+Jake ran, abandoning every habit that had kept him unnoticed. He crossed the sand in four strides and threw the water up out of the basin in a single flat sheet between Zuko and the continuing blast. The water rose green with basin-stain, like a lid being lifted.
 
 For half a breath he held a roof of water over the prince’s body, arms up, hands open and flat, palms to the sky. It was the easiest thing he had ever done, though he did not understand it. Then the fire came down on it anyway.
 
@@ -56,7 +56,7 @@ The water split the blast, but too much fire drove through too little water. The
 
 The remaining force drove Zuko fully into the sand. His arms stayed raised as if the gesture could protect him after the fact. The crowd made a sound like a cloth being torn. Whatever sound Jake made was lost in it. His hands were cold. The cold ran up his arms into his chest and kept going. He stood there staring at Zuko’s open hands in the sand and could not make his feet move.
 
-He was still standing when the guards came off the rail. A man beside the ring shouted it before the others took him down.
+He was still standing when the guards came off the rail. A man beside the ring shouted before the others took him down.
 
 “Waterbender!”
 
