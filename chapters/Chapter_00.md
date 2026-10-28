@@ -48,7 +48,7 @@ No signal followed. No bell rang. Fire gathered down the long line of the Fire L
 
 The first edge of the blast struck Zuko across the face and shoulder. He fell, his arms still raised. The fire did not stop.
 
-Jake ran, abandoning every habit that had kept him unnoticed. He crossed the sand in four strides and threw the water up out of the basin in a single flat sheet between Zuko and the continuing blast. The water rose green with basin-stain, like a lid being lifted.
+Jake ran, abandoning every habit that had kept him unnoticed. The basin water tore free from the west-door alcove, rose across the sand, and spread in a single flat sheet between Zuko and the continuing blast. The water rose green with basin-stain, like a lid being lifted.
 
 For half a breath he held a roof of water over the prince’s body, arms up, hands open and flat, palms to the sky. It was the easiest thing he had ever done, though he did not understand it. Then the fire came down on it anyway.
 
