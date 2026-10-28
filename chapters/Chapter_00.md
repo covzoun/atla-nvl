@@ -40,11 +40,11 @@ Zuko’s face changed.
 
 “You will fight for your honor,” the Fire Lord told him without raising his voice. He did not need to. “Rise and fight, Prince Zuko.”
 
-“I won’t fight you.” Zuko’s voice held steady this time. “I spoke out of turn. Punish me for the words if you mean to, but I will not raise my hand against you.”
+“I won’t fight you.” Zuko’s voice held steady. “I spoke out of turn. Punish me for the words if you mean to, but I will not raise my hand against you.”
 
 “Then you will learn respect,” said the Fire Lord, “and suffering will be your teacher.”
 
-There was no order given. There was no bell. Fire gathered down the long line of the Fire Lord’s arm and drove across the sand toward the boy in the center of the ring.
+No signal followed. No bell rang. Fire gathered down the long line of the Fire Lord’s arm and drove across the sand toward the boy in the center of the ring.
 
 The first edge of the blast struck Zuko across the face and shoulder. He fell, his arms still raised. The fire did not stop.
 
@@ -104,19 +104,19 @@ Uncle Iroh stood in the doorway. He was the Fire Lord’s brother. He said Jake�
 
 They cut Zuko’s topknot in the fountain court at noon. He knelt with his chin up while the fire-knife took it. His face was swathed to the hairline in linen. The hair fell on the stones between his knees. Nobody spoke. Somewhere behind Jake a woman was crying with her mouth shut. He spent the ceremony hunting for her in the crowd instead of watching, because hunting was bearable and watching was not.
 
-“The two from the kitchen were taken for questioning before dawn,” a woman on the dismissed line said without turning her head. “Nobody is to speak of it.”
+“The two from the kitchen were taken for questioning before dawn,” a woman in the line of dismissed servants said without turning her head. “Nobody is to speak of it.”
 
 He did not see Haru. He did not see Emi. He stood at the back with a bundle in both bandaged hands and listened for their voices. The ceremony ended. The servants were turned out through the side gate. They were not in it.
 
-He had one thing that was his: a braided cord charm Haru had pressed into his hand the week before. He had kept it in his sleeve for eight days and tucked it into the bundle only now. He did not leave it behind.
+He had one thing that was his: a braided cord charm Haru had pressed into his hand the week before. He had kept it in his sleeve since then and tucked it into the bundle only now. He did not leave it behind.
 
-At the docks the ship stood taller than anything in his life had ever been. Crew moved past him with crates and did not look at the burned-handed boy at the prince’s shoulder. One crewman looked at the burned-handed boy. Iroh set a hand on Jake’s wrist and guided him past; the man did not look again.
+At the docks the ship stood taller than anything in his life had ever been. Crewmen moved past with crates, most avoiding the boy at the prince’s shoulder. One man stared at Jake’s bandaged hands. Iroh set a hand on Jake’s wrist and guided him past; the man did not look again.
 
 “I’m not on the ship’s list,” Jake said, halfway up the gangway.
 
 “You are on it now,” Iroh said, and did not slow down.
 
-On the deck Iroh sat him down on a coil of rope and worked the wraps off his hands. The palms shone and tightened in the sea wind. Jake flinched when the wind touched the raw skin. He did not make a sound.
+On the deck Iroh sat him down on a coil of rope and worked the wraps off his hands. The palms shone and tightened in the sea wind. Jake flinched when it touched the raw skin. He did not make a sound.
 
 “The burns are bad,” Iroh said. He rewrapped each hand in clean linen, then drew a pair of gloves from his sleeve and eased them over the bandages.
 
