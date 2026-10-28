@@ -32,7 +32,7 @@ Jake stayed where he was for a moment, teapot still in his hands. He watched the
 
 They lined the open arches above the courtyard. Below them the sanded circle waited under torchlight.
 
-Prince Zuko came out into the light and stopped at the edge of the ring. For a moment he looked as if he expected to face the general he had argued with. Then the tall doors on the far side opened and the Fire Lord walked out onto the sand.
+Prince Zuko came out into the light with a mask of hammered brass hanging from one hand. He set it on a stand at the edge of the ring. For a moment he looked as if he expected to face the general he had argued with. Then the tall doors on the far side opened and the Fire Lord walked out onto the sand.
 
 Zuko’s face changed.
 
@@ -71,6 +71,14 @@ Jake spent the time being useful about not understanding. He made up the cot. He
 The burns were the plainest part. The skin had gone tight and shining across both palms. An orderly had wrapped them without looking at him. He turned his hands over in the lamplight and memorized them. He did not have a name for what he had done in the courtyard. He only knew that the fire had come through the water and into him.
 
 Through the grate on the second morning he watched guards cross the yard to the servants’ wing and come back out with a woman and a man in unmarked kitchen gray. The guards had gone in through Haru and Emi’s door. A steward came at noon with a folded list and stood in the corridor reading names. Every name was read in a tone that had already decided the answer. The household’s error now had a face, and the face was a boy.
+
+Two guards changed shifts outside the grate. One spoke low enough that Jake had to lean toward the window.
+
+“The records say Water Tribe.”
+
+“Keep your voice down. The household hid him here for years.”
+
+They noticed him at the grate and fell silent. Jake did not know what the words meant for him. He knew only that Haru and Emi were in trouble because of him.
 
 When the steward passed the grate again, Jake asked the only thing he still knew how to ask.
 
