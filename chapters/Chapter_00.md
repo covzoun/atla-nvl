@@ -22,7 +22,7 @@ There was laughter after it, brief and respectful, the kind that closed a door. 
 
 “Prince Zuko has insulted this council,” the Fire Lord said. His voice was level. “The matter will be settled by Agni Kai. The gallery will attend.”
 
-An Agni Kai was a formal fire duel. Every child in the palace knew the shape of it: two firebenders in a swept circle, no weapons, no armor, the court at the rail to witness. It settled an insult the way a debt was settled—in front of everyone—and it ended when one of the two could not get up. Jake had seen two, both between officers, both over before he had understood what he was watching. He had never seen one called on a prince.
+An Agni Kai was a formal fire duel. Every child in the palace knew the shape of it: two firebenders in a swept circle, no weapons, no armor, the court at the rail to witness. It settled an insult in front of everyone. The duel ended when one fighter yielded or could no longer continue. Jake had seen two, both between officers, both over before he had understood what he was watching. He had never seen one called on a prince.
 
 The gallery began to move at once. Stewards gave quiet orders. Servants left their places and went down toward the courtyard. Below the arches, men started lighting the braziers and raking a circle into the sand. The open ground that had been empty a moment earlier was suddenly being made ready.
 
