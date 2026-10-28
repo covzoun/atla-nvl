@@ -48,11 +48,11 @@ There was no order given. There was no bell. Fire gathered down the long line of
 
 The first edge of the blast struck Zuko across the face and shoulder. He fell, his arms still raised. The fire did not stop.
 
-Jake was moving before he had decided to move. He saw Zuko fall, and every habit that had kept him unnoticed lost its hold. He crossed the sand in four strides and threw the water up out of the basin in a single flat sheet between Zuko and the continuing blast. The water rose green with basin-stain, like a lid being lifted.
+Zuko fell, and Jake ran, every habit that had kept him unnoticed suddenly useless. He crossed the sand in four strides and threw the water up out of the basin in a single flat sheet between Zuko and the continuing blast. The water rose green with basin-stain, like a lid being lifted.
 
 For half a breath he held a roof of water over the prince’s body, arms up, hands open and flat, palms to the sky. It was the easiest thing he had ever done. He did not understand it. Then the fire came down on it anyway.
 
-The water split the blast, but too much fire drove through too little water. The remainder boiled around Jake’s raised hands, and steam scalded the undersides from the base of each palm to every fingertip. Jake screamed. The basin’s water broke apart and fell on him, the sand, and the prince in a warm, dirty rain.
+The water split the blast, but too much fire drove through too little water. The water boiled around Jake’s raised hands, and steam scalded the undersides from the base of each palm to every fingertip. Jake screamed. The basin’s water broke apart and fell on him, the sand, and the prince in a warm, dirty rain.
 
 The remaining force drove Zuko fully into the sand. His arms stayed raised as if the gesture could protect him after the fact. The crowd made a sound like a cloth being torn. Whatever sound Jake made was lost in it. His hands were cold. The cold ran up his arms into his chest and kept going. He stood there staring at Zuko’s open hands in the sand and could not make his feet move.
 
@@ -82,7 +82,7 @@ Two guards changed shifts outside the grate. One spoke low enough that Jake had 
 
 They noticed him at the grate and fell silent. Jake did not know what the words meant for him. He knew only that Haru and Emi were in trouble because of him.
 
-When the steward passed the grate again, Jake asked the only thing he still knew how to ask.
+When the steward passed the grate again, Jake asked the only question he could still form.
 
 “Will the rooms need the winter blankets aired? September damp gets into wool.”
 
