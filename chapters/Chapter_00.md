@@ -14,7 +14,7 @@ The argument started over the maps.
 
 “They are not a gap.”
 
-The second voice belonged to Prince Zuko. Jake did not need to look to know it. He had known that voice for years, from the stairs where he carried trays too hot to hold. Once, across a courtyard, the prince had sat with him on the fountain steps and spoken to him as if Jake were a person instead of a servant. Zuko was thirteen as well, tall for his age. To most of the palace he was the Fire Lord’s son. To Jake he was the one person who had ever looked at him as though he might answer back.
+The second voice belonged to Prince Zuko. Jake did not need to look to know it. He had known that voice for years, from the stairs where he carried trays too hot to hold. Once, across a courtyard, the prince had sat with him on the fountain steps and spoken to him as if Jake were a person instead of a servant. Zuko was thirteen as well, tall for his age. To most of the palace he was the Fire Lord’s son. In the palace, Zuko was the only person who had ever looked at Jake as if his answer mattered.
 
 “They are boys from the colonies who have never held a spear,” Zuko said. “You would spend them like coals and call it a plan.”
 
@@ -22,7 +22,7 @@ There was laughter after it, brief and respectful, the kind that closed a door. 
 
 “Prince Zuko has insulted this council,” the Fire Lord said evenly. “The matter will be settled by Agni Kai. The gallery will attend.”
 
-An Agni Kai was a formal fire duel. Every child in the palace knew the shape of it: two firebenders in a swept circle, no weapons, no armor, the court at the rail to witness. It settled an insult in front of everyone. The duel ended when one fighter yielded or could no longer continue. Jake had seen two, both between officers, both over before he had understood what he was watching. He had never seen one called on a prince.
+An Agni Kai was a formal fire duel. Every child in the palace knew the shape of it: two firebenders in a swept circle, no weapons, no armor, the court at the rail to witness. It settled an insult in front of everyone. It was meant to end when one fighter yielded or could no longer continue. Jake had seen two, both between officers, both over before he had understood what he was watching. He had never seen one called on a prince.
 
 The gallery began to move at once. Stewards gave quiet orders. Servants left their places and went down toward the courtyard. Below the arches, men started lighting the braziers and raking a circle into the sand. The open ground that had been empty a moment earlier was suddenly being made ready.
 
@@ -48,11 +48,11 @@ There was no order given. There was no bell. Fire gathered down the long line of
 
 The first edge of the blast struck Zuko across the face and shoulder. He fell, his arms still raised. The fire did not stop.
 
-Jake was moving before he had decided to move. There was a boy in the middle of that fire, a boy who had once made room for Jake on the fountain steps and talked to him without looking past him. Jake put his feet into the ring in four strides and threw the water up off the basin stone in a single flat sheet between Zuko and the continuing blast. The water rose green with basin-stain, like a lid being lifted.
+Jake was moving before he had decided to move. He saw Zuko fall, and every habit that had kept him unnoticed lost its hold. He crossed the sand in four strides and threw the water up out of the basin in a single flat sheet between Zuko and the continuing blast. The water rose green with basin-stain, like a lid being lifted.
 
 For half a breath he held a roof of water over the prince’s body, arms up, hands open and flat, palms to the sky. It was the easiest thing he had ever done. He did not understand it. Then the fire came down on it anyway.
 
-The water took the force. The force went through the water, because there was too much fire and not enough water, and what survived boiled. Jake had put himself between the continuing blast and the boy. The water broke apart what it could of the fire, and the remainder washed over Jake’s raised hands. Steam came down onto his palms in one scalding sheet, burning palm and thumb and running out through every fingertip. Jake screamed. The basin’s water broke apart and fell on him and the sand and the prince in a warm, dirty rain.
+The water split the blast, but too much fire drove through too little water. The remainder boiled around Jake’s raised hands, and steam scalded the undersides from the base of each palm to every fingertip. Jake screamed. The basin’s water broke apart and fell on him, the sand, and the prince in a warm, dirty rain.
 
 The remaining force drove Zuko fully into the sand. His arms stayed raised as if the gesture could protect him after the fact. The gallery made a sound like a cloth being torn. Whatever sound Jake made was lost in it. His hands were cold. The cold ran up his arms into his chest and kept going. He stood there staring at Zuko’s open hands in the sand and could not make his feet move.
 
@@ -68,7 +68,7 @@ The last thing he saw was Zuko on his side in the sand, turning his burned face 
 
 They put him in a small room off the laundry used for temporary holding. It had a grate for a window and a thin cot. No one came back for two days.
 
-Jake spent the time being useful about not understanding. He made up the cot. He counted the floor stones. He worked his hands over the wash bucket, palms up, because the linen had gone stiff with salt and the skin under it was hot. The water below them rose an inch and hung there, holding the shape of his palms. He did not know why. When the sting eased he set his arms at his sides and the water lay back into the bucket.
+Jake spent the time being useful about not understanding. He made up the cot. He counted the floor stones. He held his hands over the wash bucket, palms up, because the linen had gone stiff with salt and the skin beneath it was hot. The water stayed still. He watched it anyway, waiting for it to move again. When the sting eased, he lowered his arms.
 
 The burns were the plainest part. The skin had gone tight and shining across both palms. An orderly had wrapped them without looking at him. He turned his hands over in the lamplight and memorized them. He did not have a name for what he had done in the courtyard. He only knew that the fire had come through the water and into him.
 
@@ -110,15 +110,15 @@ He did not see Haru. He did not see Emi. He stood at the back with a bundle in b
 
 He had one thing that was his: a braided cord charm Haru had pressed into his hand the week before. He had kept it in his sleeve for eight days and tucked it into the bundle only now. He did not leave it behind.
 
-At the docks the ship stood taller than anything in his life had ever been. Crew moved past him with crates and did not look at the burned-handed boy at the prince’s shoulder. One crewman looked at the burned-handed boy. Iroh caught his wrist and guided him past; the man did not look again.
+At the docks the ship stood taller than anything in his life had ever been. Crew moved past him with crates and did not look at the burned-handed boy at the prince’s shoulder. One crewman looked at the burned-handed boy. Iroh set a hand on Jake’s wrist and guided him past; the man did not look again.
 
 “I’m not on the ship’s list,” Jake said, halfway up the gangway.
 
 “You are on it now,” Iroh said, and did not slow down.
 
-On the deck Iroh sat him down on a coil of rope and worked the wraps off his hands. The palms shone and tightened in the sea wind. Jake flinched when the sea wind touched the raw skin. He did not make a sound.
+On the deck Iroh sat him down on a coil of rope and worked the wraps off his hands. The palms shone and tightened in the sea wind. Jake flinched when the wind touched the raw skin. He did not make a sound.
 
-“The burns are bad,” Iroh said. He drew a pair of gloves from his sleeve and put them on Jake’s hands one at a time, over fresh linen.
+“The burns are bad,” Iroh said. He rewrapped each hand in clean linen, then drew a pair of gloves from his sleeve and eased them over the bandages.
 
 “Leather will hold the wraps in place and keep the sun off the skin while it heals. You will wear them. That is the end of the subject.”
 
