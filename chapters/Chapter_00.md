@@ -6,7 +6,7 @@ This afternoon he stood at the back wall of the war gallery with an empty teapot
 
 If he did not move and did not speak and kept his hands folded on the pot, the room stopped counting him. Men said things in front of him they would never have said to a boy who was listening. He had heard a great deal that way, and he had never once been asked what he heard. Servants got to be furniture. This one had chosen it.
 
-Below the arches the courtyard lay quiet in the late light. Braziers—shallow iron bowls of burning coals—stood unlit along the open ground. A shallow stone basin sat in the alcove by the west door. Jake had filled that basin at first light because that was his hour and his basin. He had not known why it needed filling. He had only done the work.
+Below the arches the courtyard lay quiet in the late light. Braziers—shallow iron bowls for burning coals—stood unlit along the open ground. A shallow stone basin sat in the alcove by the west door. Jake had filled that basin at first light because that was his hour and his basin. He had not known why it needed filling. He had only done the work.
 
 The argument started over the maps.
 
@@ -82,7 +82,7 @@ On the third morning the lock came off.
 
 Uncle Iroh stood in the doorway. He was the Fire Lord’s brother. He said Jake’s name carefully.
 
-“The Fire Lord has settled the matter of the boy who interrupted his Agni Kai,” Iroh said. “A public execution would turn a palace scandal into something larger. You are being removed instead. You will say nothing of what happened. Not to me. Not to the prince.”
+“The Fire Lord has settled the matter of the boy who interrupted his Agni Kai,” Iroh said. “A public execution would turn a palace scandal into something larger. You are being removed instead. You will not be asked to explain what happened. Not by me. Not by the prince.”
 
 “Where am I to go?” Jake asked.
 
