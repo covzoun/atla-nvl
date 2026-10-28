@@ -26,13 +26,13 @@ An Agni Kai was a formal fire duel. Every child in the palace knew the shape of 
 
 The gallery began to move at once. Stewards gave quiet orders. Servants left their places and went down toward the courtyard. Below the arches, men started lighting the braziers and raking a circle into the sand. The open ground that had been empty a moment earlier was suddenly being made ready.
 
-Jake stayed where he was for a moment, teapot still in his hands. He watched the courtyard change. The braziers caught. The lower doors were cleared. People were already gathering at the rail. He did not fully understand what was about to happen, only that Zuko had spoken out of turn and that the Fire Lord had answered with a duel. Something in his chest had gone tight and cold. He set the teapot down on a side table because his hands had started to shake, then followed the others to the rail.
+Jake stayed where he was for a moment, teapot still in his hands. He watched the courtyard change. The braziers caught. The lower doors were cleared, and people began moving down the stairs toward the courtyard. He did not fully understand what was about to happen, only that Zuko had spoken out of turn and that the Fire Lord had answered with a duel. Something in his chest had gone tight and cold. He set the teapot down on a side table because his hands had started to shake, then followed them down.
 
 ---
 
-They lined the open arches above the courtyard. Below them the sanded circle waited under torchlight.
+The courtyard rail filled with officials and servants, all facing the sanded circle under torchlight.
 
-Prince Zuko came out into the light with a mask of hammered brass hanging from one hand. He set it on a stand at the edge of the ring. For a moment he looked as if he expected to face the general he had argued with. Then the tall doors on the far side opened and the Fire Lord walked out onto the sand.
+Prince Zuko came out into the light with a mask of hammered brass hanging from one hand. He set it on a stand at the edge of the ring and turned toward the doors with his face bare. For a moment he seemed to expect the general he had argued with. Then the tall doors on the far side opened and the Fire Lord walked out onto the sand.
 
 Zuko’s face changed.
 
