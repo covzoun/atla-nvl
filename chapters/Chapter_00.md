@@ -14,7 +14,7 @@ The argument started over the maps.
 
 “They are not a gap.”
 
-The second voice belonged to Prince Zuko. Jake did not need to look to know it. He had known that voice for years, from the stairs where he carried trays too hot to hold. Once, across a courtyard, the prince had sat with him on the fountain steps and spoken to him as if Jake were a person instead of a servant. Zuko was thirteen as well, tall for his age. To most of the palace he was the Fire Lord’s son. In the palace, Zuko was the only person who had ever looked at Jake as if his answer mattered.
+The second voice belonged to Prince Zuko. Jake did not need to look to know it. He had known that voice for years, from the stairs where he carried trays too hot to hold. Once, across a courtyard, the prince had sat with him on the fountain steps and spoken to him as if Jake were a person instead of a servant. Zuko was thirteen as well, tall for his age. To most of the palace he was the Fire Lord’s son. Of all the people Jake served in the palace, Zuko was the only one who had ever looked at him as if his answer mattered.
 
 “They are boys from the colonies who have never held a spear,” Zuko said. “You would spend them like coals and call it a plan.”
 
@@ -32,11 +32,11 @@ Jake stayed where he was for a moment, teapot still in his hands. He watched the
 
 The courtyard rail filled with officials and servants, all facing the sanded circle under torchlight.
 
-Prince Zuko came out into the light with a mask of hammered brass hanging from one hand. He set it on a stand at the edge of the ring and turned toward the doors with his face bare. For a moment he seemed to expect the general he had argued with. Then the tall doors on the far side opened and the Fire Lord walked out onto the sand.
+Prince Zuko came out into the light with a mask of hammered brass hanging from one hand. For a moment he seemed to expect the general he had argued with. Then the tall doors on the far side opened and the Fire Lord walked out onto the sand.
 
 Zuko’s face changed.
 
-“Father.”
+“Father.” He set the mask on a stand at the edge of the ring and turned to face him bare-faced.
 
 “You will fight for your honor,” the Fire Lord told him without raising his voice. He did not need to. “Rise and fight, Prince Zuko.”
 
@@ -54,7 +54,7 @@ For half a breath he held a roof of water over the prince’s body, arms up, han
 
 The water split the blast, but too much fire drove through too little water. The remainder boiled around Jake’s raised hands, and steam scalded the undersides from the base of each palm to every fingertip. Jake screamed. The basin’s water broke apart and fell on him, the sand, and the prince in a warm, dirty rain.
 
-The remaining force drove Zuko fully into the sand. His arms stayed raised as if the gesture could protect him after the fact. The gallery made a sound like a cloth being torn. Whatever sound Jake made was lost in it. His hands were cold. The cold ran up his arms into his chest and kept going. He stood there staring at Zuko’s open hands in the sand and could not make his feet move.
+The remaining force drove Zuko fully into the sand. His arms stayed raised as if the gesture could protect him after the fact. The crowd made a sound like a cloth being torn. Whatever sound Jake made was lost in it. His hands were cold. The cold ran up his arms into his chest and kept going. He stood there staring at Zuko’s open hands in the sand and could not make his feet move.
 
 He was still standing when the guards came off the rail. A man beside the ring shouted it before the others took him down.
 
@@ -126,8 +126,8 @@ From the rope coil Jake could see Zuko at the far rail, bandaged head between hi
 
 The lines came off the dock. The ship’s bell rang twice and the shore began to move.
 
-Jake stood at the far rail in his new gloves with his bundle against his chest and watched the harbor lights go out one at a time. The customs lamps, then the forge row, then the twin fires at the harbor mouth. Between him and the stones the wake closed over itself in a long slow swallow, black into black.
+Jake stood at the far rail in his new gloves with his bundle against his chest and watched the harbor lights go out one at a time. The customs lamps, then the forge row, then the twin fires at the harbor mouth. Between him and the dock, the wake closed over itself in a long, slow swallow, black into black.
 
-The island put its shoulder between them and the last of the fires went.
+The island put its shoulder between them, and the last of the fires disappeared behind it.
 
 Ahead of him there was open water, and it lay flat as far as the dark ran.
