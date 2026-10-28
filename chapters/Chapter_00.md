@@ -46,13 +46,15 @@ Zuko’s face changed.
 
 There was no order given. There was no bell. Fire gathered down the long line of the Fire Lord’s arm and drove across the sand toward the boy in the center of the ring.
 
-Jake was already moving before he had decided to move. There was a boy in the middle of that fire, and that boy had once sat with him on fountain steps and spoken to him as if he were a person. Jake put his feet into the ring in four strides and threw the water up off the basin stone in a single flat sheet between Zuko and the blast. The water rose green with basin-stain, like a lid being lifted.
+The first edge of the blast struck Zuko across the face and shoulder. He fell, his arms still raised. The fire did not stop.
+
+Jake was moving before he had decided to move. There was a boy in the middle of that fire, and that boy had once sat with him on fountain steps and spoken to him as if he were a person. Jake put his feet into the ring in four strides and threw the water up off the basin stone in a single flat sheet between Zuko and the continuing blast. The water rose green with basin-stain, like a lid being lifted.
 
 For half a breath he held a roof of water over the prince’s body, arms up, hands open and flat, palms to the sky. It was the easiest thing he had ever done. He did not understand it. Then the fire came down on it anyway.
 
-The water took the force. The force went through the water, because there was too much fire and not enough water, and what survived boiled. Jake had put himself between the blast and the boy. The water took the worst of it off the prince’s side and gave it to him instead. Steam came down onto his uplifted palms in one scalding sheet, burning palm and thumb and running out through every fingertip. Jake screamed. The basin’s water broke apart and fell on him and the sand and the prince in a warm, dirty rain.
+The water took the force. The force went through the water, because there was too much fire and not enough water, and what survived boiled. Jake had put himself between the continuing blast and the boy. The water broke apart what it could of the fire, and the remainder washed over Jake’s raised hands. Steam came down onto his palms in one scalding sheet, burning palm and thumb and running out through every fingertip. Jake screamed. The basin’s water broke apart and fell on him and the sand and the prince in a warm, dirty rain.
 
-The blast still found Zuko. It caught the side of his face and the top of his shoulder and drove him down into the sand with his arms still raised. The gallery made a sound like a cloth being torn. Whatever sound Jake made was lost in it. His hands were cold. The cold ran up his arms into his chest and kept going. He stood there staring at Zuko’s open hands in the sand and could not make his feet move.
+The remaining force drove Zuko fully into the sand. He turned his burned face away from the gallery, arms still raised as if the gesture could protect him after the fact. The gallery made a sound like a cloth being torn. Whatever sound Jake made was lost in it. His hands were cold. The cold ran up his arms into his chest and kept going. He stood there staring at Zuko’s open hands in the sand and could not make his feet move.
 
 He was still standing when the guards came off the rail. A man beside the ring shouted it before the others took him down.
 
