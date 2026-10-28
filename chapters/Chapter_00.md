@@ -6,7 +6,7 @@ This afternoon he stood at the back wall of the war gallery with an empty teapot
 
 If he did not move and did not speak and kept his hands folded on the pot, the room stopped counting him. Men said things in front of him they would never have said to a boy who was listening. He had heard a great deal that way, and he had never once been asked what he heard. Servants got to be furniture. This one had chosen it.
 
-Below the arches the courtyard lay quiet in the late light. Braziers—shallow iron bowls for burning coals—stood unlit along the open ground. A shallow stone basin sat in the alcove by the west door. Jake had filled that basin at first light because that was his hour and his basin. He had not known why it needed filling. He had only done the work.
+Below the arches the courtyard lay quiet in the late light. Braziers, shallow iron bowls for burning coals, stood unlit along the open ground. A shallow stone basin sat in the alcove by the west door. Jake had filled that basin at first light because that was his hour and his basin. He had not known why it needed filling. He had only done the work.
 
 The argument started over the maps.
 
@@ -14,7 +14,7 @@ The argument started over the maps.
 
 “They are not a gap.”
 
-The second voice belonged to Prince Zuko. Jake did not need to look to know it. He had known that voice for years—on the stairs when he carried trays too hot to hold, and once across a courtyard when the prince had sat with him on the fountain steps and spoken to him as if Jake were a person instead of a servant. Zuko was thirteen as well, tall for his age. To most of the palace he was the Fire Lord’s son. To Jake he was the one person who had ever looked at him as though he might answer back.
+The second voice belonged to Prince Zuko. Jake did not need to look to know it. He had known that voice for years, from the stairs where he carried trays too hot to hold and from one afternoon across a courtyard when the prince sat with him on the fountain steps and spoke to him as if Jake were a person instead of a servant. Zuko was thirteen as well, tall for his age. To most of the palace he was the Fire Lord’s son. To Jake he was the one person who had ever looked at him as though he might answer back.
 
 “They are boys from the colonies who have never held a spear,” Zuko said. “You would spend them like coals and call it a plan.”
 
@@ -36,7 +36,7 @@ Prince Zuko came out into the light and stopped at the edge of the ring. For a m
 
 Zuko’s face changed.
 
-“Father—”
+“Father.”
 
 “You will fight for your honor,” the Fire Lord said. His voice did not rise. It did not need to. “Rise and fight, Prince Zuko.”
 
@@ -50,7 +50,7 @@ Jake was already moving before he had decided to move. There was a boy in the mi
 
 For half a breath he held a roof of water over the prince’s body, arms up, hands open and flat, palms to the sky. It was the easiest thing he had ever done. He did not understand it. Then the fire came down on it anyway.
 
-The water took the force. The force went through the water, because there was too much fire and not enough water, and what survived boiled. Jake had put himself between the blast and the boy. The water took the worst of it off the prince’s side and gave it to him instead. Steam came down onto his uplifted palms in one scalding sheet—palm and thumb and out every fingertip. Jake screamed. The basin’s water broke apart and fell on him and the sand and the prince in a warm, dirty rain.
+The water took the force. The force went through the water, because there was too much fire and not enough water, and what survived boiled. Jake had put himself between the blast and the boy. The water took the worst of it off the prince’s side and gave it to him instead. Steam came down onto his uplifted palms in one scalding sheet, burning palm and thumb and running out through every fingertip. Jake screamed. The basin’s water broke apart and fell on him and the sand and the prince in a warm, dirty rain.
 
 The blast still found Zuko. It caught the side of his face and the top of his shoulder and drove him down into the sand with his arms still raised. The gallery made a sound like a cloth being torn. Whatever sound Jake made was lost in it. His hands were cold. The cold ran up his arms into his chest and kept going. He stood there staring at Zuko’s open hands in the sand and could not make his feet move.
 
