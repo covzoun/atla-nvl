@@ -52,7 +52,7 @@ For half a breath he held a roof of water over the prince’s body, arms up, han
 
 The water took the force. The force went through the water, because there was too much fire and not enough water, and what survived boiled. Jake had put himself between the blast and the boy. The water took the worst of it off the prince’s side and gave it to him instead. Steam came down onto his uplifted palms in one scalding sheet—palm and thumb and out every fingertip. Jake screamed. The basin’s water broke apart and fell on him and the sand and the prince in a warm, dirty rain.
 
-The blast still found Zuko. It caught the side of his face and the top of his shoulder and drove him down into the sand with his arms still raised. The gallery made a sound like a cloth being torn. Jake heard himself make no sound at all. His hands were cold. The cold ran up his arms into his chest and kept going. He stood there staring at Zuko’s open hands in the sand and could not make his feet move.
+The blast still found Zuko. It caught the side of his face and the top of his shoulder and drove him down into the sand with his arms still raised. The gallery made a sound like a cloth being torn. Whatever sound Jake made was lost in it. His hands were cold. The cold ran up his arms into his chest and kept going. He stood there staring at Zuko’s open hands in the sand and could not make his feet move.
 
 He was still standing when the guards came off the rail. A man beside the ring shouted it before the others took him down.
 
@@ -70,7 +70,7 @@ Jake spent the time being useful about not understanding. He made up the cot. He
 
 The burns were the plainest part. The skin had gone tight and shining across both palms. An orderly had wrapped them without looking at him. He turned his hands over in the lamplight and memorized them. He did not have a name for what he had done in the courtyard. He only knew that the fire had come through the water and into him.
 
-Through the grate on the second morning he watched guards cross the yard to the servants’ wing and come back out with a woman and a man in unmarked kitchen gray. The guards had gone in through Haru and Emi’s door. A steward came at noon with a folded list and stood in the corridor reading names. Every name was asked in a tone that had already decided the answer. The household’s error now had a face, and the face was a boy.
+Through the grate on the second morning he watched guards cross the yard to the servants’ wing and come back out with a woman and a man in unmarked kitchen gray. The guards had gone in through Haru and Emi’s door. A steward came at noon with a folded list and stood in the corridor reading names. Every name was read in a tone that had already decided the answer. The household’s error now had a face, and the face was a boy.
 
 When the steward passed the grate again, Jake asked the only thing he still knew how to ask.
 
