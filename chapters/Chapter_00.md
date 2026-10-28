@@ -20,7 +20,7 @@ The second voice belonged to Prince Zuko. Jake did not need to look to know it. 
 
 There was laughter after it, brief and respectful, the kind that closed a door. Then the Fire Lord spoke, and the laughter went out of the room entirely.
 
-“Prince Zuko has insulted this council,” the Fire Lord said. His voice was level. “The matter will be settled by Agni Kai. The gallery will attend.”
+“Prince Zuko has insulted this council,” the Fire Lord said evenly. “The matter will be settled by Agni Kai. The gallery will attend.”
 
 An Agni Kai was a formal fire duel. Every child in the palace knew the shape of it: two firebenders in a swept circle, no weapons, no armor, the court at the rail to witness. It settled an insult in front of everyone. The duel ended when one fighter yielded or could no longer continue. Jake had seen two, both between officers, both over before he had understood what he was watching. He had never seen one called on a prince.
 
@@ -38,7 +38,7 @@ Zuko’s face changed.
 
 “Father.”
 
-“You will fight for your honor,” the Fire Lord said. His voice did not rise. It did not need to. “Rise and fight, Prince Zuko.”
+“You will fight for your honor,” the Fire Lord told him without raising his voice. He did not need to. “Rise and fight, Prince Zuko.”
 
 “I won’t fight you.” Zuko’s voice held steady this time. “I spoke out of turn. Punish me for the words if you mean to, but I will not raise my hand against you.”
 
@@ -48,13 +48,13 @@ There was no order given. There was no bell. Fire gathered down the long line of
 
 The first edge of the blast struck Zuko across the face and shoulder. He fell, his arms still raised. The fire did not stop.
 
-Jake was moving before he had decided to move. There was a boy in the middle of that fire, and that boy had once sat with him on fountain steps and spoken to him as if he were a person. Jake put his feet into the ring in four strides and threw the water up off the basin stone in a single flat sheet between Zuko and the continuing blast. The water rose green with basin-stain, like a lid being lifted.
+Jake was moving before he had decided to move. There was a boy in the middle of that fire, a boy who had once made room for Jake on the fountain steps and talked to him without looking past him. Jake put his feet into the ring in four strides and threw the water up off the basin stone in a single flat sheet between Zuko and the continuing blast. The water rose green with basin-stain, like a lid being lifted.
 
 For half a breath he held a roof of water over the prince’s body, arms up, hands open and flat, palms to the sky. It was the easiest thing he had ever done. He did not understand it. Then the fire came down on it anyway.
 
 The water took the force. The force went through the water, because there was too much fire and not enough water, and what survived boiled. Jake had put himself between the continuing blast and the boy. The water broke apart what it could of the fire, and the remainder washed over Jake’s raised hands. Steam came down onto his palms in one scalding sheet, burning palm and thumb and running out through every fingertip. Jake screamed. The basin’s water broke apart and fell on him and the sand and the prince in a warm, dirty rain.
 
-The remaining force drove Zuko fully into the sand. He turned his burned face away from the gallery, arms still raised as if the gesture could protect him after the fact. The gallery made a sound like a cloth being torn. Whatever sound Jake made was lost in it. His hands were cold. The cold ran up his arms into his chest and kept going. He stood there staring at Zuko’s open hands in the sand and could not make his feet move.
+The remaining force drove Zuko fully into the sand. His arms stayed raised as if the gesture could protect him after the fact. The gallery made a sound like a cloth being torn. Whatever sound Jake made was lost in it. His hands were cold. The cold ran up his arms into his chest and kept going. He stood there staring at Zuko’s open hands in the sand and could not make his feet move.
 
 He was still standing when the guards came off the rail. A man beside the ring shouted it before the others took him down.
 
