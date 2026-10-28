@@ -2,7 +2,7 @@
 
 Jake was thirteen and a servant in the Fire Lord’s palace. He had lived there as long as he could remember, raised by two kitchen workers named Haru and Emi. Most days he carried trays, filled basins, and stood where he was told. He was good at being unnoticed. That was how he survived.
 
-This afternoon he stood at the back wall of the war gallery with an empty teapot in his hands. The gallery was a long, high room. Open arches ran along one side and looked straight down onto the palace courtyard. Generals and clerks filled the benches nearer the rail. Jake kept to the wall by the entrance doorway, where runners came and went.
+This afternoon he stood at the back wall of the war gallery with an empty teapot in his hands. The gallery was a long, high room. Open arches ran along one side and looked straight down onto the palace courtyard. Generals and clerks filled the benches nearer the rail. Jake kept to the wall near the entrance, where he would not be in the way.
 
 If he did not move and did not speak and kept his hands folded on the pot, the room stopped counting him. Men said things in front of him they would never have said to a boy who was listening. He had heard a great deal that way, and he had never once been asked what he heard. Servants got to be furniture. This one had chosen it.
 
@@ -20,17 +20,17 @@ The second voice belonged to Prince Zuko. Jake did not need to look to know it. 
 
 There was laughter after it, brief and respectful, the kind that closed a door. Then the Fire Lord spoke, and the laughter went out of the room entirely.
 
-A runner came through the entrance doorway. He looked past Jake, as runners always did, and spoke to the steward.
-
-“The prince has insulted the war council,” the runner said. “The Fire Lord has called an Agni Kai. The gallery is to attend.”
+“Prince Zuko has insulted this council,” the Fire Lord said. His voice was level. “The matter will be settled by Agni Kai. The gallery will attend.”
 
 An Agni Kai was a formal fire duel. Every child in the palace knew the shape of it: two firebenders in a swept circle, no weapons, no armor, the court at the rail to witness. It settled an insult the way a debt was settled—in front of everyone—and it ended when one of the two could not get up. Jake had seen two, both between officers, both over before he had understood what he was watching. He had never seen one called on a prince.
 
-Only then did the courtyard begin to move. Servants lit the braziers. Stewards cleared the lower doors. The gallery emptied toward the rail in a low, ordered rush. Jake followed with the rest.
+The gallery began to move at once. Stewards gave quiet orders. Servants left their places and went down toward the courtyard. Below the arches, men started lighting the braziers. The sanded circle that had been waiting all afternoon was suddenly in use.
+
+Jake stayed where he was for a moment, teapot still in his hands. He watched the courtyard change. The braziers caught. The lower doors were cleared. People were already gathering at the rail. He did not fully understand what was about to happen, only that Zuko had spoken out of turn and that the Fire Lord had answered with a duel. Something in his chest had gone tight and cold. He set the teapot down on a side table because his hands had started to shake, then followed the others to the rail.
 
 ---
 
-They lined the rail above the courtyard. Below them the sanded circle waited under torchlight.
+They lined the open arches above the courtyard. Below them the sanded circle waited under torchlight.
 
 Prince Zuko came out into the light and stopped at the edge of the ring. For a moment he looked as if he expected to face the general he had argued with. Then the tall doors on the far side opened and the Fire Lord walked out onto the sand.
 
