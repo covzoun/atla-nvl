@@ -74,7 +74,7 @@ Through the grate on the second morning he watched guards cross the yard to the 
 
 Two guards changed shifts outside the grate. One spoke low enough that Jake had to lean toward the window.
 
-“The records say Water Tribe.”
+“They say the boy is Water Tribe.”
 
 “Keep your voice down. The household hid him here for years.”
 
