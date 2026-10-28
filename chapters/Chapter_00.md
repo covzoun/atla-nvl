@@ -108,19 +108,19 @@ They cut Zuko’s topknot in the fountain court at noon. He knelt with his chin 
 
 He did not see Haru. He did not see Emi. He stood at the back with a bundle in both bandaged hands and listened for their voices. The ceremony ended. The servants were turned out through the side gate. They were not in it.
 
-He had one thing in the bundle that was his: a braided cord charm Haru had pressed into his hand the week before. He had been carrying it in his sleeve for eight days. He did not leave it behind.
+He had one thing that was his: a braided cord charm Haru had pressed into his hand the week before. He had kept it in his sleeve for eight days and tucked it into the bundle only now. He did not leave it behind.
 
-At the docks the ship stood taller than anything in his life had ever been. Crew moved past him with crates and did not look at the burned-handed boy at the prince’s shoulder. The one man who did look had his wrist taken by Iroh and did not look again.
+At the docks the ship stood taller than anything in his life had ever been. Crew moved past him with crates and did not look at the burned-handed boy at the prince’s shoulder. One crewman looked at the burned-handed boy. Iroh caught his wrist and guided him past; the man did not look again.
 
 “I’m not on the ship’s list,” Jake said, halfway up the gangway.
 
 “You are on it now,” Iroh said, and did not slow down.
 
-On the deck Iroh sat him down on a coil of rope and worked the wraps off his hands. The palms shone and tightened in the sea wind. Jake’s body arched at the cold. He did not make a sound.
+On the deck Iroh sat him down on a coil of rope and worked the wraps off his hands. The palms shone and tightened in the sea wind. Jake flinched when the sea wind touched the raw skin. He did not make a sound.
 
-“These are plain, and they are ugly,” Iroh said. He drew a pair of gloves from his sleeve and put them on Jake’s hands one at a time, over new linen.
+“The burns are bad,” Iroh said. He drew a pair of gloves from his sleeve and put them on Jake’s hands one at a time, over fresh linen.
 
-“Leather keeps the linen where it belongs. The sun does not touch what the leather covers. You will wear them. That is the end of the subject.”
+“Leather will hold the wraps in place and keep the sun off the skin while it heals. You will wear them. That is the end of the subject.”
 
 From the rope coil Jake could see Zuko at the far rail, bandaged head between his shoulders, alone in a lane the crew opened and closed around him. Nobody approached him. Nobody met his eyes. Jake understood that Iroh had put a task into his hands at the exact moment the prince’s own had nothing left to hold.
 
