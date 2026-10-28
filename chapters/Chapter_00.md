@@ -1,6 +1,6 @@
 # Prologue: The Agni Kai
 
-Jake was thirteen and a servant in the Fire Lord’s palace. Haru and Emi, two kitchen workers, had raised him there, and he had no memory of another home. Most days he carried trays, filled basins, and stood where he was told. He was good at being unnoticed; that was how he survived.
+Jake was thirteen and a servant in the Fire Lord’s palace. Haru and Emi, two kitchen workers, had raised him as their son, and he had no memory of another home. Most days he carried trays, filled basins, and stood where he was told. He was good at being unnoticed; that was how he survived.
 
 This afternoon he stood at the back wall of the war gallery with an empty teapot in his hands. The gallery was a long, high room, its open arches looking straight down onto the palace courtyard. Generals and clerks filled the benches nearer the rail. Jake kept to the wall near the entrance, where he would not be in the way.
 
