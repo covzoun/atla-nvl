@@ -32,11 +32,11 @@ Jake stayed where he was for a moment, teapot still in his hands, watching the c
 
 The courtyard rail filled with officials and servants, all facing the sanded circle under torchlight.
 
-Prince Zuko came out into the light with a mask of hammered brass hanging from one hand. For a moment he seemed to expect the general he had argued with. Then the tall doors on the far side opened and the Fire Lord walked out onto the sand.
+Prince Zuko came out into the light and took his place in the center of the ring. For a moment he seemed to expect the general he had argued with. Then the tall doors on the far side opened and the Fire Lord walked out onto the sand.
 
 Zuko’s face changed.
 
-“Father.” He set the mask on a stand at the edge of the ring and turned to face him bare-faced.
+“Father.” He turned to face him.
 
 “You will fight for your honor,” the Fire Lord told him without raising his voice. He did not need to. “Rise and fight, Prince Zuko.”
 
