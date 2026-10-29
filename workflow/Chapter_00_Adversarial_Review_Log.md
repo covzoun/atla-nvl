@@ -1,7 +1,7 @@
 # Chapter 0 Adversarial Review Log
 
 **Target:** `chapters/Chapter_00.md`  
-**Cycle status:** Turn A (Grok) multi-pass complete and verified; ready for ChatGPT Turn B.  
+**Cycle status:** Turn A (Grok) and Turn B (ChatGPT) multi-pass cycles complete; ready for Grok Turn C.  
 **Scope:** Chapter 0 only.  
 **Protocol:** `workflow/Adversarial_Editorial_Protocol.md` (including 2026-10-29 multi-pass addendum)  
 **Baseline chapter blob SHA at setup:** `bc999e3700e99a67afc7036881f85036f58edd79`  
@@ -17,7 +17,7 @@ A prior Grok review dated 2026-10-29 is recorded in the existing revision log. I
 
 | Issue ID | Location | Classification | Severity | Decision | Status | Evidence / rationale |
 |---|---|---|---|---|---|---|
-| C0-A-001 | Topknot ceremony (~line 105): “the fire-knife took it” | plausible risk | minor | defer | open | Canon uses an ordinary knife for the topknot cut. “Fire-knife” is an unmotivated invention that adds no necessary information. Prefer the simplest accurate term unless a deliberate AU justification is supplied. Not a confirmed defect: the object still performs the required action and the scene is otherwise correct. Deferred for Turn B or human decision. Re-examined in multi-pass line-level and technical audits; still minor and deferred. |
+| C0-A-001 | Topknot ceremony (~line 105): “the fire-knife took it” | plausible risk | minor | fix | verified | The relevant episode transcript does not depict the topknot ceremony, and no consulted project authority establishes a special “fire-knife.” The modifier adds unnecessary lore. Changed to “At noon in the fountain court, Zuko knelt with his chin up as a knife cut it free.” This preserves the beat without claiming the transcript establishes a particular blade. |
 | C0-A-002 | Holding-cell water / first conscious use | confirmed strength (no defect) | — | preserve | verified | Water remains still when Jake holds his hands over the bucket. Correctly protects the locked distinction in `Canon.md` between the public involuntary manifestation and the later private conscious use at sea. Re-verified in Pass C and post-edit continuity pass. |
 | C0-A-003 | Water-Tribe rumor + Jake’s understanding | confirmed strength (no defect) | — | preserve | verified | Rumor confined to two guards; Jake does not understand the identity implication. Satisfies RL-05 and RL-06. Re-verified in Pass C. |
 | C0-A-004 | Overall chapter structure, blocking, knowledge limits, anti-duplication | — | — | no material rewrite | verified | No critical or major confirmed defects remain after independent multi-pass audit against `Canon.md`, Chapter Index, Style Guide, and REVISION_LEARNINGS. |
