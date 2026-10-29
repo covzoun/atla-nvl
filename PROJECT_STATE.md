@@ -7,18 +7,17 @@
 ## Active task
 
 - **Target:** Book 1, Chapter 0, `chapters/Chapter_00.md`, the front-matter prologue “The Agni Kai”.
-- **Workflow stage:** `adversarial_revision_cycle` (Turns A–C complete; ChatGPT Turn D final independent check complete; awaiting user decision).  
-**Integration branch:** `ch0-review-ready-for-human` (the user authorized merging to `main` for human review; this is not approval of the chapter content).
-- **Current disposition:** ChatGPT Turn D began from verified live head `a46ebba1b0c2a4b4cbfa9b89e74229e5372afae7`; Chapter 0 blob `8e7b91f5dfb6e328138b47a5bad23343edf22de0` was unchanged. No material Chapter 0 issue was found that blocks human review. C0-A-001 remains verified fixed; C0-D-001 records a minor, non-blocking wording nuance about the public council charge versus Iroh’s later telling, preserved without a prose edit. Basin staging, first-manifestation vs first-conscious-use, witness knowledge, and Jake’s limited information about Haru and Emi hold. Turn D made no Chapter 0 prose changes. The issue ledger and this state were updated; the stale cycle-status sentence in `workflow/Ch1-10_Revision_Log.md` was reconciled. `REVISION_LEARNINGS.md` reflects Turns A–C; no new reusable lesson was added. The latest verified working-branch head before integration was `1f0becc13361309a6dc62feb1daca49df1f12e8d`. The user authorized merging the reviewed result to `main` for their own review; merge is pending.
+- **Workflow stage:** `human_review_pending` (Turns A–D complete; review package merged to `main`).  
+**Merged review commit:** `591527d91a9d72c397df91f5b5ee5f98eb763893`.
+- **Current disposition:** ChatGPT Turn D began from verified live head `a46ebba1b0c2a4b4cbfa9b89e74229e5372afae7`; Chapter 0 blob `8e7b91f5dfb6e328138b47a5bad23343edf22de0` was unchanged. No material Chapter 0 issue was found that blocks human review. C0-A-001 remains verified fixed; C0-D-001 records a minor, non-blocking wording nuance about the public council charge versus Iroh’s later telling, preserved without a prose edit. Basin staging, first-manifestation vs first-conscious-use, witness knowledge, and Jake’s limited information about Haru and Emi hold. Turn D made no Chapter 0 prose changes. The issue ledger and this state were updated; the stale cycle-status sentence in `workflow/Ch1-10_Revision_Log.md` was reconciled. `REVISION_LEARNINGS.md` reflects Turns A–C; no new reusable lesson was added. The reviewed result was merged to `main` in commit `591527d91a9d72c397df91f5b5ee5f98eb763893` via PR #3 after a clean integration branch was created from the latest main. Chapter 0 blob remains `8e7b91f5dfb6e328138b47a5bad23343edf22de0`.
 - **Scope lock:** Chapter 0 only for this adversarial cycle. Do not begin Chapter 1 or any other chapter until the user supplies a new explicit target.
 - **External reviews:** New-cycle Turns A (Grok), B (ChatGPT), and C (Grok) multi-pass cycles are complete. Both AIs independently audited the latest committed version and challenged each other’s work.
-- **Human review:** ChatGPT Turn D found no material issue that blocks human review. The user authorized merging to `main` so they can review the chapter afterward. This merge is not human approval; the user retains final authority to accept, reopen, or redirect.
+- **Human review:** The reviewed package is now on `main` for the user's review. This merge is not human approval. The user retains final authority to accept, reopen, or redirect.
 
 ## Next actions, in order
 
-1. Merge the reviewed Chapter 0 and workflow records to `main` for the user's human review, as explicitly authorized by the user.
-2. User reviews Chapter 0 and decides whether to accept, reopen, or redirect. Merge does not mean human approval of the chapter.
-3. Do not advance to another chapter without explicit user direction.
+1. User reviews Chapter 0 on `main` and decides whether to accept, reopen, or redirect.
+2. Do not advance to another chapter without explicit user direction.
 
 ## Completed work relevant to this task
 
@@ -27,7 +26,7 @@
 - New adversarial cycle Turn A (Grok): multi-pass complete; no prose changes; C0-A-001 deferred.
 - New adversarial cycle Turn B (ChatGPT): multi-pass complete; removed unsupported “fire-knife”; one localized sentence smoothed.
 - New adversarial cycle Turn C (Grok): multi-pass complete; independently verified the Turn B change and the locked continuity points (basin, first-manifestation, witness/knowledge limits, Haru/Emi uncertainty); no further prose changes; ledger and REVISION_LEARNINGS status reconciled.
-- Optional final check Turn D (ChatGPT, 2026-10-29): independent Passes A–H complete against live head `a46ebba1b0c2a4b4cbfa9b89e74229e5372afae7`; no material Chapter 0 issue blocks human review; no chapter prose changes; issue ledger, revision-log status, and this state updated. User decision remains pending.
+- Optional final check Turn D (ChatGPT, 2026-10-29): independent Passes A–H complete against live head `a46ebba1b0c2a4b4cbfa9b89e74229e5372afae7`; no material Chapter 0 issue blocks human review; no chapter prose changes. PR #3 merged the reviewed package to `main` in commit `591527d91a9d72c397df91f5b5ee5f98eb763893`. Human review remains pending.
 - Latest length remains ~2,270 words.
 - The Agni Kai is staged only in Chapter 0. Chapter 12 recounts the aftermath and Iroh’s telling, not a second staging of the duel.
 - `REVISION_LEARNINGS.md` remains the living record of recurring editorial root causes and preventive checks.
