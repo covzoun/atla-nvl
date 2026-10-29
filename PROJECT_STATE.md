@@ -7,18 +7,20 @@
 ## Active task
 
 - **Target:** Book 1, Chapter 0, `chapters/Chapter_00.md`, the front-matter prologue “The Agni Kai”.
-- **Workflow stage:** `adversarial_revision_cycle` (Turn A complete; ChatGPT Turn B pending).  
+- **Workflow stage:** `adversarial_revision_cycle` (Grok Turn A initial audit recorded; multi-pass completion checkpoint pending before ChatGPT Turn B).  
 **Working branch:** `ch0-adversarial-review` (keep `main` unchanged until the user approves the result).
-- **Current disposition:** Grok completed Turn A of the new adversarial cycle on 2026-10-29. Independent full-chapter audit found no critical or major confirmed defects. One minor plausible risk (C0-A-001, “fire-knife” wording) deferred. Chapter prose was not altered. Issue ledger and this state file updated. Next required action is ChatGPT Turn B.
+- **Current disposition:** Grok completed Turn A of the new adversarial cycle on 2026-10-29. Independent full-chapter audit found no critical or major confirmed defects. One minor plausible risk (C0-A-001, “fire-knife” wording) deferred. Chapter prose was not altered. Issue ledger and this state file updated. The new mandatory multi-pass standard was added after this initial audit. Grok must resume Turn A to complete and document the additional distinct passes before ChatGPT Turn B begins.
 - **Scope lock:** Chapter 0 only for this adversarial cycle. Do not begin Chapter 1 or any other chapter until the user supplies a new explicit target.
-- **External reviews:** Prior 2026-10-29 Grok review is historical only. New-cycle Turn A (Grok) complete; Turn B (ChatGPT) pending.
+- **External reviews:** Prior 2026-10-29 Grok review is historical only. New-cycle Turn A initial audit recorded; expanded multi-pass completion is pending. ChatGPT Turn B must wait until Grok records the required pass ledger.
 - **Human review:** Pending after the new adversarial cycle reaches its exit gate.
 
 ## Next actions, in order
 
-1. ChatGPT fetches the latest head of `ch0-adversarial-review`, independently audits the complete current chapter **and** the Turn A findings/ledger, challenges both, applies only evidence-supported fixes, verifies, updates records, commits/pushes if supported, and hands back to Grok.
-2. Continue alternating until the documented exit gate is met; only then return Chapter 0 for human review.
-3. Do not begin another chapter without explicit user direction.
+1. Grok resumes Turn A using the updated master prompt and branch protocol. Complete all required multi-pass audits, record a pass ledger in the review log, and save a checkpoint if continuation is needed. Do not hand off yet.
+2. After Grok documents completion of all passes and verifies the latest branch state, ChatGPT begins Turn B from the actual latest commit.
+3. Each subsequent AI turn must complete its own multi-pass cycle before handing off. If a turn cannot be completed reliably in one response, checkpoint and ask the user to say “continue” rather than handing off prematurely.
+4. Continue alternating until the documented exit gate is met; only then return Chapter 0 for human review.
+5. Do not begin another chapter without explicit user direction.
 
 ## Completed work relevant to this task
 
