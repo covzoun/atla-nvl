@@ -11,13 +11,13 @@
 **Working branch:** `ch0-adversarial-review` (keep `main` unchanged until the user approves the result).
 - **Current disposition:** The prior editorial pass and Grok review from 2026-10-29 remain historical. By the user's latest instruction, Chapter 0 is reopened for a new two-AI adversarial revision cycle. The cycle is initialized but no new-cycle critique or edits have occurred yet. Grok is assigned the first fresh audit, followed by ChatGPT; the AIs will alternate until the exit gate in `workflow/Adversarial_Editorial_Protocol.md` is met. Human review is pending under this new cycle.
 - **Scope lock:** Chapter 0 only for this adversarial cycle. Do not begin Chapter 1 or any other chapter until the user supplies a new explicit target.
-- **External reviews:** Independent AI review completed and recorded.
-- **Human review:** Waived by user instruction for this stage.
+- **External reviews:** A prior Grok review is recorded. The new adversarial cycle has not yet received a fresh Turn A review.
+- **Human review:** Pending after the new adversarial cycle reaches its exit gate.
 
 ## Next actions, in order
 
 1. User shares the updated master prompt and Chapter 0 reference links with Grok for Turn A.
-2. Grok fetches the latest repository state, performs a fresh exhaustive critique before editing, updates the issue ledger, applies justified fixes, verifies, commits/pushes if supported, and hands off to ChatGPT.
+2. Grok checks out `ch0-adversarial-review`, fetches its latest head, performs a fresh exhaustive critique before editing, updates the issue ledger, applies justified fixes, verifies, commits/pushes if supported, and hands off to ChatGPT.
 3. ChatGPT independently fetches the resulting commit and performs Turn B under the same protocol, then hands back to Grok.
 4. Continue alternating until the documented exit gate is met; only then return Chapter 0 for human review.
 5. Do not begin another chapter without explicit user direction.
