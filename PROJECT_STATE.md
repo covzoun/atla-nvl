@@ -8,19 +8,19 @@
 
 - **Target:** Book 1, Chapter 0, `chapters/Chapter_00.md`, the front-matter prologue “The Agni Kai”.
 - **Workflow stage:** `awaiting_external_ai_review`.
-- **Current disposition:** The latest editorial pass is staged for independent AI review. Treat the chapter as frozen for review unless a concrete defect is discovered or the user supplies review feedback.
+- **Current disposition:** Chapter 0 is handed off for an independent AI editorial pass. The next AI is authorized to review and revise the chapter where justified, verify changes against project sources and continuity, update affected records, and commit/push if its tools and permissions allow. Do not change sound prose merely to demonstrate activity.
 - **Scope lock:** Work on Chapter 0 only. Do not begin Chapter 1, Chapter 13, or any other chapter as the next task merely because it appears next in the narrative sequence.
 - **External reviews:** None have been recorded as received or completed. Do not imply that Grok, Claude, or another external AI has reviewed or approved the chapter.
 - **Human review:** Still pending after the independent AI review round.
 
 ## Next actions, in order
 
-1. The user shares Chapter 0 and relevant project references with one or more independent AI reviewers.
-2. The user brings their feedback back to this workflow.
-3. Assess each suggestion against the actual chapter, source material, locked project decisions, and `REVISION_LEARNINGS.md`. Classify it as a confirmed defect, plausible risk, or subjective preference.
-4. Make only justified changes to Chapter 0, then verify the full chapter and update affected records.
-5. Return the chapter for the user's human review.
-6. Do not advance to another chapter until the user explicitly approves or redirects the workflow.
+1. The next AI reads this file, `REVISION_LEARNINGS.md`, Chapter 0, and the relevant canon, Story Bible, chapter index, revision log, and source references before editing.
+2. Independently review Chapter 0 for prose, causality, physical staging, character knowledge, canon, continuity, and the recurring root causes in `REVISION_LEARNINGS.md`.
+3. Classify findings as confirmed defects, plausible risks, or subjective preferences. Apply justified fixes within the Chapter 0 scope; leave sound material unchanged where evidence does not justify a change.
+4. Verify the complete revised chapter against authoritative sources and downstream continuity. Update the revision log, chapter index, `REVISION_LEARNINGS.md`, and this state file only where warranted.
+5. Review the diff and commit/push changes if repository tools and permissions allow. Verify the resulting repository state before reporting success. If push access is unavailable, report the exact limitation and provide the completed work in the supported form.
+6. Return Chapter 0 for the user's human review. Do not advance to another chapter until the user explicitly approves or redirects the workflow.
 
 ## Completed work relevant to this task
 
