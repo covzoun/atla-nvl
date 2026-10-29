@@ -11,7 +11,7 @@
 **Working branch:** `ch0-adversarial-review` (keep `main` unchanged until the user approves the result).
 - **Current disposition:** ChatGPT Turn B completed on 2026-10-29 from starting head `9863fb499b27a306ce4163428225461c3ddea64f`. One localized Chapter 0 wording change was committed in `6a8d5ed48a30e479cbbaf2e1bde311fb25ee2c8d`: the unsupported “fire-knife” modifier was removed. No critical or major confirmed defects remain. The issue ledger now records Turn B's multi-pass ledger and C0-A-001 as fixed/verified. The final workflow-record commits are later than the chapter edit; the next AI must fetch the live branch head. Attempts to synchronize `REVISION_LEARNINGS.md` and `workflow/Ch1-10_Revision_Log.md` were blocked by repository write safety checks, so their cycle-status lines may remain stale and must be reconciled if the tools permit.
 - **Scope lock:** Chapter 0 only for this adversarial cycle. Do not begin Chapter 1 or any other chapter until the user supplies a new explicit target.
-- **External reviews:** Prior 2026-10-29 Grok review is historical only. New-cycle Turn A multi-pass complete. ChatGPT Turn B is the next authorized action.
+- **External reviews:** Prior 2026-10-29 Grok review is historical only. New-cycle Turn A and Turn B multi-pass cycles are complete. Grok Turn C is the next authorized action.
 - **Human review:** Pending after the new adversarial cycle reaches its exit gate.
 
 ## Next actions, in order
@@ -26,6 +26,7 @@
 - Chapter 0 received a focused canon, continuity, staging, and prose pass on 2026-10-29 (prior editor).
 - Independent external AI review (Grok) performed 2026-10-29 against `REVISION_LEARNINGS.md`, `base/Canon.md`, `base/Story_Bible.md`, `base/Book_1_Chapter_Index.md`, `base/Style_Guide.md`, and the Chapter 0 revision-log entry. Final light polish applied same day for clarity of one holding-cell sentence and one seasonal reference.
 - New adversarial cycle Turn A (Grok, 2026-10-29): initial independent audit + expanded multi-pass completion (Passes A–H recorded in ledger); findings recorded in `workflow/Chapter_00_Adversarial_Review_Log.md`; no chapter prose changes; ledger and state updated.
+- New adversarial cycle Turn B (ChatGPT, 2026-10-29): completed independent Passes A–H; simplified one topknot sentence to remove unsupported “fire-knife” wording; full-chapter, continuity, diff, and cross-chapter repetition checks recorded in the issue ledger. No new reusable lesson added. Grok Turn C is next.
 - Latest length remains ~2,270 words.
 - The Agni Kai is staged only in Chapter 0. Chapter 12 recounts the aftermath and Iroh’s telling, not a second staging of the duel.
 - `REVISION_LEARNINGS.md` remains the living record of recurring editorial root causes and preventive checks.
