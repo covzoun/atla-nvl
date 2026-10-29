@@ -103,3 +103,10 @@ If new material defects appear, continue the cycle. If a full round yields only 
 ## Scope and authority
 
 The active target and stage come from PROJECT_STATE.md plus the user's latest explicit instruction. Chapter numbering does not choose the next task. The user retains final creative authority. Do not advance to another chapter without explicit direction.
+
+
+## Branch safety and human approval
+
+When GitHub tools support branches, conduct the cycle on a dedicated working branch so main remains unchanged during the debate. For Chapter 0, use the branch named in PROJECT_STATE.md. Both AIs must use the same branch, fetch its latest head before each turn, and avoid parallel edits. Do not create a competing branch unless the user directs it or the named branch is unavailable.
+
+Passing the exit gate means ready for human review, not automatically approved for merge. Do not merge into main, mark human approval complete, or advance to another chapter until the user explicitly approves or redirects the workflow. If branch support is unavailable, document the limitation and use the safest supported alternative.
