@@ -52,7 +52,7 @@ Jake ran, abandoning every habit that had kept him unnoticed. The basin water to
 
 For half a breath he held a roof of water over the prince’s body, arms up, hands open and flat, palms to the sky. It was the easiest thing he had ever done, though he did not understand it. Then the fire came down on it anyway.
 
-The water split the blast, but too much fire drove through too little water. The water boiled around Jake’s raised hands, and steam scalded the undersides from the base of each palm to every fingertip. Jake screamed. The basin’s water broke apart and fell on him, the sand, and the prince in a warm, dirty rain.
+The water split the blast, but too much fire drove through too little water. The water boiled around Jake’s raised hands, and steam scalded the undersides of both hands, from the base of each palm to every fingertip. Jake screamed. The basin’s water broke apart and fell on him, the sand, and the prince in a warm, dirty rain.
 
 The remaining force drove Zuko fully into the sand. His arms stayed raised as if the gesture could protect him after the fact. The crowd made a sound like a cloth being torn. Whatever sound Jake made was lost in it. His hands were cold. The cold ran up his arms into his chest and kept going. He stood there staring at Zuko’s open hands in the sand and could not make his feet move.
 
