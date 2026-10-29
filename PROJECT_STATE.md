@@ -7,12 +7,12 @@
 ## Active task
 
 - **Target:** Book 1, Chapter 0, `chapters/Chapter_00.md`, the front-matter prologue “The Agni Kai”.
-- **Workflow stage:** `adversarial_revision_cycle` (Turns A–C multi-pass complete; exit-gate evaluation recorded; awaiting user decision on human review).  
+- **Workflow stage:** `adversarial_revision_cycle` (Turns A–C complete; ChatGPT Turn D final independent check complete; awaiting user decision).  
 **Working branch:** `ch0-adversarial-review` (keep `main` unchanged until the user approves the result).
-- **Current disposition:** Grok Turn C completed on 2026-10-29 from live head `1c25a84baa3455ff6ef533618b1854e3b970a6e6`. Independent multi-pass audit accepted ChatGPT’s removal of the unsupported “fire-knife” wording (C0-A-001 verified). Basin staging, first-manifestation vs first-conscious-use distinction, witness knowledge, and Jake’s limited information about Haru and Emi were re-checked and hold. No new confirmed defects or material plausible risks. No further chapter prose changes. Issue ledger residual text corrected; REVISION_LEARNINGS status line updated. `workflow/Ch1-10_Revision_Log.md` adversarial-cycle note remains partially stale (prior write attempts blocked; primary ledger is authoritative).
+- **Current disposition:** ChatGPT Turn D began from verified live head `a46ebba1b0c2a4b4cbfa9b89e74229e5372afae7`; Chapter 0 blob `8e7b91f5dfb6e328138b47a5bad23343edf22de0` was unchanged. No material Chapter 0 issue was found that blocks human review. C0-A-001 remains verified fixed; C0-D-001 records a minor, non-blocking wording nuance about the public council charge versus Iroh’s later telling, preserved without a prose edit. Basin staging, first-manifestation vs first-conscious-use, witness knowledge, and Jake’s limited information about Haru and Emi hold. Turn D made no Chapter 0 prose changes. The issue ledger and this state were updated; the stale cycle-status sentence in `workflow/Ch1-10_Revision_Log.md` was reconciled. `REVISION_LEARNINGS.md` reflects Turns A–C; no new reusable lesson was added. The latest verified head before this state update was `449154e6c630d92896254fb4d68228cd6c5549ce`.
 - **Scope lock:** Chapter 0 only for this adversarial cycle. Do not begin Chapter 1 or any other chapter until the user supplies a new explicit target.
 - **External reviews:** New-cycle Turns A (Grok), B (ChatGPT), and C (Grok) multi-pass cycles are complete. Both AIs independently audited the latest committed version and challenged each other’s work.
-- **Human review:** Exit-gate criteria appear met on the evidence available after Turn C. User retains final authority to accept for human review, reopen, or redirect.
+- **Human review:** ChatGPT Turn D found no material issue that blocks human review. This is not a declaration that the formal exit gate is closed or that the chapter is human-approved. The user retains final authority to accept for human review, reopen, or redirect.
 
 ## Next actions, in order
 
@@ -27,6 +27,7 @@
 - New adversarial cycle Turn A (Grok): multi-pass complete; no prose changes; C0-A-001 deferred.
 - New adversarial cycle Turn B (ChatGPT): multi-pass complete; removed unsupported “fire-knife”; one localized sentence smoothed.
 - New adversarial cycle Turn C (Grok): multi-pass complete; independently verified the Turn B change and the locked continuity points (basin, first-manifestation, witness/knowledge limits, Haru/Emi uncertainty); no further prose changes; ledger and REVISION_LEARNINGS status reconciled.
+- Optional final check Turn D (ChatGPT, 2026-10-29): independent Passes A–H complete against live head `a46ebba1b0c2a4b4cbfa9b89e74229e5372afae7`; no material Chapter 0 issue blocks human review; no chapter prose changes; issue ledger, revision-log status, and this state updated. User decision remains pending.
 - Latest length remains ~2,270 words.
 - The Agni Kai is staged only in Chapter 0. Chapter 12 recounts the aftermath and Iroh’s telling, not a second staging of the duel.
 - `REVISION_LEARNINGS.md` remains the living record of recurring editorial root causes and preventive checks.
