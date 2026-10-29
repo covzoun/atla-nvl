@@ -68,7 +68,7 @@ The last thing he saw was Zuko on his side in the sand, turning his burned face 
 
 They put him in a small room off the laundry used for temporary holding. It had a grate for a window and a thin cot. No one came back for two days.
 
-Jake spent the time being useful about not understanding. He made up the cot and counted the floor stones. He held his hands over the wash bucket, palms up, because the linen had gone stiff with salt and the skin beneath it was hot. The water stayed still, but he watched it anyway, waiting for it to move again; when the sting eased, he lowered his arms.
+Jake spent the time making himself useful while not understanding. He made up the cot and counted the floor stones. He held his hands over the wash bucket, palms up, because the linen had gone stiff with salt and the skin beneath it was hot. The water stayed still, but he watched it anyway, waiting for it to move again; when the sting eased, he lowered his arms.
 
 The burns were the plainest part: the skin had gone tight and shining across both palms. An orderly had wrapped them without looking at him. He turned his hands over in the lamplight and memorized them, still without a name for what he had done in the courtyard. He only knew that the fire had come through the water and into him.
 
@@ -84,7 +84,7 @@ They noticed him at the grate and fell silent. Jake did not know what the words 
 
 When the steward passed the grate again, Jake asked the only question he could still form.
 
-“Will the rooms need the winter blankets aired? September damp gets into wool.”
+“Will the rooms need the winter blankets aired? Autumn damp gets into wool.”
 
 The steward looked at him for the first time, long enough to frighten him. Then the man wrote something on his list and went away.
 
