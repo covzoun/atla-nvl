@@ -5,7 +5,7 @@
 **Scope:** Book 1 by default, with lessons added from any chapter or review round when they are likely to generalize. Chapter-specific decisions remain attached to the relevant chapter, canon, index, state tracker, or revision log.
 
 **Last updated:** 2026-10-29  
-**Current review status:** Chapter 0 adversarial Turns A–C and ChatGPT's independent final check (Turn D) completed 2026-10-29. No new reusable lesson was added; existing RL-02 and RL-12 were applied. The user authorized merge to `main` for human review; this document does not claim human approval.
+**Current review status:** Chapter 0 adversarial Turns A–C and ChatGPT's independent final check (Turn D) completed 2026-10-29. No new reusable lesson was added; existing RL-02 and RL-12 were applied. The review package was merged to `main` via PR #3, commit `591527d91a9d72c397df91f5b5ee5f98eb763893`, for the user's human review. This document does not claim human approval.
 
 ---
 
