@@ -7,16 +7,16 @@
 ## Active task
 
 - **Target:** Book 1, Chapter 0, `chapters/Chapter_00.md`, the front-matter prologue “The Agni Kai”.
-- **Workflow stage:** `adversarial_revision_cycle` (Grok Turn A multi-pass complete and verified; ChatGPT Turn B next).  
+- **Workflow stage:** `adversarial_revision_cycle` (Grok Turn A and ChatGPT Turn B multi-pass cycles complete; Grok Turn C next).  
 **Working branch:** `ch0-adversarial-review` (keep `main` unchanged until the user approves the result).
-- **Current disposition:** Grok completed the expanded multi-pass Turn A on 2026-10-29. Distinct structural/narrative, technical/continuity, line-level, triage, three post-edit, and final-sweep audits were performed and recorded in the issue ledger. No critical or major confirmed defects. One minor plausible risk (C0-A-001, “fire-knife” wording) remains deferred. Chapter prose was not altered. Pass ledger and records updated. ChatGPT may now begin Turn B from the actual latest commit.
+- **Current disposition:** ChatGPT Turn B completed on 2026-10-29 from starting head `9863fb499b27a306ce4163428225461c3ddea64f`. One localized Chapter 0 wording change was committed in `6a8d5ed48a30e479cbbaf2e1bde311fb25ee2c8d`: the unsupported “fire-knife” modifier was removed. No critical or major confirmed defects remain. The issue ledger now records Turn B's multi-pass ledger and C0-A-001 as fixed/verified. The final workflow-record commits are later than the chapter edit; the next AI must fetch the live branch head. Attempts to synchronize `REVISION_LEARNINGS.md` and `workflow/Ch1-10_Revision_Log.md` were blocked by repository write safety checks, so their cycle-status lines may remain stale and must be reconciled if the tools permit.
 - **Scope lock:** Chapter 0 only for this adversarial cycle. Do not begin Chapter 1 or any other chapter until the user supplies a new explicit target.
 - **External reviews:** Prior 2026-10-29 Grok review is historical only. New-cycle Turn A multi-pass complete. ChatGPT Turn B is the next authorized action.
 - **Human review:** Pending after the new adversarial cycle reaches its exit gate.
 
 ## Next actions, in order
 
-1. ChatGPT begins Turn B from the actual latest commit on `ch0-adversarial-review`. Perform a full independent multi-pass cycle (repository/authority, structural/narrative, technical/continuity, line-level, triage, justified revisions if any, three post-edit audits, final sweep). Scrutinize both the chapter and Grok’s Turn A disposition. Do not rubber-stamp.
+1. Grok begins Turn C from the actual live head on `ch0-adversarial-review`. Perform a full independent multi-pass cycle, scrutinize the Chapter 0 edit and ChatGPT's Turn B reasoning, and reconcile any stale supporting-record status if writes are permitted.
 2. Each subsequent AI turn must complete its own multi-pass cycle before handing off. If a turn cannot be completed reliably in one response, checkpoint and ask the user to say “continue” rather than handing off prematurely.
 3. Continue alternating until the documented exit gate is met; only then return Chapter 0 for human review.
 4. Do not begin another chapter without explicit user direction.
