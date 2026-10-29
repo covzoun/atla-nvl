@@ -105,6 +105,23 @@ If new material defects appear, continue the cycle. If a full round yields only 
 The active target and stage come from PROJECT_STATE.md plus the user's latest explicit instruction. Chapter numbering does not choose the next task. The user retains final creative authority. Do not advance to another chapter without explicit direction.
 
 
+
+## Deep-work rule: each AI turn is a multi-pass work cycle
+
+A turn is not complete after one critique, one edit, and one self-review. The user explicitly prefers depth over speed. Do not rush to hand off or compress the work into a superficial single response.
+
+Each turn must complete distinct passes before handoff: (1) repository and authority audit; (2) independent whole-chapter structural and narrative audit; (3) technical and continuity audit against actual sources; (4) line-level and reader-experience audit; (5) issue triage and revision plan; (6) coherent revision batches with diff checks; (7) three distinct post-edit audits: a fresh-reader pass, an evidence/canon/continuity pass, and an adversarial regression pass; (8) an independent final sweep of the whole chapter and final diff. Record strengths to preserve as well as defects. If a pass finds a material issue, return to triage and revision, then repeat the relevant checks.
+
+The handoff must include a pass ledger marking each pass complete, incomplete, or blocked and describing what was actually checked. Listing or attempting a pass does not make it complete; findings must be resolved or explicitly dispositioned.
+
+## Continuation checkpoints
+
+If a turn cannot be completed reliably within one response or context window, do not lower the standard or hand off prematurely. Save a durable checkpoint in the issue ledger and project state: branch and commit SHA, passes completed, sources inspected, findings, edits, checks completed, and exact remaining work. State clearly that the turn remains incomplete and ask the user to reply **continue** to resume this same AI's work cycle. On continuation, re-fetch repository state and resume from the checkpoint. Do not ask for continuation after every small step when work can proceed reliably in the same response.
+
+## No premature handoff or artificial convergence
+
+Do not hand off after fixing only one or two issues. Complete the full multi-pass work cycle first. Multiple reviews must use meaningfully different lenses, not repeatedly rewrite a sentence without new evidence. After one AI completes a full cycle, the other AI performs its own full cycle; then they alternate again. A single turn by each AI does not automatically satisfy the exit gate. Continue when material findings, plausible risks, or regressions remain. If later passes find no material issues, document that result and why the pass was still useful. If only subjective alternatives remain, explain why further editing is unlikely to improve the chapter.
+
 ## Branch safety and human approval
 
 When GitHub tools support branches, conduct the cycle on a dedicated working branch so main remains unchanged during the debate. For Chapter 0, use the branch named in PROJECT_STATE.md. Both AIs must use the same branch, fetch its latest head before each turn, and avoid parallel edits. Do not create a competing branch unless the user directs it or the named branch is unavailable.
