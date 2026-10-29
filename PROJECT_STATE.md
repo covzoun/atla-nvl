@@ -8,7 +8,7 @@
 
 - **Target:** Book 1, Chapter 0, `chapters/Chapter_00.md`, the front-matter prologue “The Agni Kai”.
 - **Workflow stage:** `complete` (editorially verified).
-- **Current disposition:** Independent external AI review (Grok) completed on 2026-10-29. No confirmed defects found that justified further prose changes. The chapter already satisfies canon locks, continuity, physical staging, knowledge limits, style ceilings, and reader-orientation requirements from the prior 2026-10-29 pass. User explicitly authorized proceeding with revisions and waived additional human review for this stage.
+- **Current disposition:** Independent external AI review (Grok) completed on 2026-10-29. Two light clarity polishes applied after re-check (holding-cell phrasing; seasonal reference). Chapter satisfies canon locks, continuity, physical staging, knowledge limits, style ceilings, and reader-orientation requirements. User authorized revisions and waived additional human review for this stage.
 - **Scope lock:** Chapter 0 work is closed. Do not begin Chapter 1 or any other chapter until the user supplies a new explicit target.
 - **External reviews:** Independent AI review completed and recorded.
 - **Human review:** Waived by user instruction for this stage.
@@ -21,8 +21,8 @@
 ## Completed work relevant to this task
 
 - Chapter 0 received a focused canon, continuity, staging, and prose pass on 2026-10-29 (prior editor).
-- Independent external AI review (Grok) performed 2026-10-29: full reread against `REVISION_LEARNINGS.md` (RL-01–RL-12), `base/Canon.md`, `base/Story_Bible.md`, `base/Book_1_Chapter_Index.md`, `base/Style_Guide.md`, and the Chapter 0 revision-log entry. No material defects identified; sound material preserved without activity-driven changes.
-- The chapter index records the latest length as 2,270 words.
+- Independent external AI review (Grok) performed 2026-10-29 against `REVISION_LEARNINGS.md`, `base/Canon.md`, `base/Story_Bible.md`, `base/Book_1_Chapter_Index.md`, `base/Style_Guide.md`, and the Chapter 0 revision-log entry. Final light polish applied same day for clarity of one holding-cell sentence and one seasonal reference.
+- Latest length remains ~2,270 words.
 - The Agni Kai is staged only in Chapter 0. Chapter 12 recounts the aftermath and Iroh’s telling, not a second staging of the duel.
 - `REVISION_LEARNINGS.md` remains the living record of recurring editorial root causes and preventive checks.
 - Chapter 0 file: https://github.com/covzoun/atla-nvl/blob/main/chapters/Chapter_00.md
