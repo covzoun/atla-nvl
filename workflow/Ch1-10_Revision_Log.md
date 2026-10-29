@@ -3,7 +3,7 @@
 Date: 2026-10-21
 Scope: `chapters/Chapter_00.md` through `Chapter_10.md`, plus the governance files touched by the pass.
 Authority: `workflow/Ch1-10_Analysis_and_Revision_Plan.md`, `workflow/Canon_Beat_Sheets.md`, `base/Style_Guide.md`, `base/Canon.md`.
-Status: Pass complete. Chapter 0 independent AI review completed 2026-10-29; further human review waived by user.
+Status: Prior pass complete; Chapter 0 reopened by the user's 2026-10-29 instruction for a new two-AI adversarial revision cycle. The earlier Grok review and prior human-review waiver remain historical, but do not satisfy the new cycle's exit gate.
 
 ---
 
@@ -144,3 +144,16 @@ The chapter's first paragraph now opens on the ragged sparring overhead as a sou
 ### 3. Chapter 12 drafted: "The Quiet at the Center"
 
 `chapters/Chapter_12.md` (7,515 words, Jake POV, 47% dialogue, avg sentence 13.8, max 45, zero paragraphs over 120, 1.7 dashes/1k, "the way" at 3) was written against the episode synopsis in `source/Season 01/s01e12_the_storm/` and a new beat sheet added to `workflow/Canon_Beat_Sheets.md`. Title recorded first in the index per the 2026-10-18 title rule.
+
+
+## New adversarial cycle authorized 2026-10-29
+
+The user requested an alternating, adversarial editorial cycle between Grok and ChatGPT: exhaustive critique before edits, justified revisions, self-audit and regression checks, verified commits, and repeated handoffs until the defined exit gate is met. Chapter 0 is the active target; no other chapter is authorized.
+
+The earlier Grok review remains historical and is not counted as a fresh turn under this protocol. The new cycle begins with Grok Turn A on the latest working-branch commit, followed by ChatGPT Turn B, then alternating turns. The main branch is to remain unchanged until the user approves the version after it passes the exit gate.
+
+- Protocol: https://github.com/covzoun/atla-nvl/blob/main/workflow/Adversarial_Editorial_Protocol.md
+- Chapter 0 issue ledger: https://github.com/covzoun/atla-nvl/blob/main/workflow/Chapter_00_Adversarial_Review_Log.md
+- Working branch: https://github.com/covzoun/atla-nvl/tree/ch0-adversarial-review
+
+No new-cycle findings or chapter edits are claimed in this entry. The first action is a fresh Grok audit of the latest branch state.
