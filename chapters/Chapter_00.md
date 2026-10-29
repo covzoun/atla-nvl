@@ -46,7 +46,7 @@ Zuko’s face changed.
 
 No signal followed. No bell rang. Fire gathered down the long line of the Fire Lord’s arm and drove across the sand toward the boy in the center of the ring.
 
-The first edge of the blast struck Zuko across the face and shoulder. He fell, his arms still raised. The fire did not stop.
+The first edge of the blast struck Zuko across the face and shoulder. His knees buckled, his arms still raised. The fire did not stop.
 
 Jake ran, abandoning every habit that had kept him unnoticed. The basin water tore free from the west-door alcove, rose across the sand, and spread in a single flat sheet between Zuko and the continuing blast. The water rose green with basin-stain, like a lid being lifted.
 
