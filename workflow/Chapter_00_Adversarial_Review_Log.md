@@ -1,7 +1,7 @@
 # Chapter 0 Adversarial Review Log
 
 **Target:** `chapters/Chapter_00.md`  
-**Cycle status:** Turns A–C multi-pass cycles complete; ChatGPT Turn D final independent check complete. No material Chapter 0 issue found that blocks human review. Awaiting user decision; no human approval or formal exit-gate closure is claimed.  
+**Cycle status:** Turns A–C multi-pass cycles complete; ChatGPT Turn D final independent check complete. No material Chapter 0 issue found that blocks human review. Review package merged to `main` via PR #3 (`591527d91a9d72c397df91f5b5ee5f98eb763893`); awaiting user's human review. No human approval is claimed.  
 **Scope:** Chapter 0 only.  
 **Protocol:** `workflow/Adversarial_Editorial_Protocol.md` (including 2026-10-29 multi-pass addendum)  
 **Baseline chapter blob SHA at setup:** `bc999e3700e99a67afc7036881f85036f58edd79`  
@@ -93,4 +93,4 @@ A prior Grok review dated 2026-10-29 is recorded in the existing revision log. I
 
 ## Exit gate
 
-Do not mark Chapter 0 ready for human review until every criterion in Section 12.7 of the master prompt and the exit-gate section of `workflow/Adversarial_Editorial_Protocol.md` has been verified against the live repository. After Turn D, no material chapter issue blocks human review; the current Chapter 0 blob is unchanged from Turn C and the stale revision-log status sentence has been reconciled. This report does not declare the formal exit gate closed or human approval complete. The user retains authority to accept the chapter for human review, reopen it, or redirect the workflow.
+Do not mark Chapter 0 ready for human review until every criterion in Section 12.7 of the master prompt and the exit-gate section of `workflow/Adversarial_Editorial_Protocol.md` has been verified against the live repository. After Turn D, no material chapter issue blocks human review; the current Chapter 0 blob is unchanged from Turn C and the stale revision-log status sentence has been reconciled. This report does not claim human approval. The reviewed package has been merged to `main` so the user can review it; the user retains authority to accept, reopen, or redirect the workflow.
