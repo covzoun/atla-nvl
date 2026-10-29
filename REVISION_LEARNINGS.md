@@ -5,7 +5,7 @@
 **Scope:** Book 1 by default, with lessons added from any chapter or review round when they are likely to generalize. Chapter-specific decisions remain attached to the relevant chapter, canon, index, state tracker, or revision log.
 
 **Last updated:** 2026-10-29  
-**Current review status:** The prior Chapter 0 pass and Grok review are recorded in the revision log. A new two-AI adversarial cycle has been authorized and initialized; its first fresh turn is pending. This document records reusable findings only and does not claim any new-cycle review or approval.
+**Current review status:** Chapter 0 adversarial Turns A–C and ChatGPT's independent final check (Turn D) completed 2026-10-29. No new reusable lesson was added; existing RL-02 and RL-12 were applied. The user authorized merge to `main` for human review; this document does not claim human approval.
 
 ---
 
@@ -71,7 +71,7 @@ This document is a memory aid, not a new canon authority.
 - Label intentional AU additions as additions and check that they do not contradict locked facts.
 - Remove unsupported details unless they have a clear, approved story purpose.
 
-**Project example:** The brass-mask detail was removed from the Chapter 0 Agni Kai sequence after checking the episode transcript; the detail was not present in that sequence. The war-council cause was also corrected to the proposed use of untried colonial recruits as bait.
+**Project example:** The brass-mask detail was removed from the Chapter 0 Agni Kai sequence after checking the episode transcript; the detail was not present in that sequence. The war-council cause was also corrected to the proposed use of untried colonial recruits as bait. The unsupported “fire-knife” modifier in the topknot ceremony was likewise removed in the 2026-10-29 adversarial cycle (Turn B, verified Turn C).
 
 ### RL-03 — A local prose fix can create a downstream continuity error
 
@@ -203,9 +203,9 @@ This document is a memory aid, not a new canon authority.
 
 ### RL-10 — Close POV is weakened by narrator knowledge or explanatory overreach
 
-**Pattern:** The narration explains what a scene means, announces future significance, or names an emotion the POV character has not recognized.
+**Pattern:** A character behaves as if they understand an identity, secret, power, motive, or implication that they have not actually learned.
 
-**Root cause:** The writer steps outside the character's immediate perception to guide the reader toward the intended interpretation.
+**Root cause:** The author knows the full backstory and unintentionally lets that knowledge leak into the character's perceptions or narration.
 
 **How to detect it**
 - Look for abstract summaries immediately after a concrete action or line of dialogue.
@@ -251,7 +251,7 @@ This document is a memory aid, not a new canon authority.
 - Verify the final state from the repository after writing.
 - If counts depend on a project-specific script, use that method; do not substitute a rough whitespace count without noting the difference.
 
-**Project example:** Chapter 0's word count and status are recorded in both `base/Book_1_Chapter_Index.md` and `workflow/Ch1-10_Revision_Log.md`. They should stay synchronized with the chapter.
+**Project example:** Chapter 0's word count and status are recorded in both `base/Book_1_Chapter_Index.md` and `workflow/Ch1-10_Revision_Log.md`. They should stay synchronized with the chapter. The 2026-10-29 adversarial cycle required explicit status-line updates in this file and the revision log after Turn B/C.
 
 ---
 
@@ -290,3 +290,4 @@ Add new entries using this template. Keep entries evidence-based and concise.
 ## Change history
 
 - **2026-10-29:** Created as a cross-chapter living reference. Initial entries consolidate recurring findings from the Chapters 0–10 revision work and the Chapter 0 canon/continuity pass. No new canon decisions are introduced here.
+- **2026-10-29 (adversarial cycle):** Status line updated after Turns A–C; RL-02 example extended with the fire-knife removal; no new lesson ID added.
