@@ -5,7 +5,7 @@
 **Scope:** Book 1 by default, with lessons added from any chapter or review round when they are likely to generalize. Chapter-specific decisions remain attached to the relevant chapter, canon, index, state tracker, or revision log.
 
 **Last updated:** 2026-10-29  
-**Current review status:** Chapter 0 is staged for independent AI review. This document records the project team's existing findings; it does not claim that any external AI has reviewed or approved the chapter.
+**Current review status:** The prior Chapter 0 pass and Grok review are recorded in the revision log. A new two-AI adversarial cycle has been authorized and initialized; its first fresh turn is pending. This document records reusable findings only and does not claim any new-cycle review or approval.
 
 ---
 
