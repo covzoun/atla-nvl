@@ -50,6 +50,30 @@ A prior Grok review dated 2026-10-29 is recorded in the existing revision log. I
 - **Records updated this turn:** This ledger (pass ledger + multi-pass disposition); PROJECT_STATE.md.
 - **Next AI:** ChatGPT for Turn B. ChatGPT must fetch the actual latest commit, perform its own independent multi-pass cycle, and scrutinize both the chapter and this Turn A disposition.
 
+## Turn B: ChatGPT (2026-10-29)
+
+- **Starting branch head:** `9863fb499b27a306ce4163428225461c3ddea64f`.
+- **Chapter edit commit:** `6a8d5ed48a30e479cbbaf2e1bde311fb25ee2c8d`.
+- **Sources inspected:** `AGENTS.md`, project state, protocol, master prompt v2 (local session file), issue ledger, all RL-01–RL-12, Canon, Story Bible, Chapter Index, Macro Map, State Tracker, Style Guide, Writing Rules, Core Persona, beat sheets, relevant episode transcript, revision log, Chapters 1 and 12.
+- **Finding:** C0-A-001 was independently checked. The episode transcript does not show the topknot ceremony, and no consulted authority establishes a special “fire-knife.” The modifier was unnecessary, so the sentence was simplified. No structural rewrite was warranted.
+- **New reusable lessons:** None. RL-02 (unsupported detail) and RL-12 (record consistency) were applied; no duplicate lesson was added.
+- **Chapter prose changes:** One localized sentence change. Main branch was not edited.
+
+| Pass | Status | Coverage |
+|---|---|---|
+| A. Repository and authority audit | complete | Verified branch and baseline; read workflow and authority sources; found stale status text in two supporting records. |
+| B. Structural/narrative audit | complete | Whole-chapter reader pass; causal chain, emotional progression, orientation, and ending hold. |
+| C. Technical/continuity audit | complete | Ages, war-council cause, bending-first distinction, basin staging, injuries, witnesses, knowledge limits, Haru/Emi uncertainty, Iroh's maneuver, and Chapter 12 anti-duplication checked. |
+| D. Line-level/reader-experience audit | complete | Clarity, POV, terminology, rhythm, repetition, and unsupported lore reviewed. |
+| E. Triage | complete | One minimal wording fix accepted; broader rewriting rejected as unsupported. |
+| F. Revision batches | complete | Topknot line revised and refined after a fresh-reader check. |
+| G1. Fresh-reader pass | complete | Full revised chapter reread; no new confusion found. |
+| G2. Evidence/continuity pass | complete | Wording change does not alter action, chronology, or character knowledge. |
+| G3. Adversarial regression pass | complete | Final diff checked; cross-chapter six-word scan found only the two already accepted echoes: the quoted teacher line in Chapter 12 and cord provenance in Chapter 1. |
+| H. Final sweep | complete | Full chapter and final diff rechecked; no em/en dashes, no “fire-knife,” no sentence over 45 words or paragraph over 120 words under the available sentence metric; dialogue paragraphs remain above the project floor. |
+
+**Limitations:** Caveman and Humanizer were not installed or executed; a manual style/naturalness review was used. Grok was not invoked during this turn. Next action: Grok Turn C must fetch the live branch head and complete its own independent multi-pass cycle.
+
 ## Disagreement and residual-risk register
 
 - Residual risk: C0-A-001 (fire-knife wording) remains open at minor severity. No material disagreement with prior historical review; that review is treated as historical only. No other residual material risks identified after multi-pass examination.
