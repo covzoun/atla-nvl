@@ -70,7 +70,7 @@ A prior Grok review dated 2026-10-29 is recorded in the existing revision log. I
 | G1. Fresh-reader pass | complete | Full revised chapter reread; no new confusion found. |
 | G2. Evidence/continuity pass | complete | Wording change does not alter action, chronology, or character knowledge. |
 | G3. Adversarial regression pass | complete | Final diff checked; cross-chapter six-word scan found only the two already accepted echoes: the quoted teacher line in Chapter 12 and cord provenance in Chapter 1. |
-| H. Final sweep | complete | Full chapter and final diff rechecked; no em/en dashes, no “fire-knife,” no sentence over 45 words or paragraph over 120 words under the available sentence metric; dialogue paragraphs remain above the project floor. |
+| H. Final sweep | complete | Full chapter and final diff rechecked; no em/en dashes and no “fire-knife.” A lightweight JavaScript port of `tools/sent.py` found no sentence over 45 words and no paragraph over 120 words (maximum observed: 41 and 108 respectively); the Python script itself was not executed. Dialogue paragraphs measured 33.3%, above the project floor. |
 
 **Limitations:** Caveman and Humanizer were not installed or executed; a manual style/naturalness review was used. Grok was not invoked during this turn. Next action: Grok Turn C must fetch the live branch head and complete its own independent multi-pass cycle.
 
