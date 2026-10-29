@@ -7,26 +7,27 @@
 ## Active task
 
 - **Target:** Book 1, Chapter 0, `chapters/Chapter_00.md`, the front-matter prologue “The Agni Kai”.
-- **Workflow stage:** `adversarial_revision_cycle` (new cycle initialized; Grok Turn A pending).  
-**Working branch:** `ch0-adversarial-review` (keep `main` unchanged until the user approves the result).
-- **Current disposition:** The prior editorial pass and Grok review from 2026-10-29 remain historical. By the user's latest instruction, Chapter 0 is reopened for a new two-AI adversarial revision cycle. Grok's initial Turn A audit has since been recorded on the working branch. The expanded multi-pass standard was added afterward, so Grok must resume and complete that turn's remaining passes before ChatGPT begins Turn B. Each AI turn must be a deep multi-pass work cycle, not a single critique/edit/handoff; if needed, save a durable checkpoint and ask the user to say “continue” before resuming. Grok is assigned the first fresh audit, followed by ChatGPT; the AIs will alternate until the exit gate in `workflow/Adversarial_Editorial_Protocol.md` is met. Human review is pending under this new cycle.
+- **Workflow stage:** `adversarial_revision_cycle` (Turns A–C complete; ChatGPT Turn D final independent check complete; awaiting user decision).  
+**Integration branch:** `ch0-review-ready-for-human` (the user authorized merging to `main` for human review; this is not approval of the chapter content).
+- **Current disposition:** ChatGPT Turn D began from verified live head `a46ebba1b0c2a4b4cbfa9b89e74229e5372afae7`; Chapter 0 blob `8e7b91f5dfb6e328138b47a5bad23343edf22de0` was unchanged. No material Chapter 0 issue was found that blocks human review. C0-A-001 remains verified fixed; C0-D-001 records a minor, non-blocking wording nuance about the public council charge versus Iroh’s later telling, preserved without a prose edit. Basin staging, first-manifestation vs first-conscious-use, witness knowledge, and Jake’s limited information about Haru and Emi hold. Turn D made no Chapter 0 prose changes. The issue ledger and this state were updated; the stale cycle-status sentence in `workflow/Ch1-10_Revision_Log.md` was reconciled. `REVISION_LEARNINGS.md` reflects Turns A–C; no new reusable lesson was added. The latest verified working-branch head before integration was `1f0becc13361309a6dc62feb1daca49df1f12e8d`. The user authorized merging the reviewed result to `main` for their own review; merge is pending.
 - **Scope lock:** Chapter 0 only for this adversarial cycle. Do not begin Chapter 1 or any other chapter until the user supplies a new explicit target.
-- **External reviews:** A prior Grok review is recorded. The new adversarial cycle has not yet received a fresh Turn A review.
-- **Human review:** Pending after the new adversarial cycle reaches its exit gate.
+- **External reviews:** New-cycle Turns A (Grok), B (ChatGPT), and C (Grok) multi-pass cycles are complete. Both AIs independently audited the latest committed version and challenged each other’s work.
+- **Human review:** ChatGPT Turn D found no material issue that blocks human review. The user authorized merging to `main` so they can review the chapter afterward. This merge is not human approval; the user retains final authority to accept, reopen, or redirect.
 
 ## Next actions, in order
 
-1. User shares the updated master prompt and Chapter 0 reference links with Grok for Turn A.
-2. Grok checks out `ch0-adversarial-review`, fetches its latest head, performs a fresh exhaustive critique before editing, updates the issue ledger, applies justified fixes, verifies, commits/pushes if supported, and hands off to ChatGPT.
-3. ChatGPT independently fetches the resulting commit and performs Turn B under the same protocol, then hands back to Grok.
-4. Each AI completes all required audit passes and post-edit regression checks before handing off. If the turn cannot be completed reliably in one response, checkpoint the exact progress and ask the user to say “continue” rather than handing off prematurely.
-5. Continue alternating until the documented exit gate is met; only then return Chapter 0 for human review.
-6. Do not begin another chapter without explicit user direction.
+1. Merge the reviewed Chapter 0 and workflow records to `main` for the user's human review, as explicitly authorized by the user.
+2. User reviews Chapter 0 and decides whether to accept, reopen, or redirect. Merge does not mean human approval of the chapter.
+3. Do not advance to another chapter without explicit user direction.
 
 ## Completed work relevant to this task
 
 - Chapter 0 received a focused canon, continuity, staging, and prose pass on 2026-10-29 (prior editor).
-- Independent external AI review (Grok) performed 2026-10-29 against `REVISION_LEARNINGS.md`, `base/Canon.md`, `base/Story_Bible.md`, `base/Book_1_Chapter_Index.md`, `base/Style_Guide.md`, and the Chapter 0 revision-log entry. Final light polish applied same day for clarity of one holding-cell sentence and one seasonal reference.
+- Independent external AI review (Grok) performed 2026-10-29 against foundational sources; historical only for the new cycle.
+- New adversarial cycle Turn A (Grok): multi-pass complete; no prose changes; C0-A-001 deferred.
+- New adversarial cycle Turn B (ChatGPT): multi-pass complete; removed unsupported “fire-knife”; one localized sentence smoothed.
+- New adversarial cycle Turn C (Grok): multi-pass complete; independently verified the Turn B change and the locked continuity points (basin, first-manifestation, witness/knowledge limits, Haru/Emi uncertainty); no further prose changes; ledger and REVISION_LEARNINGS status reconciled.
+- Optional final check Turn D (ChatGPT, 2026-10-29): independent Passes A–H complete against live head `a46ebba1b0c2a4b4cbfa9b89e74229e5372afae7`; no material Chapter 0 issue blocks human review; no chapter prose changes; issue ledger, revision-log status, and this state updated. User decision remains pending.
 - Latest length remains ~2,270 words.
 - The Agni Kai is staged only in Chapter 0. Chapter 12 recounts the aftermath and Iroh’s telling, not a second staging of the duel.
 - `REVISION_LEARNINGS.md` remains the living record of recurring editorial root causes and preventive checks.
