@@ -24,7 +24,7 @@ Status: Pass complete. Gate 1 (prologue) and Gate 2 (prose) review still owed by
 
 ## Chapter-by-chapter
 
-### Prologue — "The Agni Kai" (2,266 words, current mechanical count)
+### Prologue — "The Agni Kai" (2,269 words, current count)
 
 The war-council cause remains the proposed use of untried colonial recruits as bait, not an empty town. The Agni Kai is explained for readers new to the setting. The scene establishes Jake as a thirteen-year-old palace servant taken in and raised as Haru and Emi’s son, shows Zuko refusing to fight Ozai, and stages Jake’s first public, involuntary waterbending manifestation and the burns to both hands. The aftermath preserves uncertainty about Haru and Emi, Iroh’s political reframing of Jake’s punishment, Zuko’s banishment, and Jake’s handmade cord keepsake.
 
