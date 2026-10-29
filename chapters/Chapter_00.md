@@ -102,7 +102,7 @@ Uncle Iroh, the Fire Lord’s brother, stood in the doorway and said Jake’s na
 
 “By the Fire Lord’s command,” the herald read from the terrace steps, “the prince’s topknot is cut, and the prince goes north, and does not come back.”
 
-They cut Zuko’s topknot in the fountain court at noon. He knelt with his chin up while the fire-knife took it. His face was swathed to the hairline in linen, and the hair fell on the stones between his knees. Nobody spoke, though somewhere behind Jake a woman was crying with her mouth shut. He spent the ceremony hunting for her in the crowd instead of watching, because hunting was bearable and watching was not.
+They cut Zuko’s topknot in the fountain court at noon. He knelt with his chin up while a knife cut it free. His face was swathed to the hairline in linen, and the hair fell on the stones between his knees. Nobody spoke, though somewhere behind Jake a woman was crying with her mouth shut. He spent the ceremony hunting for her in the crowd instead of watching, because hunting was bearable and watching was not.
 
 “The two from the kitchen were taken for questioning before dawn,” a woman in the line of dismissed servants said without turning her head. “Nobody is to speak of it.”
 
