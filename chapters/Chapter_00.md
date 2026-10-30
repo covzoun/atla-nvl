@@ -114,7 +114,7 @@ The fire had already crossed Zuko's face. The water caught what remained of the 
 
 Steam scalded both palms, from the base of each hand to the tips of his fingers, and Jake screamed. The water fell in a hot, dirty rain across the sand.
 
-The force still drove Zuko down. He struck the ground on his side, arms raised over his head. The left side of his face was burned. Jake could see it even through the steam. The water had not stopped the attack or saved Zuko's face, but it had kept the fire from taking the rest of him. It had only taken part of the force away.
+The force still drove Zuko down. He struck the ground on his side, arms raised over his head. The left side of his face was burned. Jake could see it even through the steam. The water had not stopped the attack or saved Zuko's face, but it had kept the fire from taking the rest of him.
 
 For a moment, the courtyard made no sound at all.
 
