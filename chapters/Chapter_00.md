@@ -32,7 +32,7 @@ He took the water jars and went.
 
 The palace had its own weather: the kitchens held heat long after dawn, the covered corridors stayed cool, and the open courts gathered sunlight until the stone warmed through the soles of his shoes. He knew the route by the weight of what he carried: two jars to the west courtyard, one to the gallery, then back for the tea things. He had done it often enough to think of the work as a map.
 
-At the fountain court, Prince Zuko sat on the low edge of the dry fountain with a book open on one knee. He was thirteen, like Jake, though the palace had made them different kinds of thirteen. Zuko wore a prince's red and gold. Jake wore kitchen gray and kept his eyes lowered when other people were watching.
+At the fountain court, Prince Zuko sat on the low edge of the dry fountain with a book open on one knee. He was thirteen, like Jake, though the palace had made them different kinds of thirteen. They had known each other since Jake was six or seven, first through errands and chance meetings, then because Zuko had begun looking for him. Zuko wore a prince's red and gold. Jake wore kitchen gray and kept his eyes lowered when other people were watching.
 
 Zuko looked up as Jake passed with the jars.
 
@@ -114,7 +114,7 @@ The fire had already crossed Zuko's face. The water caught what remained of the 
 
 Steam scalded both palms, from the base of each hand to the tips of his fingers, and Jake screamed. The water fell in a hot, dirty rain across the sand.
 
-The force still drove Zuko down. He struck the ground on his side, arms raised over his head. The left side of his face was burned. Jake could see it even through the steam. The water had not stopped the attack. It had only taken part of it away.
+The force still drove Zuko down. He struck the ground on his side, arms raised over his head. The left side of his face was burned. Jake could see it even through the steam. The water had not stopped the attack or saved Zuko's face, but it had kept the fire from taking the rest of him. It had only taken part of the force away.
 
 For a moment, the courtyard made no sound at all.
 
