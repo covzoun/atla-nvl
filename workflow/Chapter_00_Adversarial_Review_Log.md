@@ -6,7 +6,7 @@
 **Protocol:** `workflow/Adversarial_Editorial_Protocol.md` (including 2026-10-29 multi-pass addendum)  
 **Baseline chapter blob SHA at setup:** `bc999e3700e99a67afc7036881f85036f58edd79`  
 **Baseline chapter blob SHA:** `8e7b91f5dfb6e328138b47a5bad23343edf22de0`  
-**Current chapter blob SHA:** `800947442059e8b4ede33ebdf7a9a015edbe4371`  
+**Current chapter blob SHA:** `d132c42efeecb2de4b4302285999971eb21b2e2e`  
 **Branch head at start of Turn C:** `1c25a84baa3455ff6ef533618b1854e3b970a6e6`
 
 ## Important distinction
@@ -137,9 +137,9 @@ Chapter 0 only. No other chapter will be modified during this pilot. Any necessa
 ### First revision and handoff status (2026-10-30)
 
 - **Revision type:** Substantial structural rewrite, not a line edit.
-- **Chapter commit:** `1c2f51c7074e2ca1f247a277772e162d0cb477c2`.
-- **Current Chapter 0 blob:** `800947442059e8b4ede33ebdf7a9a015edbe4371`.
-- **Independent review package:** `workflow/handoffs/Chapter_00_V2_Independent_Review_Package.md`; includes the exact chapter and independent reviewer prompt. The Lead Editor's diagnosis is intentionally excluded from the reviewer package.
+- **Latest chapter prose commit:** `7667b4cb367980a5dfbe2614df22d6acf8f6a2c7` (structural rewrite followed by targeted rhythm, character, and action-clarity refinements).
+- **Current Chapter 0 blob:** `d132c42efeecb2de4b4302285999971eb21b2e2e`.
+- **Independent review package:** `workflow/handoffs/Chapter_00_V2_Independent_Review_Package.md`; synced to exact chapter blob `d132c42efeecb2de4b4302285999971eb21b2e2e` and includes the independent reviewer prompt. The Lead Editor's diagnosis is intentionally excluded from the reviewer package.
 - **Scope verification:** Only Chapter 0, PROJECT_STATE, and the Chapter 0 review log have changed on this pilot branch. `main` still contains baseline Chapter 0 blob `8e7b91f5dfb6e328138b47a5bad23343edf22de0`.
 - **Initial mechanical checks:** approximately 2,930 words; no em/en dashes; no sentence over 45 words in the preliminary parser; no paragraph over 120 words; dialogue-containing paragraphs approximately 46%. Metrics are diagnostics, not a substitute for reading.
 - **Not yet complete:** Fresh external review, reviewer-finding adjudication, any required revision rounds, final whole-chapter review, and completion checklist.
