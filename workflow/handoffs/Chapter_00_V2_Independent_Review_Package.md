@@ -3,7 +3,7 @@
 **Purpose:** Fresh, independent developmental review of the exact Chapter 0 draft below.
 **Repository:** https://github.com/covzoun/atla-nvl
 **Working branch:** `ch0-v2-pilot`
-**Exact chapter blob SHA:** `800947442059e8b4ede33ebdf7a9a015edbe4371`
+**Exact chapter blob SHA:** `d132c42efeecb2de4b4302285999971eb21b2e2e`
 **Review version:** 2026-10-30 V2 developmental rewrite
 **Scope:** Chapter 0 only. Do not edit the manuscript or other repository files.
 
