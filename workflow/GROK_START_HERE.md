@@ -20,7 +20,7 @@ When the user says “Proceed with ATLA” or equivalent, read this file from th
 - Never assume a branch, commit, package, or chapter version. Verify live refs and blob SHAs.
 - Do not edit manuscript, canon, story bible, project state, or review logs unless the active handoff explicitly assigns that role.
 - Independent reviewers must not read Lead Editor findings before completing the required cold read when the handoff requires independence.
-- Do not push to `main), merge a PR, or broaden chapter scope unless the user explicitly authorizes it.
+- Do not push to `main`, merge a PR, or broaden chapter scope unless the user explicitly authorizes it.
 - Do not claim a push, commit, review, or PR unless GitHub confirms it.
 - After submitting a report, tell the user that it is ready and provide the report path, branch, commit SHA, and PR URL if one exists.
 
