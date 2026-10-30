@@ -3,7 +3,7 @@
 **Purpose:** Fresh, independent developmental review of the exact Chapter 0 draft below.
 **Repository:** https://github.com/covzoun/atla-nvl
 **Working branch:** `ch0-v2-pilot`
-**Exact chapter blob SHA:** `d132c42efeecb2de4b4302285999971eb21b2e2e`
+**Exact chapter blob SHA:** `b84f916d8d8c1693b1d6ba25c4fdc0203c82fe74`
 **Review version:** 2026-10-30 V2 developmental rewrite
 **Scope:** Chapter 0 only. Do not edit the manuscript or other repository files.
 
@@ -182,15 +182,15 @@ The steward stopped counting. “By whom?”
 
 The cups shifted in Jake's hands, one touching another with a small, bright click.
 
-An Agni Kai was a formal fire duel. Two firebenders met in a cleared circle, without weapons or armor, while the court watched. It ended when one yielded or could no longer continue. Jake had seen officers fight one. He had never heard of a father calling his son to one.
+An Agni Kai was a formal fire duel, fought without weapons or armor before the court. It ended when one yielded or could no longer continue. He had never heard of a father calling his son to one.
 
 “Move,” the steward said. “The courtyard needs clearing.”
 
-The passage filled with people carrying orders as servants were sent for braziers and water and guards moved toward the lower doors. Someone said the prince had refused to fight. Someone else said the Fire Lord would make him. The words came in fragments, none of them enough to tell him what had happened.
+The passage filled with people carrying orders as servants were sent for braziers and water and guards moved toward the lower doors. Someone said the prince had objected to sending untried colonial recruits into an enemy line. Someone else said he had refused to fight his father. The words came in fragments, none enough to tell Jake what had happened.
 
 Jake left the cups where they were.
 
-He knew the west courtyard. He knew the basin by the door, the one he had filled before breakfast. He knew the route from the passage to the sand. He ran.
+Zuko would stand there and take whatever came. Jake knew that much. He knew the route to the west courtyard, the basin he had filled that morning, and the way to the sand. He ran.
 
 The courtyard had changed while he was away: braziers burned along the walls, servants had raked the sand into a wide circle, and officials crowded the gallery rail above it. Jake stopped at the edge of the lower court, breath caught high in his chest.
 
@@ -275,6 +275,8 @@ When the steward passed again, Jake asked the only question he could make himsel
 “Will the rooms need the winter blankets aired? Autumn damp gets into wool.”
 
 The steward looked at him for a long moment. Then he wrote something on his list and went away.
+
+His collar still smelled of smoke. He could not lift the bucket to wash it; the water sat untouched, as still as it had on the first day.
 
 On the third morning, the lock came off.
 
