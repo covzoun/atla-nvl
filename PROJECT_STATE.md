@@ -28,7 +28,8 @@
 - **Working branch:** `ch0-v2-pilot` (created from `main`; `main` remains unchanged).
 - **Baseline Chapter 0 blob:** `8e7b91f5dfb6e328138b47a5bad23343edf22de0`.
 - **Current Chapter 0 blob:** `d132c42efeecb2de4b4302285999971eb21b2e2e`.
-- **Latest pilot commit:** `40683d7093cbb0c07bc4c58ad29fe3587a0cc8d5` (review package synced to the latest Chapter 0 text; latest chapter prose commit `7667b4cb367980a5dfbe2614df22d6acf8f6a2c7`).
+- **Latest chapter prose commit:** `7667b4cb367980a5dfbe2614df22d6acf8f6a2c7`.
+- **Latest review-package sync commit:** `39adc42e454cc4b4d8e47ffb8fe77a244704e679`.
 - **Independent review package:** `workflow/handoffs/Chapter_00_V2_Independent_Review_Package.md` contains the exact chapter version and reviewer prompt, without the Lead Editor's diagnosis.
 - **Workflow documentation PR:** #4 (`editorial-workflow-v2`) remains open and unmerged; the pilot uses its V2 instructions without merging it.
 - **Scope:** Chapter 0 only. The user's latest feedback authorizes fresh developmental reassessment and justified structural rewriting. A substantial rewrite is committed on the pilot branch; `main` remains unchanged.
