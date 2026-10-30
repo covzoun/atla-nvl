@@ -202,3 +202,14 @@ The draft is not being presented as ready for human creative review. The next ga
 - Exact pinned versions: Chapter 0 `b84f916d8d8c1693b1d6ba25c4fdc0203c82fe74`; Chapter 12 `e1b17949a52c6987e945bca2dac7224829f51720`.
 - Added `workflow/handoffs/Chapter_00_12_Final_Continuity_Verification.md` for independent final verification of both chapters. Awaiting Grok's cold review and repository report.
 - No other manuscript, canon, or story-bible changes. Main remains unchanged.
+
+
+### Final Chapter 0 / Chapter 12 verification adjudication (2026-10-30)
+
+- Retrieved Grok's final verification report directly from `grok/ch0-ch12-final-verification` and verified it names the exact current manuscript blobs.
+- Independently fetched Chapter 0 and Chapter 12 from `ch0-v2-pilot`; both blob SHAs match the report.
+- Compared reviewer branch with pilot: one added file only, the verification report; no manuscript edits.
+- Re-read Chapter 12's revised passage in context and checked it against Chapter 0. Jake's location and knowledge limits now align. The age-eleven council request is distinct from the age-thirteen troop-sacrifice argument and Agni Kai.
+- The broader references to Jake pouring tea and sweeping the gallery establish his familiarity with the space; the parenthetical explicitly places him outside during the argument.
+- No remaining material continuity defect identified in this scoped final verification. Chapter 0 remains 2,992 words, within its locked range.
+- **Disposition: READY FOR USER CREATIVE REVIEW.** No further AI prose changes recommended before the user's review. Main unchanged; no merge.
