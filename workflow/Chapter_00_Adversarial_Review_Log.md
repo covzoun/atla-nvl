@@ -192,3 +192,13 @@ The draft is not being presented as ready for human creative review. The next ga
 - **Recommended resolution:** Preserve the user's Chapter 0 structural preference and make a narrowly scoped continuity adjustment to Chapter 12's retrospective setup, changing Jake's role from serving water inside/at the argument to waiting and working in the gallery/corridor outside while the council is in session, then hearing the account or seeing its aftermath. Preserve the later crew's discovery of the truth and Iroh's full account. This requires explicit scope authorization because the pilot was initially limited to Chapter 0.
 - **Other checks:** The current Chapter 0 blob remains `b84f916d8d8c1693b1d6ba25c4fdc0203c82fe74`. Its scene structure, Agni Kai cause/effect, first-manifestation distinction, holding-cell still water, injury continuity, Haru/Emi uncertainty, Iroh's political intervention, and departure sequence remain sound on this re-audit. No Chapter 0 prose edit is recommended at this point.
 - **Next action:** Obtain user authorization for the minimal Chapter 12 continuity synchronization before declaring the Chapter 0 / Chapter 12 pair ready. Do not modify Chapter 12 until authorized.
+
+
+### Chapter 12 continuity synchronization (2026-10-30)
+
+- User authorized the narrow downstream continuity update rather than reviewing the inconsistent pair.
+- Updated only the retrospective parenthetical in Chapter 12. The old wording placed Jake at the council argument serving water; the replacement places him in the passage outside, sorting clean cups and catching fragments through the doors and repeated afterward. This aligns with Chapter 0's staging and preserves Jake's limited knowledge.
+- Chapter 0 was not changed.
+- Exact pinned versions: Chapter 0 `b84f916d8d8c1693b1d6ba25c4fdc0203c82fe74`; Chapter 12 `e1b17949a52c6987e945bca2dac7224829f51720`.
+- Added `workflow/handoffs/Chapter_00_12_Final_Continuity_Verification.md` for independent final verification of both chapters. Awaiting Grok's cold review and repository report.
+- No other manuscript, canon, or story-bible changes. Main remains unchanged.
