@@ -161,3 +161,13 @@ The draft is not being presented as ready for human creative review. The next ga
 - **Current independent review package:** Synced to the exact revised chapter text and blob reference; package blob `e710b6eac30aa3ca77fbda8700b1259eaf6b2a81`.
 - **Verification status:** Targeted edits are applied. Fresh independent verification of the revised version, final whole-chapter reread, mechanical QA, and completion checklist remain open.
 - **Downstream continuity dependency:** Chapter 12 currently says Jake served water at one end of the war-council argument. Chapter 0 now keeps the immediate scene focused on Jake's ordinary work and his hearing of the challenge in the passage. Chapter 12's exact memory wording requires a later continuity decision/revision if the user’s preference to keep Jake outside the meeting is to be maintained across both chapters. Chapter 12 remains outside this pilot's authorized edit scope; do not silently modify it.
+
+
+### Direct repository handoff for independent verification (2026-10-30)
+
+- **Package update:** Added a repository-submission protocol to the independent review package. Package blob: `2e14b2c0e6f025130d04f99f312ffa77e0045edc`.
+- **Reviewer branch:** `grok/ch0-v2-verification`, pre-created from `ch0-v2-pilot`.
+- **Expected report path:** `workflow/reviews/Chapter_00_Grok_Verification_2026-10-30.md`.
+- **Permission boundary:** Grok is instructed to add only its review report on the dedicated branch. It must not edit manuscript/canon/project files, push to `main` or `ch0-v2-pilot`, or merge a PR.
+- **Completion signal:** Grok should tell the user when the report commit is confirmed and provide the commit SHA and PR URL if available. The Lead Editor will retrieve and inspect the report from GitHub after the user says proceed.
+- **Fallback:** If Grok cannot write to GitHub, it must say so truthfully and provide the full review report in its response.
