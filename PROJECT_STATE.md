@@ -16,7 +16,7 @@
 
 ## Next actions, in order
 
-1. Obtain the independent Grok review of the exact blob `800947442059e8b4ede33ebdf7a9a015edbe4371` using the prepared handoff package.
+1. Obtain the independent Grok review of the exact blob `800947442059e8b4ede33ebdf7a9a015edbe4371` using the prepared handoff package, which is synced to blob `d132c42efeecb2de4b4302285999971eb21b2e2e`.
 2. Verify every reviewer finding against the manuscript and project authorities; revise justified issues and record dispositions.
 3. Repeat targeted or full independent review as warranted, especially after structural changes.
 4. Resolve the Chapter 12 retrospective continuity dependency in a later authorized scope; do not edit Chapter 12 during this pilot.
@@ -27,8 +27,8 @@
 
 - **Working branch:** `ch0-v2-pilot` (created from `main`; `main` remains unchanged).
 - **Baseline Chapter 0 blob:** `8e7b91f5dfb6e328138b47a5bad23343edf22de0`.
-- **Current Chapter 0 blob:** `800947442059e8b4ede33ebdf7a9a015edbe4371`.
-- **Latest pilot commit:** `81b89987c488448b20837d5db3c42bc0d6133440` (review package commit; chapter rewrite commit `1c2f51c7074e2ca1f247a277772e162d0cb477c2`).
+- **Current Chapter 0 blob:** `d132c42efeecb2de4b4302285999971eb21b2e2e`.
+- **Latest pilot commit:** `40683d7093cbb0c07bc4c58ad29fe3587a0cc8d5` (review package synced to the latest Chapter 0 text; latest chapter prose commit `7667b4cb367980a5dfbe2614df22d6acf8f6a2c7`).
 - **Independent review package:** `workflow/handoffs/Chapter_00_V2_Independent_Review_Package.md` contains the exact chapter version and reviewer prompt, without the Lead Editor's diagnosis.
 - **Workflow documentation PR:** #4 (`editorial-workflow-v2`) remains open and unmerged; the pilot uses its V2 instructions without merging it.
 - **Scope:** Chapter 0 only. The user's latest feedback authorizes fresh developmental reassessment and justified structural rewriting. A substantial rewrite is committed on the pilot branch; `main` remains unchanged.
