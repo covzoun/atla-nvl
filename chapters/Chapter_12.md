@@ -198,7 +198,7 @@ Nobody answered that out loud. Iroh came down the corridor anyway and sat, cross
 
 "He wanted to sit in the war councils," Iroh said. "He was eleven."
 
-The story had a shape Jake knew from the other side of it, all its landmarks his. He had poured the tea, and swept the gallery floor, and stood in the corridor where generals went in twice and once came out carrying their pride of office in their hands like something they had been told to take home. (Jake had known that room since he was a boy barely bigger than the washtub he scoured in it, and had served the water at one end of the argument while these men's prince sat invisibly at the other.)
+The story had a shape Jake knew from the other side of it, all its landmarks his. He had poured the tea, and swept the gallery floor, and stood in the corridor where generals went in twice and once came out carrying their pride of office in their hands like something they had been told to take home. (Jake had known that room since he was a boy barely bigger than the washtub he scoured in it, and had been sorting clean cups in the passage outside when the argument broke. He had caught only fragments through the doors and the words men repeated afterward.)
 
 "He was eleven," Iroh said again. "He came to me and he said, Uncle, I want to sit in the councils. How can I rule this nation if I don't know what a war is?" Iroh smiled at the remembered rudeness of it. "I told him no. He asked me again the next day, and the next, and I exhausted every answer that a tired old man keeps in stock, and in the end he won. That is the kind of boy he was, and is. I took him in. I sat him by me. I told him, Nephew, these are old men and they are sensitive, keep your hands in your lap and your mouth shut, and nod."
 
