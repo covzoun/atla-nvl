@@ -66,3 +66,14 @@
 Update this record whenever the active target, workflow stage, review status, next action, or a meaningful blocker changes. Keep completed facts separate from planned actions. Never mark an external review, human approval, commit, or verification complete without evidence.
 
 The active task is determined by this file plus the user’s latest explicit instruction. Chapter numbering alone never determines the next task. If this file conflicts with the user’s latest explicit instruction, follow the user’s instruction and update this file to match.
+
+
+## Final V2 pilot verification (2026-10-30)
+
+- **Workflow stage:** `ready_for_user_review`.
+- **Current Chapter 0:** `chapters/Chapter_00.md` on `ch0-v2-pilot`, blob `b84f916d8d8c1693b1d6ba25c4fdc0203c82fe74`, 2,989 words.
+- **Grok report:** Retrieved directly from `grok/ch0-v2-verification` at `workflow/reviews/Chapter_00_Grok_Verification_2026-10-30.md`; report blob `8a309a67082dcdc9507fb74eb9c159538deebc51`. It verifies the exact current chapter blob and recommends human creative review.
+- **Reviewer branch audit:** Compared with the pilot branch; only the report file was added. No manuscript changes or merges by Grok.
+- **Chapter 12 continuity adjudication:** Chapter 12's council anecdote is introduced with “He wanted to sit in the war councils. He was eleven.” Chapter 0's Agni Kai is at age thirteen. The available text permits these to be separate council sessions; the apparent conflict is not confirmed. No Chapter 12 edit is made in this Chapter 0-only pilot.
+- **Final QA:** Whole Chapter 0 reread and exact blob verification complete; locked canon and continuity points checked; mechanical checks remain within the word, sentence, paragraph, and punctuation limits. No further prose edit warranted.
+- **Disposition:** Ready for user creative review. This is not user approval. `main` remains unchanged; PR #4 remains open and unmerged; do not merge any branch without explicit user authorization.
