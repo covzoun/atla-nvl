@@ -1,11 +1,12 @@
 # Chapter 0 Adversarial Review Log
 
 **Target:** `chapters/Chapter_00.md`  
-**Cycle status:** Prior Turns A–D are historical and closed. Reopened 2026-10-30 for a fresh V2 developmental pilot on branch `ch0-v2-pilot`, following the user's explicit feedback that the previous review was too conservative and missed structural concerns. The prior human-review disposition is superseded for this pilot. No new prose edits have yet been committed.  
+**Cycle status:** Prior Turns A–D are historical and closed. Reopened 2026-10-30 for a fresh V2 developmental pilot on branch `ch0-v2-pilot`. A substantial rewrite has been committed and packaged for independent review; no external reviewer report has yet been received. The prior human-review disposition is superseded for this pilot.  
 **Scope:** Chapter 0 only.  
 **Protocol:** `workflow/Adversarial_Editorial_Protocol.md` (including 2026-10-29 multi-pass addendum)  
 **Baseline chapter blob SHA at setup:** `bc999e3700e99a67afc7036881f85036f58edd79`  
-**Current chapter blob SHA (pilot baseline):** `8e7b91f5dfb6e328138b47a5bad23343edf22de0`  
+**Baseline chapter blob SHA:** `8e7b91f5dfb6e328138b47a5bad23343edf22de0`  
+**Current chapter blob SHA:** `800947442059e8b4ede33ebdf7a9a015edbe4371`  
 **Branch head at start of Turn C:** `1c25a84baa3455ff6ef533618b1854e3b970a6e6`
 
 ## Important distinction
@@ -131,3 +132,17 @@ Substantial restructuring is warranted; a sentence-level polish of the existing 
 ### Pilot scope
 
 Chapter 0 only. No other chapter will be modified during this pilot. Any necessary downstream synchronization will be recorded as a follow-up rather than silently applied.
+
+
+### First revision and handoff status (2026-10-30)
+
+- **Revision type:** Substantial structural rewrite, not a line edit.
+- **Chapter commit:** `1c2f51c7074e2ca1f247a277772e162d0cb477c2`.
+- **Current Chapter 0 blob:** `800947442059e8b4ede33ebdf7a9a015edbe4371`.
+- **Independent review package:** `workflow/handoffs/Chapter_00_V2_Independent_Review_Package.md`; includes the exact chapter and independent reviewer prompt. The Lead Editor's diagnosis is intentionally excluded from the reviewer package.
+- **Scope verification:** Only Chapter 0, PROJECT_STATE, and the Chapter 0 review log have changed on this pilot branch. `main` still contains baseline Chapter 0 blob `8e7b91f5dfb6e328138b47a5bad23343edf22de0`.
+- **Initial mechanical checks:** approximately 2,930 words; no em/en dashes; no sentence over 45 words in the preliminary parser; no paragraph over 120 words; dialogue-containing paragraphs approximately 46%. Metrics are diagnostics, not a substitute for reading.
+- **Not yet complete:** Fresh external review, reviewer-finding adjudication, any required revision rounds, final whole-chapter review, and completion checklist.
+- **Known downstream dependency:** C0-V2-006 remains open. Chapter 12 currently remembers Jake serving water at the council argument, while the new Chapter 0 opening moves Jake away from the council and has him hear of the challenge indirectly. Chapter 12 is out of scope for this pilot; a later continuity synchronization is required before both chapters can be considered mutually final.
+
+The draft is not being presented as ready for human creative review. The next gate is independent review of the exact blob above.
