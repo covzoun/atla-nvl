@@ -17,6 +17,22 @@ After the cold read, use the supplied project authorities or ask for them if the
 
 Return the full output required by the reviewer prompt below. Explicitly assess whether the current draft is ready for human creative review. Do not make changes to the chapter.
 
+## Repository submission workflow (required if GitHub write access is available)
+
+The user wants the review report committed to the repository so the Lead Editor can retrieve it directly. This is a review-only task. Do not edit `chapters/Chapter_00.md`, canon files, story-bible files, project state, or any other manuscript/project file.
+
+- Repository: `covzoun/atla-nvl`
+- Review the exact Chapter 0 blob SHA stated at the top of this package: `b84f916d8d8c1693b1d6ba25c4fdc0203c82fe74`.
+- A dedicated submission branch has been prepared: `grok/ch0-v2-verification`.
+- Commit your complete review report as a new file at: `workflow/reviews/Chapter_00_Grok_Verification_2026-10-30.md`.
+- The report must contain the full findings and evidence, not merely a summary or link. Include the exact chapter blob SHA reviewed, the project sources actually consulted, your independence statement, the complete issue ledger, and your completion judgment.
+- Push the report commit to `grok/ch0-v2-verification`. Do not push to `main` or `ch0-v2-pilot`.
+- If your GitHub integration supports pull requests, open a PR from `grok/ch0-v2-verification` into `ch0-v2-pilot` titled `Grok verification: Chapter 0 V2`. Do not merge it.
+- After the report is successfully committed (and the PR opened, if supported), tell the user that the review is ready and provide the branch, commit SHA, report path, and PR URL if one exists. The user will then tell the Lead Editor to proceed.
+- Do not claim that anything was pushed unless GitHub confirms the commit. If you cannot write to this repository, complete the review normally and clearly tell the user that GitHub write access was unavailable; provide the complete report in your response as a fallback.
+
+Do not ask the user to copy the report into GitHub. Do not make manuscript edits. Your task is to independently review and submit the report only.
+
 ## Project authorities to consult after the cold read
 
 - `base/Canon.md`: https://github.com/covzoun/atla-nvl/blob/main/base/Canon.md
