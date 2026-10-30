@@ -1,13 +1,13 @@
 # Project State: ATLA Novel Editorial Workflow
 
-**Last verified:** 2026-10-29  
+**Last verified:** 2026-10-30  
 **Repository:** https://github.com/covzoun/atla-nvl  
 **Default branch:** `main`
 
 ## Active task
 
 - **Target:** Book 1, Chapter 0, `chapters/Chapter_00.md`, the front-matter prologue “The Agni Kai”.
-- **Workflow stage:** `human_review_pending` (Turns A–D complete; review package merged to `main`).  
+- **Workflow stage:** `developmental_reassessment` (V2 Chapter 0 pilot reopened by the user's explicit instruction on 2026-10-30; no prose changes committed yet).  
 **Merged review commit:** `591527d91a9d72c397df91f5b5ee5f98eb763893`.
 - **Current disposition:** ChatGPT Turn D began from verified live head `a46ebba1b0c2a4b4cbfa9b89e74229e5372afae7`; Chapter 0 blob `8e7b91f5dfb6e328138b47a5bad23343edf22de0` was unchanged. No material Chapter 0 issue was found that blocks human review. C0-A-001 remains verified fixed; C0-D-001 records a minor, non-blocking wording nuance about the public council charge versus Iroh’s later telling, preserved without a prose edit. Basin staging, first-manifestation vs first-conscious-use, witness knowledge, and Jake’s limited information about Haru and Emi hold. Turn D made no Chapter 0 prose changes. The issue ledger and this state were updated; the stale cycle-status sentence in `workflow/Ch1-10_Revision_Log.md` was reconciled. `REVISION_LEARNINGS.md` reflects Turns A–C; no new reusable lesson was added. The reviewed result was merged to `main` in commit `591527d91a9d72c397df91f5b5ee5f98eb763893` via PR #3 after a clean integration branch was created from the latest main. Chapter 0 blob remains `8e7b91f5dfb6e328138b47a5bad23343edf22de0`.
 - **Scope lock:** Chapter 0 only for this adversarial cycle. Do not begin Chapter 1 or any other chapter until the user supplies a new explicit target.
@@ -16,8 +16,19 @@
 
 ## Next actions, in order
 
-1. User reviews Chapter 0 on `main` and decides whether to accept, reopen, or redirect.
-2. Do not advance to another chapter without explicit user direction.
+1. Complete a fresh developmental diagnosis of Chapter 0, including structure, scene order, causality, emotional progression, character relationships, reader orientation, and action staging.
+2. Revise or substantially restructure Chapter 0 where justified, preserving the baseline blob for comparison.
+3. Reconcile Chapter 0 changes against canon, Story Bible, style guide, macro map, Chapter 1, and Chapter 12. Do not edit any other chapter during this pilot; record any required downstream continuity follow-up.
+4. Prepare an exact-version independent-review handoff for Grok using the repository reviewer prompt and template. Lead Editor retains manuscript ownership and integrates verified findings.
+5. Repeat review and QA until the completion checklist is satisfied. Only then present Chapter 0 for the user's creative review.
+6. Do not advance to another chapter without explicit user direction.
+
+## V2 pilot setup
+
+- **Working branch:** `ch0-v2-pilot` (created from `main`; `main` remains unchanged).
+- **Baseline Chapter 0 blob:** `8e7b91f5dfb6e328138b47a5bad23343edf22de0`.
+- **Workflow documentation PR:** #4 (`editorial-workflow-v2`) remains open and unmerged; the pilot uses its V2 instructions without merging it.
+- **Scope:** Chapter 0 only. The user's latest feedback authorizes fresh developmental reassessment and justified structural rewriting. No Chapter 0 prose has yet been changed in this pilot.
 
 ## Completed work relevant to this task
 
