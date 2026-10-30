@@ -1,12 +1,12 @@
 # Chapter 0 Adversarial Review Log
 
 **Target:** `chapters/Chapter_00.md`  
-**Cycle status:** Prior Turns A–D are historical and closed. Reopened 2026-10-30 for a fresh V2 developmental pilot on branch `ch0-v2-pilot`. A substantial rewrite has been committed and packaged for independent review; no external reviewer report has yet been received. The prior human-review disposition is superseded for this pilot.  
+**Cycle status:** Prior Turns A–D are historical and closed. Reopened 2026-10-30 for a fresh V2 developmental pilot on branch `ch0-v2-pilot`. The substantial rewrite received an independent Grok review; three targeted findings have been addressed in the current draft. A second verification pass and final QA remain open. The prior human-review disposition is superseded for this pilot.  
 **Scope:** Chapter 0 only.  
 **Protocol:** `workflow/Adversarial_Editorial_Protocol.md` (including 2026-10-29 multi-pass addendum)  
 **Baseline chapter blob SHA at setup:** `bc999e3700e99a67afc7036881f85036f58edd79`  
 **Baseline chapter blob SHA:** `8e7b91f5dfb6e328138b47a5bad23343edf22de0`  
-**Current chapter blob SHA:** `d132c42efeecb2de4b4302285999971eb21b2e2e`  
+**Current chapter blob SHA:** `b84f916d8d8c1693b1d6ba25c4fdc0203c82fe74`  
 **Branch head at start of Turn C:** `1c25a84baa3455ff6ef533618b1854e3b970a6e6`
 
 ## Important distinction
@@ -146,3 +146,18 @@ Chapter 0 only. No other chapter will be modified during this pilot. Any necessa
 - **Known downstream dependency:** C0-V2-006 remains open. Chapter 12 currently remembers Jake serving water at the council argument, while the new Chapter 0 opening moves Jake away from the council and has him hear of the challenge indirectly. Chapter 12 is out of scope for this pilot; a later continuity synchronization is required before both chapters can be considered mutually final.
 
 The draft is not being presented as ready for human creative review. The next gate is independent review of the exact blob above.
+
+
+### Independent Grok review and targeted revision (2026-10-30)
+
+- **Exact version reviewed by Grok:** Chapter 0 blob `d132c42efeecb2de4b4302285999971eb21b2e2e`; Grok confirmed an independent cold read before consulting the listed project authorities.
+- **Overall diagnosis:** Competent, emotionally grounded prologue; no critical canon or continuity defects; targeted revision recommended, not another structural rewrite.
+- **Findings accepted and addressed:**
+  - **C0-G-01, war-council cause:** Added a brief overheard fragment identifying Zuko's objection to sending untried colonial recruits into an enemy line. No council scene was added.
+  - **C0-G-02, Jake's intervention motive:** Added a concise recognition that Zuko would stand and take whatever came, giving Jake's decision to run a clearer emotional trigger.
+  - **C0-G-03, burn consequences:** Added the practical consequence that Jake cannot lift the bucket to wash the smoke from his collar; the bucket water remains still.
+- **Findings preserved without edits:** The opening domestic routine, Agni Kai blocking and injury logic, burn aftermath, Iroh's restrained friendliness and status difference, Haru/Emi uncertainty, topknot ceremony, and departure close were judged effective. Grok found no blocking creative decision.
+- **Current revised Chapter 0 blob:** `b84f916d8d8c1693b1d6ba25c4fdc0203c82fe74` (2,989 words by repository word-count check; within the 2,000–3,000-word lock).
+- **Current independent review package:** Synced to the exact revised chapter text and blob reference; package blob `e710b6eac30aa3ca77fbda8700b1259eaf6b2a81`.
+- **Verification status:** Targeted edits are applied. Fresh independent verification of the revised version, final whole-chapter reread, mechanical QA, and completion checklist remain open.
+- **Downstream continuity dependency:** Chapter 12 currently says Jake served water at one end of the war-council argument. Chapter 0 now keeps the immediate scene focused on Jake's ordinary work and his hearing of the challenge in the passage. Chapter 12's exact memory wording requires a later continuity decision/revision if the user’s preference to keep Jake outside the meeting is to be maintained across both chapters. Chapter 12 remains outside this pilot's authorized edit scope; do not silently modify it.
