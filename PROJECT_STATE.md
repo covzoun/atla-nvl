@@ -1,34 +1,37 @@
 # Project State: ATLA Novel Editorial Workflow
 
-**Last verified:** 2026-10-30  
+**Last verified:** 2026-10-31  
 **Repository:** https://github.com/covzoun/atla-nvl  
 **Default branch:** `main`
 
 ## Active task
-- **Target:** Book 1, Chapter 0, `chapters/Chapter_00.md`, front-matter prologue “The Agni Kai”.
-- **Workflow stage:** `workflow_v2_setup` on branch `editorial-workflow-v2`.
-- **User authorization:** The user approved creation of V2 editorial workflow documents and explicitly authorized reopening Chapter 0 for a fresh developmental reassessment and justified revisions as the first pilot.
-- **Scope lock:** Workflow documentation and Chapter 0 only. Do not begin Chapter 1 or another chapter.
-- **Chapter 0 baseline:** Preserve the current main-branch version as the recoverable baseline. The prior review package remains on main, but its earlier `human_review_pending` disposition is superseded for this active task by the user's explicit instruction to reopen Chapter 0.
-- **Current manuscript status:** No Chapter 0 prose changes have been made during V2 setup.
+- **Target:** Book 1, Chapter 0, `chapters/Chapter_00.md`, front-matter prologue “The Agni Kai”, with the linked continuity passage in Chapter 12.
+- **Workflow stage:** `ready_for_user_creative_review`.
+- **User authorization:** The user authorized the V2 editorial workflow and Chapter 0 developmental pilot, authorized the narrow Chapter 12 continuity synchronization, and has now authorized merging the completed changes to `main` for review.
+- **Current manuscript status:** Chapter 0 V2 rewrite and the narrow Chapter 12 continuity adjustment are complete. Both were independently verified against the relevant project authorities and the exact pinned versions.
+- **Exact verified versions before merge:** Chapter 0 blob `b84f916d8d8c1693b1d6ba25c4fdc0203c82fe74`; Chapter 12 blob `e1b17949a52c6987e945bca2dac7224829f51720`.
+- **Independent final verification:** Grok's report is at `workflow/reviews/Chapter_00_12_Grok_Final_Verification_2026-10-30.md` on branch `grok/ch0-ch12-final-verification`. Lead Editor retrieved the report, checked its pinned blobs, and independently re-read the continuity passage.
+- **Human review:** Awaiting the user's creative review. No human approval is claimed.
 
 ## V2 operating model
 - One Lead Editor owns the integrated manuscript, working branch, issue ledger, revisions, documentation, and final report.
 - Independent reviewers assess exact versioned drafts and return evidence-based reports. They do not overwrite the integrated manuscript by default.
 - Specialist lenses: fresh-eyes reader, beginner reader, ATLA canon specialist, developmental editor, continuity auditor, and prose editor.
 - Genuine subagents are used only when the platform actually supports them. Simulated perspectives are labeled honestly.
-- The Lead Editor prepares prompts and handoff packages. The user transports material between platforms only when integrations do not exist.
+- The Lead Editor prepares prompts and handoff packages. When direct integrations exist, the Lead Editor retrieves reviewer reports from the repository rather than asking the user to shuttle them.
 - A chapter is presented to the user only after independent final verification and the completion checklist.
-- The user retains final creative authority. No merge to main or advancement to another chapter without explicit authorization.
+- The user retains final creative authority. Do not begin the next chapter until the current chapter's review disposition is clear.
+
+## Branching policy
+- Use `main` by default for routine editorial work and ordinary manuscript updates.
+- Create a separate working branch only when isolation is materially useful, such as a substantial experimental rewrite, parallel reviewer work, risky structural changes, or a change that must be independently reviewed before integration.
+- Reviewer branches remain isolated. Do not merge reviewer branches unless a specific report or artifact is intentionally being incorporated.
+- Keep `main` as the source of truth and ensure the user can see the current manuscript in the default branch.
 
 ## Next actions
-1. Finish and verify the V2 master prompt and supporting reviewer, handoff, and completion-checklist documents.
-2. Establish the V2 workflow documentation in the repository after the user has an opportunity to review the package.
-3. Start the Chapter 0 pilot on a dedicated branch from the approved baseline.
-4. Conduct a fresh developmental assessment before prose changes; restructure or rewrite if justified.
-5. Send the exact revised version to Grok or another independent reviewer using the standard handoff package.
-6. Integrate verified findings, conduct further review as warranted, and complete independent final verification.
-7. Present Chapter 0 only when the evidence-based completion gate is met.
+1. User reviews Chapter 0 and the synchronized Chapter 12 passage on `main`.
+2. Incorporate any user-requested creative changes, preserving the verified version as the baseline.
+3. Once Chapter 0's review disposition is clear, close its cycle and proceed to Chapter 1 under the V2 workflow.
 
 ## Locked orientation facts
 - Jake and Zuko are 16 at the beginning of Book 1.
