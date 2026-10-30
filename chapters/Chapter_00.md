@@ -108,7 +108,7 @@ Jake was already running.
 
 The basin stood in the west-door alcove, where he had left it that morning. The water tore free as he reached the sand. It rose out of the stone bowl, crossed the courtyard in a flat sheet, and opened between Zuko and the rest of the blast.
 
-For half a breath it held above the prince like a roof. Jake's arms were raised, his hands open, palms to the sky. He had no thought of moving them. The water moved because he needed it to move.
+For half a breath it held above the prince like a roof. Jake's arms were raised, his hands open, palms to the sky. He had not called the water. It had moved before he knew he could ask it.
 
 The fire had already crossed Zuko's face. The water caught what remained of the attack and drove it upward, splitting the blast around the boy in the ring. But the fire was too much. It pressed through the sheet, boiled the water around Jake's hands, and broke the roof apart.
 
@@ -246,7 +246,7 @@ Iroh drew a pair of gloves from his sleeve and eased them over the bandages. “
 
 “Yes, General.”
 
-“I am told I am allowed to be called Uncle by people who are not my nephew.”
+“You may call me Uncle, if you like. Zuko has never managed to make it sound formal.”
 
 Jake looked down at the gloves. “Yes, sir.”
 
