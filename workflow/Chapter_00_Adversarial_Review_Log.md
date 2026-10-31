@@ -213,3 +213,23 @@ The draft is not being presented as ready for human creative review. The next ga
 - The broader references to Jake pouring tea and sweeping the gallery establish his familiarity with the space; the parenthetical explicitly places him outside during the argument.
 - No remaining material continuity defect identified in this scoped final verification. Chapter 0 remains 2,992 words, within its locked range.
 - **Disposition: READY FOR USER CREATIVE REVIEW.** No further AI prose changes recommended before the user's review. Main unchanged; no merge.
+
+
+### User creative review: developmental issues reopened (2026-10-31)
+
+**User disposition:** Chapter 0 is not approved. The user supplied nine comments covering opening clarity, dialogue naturalism, temporal pacing, missing pre-duel interaction, unclear intervention mechanics/significance and Zuko's awareness, detention rationale, medical-care authority, an unclear Iroh exchange, and burn-scar recovery.
+
+**Root-cause diagnosis (Lead Editor):**
+- The chapter was organized as a compressed sequence of required plot beats rather than a set of lived scenes with transitions, elapsed time, and character choices.
+- Dialogue was frequently shaped to explain theme or plot, creating unnatural exchanges and over-polished aphoristic lines. The playful Jake/Zuko banter is a strength to retain, but their serious dialogue needs more interruption, practical concerns, and character-specific evasion.
+- The Agni Kai was written around its outcome, without enough pre-duel relationship action or sufficiently explicit tactical cause-and-effect. Jake's contribution must be bounded: the first strike scars Zuko's face; Jake's involuntary water barrier diverts the remainder away from Zuko's torso, then fails; Jake is severely burned; Zuko sees Jake and recognizes the intervention.
+- Detention and treatment lacked institutional causality. The revised version identifies the room as guarded palace investigation detention, makes Iroh's request the reason an orderly provides basic treatment, and distinguishes that from later physician care.
+- The aftermath compressed a multi-day sequence and treated severe burns as short-lived. The revised version anchors the sequence across the first night, second day, and third morning; establishes slow healing, likely lasting scars, pain and stiffness over years; and carries the injured hands into departure.
+- The Iroh dialogue's age/status point was disconnected from Jake's objection. The revised exchange now explicitly connects Zuko's age, training in obedience, fear, and his request that Jake leave.
+
+**Revision applied directly to main:** Chapter 0 was substantially revised, including a simpler opening with no bell mechanism, a private pre-duel exchange, clearer duel blocking and intervention consequence, explicit Zuko recognition, a reason for detention and treatment, revised Iroh dialogue, and a more credible injury timeline. Chapter 12 was not changed.
+
+**Current Chapter 0 blob:** `1cb1beae641c30e597a44d338a6f267857863fa8`.
+**Mechanical checks:** 2,997 words; no sentence over 45 words; no paragraph over 120 words; zero em/en dashes; zero `the way` constructions; 125 dialogue-containing paragraphs of 212 total. These are diagnostics, not proof of natural prose.
+**Style pass:** Consulted `Online Reference/Guide 1.md` and the repository's Humanizer editing checklist. The dedicated `/humanizer` skill was not available in this session; no claim is made that it was executed.
+**Disposition:** Revision is applied but not yet independently reviewed or ready for user review. Next gate is fresh cold review plus Lead Editor continuity/whole-chapter QA.
