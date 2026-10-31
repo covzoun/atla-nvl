@@ -1,30 +1,26 @@
 # Prologue: The Agni Kai
 
-The kitchen bell rang while Jake was carrying the second tray upstairs.
+Jake had carried the water jars to the west courtyard and was halfway back for the tea when Haru called from the kitchen.
 
-He stopped on the landing. The bell had sounded once, which meant the west courtyard wanted water. The second ring came before he reached the turn.
+“You left the pot.”
 
-Haru looked up from the cutting board. “You missed the tea tray.”
+“I took the cups.”
 
-“I’m carrying it.”
+“And what do you pour tea with?”
 
-“The other one.”
+Jake looked at the empty tray. Emi had set the small pot beside it before sending him out. He had managed to carry one and forget the other.
 
-Jake glanced at the empty place beside the stove. Emi had set the tea things there before sending him out. He had taken the cups, not the pot.
+“Right.”
 
-“Oh.”
+“Take the small one,” Haru said. “The big one leaks.”
 
-“Go back before the steward comes looking,” Haru said. “And take the small pot. The big one leaks.”
-
-Jake set the tray down and returned for it. When he came back, Haru had moved the cups away from the edge so he could fit the pot between them.
-
-“You could have said that before I went,” Jake told him.
+Jake picked it up. “You could have told me before I went.”
 
 “You could have looked.”
 
 Emi tied a cloth over the ginger jar. “Both of you, stop helping.”
 
-Jake carried the tray out before Haru could find another correction.
+Jake carried the pot upstairs.
 
 The morning was ordinary. The kitchens were hot, the covered passages cool, and the stone courts warmed under the sun. Jake knew which servants would ask for water and which would pretend they had not seen him until they needed something. He knew where the floor dipped by the west stairs and how to carry a full pot without sloshing it over his wrist.
 
@@ -344,7 +340,7 @@ Jake did not know what to say. Iroh uncovered the bowl and moved the spoon withi
 
 “Will they heal?”
 
-“They will heal. I cannot tell you how well.” Iroh’s voice stayed gentle, but he did not offer a promise he could not keep. “The burns are deep. You may have pain and scars for a long time.”
+“They will heal. I cannot tell you how well.” Iroh’s voice stayed gentle, but he did not offer a promise he could not keep. “The burns are deep. The skin may close in weeks, but the scars will take much longer to settle. You may have pain and stiffness for years.”
 
 Jake tried to pick up the spoon. His fingers would not close around it. Iroh waited, then helped him hold it without comment.
 
@@ -412,7 +408,7 @@ Jake waited.
 
 “I saw the water,” Zuko said. “I saw you.”
 
-The words came slowly, as if each one hurt to say. Jake looked down at his hands.
+Zuko looked down at the gloves. Jake could not tell whether he was angry or ashamed, and he did not ask.
 
 “I don't know how I did it.”
 
