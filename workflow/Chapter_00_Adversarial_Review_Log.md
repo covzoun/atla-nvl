@@ -233,3 +233,16 @@ The draft is not being presented as ready for human creative review. The next ga
 **Mechanical checks:** 2,997 words; no sentence over 45 words; no paragraph over 120 words; zero em/en dashes; zero `the way` constructions; 125 dialogue-containing paragraphs of 212 total. These are diagnostics, not proof of natural prose.
 **Style pass:** Consulted `Online Reference/Guide 1.md` and the repository's Humanizer editing checklist. The dedicated `/humanizer` skill was not available in this session; no claim is made that it was executed.
 **Disposition:** Revision is applied but not yet independently reviewed or ready for user review. Next gate is fresh cold review plus Lead Editor continuity/whole-chapter QA.
+
+
+### Humanizer prose pass and Lead Editor cold read (2026-10-31)
+
+- **Skill source:** https://github.com/blader/humanizer, SKILL.md, version 3.1.0. The skill's full instructions were retrieved and applied. This replaces the earlier note that only the repository's local checklist had been consulted.
+- **Starting Chapter 0 blob:** `1cb1beae641c30e597a44d338a6f267857863fa8`.
+- **Revision commit:** `ec887d2f0f78d6d903684ef1e38fbbf8ef539134`.
+- **Current Chapter 0 blob:** `bd273dd9527f28e6626173d1eb744763273b10d7`.
+- **Scope:** Prose and dialogue pass only. Preserved plot events, canon facts, scene order, POV, and the user's developmental fixes. Reworked repeated or explanatory phrasing, tightened dialogue to sound less like thematic exposition, and varied narration while retaining the playful Jake/Zuko exchange and concrete injury details.
+- **Lead Editor cold read:** Re-read the full revised chapter in order, then checked the Agni Kai blocking, detention/treatment rationale, Iroh conversation, timeline, and departure. No new continuity contradiction or scene-order break found. The draft remains a developmental revision, not user-approved.
+- **Mechanical diagnostics:** 2,848 words; 424 lines; zero em/en dashes; zero sentences over 45 words; zero `the way` constructions; zero matches for the scanned stock phrases (`not just`, `at its core`, `crucial`, `pivotal`, `tapestry`, `stands as a testament`, `let that sink in`). Metrics are not a substitute for judgment.
+- **Editorial cautions retained:** Some dialogue remains deliberately direct because the scene concerns a frightened thirteen-year-old facing his father. Do not flatten emotional intensity into casual speech. The injury timeline remains explicit; the scars do not heal during the prologue.
+- **Next gate:** Fresh independent cold review of exact blob `bd273dd9527f28e6626173d1eb744763273b10d7`, followed by adjudication. No independent reviewer has reviewed this Humanizer-pass blob yet.
