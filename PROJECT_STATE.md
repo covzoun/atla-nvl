@@ -6,12 +6,12 @@
 
 ## Active task
 - **Target:** Book 1, Chapter 0, `chapters/Chapter_00.md`, front-matter prologue “The Agni Kai”, with the linked continuity passage in Chapter 12.
-- **Workflow stage:** `ready_for_user_creative_review`.
+- **Workflow stage:** `developmental_revision_after_user_review`.
 - **User authorization:** The user authorized the V2 editorial workflow and Chapter 0 developmental pilot, authorized the narrow Chapter 12 continuity synchronization, and has now authorized merging the completed changes to `main` for review.
 - **Current manuscript status:** Chapter 0 V2 rewrite and the narrow Chapter 12 continuity adjustment are complete. Both were independently verified against the relevant project authorities and the exact pinned versions.
 - **Exact verified versions before merge:** Chapter 0 blob `b84f916d8d8c1693b1d6ba25c4fdc0203c82fe74`; Chapter 12 blob `e1b17949a52c6987e945bca2dac7224829f51720`.
 - **Independent final verification:** Grok's report is at `workflow/reviews/Chapter_00_12_Grok_Final_Verification_2026-10-30.md` on branch `grok/ch0-ch12-final-verification`. Lead Editor retrieved the report, checked its pinned blobs, and independently re-read the continuity passage.
-- **Human review:** Awaiting the user's creative review. No human approval is claimed.
+- **Human review:** User reviewed Chapter 0 and returned nine substantive creative comments. The first V2 draft is reopened for developmental revision; no human approval is claimed.
 
 ## V2 operating model
 - One Lead Editor owns the integrated manuscript, working branch, issue ledger, revisions, documentation, and final report.
