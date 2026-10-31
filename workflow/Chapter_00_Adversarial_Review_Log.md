@@ -246,3 +246,13 @@ The draft is not being presented as ready for human creative review. The next ga
 - **Mechanical diagnostics:** 2,848 words; 424 lines; zero em/en dashes; zero sentences over 45 words; zero `the way` constructions; zero matches for the scanned stock phrases (`not just`, `at its core`, `crucial`, `pivotal`, `tapestry`, `stands as a testament`, `let that sink in`). Metrics are not a substitute for judgment.
 - **Editorial cautions retained:** Some dialogue remains deliberately direct because the scene concerns a frightened thirteen-year-old facing his father. Do not flatten emotional intensity into casual speech. The injury timeline remains explicit; the scars do not heal during the prologue.
 - **Next gate:** Fresh independent cold review of exact blob `bd273dd9527f28e6626173d1eb744763273b10d7`, followed by adjudication. No independent reviewer has reviewed this Humanizer-pass blob yet.
+
+
+### Re-audit and pinned independent review handoff (2026-10-31)
+
+- **Exact Chapter 0 checked:** `bd273dd9527f28e6626173d1eb744763273b10d7` on `main`.
+- **Lead Editor checks repeated:** Full manuscript fetched and reread; Chapter 12 continuity passage and relevant canon/Story Bible/Relationships/Style Guide authorities fetched; developmental fixes rechecked against the user's nine comments; action blocking, first manifestation vs. later deliberate bending, detention/treatment rationale, Iroh's intervention and dialogue, injury timeline, Haru/Emi uncertainty, departure, and Chapter 12 outside-council staging checked.
+- **Mechanical diagnostics rerun:** 2,848 words, 424 lines; zero em/en dashes; zero sentences over 45 words; zero paragraphs over 120 words; zero “the way” constructions; zero matches for the scanned stock phrases. These are diagnostic only, not a quality verdict.
+- **Result:** No new contradiction or missing scene-order link identified in the Lead Editor pass. This does not substitute for independent review.
+- **Pinned reviewer handoff created:** `workflow/handoffs/Chapter_00_Humanizer_Independent_Review_2026-10-31.md`, commit `ff7e15e89ab5ebbf1de6e4aea307ca21430aa6b7`. It specifies exact blob `bd273dd...`, cold-read independence, sources, constraints, and report-only scope on `grok/ch0-humanizer-verification`.
+- **Status:** Pending independent reviewer report. Chapter 0 is not yet ready for user creative review. No manuscript edits made during this re-audit.
