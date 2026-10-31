@@ -6,12 +6,12 @@
 
 ## Active task
 - **Target:** Book 1, Chapter 0, `chapters/Chapter_00.md`, front-matter prologue “The Agni Kai”, with the linked continuity passage in Chapter 12.
-- **Workflow stage:** `humanizer_pass_complete_pending_independent_cold_review`.
+- **Workflow stage:** `lead_editor_reaudit_complete_pending_independent_cold_review`.
 - **User authorization:** The user authorized the V2 editorial workflow and Chapter 0 developmental pilot, authorized the narrow Chapter 12 continuity synchronization, and has now authorized merging the completed changes to `main` for review.
 - **Current manuscript status:** Chapter 0 V2 rewrite and the narrow Chapter 12 continuity adjustment are complete. Both were independently verified against the relevant project authorities and the exact pinned versions.
 - **Exact verified versions before merge:** Chapter 0 blob `b84f916d8d8c1693b1d6ba25c4fdc0203c82fe74`; Chapter 12 blob `e1b17949a52c6987e945bca2dac7224829f51720`.
 - **Independent final verification:** Grok's report is at `workflow/reviews/Chapter_00_12_Grok_Final_Verification_2026-10-30.md` on branch `grok/ch0-ch12-final-verification`. Lead Editor retrieved the report, checked its pinned blobs, and independently re-read the continuity passage.
-- **Human review:** User reviewed Chapter 0 and returned nine substantive creative comments. The draft received a developmental revision and a Humanizer v3.1.0 prose/dialogue pass, followed by a Lead Editor cold read. The current version is not independently reviewed or user-approved.
+- **Human review:** User reviewed Chapter 0 and returned nine substantive creative comments. The draft received a developmental revision and a Humanizer v3.1.0 prose/dialogue pass, followed by a Lead Editor cold read. The current version is not independently reviewed or user-approved. Lead Editor re-audit and mechanical diagnostics have been repeated; a pinned independent review handoff is prepared.
 
 ## V2 operating model
 - One Lead Editor owns the integrated manuscript, working branch, issue ledger, revisions, documentation, and final report.
@@ -29,7 +29,7 @@
 - Keep `main` as the source of truth and ensure the user can see the current manuscript in the default branch.
 
 ## Next actions
-1. Obtain an independent cold review of current Chapter 0 blob `bd273dd9527f28e6626173d1eb744763273b10d7`.
+1. Independent cold review handoff is prepared at `workflow/handoffs/Chapter_00_Humanizer_Independent_Review_2026-10-31.md` for exact Chapter 0 blob `bd273dd9527f28e6626173d1eb744763273b10d7`; obtain reviewer report from branch `grok/ch0-humanizer-verification`.
 2. Adjudicate any material findings and complete final QA before returning the draft to the user for creative review.
 3. Incorporate user feedback, then close Chapter 0's cycle before proceeding to Chapter 1.
 
