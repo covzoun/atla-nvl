@@ -4,8 +4,8 @@
 
 **Scope:** Book 1 by default, with lessons added from any chapter or review round when they are likely to generalize. Chapter-specific decisions remain attached to the relevant chapter, canon, index, state tracker, or revision log.
 
-**Last updated:** 2026-10-29  
-**Current review status:** Chapter 0 adversarial Turns A–C and ChatGPT's independent final check (Turn D) completed 2026-10-29. No new reusable lesson was added; existing RL-02 and RL-12 were applied. The review package was merged to `main` via PR #3, commit `591527d91a9d72c397df91f5b5ee5f98eb763893`, for the user's human review. This document does not claim human approval.
+**Last updated:** 2026-11-20  
+**Current review status:** Comprehensive sequential Book 1 overhaul active on `main`. Chapter 0 ("The Agni Kai") re-evaluated from scratch and revised 2026-11-20; proceeding sequentially through Chapters 1–12 and drafting 13–20. Prior October 2026 adversarial notes are preserved below as historical context.
 
 ---
 
@@ -287,7 +287,18 @@ Add new entries using this template. Keep entries evidence-based and concise.
 - **Affected records:** Files or chapter decisions that must stay synchronized.
 - **Resolution/reference:** Commit, revision-log entry, or decision link when available.
 
+### RL-13 — Preserve character ignorance before reveals and timeline-accurate ranks
+
+- **First observed:** 2026-11-20; Chapter 0 re-evaluation.
+- **Status:** Confirmed.
+- **Symptom:** The prologue pre-duel scenes had Zuko and the palace runner already naming Fire Lord Ozai as Zuko's Agni Kai opponent before the duel began, and placed "Admiral Zhao" in the gallery three years before his Episode 3 Commander promotion and later Admiral elevation.
+- **Root cause:** Back-projecting post-reveal canon knowledge and end-of-Book-1 titles onto an earlier timeline point.
+- **Detection rule:** For every canon surprise or status title in an earlier scene, verify from the exact episode transcript what each character believes *before* the doors open and what rank each officer holds on that calendar date.
+- **Preventive fix:** Preserve Zuko's canon misunderstanding (expecting the old general with the bad hip until Ozai walks onto the sand) and check officer ranks against timeline anchors (`Canon.md`, `Canon_Beat_Sheets.md`, transcripts).
+- **Affected records:** `chapters/Chapter_00.md`, `chapters/Chapter_12.md`, `chapters/Chapter_03.md`.
+
 ## Change history
 
 - **2026-10-29:** Created as a cross-chapter living reference. Initial entries consolidate recurring findings from the Chapters 0–10 revision work and the Chapter 0 canon/continuity pass. No new canon decisions are introduced here.
 - **2026-10-29 (adversarial cycle):** Status line updated after Turns A–C; RL-02 example extended with the fire-knife removal; no new lesson ID added.
+- **2026-11-20 (Book 1 overhaul):** Updated status and added RL-13 after Chapter 0 from-scratch reassessment.

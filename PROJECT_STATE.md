@@ -1,45 +1,28 @@
 # Project State: ATLA Novel Editorial Workflow
 
-**Last verified:** 2026-10-31  
+**Last updated:** 2026-11-20  
 **Repository:** https://github.com/covzoun/atla-nvl  
 **Default branch:** `main`
 
-## Active task
-- **Target:** Book 1, Chapter 0, `chapters/Chapter_00.md`, front-matter prologue “The Agni Kai”, with the linked continuity passage in Chapter 12.
-- **Workflow stage:** `lead_editor_reaudit_complete_pending_independent_cold_review`.
-- **User authorization:** The user authorized the V2 editorial workflow and Chapter 0 developmental pilot, authorized the narrow Chapter 12 continuity synchronization, and has now authorized merging the completed changes to `main` for review.
-- **Current manuscript status:** Chapter 0 V2 rewrite and the narrow Chapter 12 continuity adjustment are complete. Both were independently verified against the relevant project authorities and the exact pinned versions.
-- **Exact verified versions before merge:** Chapter 0 blob `b84f916d8d8c1693b1d6ba25c4fdc0203c82fe74`; Chapter 12 blob `e1b17949a52c6987e945bca2dac7224829f51720`.
-- **Independent final verification:** Grok's report is at `workflow/reviews/Chapter_00_12_Grok_Final_Verification_2026-10-30.md` on branch `grok/ch0-ch12-final-verification`. Lead Editor retrieved the report, checked its pinned blobs, and independently re-read the continuity passage.
-- **Human review:** User reviewed Chapter 0 and returned nine substantive creative comments. The draft received a developmental revision and a Humanizer v3.1.0 prose/dialogue pass, followed by a Lead Editor cold read. The current version is not independently reviewed or user-approved. Lead Editor re-audit and mechanical diagnostics have been repeated; a pinned independent review handoff is prepared.
+## Active Workflow: Sequential Book 1 Overhaul & Completion
+- **Mandate (2026-11-20):** Full chapter-by-chapter developmental reassessment, prose/continuity revision, and completion of Book 1 (`Chapter_00.md` through `Chapter_20.md`). All prior drafts, AI reviews, and old AU locks (including interludes) are reopened for merit-based evaluation; `base/Style_Guide.md` plus selective `Online Reference/Guide 1.md` cleanup govern prose.
+- **Original pre-overhaul baseline tag (local):** `baseline-2026-11-20` (`cbce056`).
 
-## V2 operating model
-- One Lead Editor owns the integrated manuscript, working branch, issue ledger, revisions, documentation, and final report.
-- Independent reviewers assess exact versioned drafts and return evidence-based reports. They do not overwrite the integrated manuscript by default.
-- Specialist lenses: fresh-eyes reader, beginner reader, ATLA canon specialist, developmental editor, continuity auditor, and prose editor.
-- Genuine subagents are used only when the platform actually supports them. Simulated perspectives are labeled honestly.
-- The Lead Editor prepares prompts and handoff packages. When direct integrations exist, the Lead Editor retrieves reviewer reports from the repository rather than asking the user to shuttle them.
-- A chapter is presented to the user only after independent final verification and the completion checklist.
-- The user retains final creative authority. Do not begin the next chapter until the current chapter's review disposition is clear.
+## Chapter Progress
+- **Chapter 0 (`chapters/Chapter_00.md`, "Prologue: The Agni Kai"):** **COMPLETE** (2026-11-20).
+  - Re-evaluated from scratch and substantially revised (5,571 words; `sent.py` avg 15.34, max 40, `>45=0`, `>120=0`, 35.5% dialogue, 1.8 dashes/1k, zero `the way`, zero `quietly`, zero non-canon cross-chapter 6-grams).
+  - Key fixes: restored canon/`Chapter_12.md` pre-duel setup (Zuko expects the old war-council general with a bad hip until Ozai walks onto the sand), fixed Agni Kai water-sheet timing/physics, deepened Haru & Emi domestic foundation and braided-cord pocket continuity, corrected Zhao's pre-exile rank to Captain, added guarded colonnade staging at the topknot ceremony, replaced clinical burn prognosis with natural Iroh voice, and standardized straight ASCII quotes.
+  - Note for Chapter 12 later: verify line 263 (`"went over the rail at that ring"`) vs. Chapter 0's ground-level west alcove staging when Chapter 12 is revised.
+- **Chapter 1 (`chapters/Chapter_01.md`):** **NEXT** — begin Phase A evaluation immediately.
+- **Chapters 2–12:** Pending sequential evaluation/revision.
+- **Chapters 13–20:** Pending drafting after Chapters 1–12 stabilize.
 
-## Branching policy
-- Use `main` by default for routine editorial work and ordinary manuscript updates.
-- Create a separate working branch only when isolation is materially useful, such as a substantial experimental rewrite, parallel reviewer work, risky structural changes, or a change that must be independently reviewed before integration.
-- Reviewer branches remain isolated. Do not merge reviewer branches unless a specific report or artifact is intentionally being incorporated.
-- Keep `main` as the source of truth and ensure the user can see the current manuscript in the default branch.
+## Locked Orientation Facts (Subject to Merit Review Only When Reopened)
+- Jake and Zuko are 16 at the start of Book 1, 13 at the Agni Kai (3 years exile, 2 years active Avatar hunt).
+- Chapter 0 is front matter and does not renumber Chapters 1–20; it is the sole on-page staging of the Agni Kai duel itself.
+- Jake's Agni Kai waterbending is involuntary, public, and witnessed; his first conscious, deliberate use occurs later at sea (cooling his burned hands). Holding-cell water stays still.
+- Haru and Emi survive immediate fallout, are questioned, dismissed from palace service, and escorted away before dawn without a complete goodbye.
+- Note on historical logs: October 2026 records (`workflow/Chapter_00_Adversarial_Review_Log.md`, earlier sections of `workflow/Ch1-10_Revision_Log.md`) reflect prior cycles; Grok's Oct 31 report resides on remote branch `grok/ch0-humanizer-verification`.
 
-## Next actions
-1. Independent cold review handoff is prepared at `workflow/handoffs/Chapter_00_Humanizer_Independent_Review_2026-10-31.md` for exact Chapter 0 blob `bd273dd9527f28e6626173d1eb744763273b10d7`; obtain reviewer report from branch `grok/ch0-humanizer-verification`.
-2. Adjudicate any material findings and complete final QA before returning the draft to the user for creative review.
-3. Incorporate user feedback, then close Chapter 0's cycle before proceeding to Chapter 1.
-
-## Locked orientation facts
-- Jake and Zuko are 16 at the beginning of Book 1.
-- Their Agni Kai occurred when they were 13, three years earlier.
-- Chapter 0 is front matter and does not renumber Chapters 1–20.
-- Jake's first bending manifestation at the Agni Kai is involuntary and public. His first conscious, deliberate use occurs later at sea.
-- Haru and Emi survive the immediate fallout but are dismissed, investigated, and lose their palace security; Jake leaves without full knowledge of their final circumstances.
-- Consult `base/Canon.md`, `base/Story_Bible.md`, the chapter index, macro map, style guide, relevant transcripts, and downstream chapters for detailed authority.
-
-## State maintenance
-Update this file whenever the active target, stage, review status, next action, or blocker changes. Keep completed facts separate from plans. Never claim a review, agent delegation, commit, push, or verification without evidence.
+## State Maintenance
+Update this file at the end of every chapter cycle before committing and pushing. Never claim a review, commit, push, or verification without executed evidence.

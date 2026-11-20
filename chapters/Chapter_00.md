@@ -1,423 +1,337 @@
 # Prologue: The Agni Kai
 
-Jake had carried the water jars to the west courtyard and was halfway back for the tea when Haru called from the kitchen.
+Jake had already hauled the morning water jars up to the west courtyard and was halfway back down the stairs when Haru leaned out of the kitchen doorway after him.
 
-“You left the pot.”
+"You left the pot."
 
-“I took the cups.”
+Jake glanced down at the tray balanced against his hip. Two glazed cups sat neatly beside a dish of sliced ginger, with nothing between them to pour from. Emi had left the kettle on the hearth stone right beside his elbow before sending him out, and he had still walked past it.
 
-“And what do you pour tea with?”
+"Take the small one," Haru said, stepping clear of the charcoal range. "The spout on the big pot took a crack yesterday. It drips onto your sleeve if you tilt it past half."
 
-Jake looked at the empty tray. Emi had set the small pot beside it before sending him out. He had managed to carry one and forget the other.
+"You could have told me before I climbed three flights," Jake muttered, shifting the tray onto one forearm so he could lift the smaller clay pot by its cloth-wrapped handle.
 
-“Right.”
+"You could have looked at what you were carrying." Haru rested one broad, flour-dusted hand briefly against the back of Jake's neck, steering him past a boiling stock kettle. His square palms were crosshatched with old knife nicks and pale burn lines from twenty years over kitchen fires.
 
-“Take the small one,” Haru said. “The big one leaks.”
+At the long prep table, Emi tied linen over a jar of pickled ginger, pulled the knot tight with two turns of her thumb, and did not look up. "Both of you, stop helping," she said, dry and flat as she always sounded before the first bell. "The upper hall wants breakfast trays inside the hour, and the prince's tea will be cold before you stop arguing over a spout."
 
-Jake picked it up. “You could have told me before I went.”
+Even without looking up long, she caught the hem of Jake's tunic as he passed, plucked a stray thread free, and straightened the towel slung over his shoulder. "Wear your outer jacket if the steward sends you down to the sea gate," she added, dropping her voice so the scullery girls at the sink would not turn around. "The wind off the harbor has teeth this morning."
 
-“You could have looked.”
+"Yes, Ma." Jake tucked the warm pot clear of his ribs and tapped his waist pocket once to check the small braided cord of brown leather Haru had knotted for him the week before. It was only a scrap of market cordage, worn smooth where Jake turned it between his thumb and fingers during long waits in the upper halls.
 
-Emi tied a cloth over the ginger jar. “Both of you, stop helping.”
+Below stairs, the palace smelled of woodsmoke and boiled ginger; above, the covered galleries still held the night's stone chill. Having carried trays through those halls since he was tall enough to balance one, Jake knew the shallow dip in the third step of the west stair and the draft that caught lamps at the war-gallery turn. He also knew which old clerks waited until he was three paces past before remembering they wanted cold well water instead of tea.
 
-Jake carried the pot upstairs.
+Up in the fountain court, Prince Zuko sat alone on the dry rim of the lower basin with a thick campaign book open across his knees. Two practice broadswords lay wrapped in oiled cloth beside him from his dawn drills. Both boys were thirteen, though nobody ever sent the heir's son up three flights with a cracked teapot or expected him to run when a steward snapped his fingers.
 
-The kitchens were already hot. The covered passages held the night’s cool, while sunlight warmed the stone courts. Jake knew which servants would ask for water and which would wait until he passed before calling him back. He knew the dip in the west stairs and how to carry a full pot without spilling it down his wrist.
+"You're late," Zuko said without looking up.
 
-Haru and Emi had taught him the work when he was small enough to sleep under their table. They had raised him in the palace. Their rooms were two turns from the kitchens, close enough for Emi to call him back when he forgot his scarf.
+Jake set the tray on the bench beside the swords and placed two cups on the stone rim. "The tea is hot, at least."
 
-At the fountain court, Zuko sat on the dry rim with a book open across his knee. He was thirteen, same as Jake, but nobody sent the prince on errands.
+"I asked for water."
 
-“You’re late,” Zuko said.
+"You asked for water after morning forms yesterday and complained it turned your stomach sour before noon," Jake said, tilting the spout steady so the dark stream stayed off the paper margins. "Emi said if you were sitting through council without breakfast, she wasn't sending you up here on cold well water."
 
-Jake set the pot on the bench. “The tea is here.”
+Zuko shut the book over his thumb and gave him a hard look, though his mouth loosened a fraction. "Kitchen staff shouldn't be deciding what I drink."
 
-“I asked for water.”
+"Then stop letting the maids tell Emi how much barley porridge came back untouched from your room." Jake nudged the ginger dish an inch closer. "Eat two slices before the bells ring."
 
-“You said tea yesterday.”
+"It's a bad book anyway," Zuko muttered, laying the ledger beside his blades and taking the warm cup between both hands. Charcoal smudged the edge of his left cuff from banking a terrace brazier.
 
-“I said water today.”
+"Then why keep reading it?"
 
-“Then you should have asked the kitchen.”
+Zuko stared down into his cup, his shoulders drawing forward. "Uncle lent it to me. Some treatise on coastal sieges. I'm trying to find the chapter where the besieging army takes the harbor before starving out its own supply boats."
 
-Zuko shut the book around his finger. “I did.”
+"Maybe it's a short book."
 
-“And they sent me.”
+Zuko shot him a sharp glance, failed to keep the scowl intact, and drank anyway. Across the open yard, a red-liveried servant crossed toward the carved cedar doors of the war gallery, bowed stiffly to the bench, and slipped inside with a stack of rolled maps.
 
-“Because I asked for you.”
+Zuko's smile dropped the instant the doors shut. He set his cup back half full. "Have you seen my uncle?"
 
-Jake poured. “That sounds like a problem with your judgment.”
+"Not since first bell," Jake said, watching the tightness settle across the prince's brow. Zuko had pestered General Iroh to let him attend the war councils since he was eleven, until the old men finally gave him a silent cushion behind the map table. Council mornings always left him coiled tight. "He walked past the upper colonnade with two fleet captains."
 
-Zuko reached for the cup. His sleeve brushed the pot, and Jake moved it before it tipped.
+"He promised he'd meet me outside before they started." Zuko stood, leaving the book open, and tugged his sash straight. "If the steward calls for extra trays inside the chamber today, let one of the older girls carry them in. Stay out of that room."
 
-“Careful,” Jake said.
+Jake frowned, picking up the empty tray. "I go where the steward points, Zuko."
 
-“I was careful.”
+"Then tell him your knee twisted on the stairs, or drop a pitcher in the scullery," Zuko snapped, his voice dropping into the flat command tone he used with stable hands, though his eyes stayed on Jake's face. "Just stay out of the gallery while the generals are arguing the eastern campaign."
 
-“You nearly poured tea on your book.”
+"That's a useful set of orders, Your Highness."
 
-“It’s a bad book.”
+"Don't call me that when nobody's listening."
 
-“Then why are you reading it?”
+"Then stop ordering me around like a scullery mule," Jake said lightly, settling the pot against the tray rim so it would not rattle.
 
-Zuko looked down at the page. “I’m trying to find the part where the general wins.”
+Zuko opened his mouth to snap back, stopped, and shook his head once. "Go back downstairs, Jake. Please."
 
-“Maybe it’s a short book.”
+That single quiet word caught Jake halfway through turning. He waited a beat to see if Zuko meant to tell him what the eastern captains were putting on the table. Instead Zuko gathered his wrapped swords and walked toward the cedar doors without looking back.
 
-Zuko gave him a look, but he was smiling when he took the cup.
+By noon the sun stood high over the palace roofs, and Jake was wiping clean tea bowls in the pantry passage behind the war gallery while steam drifted up from the washhouse below. Low voices rose and fell beyond the carved panels until one sharp boy's shout cut straight through the oak, followed by the heavy scrape of wooden chairs.
 
-A servant crossed the court and bowed. Zuko’s smile faded as the man headed for the war gallery.
+Moments later the side door banged hard against the plaster. A junior runner skidded past the linen shelves, clipping the doorframe as he yelled to the head steward.
 
-“Have you seen my uncle?” he asked.
+"Clear the lower courtyard! Every servant out before noon. There's to be an Agni Kai."
 
-“Not since breakfast.”
+The steward froze with a stack of folded cloths against his ribs. "Here? Between which officers?"
 
-“He said he’d be there.”
+"Prince Zuko," the runner gasped, already turning back toward the stair to summon brazier bearers. "He shouted down one of the senior generals over an eastern reserve plan, about sending untried colonial recruits into the front line as bait. The Fire Lord ordered the duel at once."
 
-“Then he’s probably there.”
+Cold prickled down Jake's arms. He set the dry bowl back on the rack with stiff care. An Agni Kai was a formal Fire Nation fire duel, fought in the sand pit before court witnesses until one fighter yielded or burned down, and no boy inside those walls could refuse one without ruining his name. Against a senior general who had held command since before Zuko was born, thirteen was far too young.
 
-Zuko put the book aside. “If the steward sends you through the council doors today, don’t go.”
+Stewards shouted for sand rakes and cooling water while servants hurried for the stairs. Jake untied his apron, laid it across the clean bowls, and slipped out the back door toward the lower steps.
 
-Jake frowned. “Why?”
+He found Zuko five minutes later in the narrow stone passage leading to the duel court. Two guards in plumed helms stood ten paces off by the sunlit archway, spears grounded. Inside the shadow of the alcove, Zuko had stripped off his heavy royal tunic and knotted the plain loose wrap worn for an Agni Kai across one shoulder. His fingers worked twice at the sash before the cloth lay flat.
 
-“Just don’t.”
+"Zuko."
 
-“I go where I’m told.”
+Zuko whipped around so fast his heel slipped on the stone. "What are you doing here? I told you to stay in the kitchens."
 
-“Tell him you’re busy.”
+"I heard the runner." Jake stepped closer, near enough to see the tight set of Zuko's shoulders and the pale ring around his nostrils where his breathing ran shallow. "You shouted down a general in the Fire Lord's own chamber?"
 
-“Doing what?”
+"He wanted to march two thousand fresh recruits straight into an entrenched Earth Kingdom line just to draw fire while the veterans struck the flank." Zuko's voice cracked on the last word before he forced it lower, glancing back toward the guards behind him. "Colonial boys who've barely held a spear three months. Someone had to say it was butcher's work."
 
-Zuko looked at him as if Jake were being deliberately difficult. “Anything.”
+"Not you," Jake said, keeping his voice beneath the rumble of boots filling the gallery outside. "Go back through the side hall and find your uncle. Tell him you lost your temper; he can talk them out of it before the horns blow."
 
-Jake picked up the empty pot. “That’s a very useful instruction, Your Highness.”
+"I already apologized for shouting," Zuko snapped, turning toward the sunlit arch as if standing still made the floor burn under his feet. "Father said disrespect in his war room isn't answered with words. Besides—" He lifted his chin, brittle royal pride locking hard over the fear underneath. "It's only that old general with the bad hip. I've drilled six hours a day since I was eight. I'm not letting him call me a coward."
 
-“Don’t call me that.”
+"Zuko, he's fought twenty years of war—"
 
-“Then stop giving orders.”
+"Stay out of it, Jake." Zuko's eyes flicked from Jake's plain servant tunic to the nearest guard shifting his spear upright. "Go upstairs before someone sees you here and puts you on report."
 
-Zuko’s mouth twitched. “Go.”
+Jake stayed where he stood. The passage already smelled of lamp oil and hot brazier coal.
 
-Jake went, still smiling.
+Zuko hesitated, the stiffness draining briefly from his neck as boots grated louder behind them. "Please," he muttered, low enough that the guards ten paces off could never hear. "Go back to Emi and wait for me there."
 
-By midday, Jake was sorting clean cups in the passage behind the war gallery. A runner hurried through and caught his shoulder on the doorframe.
+The lead guard stepped forward and inclined his head. "Prince Zuko. The court is assembled."
 
-“Clear the lower court,” the runner told the steward. “The prince has been called to an Agni Kai.”
+Zuko turned away and walked out into the noon glare without looking back.
 
-The steward stopped counting. “By whom?”
+Jake waited until the guards followed Zuko out and left the service corner empty, then slipped down the shaded wall steps toward the courtyard rim instead of climbing back to the kitchens.
 
-“The Fire Lord.”
+The lower duel court lay sunken between two tiers of stone galleries, its floor laid in pale sand that threw the sun straight back into the eyes. Copper braziers burned along the walls, while officials and generals packed the high railings overhead. Near the far corner of the upper rail, General Iroh stood beside Princess Azula and Captain Zhao, his heavy shoulders unusually rigid under his robes.
 
-The cups touched in Jake’s hands.
+Jake flattened behind the square pillar at the west servants' alcove, right on ground level where attendants waited between bouts. Beside his boots sat a broad stone cooling basin filled nearly to the rim with cold well water, kept there so servants could douse hot armor and scorched sand afterward. From three paces behind the pillar, Jake could see Zuko standing barefoot in the center of the pit, stripped to duel trousers and plain sash, facing the tall ironbound doors across the sand.
 
-An Agni Kai was a formal fire duel, fought before witnesses until one fighter yielded or could no longer continue. Jake had never heard of a father calling his son to one.
+The far doors groaned wide.
 
-The steward sent servants for braziers and water. Guards headed for the lower doors. Jake caught fragments as people passed: the prince had objected to sending untried colonial recruits into battle. He had refused to fight his father. The pieces did not fit together yet.
+No old general walked out onto the sand.
 
-Jake put the cups down.
+Fire Lord Ozai stepped into the sunlight alone, bare-chested above dark silk duel trousers, gold sash hanging flat against his hip. Every voice in the upper galleries dropped dead at once.
 
-Jake found Zuko by the side passage to the lower court. Two guards waited several paces away. Zuko had changed into the plain clothes worn for the duel and kept his eyes on the floor.
+Across the sand, Zuko's raised hands fell straight to his sides. All color drained out of his face.
 
-“Zuko.”
+"Father," Zuko whispered, loud enough in the sudden hush that it carried clear to the west alcove.
 
-Zuko looked up sharply. “You shouldn’t be here.”
+Ozai stopped ten paces off without taking a guard stance. "You will fight for your honor," he said, his voice carrying cleanly across the sand without ever rising above normal pitch. "Rise and fight, Prince Zuko."
 
-“I heard.”
+Zuko dropped straight onto his knees in the sand and bowed until his forehead nearly touched his palms. "I didn't know it was you I challenged," he said, his voice shaking hard before he set his teeth and steadied it. "I spoke out of turn in the council. Punish me for the words if you mean to, Father, I meant no disrespect. I will not raise my hand against you."
 
-“Then go back.”
+Behind the pillar, Jake gripped the cold rim of the stone basin. Zuko had been raised since the cradle to believe obeying the Fire Lord was the whole shape of honor; he would stay on his knees in the dirt until Ozai finished with him.
 
-“Is it true?”
+Ozai looked down at his son without a muscle shifting in his face. "Then you will learn respect," he said, "and suffering will be your teacher."
 
-Zuko glanced at the guards. “I said something in council. Father wants me to answer for it.”
+Zuko lifted his chin, tears cutting tracks through the sand on his cheeks, and did not move an inch backward.
 
-“Can’t you take it back?”
+Ozai raised his right arm.
 
-“I did.”
+White-gold heat flared along the Fire Lord's bare wrist, and Jake broke from behind the stone pillar before Ozai's hand had even started down. He ran blind onto the open ring, one palm grazing cold water over the basin's lip as he tore past.
 
-“And?”
+Ozai struck.
 
-“He wants the duel.”
+A roaring sheet of fire crossed the sand in one unbroken rush. Its leading tongue caught Zuko's left cheek, eye, and bare shoulder before Jake made half the distance, tearing a scream out of Zuko's throat as he flinched sideways with both arms coming up too late. The main blast rolled straight behind that first flame, wide enough to swallow his chest and ribs.
 
-Jake moved closer. “Then don’t go through with it.”
+Jake skidded into the open six paces off, threw both bare hands forward toward Zuko, and felt a violent cold pull yank straight out from behind his ribs.
 
-Zuko’s eyes lifted to his. “You think I haven’t tried?”
+Water ripped out of the stone basin behind him in a heavy, spinning rope, whipped past his shoulder before he could name what was happening, and snapped open across the ring into an angled wall between Zuko and the fire.
 
-“Refuse. Leave with Uncle.”
+Flame slammed water with a crack that shook dust off the lower steps.
 
-“He’s already tried.”
+For a single breathless beat the barrier held, driving the brunt of Ozai's blast upward in a blinding plume of white steam above Zuko's head. Then the Fire Lord's force punched straight through the center of the sheet.
 
-The guards shifted. One looked toward the courtyard doors.
+The water flashed to boiling steam right across Jake's open palms.
 
-Jake kept his voice low. “You can still walk away.”
+Pain shot under every fingernail like white-hot iron before Jake even heard himself scream, as the broken barrier crashed down and the shockwave flung Zuko sprawling onto his unburned side in the churned sand.
 
-Zuko’s face tightened. “If I leave, he’ll call me a coward. If I fight, I’m fighting my own father.”
+Scalding fog swallowed the whole pit while shouts broke out all along the high galleries and guards pounded down the stone stairs.
 
-“Then let him call you whatever he wants.”
+When the steam began to thin, Zuko lay curled in a dark pool of soaked sand. His left cheek, brow, and shoulder were blistered raw red, yet a dark wet stripe across the front of his tunic showed where the water had turned the main blast upward off his ribs.
 
-“I can’t.”
+Zuko forced his right eye open through the drifting mist, coughed hard, and stared up at Jake standing three paces off with both raw palms held wide and shaking.
 
-“You can.”
+"Jake?" Zuko choked out, his single eye wide in disbelief.
 
-Zuko looked past Jake to the guards. “Go back to the kitchens. Please.”
+Boots hit the flagstones behind Jake before he could step forward. A heavy gauntlet slammed between his shoulders, driving him down onto his knees while a second soldier wrenched his wrists behind his back. Jake shrieked loud enough that the man instinctively dropped the ruined palms and hauled him upright by the elbows instead.
 
-Jake hesitated. Zuko almost never said please.
+Up in the gallery, a red-robed official pointed straight through the clearing mist. "Waterbender! The servant bent the basin!"
 
-Jake wanted to say more. The guard nearest the door had already stepped forward.
+Across the ring, guards surrounded Zuko's limp form. High by the stone rail, Princess Azula leaned an inch forward, dark eyes narrowing on Jake's bleeding hands before soldiers dragged him backward through the west archway.
 
-“Prince Zuko.”
+"Jake!"
 
-Zuko turned away. “Go, Jake.”
-
-Jake let him go, but he did not return to the kitchens.
-
-By the time Jake reached the lower courtyard, the servants had cleared it. Braziers burned along the walls. Officials filled the gallery above the sand. Zuko stood alone in the ring, facing the doors.
-
-Jake slipped behind a pillar near the west alcove. A basin stood there for the servants to cool the sand after the duel. He could turn back and return to his work.
-
-The doors opened.
-
-Ozai walked onto the sand. Zuko bowed.
-
-“Father.”
-
-“You will fight for your honor,” Ozai said. “Rise and fight, Prince Zuko.”
-
-“I won’t fight you.” Zuko’s voice shook, then steadied. “I spoke out of turn. Punish me for the words if you mean to. I will not raise my hand against you.”
-
-“Then you will learn respect,” Ozai said, “and suffering will be your teacher.”
-
-Zuko lowered himself to his knees and bowed his head.
-
-Jake moved from behind the pillar.
-
-He had no plan. Zuko had bowed and would stay there when the fire came.
-
-Ozai raised his arm. Fire gathered along it and crossed the ring in one blinding rush.
-
-The first edge struck Zuko’s left side, catching his face and shoulder. Zuko recoiled, his hands coming up too late. The rest of the blast continued toward his chest and the side of his body.
-
-Jake reached the basin.
-
-The water tore free as he ran. It lifted from the stone bowl and spread between Zuko and the advancing fire, a broad sheet angled across the ring. Jake’s arms rose with it. He did not know how he had called it. He only knew he had to keep it there.
-
-The fire struck the water. Steam burst across the sand.
-
-For an instant the sheet held, forcing the remaining blast upward and away from Zuko’s body. Then the heat punched through. The water boiled around Jake’s hands. The barrier broke, and the force drove Zuko onto his side.
-
-Jake felt the burn before he heard himself scream.
-
-The water crashed down. Steam rolled across the ring and hid both boys.
-
-When the steam thinned, Zuko lay curled on the sand, still breathing. The left side of his face was burned; his shoulder and chest were scorched. The wet mark on his clothes showed where the water had turned the rest of the blast aside.
-
-Zuko lifted his head. Through the smoke and the pain, he saw Jake standing with both hands held out, fingers spread and shaking.
-
-“Jake?”
-
-A guard struck Jake’s shoulder and forced him down. Another seized his arms. Jake tried to look toward Zuko, but the guards dragged him toward the doors.
-
-“Waterbender!” someone shouted from the gallery.
-
-Zuko called his name again. Jake could not tell whether he was reaching for him or asking what had happened.
-
-“Waterbender” followed Jake through the passage. He had carried water all his life, but he had never moved it. The basin had been full that morning. Now he could not explain what he had done.
+"Waterbender," the hiss chased him down the cold corridor, ringing off the stone until the word lost all shape. Jake had carried well jars and wash pails since he could barely reach the kitchen sink, and water had never stirred at his touch in his life. Now both palms burned as if dipped in molten tin, and he could not explain a breath of what had happened.
 
 ---
 
-They took Jake to a guarded room off the laundry passage, where servants were held during palace investigations. A barred window let in a strip of light. There was a cot and a wash bucket; the door locked from the outside. Two guards stayed in the corridor.
+They locked him in a narrow stone cell behind the palace laundry passage, the small barred room where housekeepers held kitchen hands or stable boys accused of theft until the steward finished his inquiries. A high iron grate let in a gray strip of afternoon light above a plank cot, a three-legged stool, and a wooden wash bucket half full of stale water. Outside, an iron bolt shot home, followed by two guards taking post along the hall.
 
-A palace orderly came before nightfall. One guard told Jake to sit still while the man looked at his hands.
+Jake sat on the cot with both hands held off his knees so the wool trousers would not brush the skin. White blisters stretched from the heels of both palms to his fingertips, split raw along the creases where he had clenched against the sand.
 
-Burns covered both palms and crossed his fingers. Blisters had risen, and the skin split where he had clenched his hands. The orderly cut away Jake’s makeshift wraps and rinsed sand from the wounds.
+Before dusk, the bolt slid back. One guard framed the doorway with his spear while a nervous orderly knelt on the stones with a basin of boiled water and plain barracks linen.
 
-“Keep your hands raised,” he said.
+"Sit still," the guard barked. "Hands where I can see them."
 
-“Will I be able to use them?”
+The orderly avoided Jake's eyes, cut away the torn corridor rags, and poured lukewarm water over the burns to rinse away dried grit. Jake bit the inside of his cheek until blood filled his mouth, refusing to let a sound slip while the water stung like salt.
 
-The orderly glanced at the guard. “You need a physician.”
+"Deep into the meat," the orderly murmured, spreading a thin coat of common soldier's burn grease before winding linen around each hand separately with room left for swelling. "Needs proper willow-salve and a physician before fever starts."
 
-“Then get one.”
+"Then fetch one," Jake whispered, his voice ragged from screaming in the steam.
 
-“Quiet,” the guard said.
+"Shut up, prisoner," the guard snapped, thumping his spear butt once against the threshold.
 
-The orderly wrapped Jake’s hands in clean linen, leaving room for the swelling. He had no salve with him. Before he left, he told the guard the bandages would need changing and the wounds should be watched for fever.
+At the door, the orderly paused half a turn, glancing back at Jake's bandaged palms. "The guards cleared only basic wraps for an investigation cell," he said under his breath. "General Iroh sent word down from the upper wing that everyone hurt in the courtyard was to be tended. Keep them dry and don't try to bend your fingers."
 
-“Who sent you?” Jake asked.
+The door shut and the bolt fell back into place.
 
-The man paused at the door. “The general asked that the injured be treated.”
+All night, heat pulsed inside the bandages like a second heartbeat. Jake slept in short scraps leaning against the damp wall; whenever he drifted off and his knuckles brushed the blanket, sharp pain jerked him awake with both wrapped hands pressed tight against his chest.
 
-Then he was gone.
+Twice before dawn he tried to hook his thumb around the wooden bucket beside the cot to rinse smoke and soot off his collar. His fingers would not curl half an inch. Even when he held his stinging palms an inch above the flat water inside the bucket, desperate for the cold tug that had lifted the courtyard basin, the surface stayed dead still, reflecting nothing except the gray iron grate overhead.
 
-Jake sat with his hands lifted above his knees. Heat pulsed beneath the linen. When he tried to bend his fingers, the skin pulled tight and pain ran up his wrists.
+On the second morning the orderly returned with clean strips, peeled away the dried blood-spotted wraps while Jake stared at a crack in the mortar to keep from gagging, and rinsed the raw pink skin.
 
-He could not lift the bucket. He could barely hold the cup the guard left him. The water inside stayed still.
+"Can I see Haru and Emi?" Jake asked once the last knot was tied.
 
-The guards brought food twice. They did not tell him what would happen. Once, Jake asked whether Zuko was alive. The guard said the prince had a physician and ordered him back from the door.
+The orderly's thumb stiffened against the cord. He packed his soiled cloths into the bowl without answering and slipped past the guard.
 
-Jake slept in short stretches. The wraps scraped whenever he moved. Each time he woke, his hands were pressed to his chest, as if he could protect them even in sleep.
+Just past noon, boots and voices crossed the servants' drying yard beyond the high grate. Jake bolted off the cot so fast the frame struck the wall, climbed onto the window bench, and braced his forearms on the stone sill—keeping his palms clear of the rust—to peer down between the bars.
 
-On the second morning, the orderly returned with clean linen and a bowl of water. He changed the dressings while Jake clenched his teeth against the pain. The wounds were raw beneath the old wraps. The orderly worked slowly, rinsing away what he could and covering the damaged skin again.
+Four armed guards were marching Haru and Emi across the flagstones between the wash sheds.
 
-“Keep them clean,” he said. “Don't pull at the blisters. If the fever comes, tell the guards.”
+Haru walked upright in his flour-stained apron, both wrists bound in front of him with coarse hemp. Emi walked two paces behind without ropes, her gray-streaked hair pinned neat as though she had just finished setting out breakfast trays, though her face looked carved from gray chalk.
 
-“Will they let me see Haru and Emi?”
+"Emi!" Jake shouted, jamming his shoulder hard against the iron grate. "Haru!"
 
-The orderly did not answer. He looked toward the door.
+Across the yard, Emi stopped dead and spun half around, eyes snapping upward toward the laundry windows. The trailing guard shoved her forward by the elbow before she could pick Jake out of the shadow. Haru twisted his head back, mouthing words Jake could not catch across forty paces of air before the washhouse wall hid them both.
 
-Later that day, Jake saw guards cross the servants’ yard with Haru and Emi between them. Haru’s hands were tied. Emi’s were not. They were both wearing their plain kitchen clothes.
+Jake stayed on the bench clinging to the sill with his wrists until his throat scraped dry.
 
-Jake stood so quickly the cot struck the wall. He pressed his bandaged hands against the bars.
+Late that afternoon, the palace steward's voice drifted up from the yard as he read dismissals to the gathered kitchen staff—names struck from the household roll pending inquiry into an unregistered outsider inside the royal wing. Haru's name came first, then Emi's. Nobody called out where they were taken.
 
-“Emi!”
+Outside the locked door, one relief guard muttered low to his partner about checking the southern raid lists for Water Tribe strays slipped into palace work.
 
-She turned toward the laundry windows. The guards kept her moving.
+"Keep your voice down," the older guard hissed back at once. "You want the captain asking how you know what the Fire Lord struck from the court record?"
 
-“Haru!”
+Jake slid back down onto the cot and stared at the flat water inside his wash bucket. *Water Tribe.* Returning sailors at the kitchen doors sometimes spoke of them—distant enemies at the bottom of the world who wore blue furs and fought on ice. Jake had slept under Haru's flour table before he could tie his own shoes; he had burned his tongue on Fire Nation chili paste every summer he could remember. Calling him that made no more sense than claiming he had grown feathers.
 
-Haru looked up, but the yard was already carrying them beyond the grate. Jake called until his throat hurt. Neither could reach him.
+On the third morning, the bolt slid back early while the light through the grate was still pale blue.
 
-That afternoon, the steward read names from a list and told the remaining servants the household had been dismissed pending investigation. Haru’s name came first. Then Emi’s. No one said where they had been taken.
+General Iroh entered carrying a covered porcelain bowl in one hand and a folded bundle of gray cloth tucked under his elbow. The guards straightened and pulled the door shut from outside without speaking.
 
-At the door, one guard muttered that the boy was Water Tribe. The other told him to keep his voice down.
+Jake rose quickly, bowing his head to hide the wince across his split palms. "General."
 
-Jake sat on the cot and tried to work the bandages loose with his teeth. He wanted to wash the smoke from his collar. He could not lift the bucket, and the water sat untouched.
+"Good morning, Jake." Iroh set the bowl onto the stool, laid the gray bundle beside it, and sat calmly on the end of the cot as though paying a morning visit rather than stepping inside a lockup. "The kitchens steamed enough rice for a garrison today. I thought someone here ought to help eat it."
 
-On the third morning, the lock turned.
+Jake stayed near the wall, watching Iroh's face rather than the food. "Am I being moved?"
 
-General Iroh entered with a covered bowl in his hands. The guards straightened.
+"Yes. After the noon ceremony."
 
-“Jake.”
+"Where?"
 
-Jake got up. The movement pulled at his palms. He hid the wince by lowering his head.
+"North," Iroh said, lifting the lid so warm ginger steam curled into the damp cell air. "Aboard Zuko's ship."
 
-“General.”
+Jake stared, his throat tight. "They didn't execute me."
 
-“I brought breakfast.” Iroh set the bowl on the stool. “The kitchens have made enough rice for a battalion. I thought we might help.”
+"No." Iroh laid a wooden spoon beside the bowl and folded his hands over his knees, though his gold eyes stayed sharp on Jake's face. "Ozai has no wish to put a thirteen-year-old kitchen boy on a public scaffold and announce to the whole capital that an unvetted waterbender lived under his own roof for ten years. A trial forces questions about palace guards, about who hid you, and why a servant felt loyal enough to his banished son to step in front of the Fire Lord's flame."
 
-Jake looked at the door. “Am I being moved?”
+Iroh let the plain arithmetic settle without dressing it up as mercy.
 
-“Yes. After the ceremony.”
+"I argued that executing you turns a private embarrassment into a court scandal. Folding you into Zuko's exile household settles the matter before dusk—and places you under my command rather than leaving you in these cells until my brother changes his mind."
 
-“Where?”
+Jake looked down at his swollen bandages. Every pulse beat hot under the linen. "Haru and Emi?"
 
-“North. With Zuko.”
+Iroh's face sobered. "Their rooms were searched and both were questioned closely by the magistrate. They lost their posts and their quarters inside the walls." He waited until Jake met his eyes again. "They are alive, Jake. They face no treason charge, and they will not be executed. Beyond that, I cannot promise what sort of living they will make outside the gates."
 
-Jake stared at him. “Why?”
+"Can I see them before we sail?"
 
-Iroh pulled the stool closer. “Ozai would rather send you away than let your presence become another scandal. I argued that you should go with Zuko. You’ll serve in his household, under my command.”
+"I asked the steward this morning," Iroh said gently. "The answer was no."
 
-“Because I saved him?”
+Jake stared at the steam curling off the bowl until his eyes stung. "I should have stayed in the pantry," he said, his voice flat. "Zuko told me to leave. If I hadn't come down those stairs—"
 
-“Because the Fire Lord wants this kept quiet. And I don’t intend to leave you here for him to decide what to do with you.”
+"You went because Zuko was about to die on the sand, and no one else in that entire courtyard moved," Iroh cut in—never loud, yet firm enough to stop him cold. He leaned forward slightly, resting his forearms on his knees. "He is thirteen years old, Jake. He has been taught since birth that obeying his father is honor, and asking for help is shameful weakness. You know that boy well enough to understand how terrified he had to be to whisper *please* and tell you to leave."
 
-Jake looked down at his hands. “Haru and Emi?”
+Jake swallowed hard against the ache in his throat. "He's a prince."
 
-“They are being questioned. Their rooms have been searched. They will lose their places in the palace.” Iroh paused. “They are not being executed. I cannot promise you more than that.”
+"Yes," Iroh said. "And he was still frightened enough to try to keep you off the sand." He nudged the stool an inch toward Jake's knees. "Eat what you can. The ship's physician will see to proper dressings once we reach the docks."
 
-“Can I see them?”
+Jake sat on the stool and reached for the wooden spoon. His stiff fingers brushed the handle and could not curl half an inch, sending a sharp flare straight up his wrist as the spoon clattered onto the porcelain rim.
 
-“I asked. The answer was no.”
+Iroh offered no speech about pity. He simply picked up the spoon himself, scooped warm rice and broth, and held it steady until Jake swallowed his pride and leaned forward to eat.
 
-Jake looked at the bowl. “I should have stayed in the kitchen.”
+"Will my hands heal?" Jake asked between mouthfuls.
 
-Iroh sat on the edge of the stool. “You went because Zuko was in danger.”
-
-“He told me to leave.”
-
-“He often does.”
-
-Jake looked up.
-
-Iroh’s expression softened. “He’s thirteen. He’s been taught that obeying his father is honor, and that asking for help is weakness. You’ve seen how hard it is for him to do either.”
-
-“He's a prince.”
-
-“Yes,” Iroh said. “And he was frightened enough to ask you to leave.”
-
-Jake looked at the bowl. Iroh uncovered it and set the spoon beside his hand.
-
-“Eat what you can. The physician will look at your hands again before we leave.”
-
-“Will they heal?”
-
-“They’ll heal. I can’t promise how well.” Iroh glanced at the bandages. “These burns are deep. The skin may close in weeks. The scars will take years to settle, and you may have pain or stiffness for a long time.”
-
-Jake tried to pick up the spoon. His fingers would not close around it. Iroh waited, then helped him hold it without comment.
+Iroh studied the thick wraps, his brow furrowing with the blunt honesty of a soldier who knew siege burns firsthand. "Fire across the palms never heals cleanly, Jake. The blisters will go down and raw skin will close in weeks if we keep dirt out. But new scar tissue pulls tight across the joints, and deep heat leaves a stiffness that aches in cold weather for years."
 
 ---
 
-The ceremony took place that afternoon in the fountain court.
+The banishment decree was read at noon in the fountain court, under the same blue sky where Zuko had complained over a bad siege book two days before.
 
-The herald read the Fire Lord’s command. Zuko knelt while the knife cut his topknot. His face was wrapped from the brow to the jaw, leaving one eye visible. The hair fell onto the stones.
+Two armed guards held Jake strictly behind the shaded columns of the side colonnade, clear of the minor lords and dismissed servants crowding the sunlit yard. Between the red pillars, Jake watched Zuko kneel stiffly on the open stones, wide linen circling his brow and left cheek until only his right eye stayed visible. His dark hair fell loose over his shoulders before the herald stepped forward with a plain steel knife and sheared the prince's topknot off at the crown.
 
-Jake stood at the back of the crowd with his hands bandaged and held close to his chest. He searched the dismissed servants for Haru and Emi. He did not find them.
+Hair hit the stones without a sound. Nobody spoke or moved to pick it up.
 
-Near the side gate, a woman whispered that Haru and Emi had been taken before dawn. She did not know where they were.
+As the court broke into low murmurs and shifting silk, Jake leaned as far past the guard's spear shaft as he dared, scanning the line of dismissed kitchen staff shuffling out through the western gate. Neither Haru's broad shoulders nor Emi's gray headscarf appeared anywhere in the column.
 
-When the ceremony ended, servants were sent out through the side gate. Jake waited until the crowd thinned, still looking for the people who had raised him.
+Near the side postern, an older scullery woman he knew from the morning porridge pots caught sight of his wrapped hands through the pillars. She hesitated while adjusting her basket and murmured without turning her head: "Guards marched Haru and Emi out the city gate before first light, boy. Told nobody where they went."
 
-Iroh found him there.
+Then the line carried her into the street, and the heavy wooden gate shut behind them.
 
-“We must go,” he said.
+One escort guard tossed Iroh's gray bundle against Jake's chest so he had to pin it clumsily with his forearms against his ribs. Deep in his waist pocket, his wrist brushed the hard small knot of Haru's braided leather cord, left behind only because no jailer searching a servant cared about three inches of greasy twine.
 
-Jake had a small bundle. Inside it was the braided cord charm Haru had given him the week before. He had kept it in his sleeve. He tucked it away and followed Iroh through the gate.
+Iroh met them outside the postern minutes later, took one look at Jake's drawn face, and nodded toward the steep road dropping down to the harbor. "Come along, Jake. The tide waits for neither generals nor disgraced princes."
 
-At the docks, crewmen loaded the ship. Several crewmen glanced at Jake’s bandaged hands. One whispered to another. The guards who had brought him stopped at the gangway.
+At the timber docks, an iron-plated coastal patrol cruiser waited under banked coal smoke, smaller and older than the palace warships, its scarred hull crowded with deckhands hauling salt-beef casks and water barrels up the gangway. Several sailors paused as Jake climbed behind Iroh, staring openly at the thick bandages bundled around both hands before glancing back toward the royal escort halting at the dock's edge.
 
-“I’m not on the ship’s list,” Jake said.
+At the head of the gangplank, an officer with a ledger raised his brow and checked Jake's plain gray tunic against his sheet. "The servant boy isn't on the ship's manifest, General."
 
-“You are now,” Iroh replied. “I had that corrected.”
+"He is now," Iroh replied smoothly, steering Jake clear of stacked crates toward the shaded quarterdeck. "See the purser enters his ration share before we weigh anchor."
 
-On deck, Iroh led him to a coil of rope and called the physician. The man checked the burns, cleaned them, and changed the dressings. He showed Iroh how to replace the linen and warned him the healing would be slow.
+Beside a heavy coil of hemp rope, Iroh summoned the ship's grizzled physician, who cut away the stiff cell dressings and washed both palms firmly with chamomile water. Then the old man spread cool pine-scented salve across the burns and wrapped each finger separately so the healing skin would not fuse together.
 
-Jake watched the physician leave.
+Once the physician bowed below decks, Iroh reached inside his sleeve and drew out a pair of soft dark deerskin gloves cut roomy across the palms.
 
-“You don't have to stay,” he told Iroh.
+"For salt spray and cold wind," Iroh said, easing each glove gently over the thick linen until the cuffs met Jake's tunic sleeves. "Wear them on deck so the crew has less to stare at, and take them off every night before we change the cloth."
 
-“I know.”
+Jake looked down at the dark leather hiding his ruined palms, flexing his hidden thumbs half an inch against the soft lining. "You didn't have to take me aboard, General. You could have left me with the harbor magistrate."
 
-Iroh took a pair of soft gloves from his sleeve. “These should hold the wraps in place. Wear them when you can, but take them off when the wounds need tending.”
+"I know," Iroh said. He watched the dockhands cast off the bow lines, then added without looking around: "Once we leave the harbor behind, you may call me Uncle, if you wish."
 
-Jake let him ease the gloves over the bandages.
+Jake stared down at the scuffed deck planks between his boots. "Yes, sir."
 
-“You may call me Uncle,” Iroh said. “If you like.”
+Iroh inclined his head once, accepting the boundary without pushing against it, and climbed aft toward the bridge.
 
-“Yes, sir.”
+Across the forward deck, Zuko stood alone at the port rail, his good eye fixed stubbornly on the open channel ahead while sailors gave him three wide paces of room. The wide white head-wrap made his narrow shoulders look sharper and younger than they had in the fountain court.
 
-Iroh accepted the answer without pressing.
+Jake crossed slowly, each roll of the deck sending a dull throb through his wrists until he stopped beside the rail an arm's length from the prince.
 
-Across the deck, Zuko stood at the far rail with his head wrapped and his shoulders drawn inward. Crewmen moved around him without speaking. Jake took a step toward him, then stopped when the pull of his hands made him catch his breath.
+Zuko did not turn right away, though his knuckles tightened along the wet iron bar when he noticed the dark leather gloves resting at the edge of his sight.
 
-Zuko turned. He saw Jake’s gloves. His gaze moved to the bandages at the wrists.
+"You shouldn't have come onto the sand," Zuko said, his voice hoarse and raw beneath the linen.
 
-“You shouldn't have come in,” he said.
+Jake rested his forearms lightly along the bar to keep weight off his wrists, looking out toward the black volcanic cliffs guarding the capital bay. "You told me to go back to Emi."
 
-Jake stopped beside him. “You told me to leave.”
+"I ordered you to stay in the kitchens."
 
-“I did.”
+"I didn't listen."
 
-“I didn't.”
+Zuko swallowed hard, his single gold eye dropping briefly to the white bandage edges peeking past Jake's cuffs before snapping back to the harbor chop. "You could have been killed."
 
-Zuko turned toward the harbor. “You could’ve been killed.”
+"So could you."
 
-“So could you.”
+Anchor chains rattled in the hawsepipe while gulls wheeled crying across the stern wake. Along the seawall, signal braziers began to flare orange in the dusk.
 
-Zuko swallowed. “I saw what you did.”
+"I saw the water," Zuko said, low enough that the wind nearly tore the words clear before they reached Jake's ear. "Through the smoke. I saw your hands."
 
-Jake waited.
+Jake looked down at the clumsy leather gloves hanging stiffly beside his waist. Zuko was still staring at them too—raw-edged, watchful, unable to meet Jake's eyes or walk away.
 
-“I saw the water,” Zuko said. “I saw you.”
+"I don't know how I did it," Jake said into the salt wind.
 
-Zuko looked down at the gloves. Jake could not tell whether he was angry or ashamed, and he did not ask.
+"I know," Zuko answered.
 
-“I don't know how I did it.”
-
-“I know.”
-
-Neither spoke for a while. Zuko kept his good eye on the harbor. He stayed beside Jake.
-
-The lines came off the dock. The ship’s bell rang, and the shore began to slide behind them.
-
-Jake stayed beside Zuko until the harbor lights disappeared. His hands throbbed under the gloves. He still could not close his fingers. The pain would be with him long after they reached open water.
-
-The island hid the last fires from view. The sea opened ahead.
+Neither boy shifted from the rail as the brass bell rang twice, the paddle wheels churned white foam astern, and the timber dock fell back into twilight. Jake stayed beside Zuko until the last orange harbor lanterns dropped behind the dark headland, the steady pulse inside his burned palms beating in time with the engines carrying them out to sea.

@@ -157,3 +157,17 @@ The earlier Grok review remains historical and is not counted as a fresh turn un
 - Working branch: https://github.com/covzoun/atla-nvl/tree/ch0-adversarial-review
 
 Cycle completion update (2026-10-29): Grok Turns A and C and ChatGPT Turn B completed their documented multi-pass cycles. ChatGPT then performed an optional independent final check against live head `a46ebba1b0c2a4b4cbfa9b89e74229e5372afae7`. No material Chapter 0 issue was found that blocks human review; Turn D made no Chapter 0 prose changes. The current issue ledger and PROJECT_STATE record the final check and the user's decision point. The reviewed package was merged to `main` via PR #3 in commit `591527d91a9d72c397df91f5b5ee5f98eb763893` after a clean integration branch was created to avoid divergent-history conflicts. Chapter 0 is ready for the user's human review; this does not claim human approval.
+
+---
+
+## Fresh Book 1 Overhaul Log (2026-11-20)
+
+### Chapter 0 — "Prologue: The Agni Kai" (5,571 words)
+- **Why rewritten:** The prior `bd273dd` draft measured `avg=7.11` words/sentence (`sent.py`), read as clipped screenplay banter, had Haru and Emi vanish without lived domestic texture, broke canon/`Chapter_12.md` by having Zuko already know Ozai was his opponent before stepping into the ring, had Jake run across the courtyard *after* Ozai's blast had already struck, had Jake inexplicably wandering unguarded in the topknot crowd after detention, and used curly quotes inconsistent with Chapters 1–12.
+- **Key revisions:**
+  - Deepened opening kitchen home with Haru & Emi and planted Haru's braided leather cord in Jake's waist pocket from Scene 1 (`Chapter_01.md` & `Chapter_08.md` alignment).
+  - Restored canon/`Chapter_12.md` pre-duel setup: Zuko expects the old war-council general with the bad hip until Fire Lord Ozai walks onto the sand.
+  - Re-staged Agni Kai physics: Jake breaks from the ground-level west alcove *as* Ozai raises his arm; first flame edge scars Zuko's left cheek/eye/shoulder while Jake's involuntary basin water wall deflects the body of the blast into scalding steam, burning Jake's palms.
+  - Corrected Zhao's pre-exile rank to Captain (pre-Episode 3 promotion).
+  - Added guarded colonnade custody during the topknot cut, replaced clinical burn prognosis with natural Iroh dialogue, standardized straight ASCII quotes, and cleared all Guide 1 AI tics and non-canon cross-chapter 6-grams.
+- **Metrics (`sent.py` / `metrics.py`):** 5,571 words | 363 sentences | avg 15.34 | max 40 | >45=0 | 166 paras | >120=0 | 35.5% dialogue | 1.8 dashes/1k | 0 `the way` | 0 `quietly`.
