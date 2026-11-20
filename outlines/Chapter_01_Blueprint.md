@@ -338,11 +338,11 @@ From public tension to private, claustrophobic dread.
 Zuko's quarters. The room is sparse but royal-adjacent (Fire Nation banners, a proper bed). Adjoining it is Jake's alcove—a purely functional, subordinate space (a floor mat, neatly folded gear) that reflects his proximity and status. The room is heavy with artificial heat from the ship's engines, contrasting with the ice outside.
 
 ### Action Beats:
-- Jake is meticulously checking and preparing Zuko's armor (straps, buckles, polishing).
-- Zuko is restless, pacing the confined space, perhaps attempting basic firebending breathing exercises but failing due to impatience.
-- They converse in the shorthand of two people who have shared a room for three years. Shorter sentences, less formal than on deck. Zuko might ask if Jake thinks it's really the Avatar; Jake grounds him with practical answers.
-- Iroh briefly enters to attempt to get Zuko to sleep (incorporating the canon dialogue about his ancestors failing). Zuko rejects it. Iroh leaves them.
-- Jake helps Zuko don the armor.
+- Jake is meticulously checking and preparing Zuko's armor (straps, buckles, replacing a salt-rotted collar buckle).
+- Zuko is restless, pacing the confined space, attempting basic firebending breathing exercises that break off out of impatience.
+- They converse in the shorthand of two people who have shared quarters for three years. Shorter sentences, less formal than on deck. Zuko asks if Jake thinks it's really the Avatar; Jake grounds him with practical answers.
+- Iroh enters in sleeping robes to urge Zuko to get some rest (incorporating the canon dialogue about his ancestors failing). Zuko rejects it. Iroh leaves them.
+- Jake fits the breastplate briefly to test the replaced collar strap under load, then unbuckles and racks the armor neatly on its stand before sleep.
 
 ### Character Beats:
 - **Jake:** Hyper-fixated on the physical task of the armor to avoid thinking about *who* the armor is meant to intimidate.
@@ -367,10 +367,10 @@ Incorporates Iroh's canon warning to Zuko about sleeping and his ancestors faili
 ## Transition
 
 ### How the Scene Ends:
-Zuko, fully armored, leaves the quarters to return to the deck to watch for their target.
+Jake and Zuko turn in for the remaining pre-dawn hours; Jake checks Haru's cord inside his sea chest and wakes from cold-seam dreams before dawn watch.
 
 ### How It Leads Into Next Scene:
-Jake follows him up to the freezing deck for the final approach.
+Morning watch passes under grey clouds until a red Fire Navy flare bursts across the southern horizon in mid-afternoon.
 
 ---
 

@@ -13,8 +13,11 @@
   - Re-evaluated from scratch and substantially revised (5,571 words; `sent.py` avg 15.34, max 40, `>45=0`, `>120=0`, 35.5% dialogue, 1.8 dashes/1k, zero `the way`, zero `quietly`, zero non-canon cross-chapter 6-grams).
   - Key fixes: restored canon/`Chapter_12.md` pre-duel setup (Zuko expects the old war-council general with a bad hip until Ozai walks onto the sand), fixed Agni Kai water-sheet timing/physics, deepened Haru & Emi domestic foundation and braided-cord pocket continuity, corrected Zhao's pre-exile rank to Captain, added guarded colonnade staging at the topknot ceremony, replaced clinical burn prognosis with natural Iroh voice, and standardized straight ASCII quotes.
   - Note for Chapter 12 later: verify line 263 (`"went over the rail at that ring"`) vs. Chapter 0's ground-level west alcove staging when Chapter 12 is revised.
-- **Chapter 1 (`chapters/Chapter_01.md`):** **NEXT** — begin Phase A evaluation immediately.
-- **Chapters 2–12:** Pending sequential evaluation/revision.
+- **Chapter 1 (`chapters/Chapter_01.md`, "The Reality of Exile"):** **COMPLETE** (2026-11-20).
+  - Evaluated from scratch and rewritten/polished (7,717 words; `sent.py` avg 15.42, max 35, `>45=0`, 217 paras, `>120=0`, 43.3% dialogue, 1.8 dashes/1k, 3 `the way`, zero `quietly`, zero `not quite`/`something`, zero non-canon cross-chapter 6-grams).
+  - Key fixes: aligned ship's company (`two hundred` → `thirty men` / `twenty armed men`) with Ch 3/12, separated 3-year exile vs. 2-year ice hunt, restored canon Pai Sho deck encounter with Iroh (`"I won't get to finish my game?"` and jasmine tea), replaced overnight full-plate armor in Scene 4 with collar-strap load test and racking before sleep, lowered `11 days of coal` exaggeration to `four days of bunker coal` matching Ch 5/11, cleared Year 1 rumor-fear vs. conscious hand-cooling continuity, removed premature `Wolf Cove` / `hundred years` / earth-calendar anachronisms, matched `pale stone` necklace detail, and rebuilt the Wolf Cove Katara interlude post-banishment (`s01e01`/`s01e02` seam) rather than inventing a pre-banishment tent stew dinner with Aang inside.
+- **Chapter 2 (`chapters/Chapter_02.md`):** **NEXT** — begin Phase A evaluation immediately.
+- **Chapters 3–12:** Pending sequential evaluation/revision.
 - **Chapters 13–20:** Pending drafting after Chapters 1–12 stabilize.
 
 ## Locked Orientation Facts (Subject to Merit Review Only When Reopened)

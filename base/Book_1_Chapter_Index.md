@@ -14,7 +14,7 @@ Single source of truth for chapter numbering and episode coverage. Phase 1 uses 
 
 | Ch | Chapter Title | Episode Source | Path | Phase 1 Input | Key Notes |
 |----|----------------|------|---------------|-----------|---|
-| 1 | The Reality of Exile | Ep 1: The Boy in the Iceberg | Core Canon Integration | Synopsis + transcript | Zuko sees the light. Jake hides his internal crisis at being near the SWT. Katara interlude. |
+| 1 | The Reality of Exile | Ep 1: The Boy in the Iceberg | Core Canon Integration | Synopsis + transcript | Zuko sees the light; Iroh Pai Sho scene restored; sparring douse & 30-man crew / coal math aligned; Jake tests and racks armor; flare lock; Wolf Cove Katara interlude rebuilt post-banishment. (*Revised 2026-11-20*) |
 | 2 | The Breach | Ep 2: The Avatar Returns | Core Canon Integration | Synopsis + transcript | Village raid. Aang escapes. Ship damaged. Jake uses subtle bending amid Avatar-State chaos. |
 | 3 | Ketu Harbor | Ep 3: The Southern Air Temple | Core Canon Integration | Synopsis + transcript | **Zuko vs. Zhao Agni Kai;** Zhao recognizes Jake's servant identity; humiliation beat. |
 | 4 | Borrowed Water | Ep 4: The Warriors of Kyoshi | Core Canon Integration | Synopsis + transcript | Jake fights defensively using Flowing Guard waterbending against Kyoshi Warriors, screened from Aang's sightlines. Retitled from "The Zigzag Trail" 2026-10-21. |
