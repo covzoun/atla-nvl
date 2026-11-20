@@ -2,225 +2,197 @@
 
 Candlelight moved with Zuko's breathing.
 
-Four small flames rose and fell in a ring around him where he sat cross-legged on the cabin floor. Jake had learned the rhythm well enough that he barely looked up anymore. Inhale, and the flames stretched a finger's width taller. Exhale, and they settled back into themselves, small and orange and patient. It was one of the few times Zuko's shoulders came down from around his ears.
+Four small flames rose and fell in a ring around him where he sat cross-legged on the cabin floor, drawing out each breath until the wicks stretched a finger's width taller before settling back, small and orange and steady. Jake had learned that rhythm well enough over three winters that he barely needed to look up anymore, though seeing Zuko's shoulders drop clear of his ears still brought quiet relief.
 
-Jake sat near the wall with a leather strap across his knee, working a bone needle through a worn seam. The buckle on Zuko's left forearm guard had been slipping since Ketu Harbor. A hairline split in the stitching, noticed while helping Zuko out of his armour after the duel, and not mentioned, because there had been nothing to say that night that the quiet was not already saying. He had simply taken the forearm guard when Zuko was not looking and set to fixing it in whatever spare hour presented itself.
+Jake sat near the bulkhead with a leather strap braced across his knee, working a bone needle through a split seam. The buckle on Zuko's left forearm guard had slipped since Ketu Harbor, frayed along one rawhide stitch noticed while unlacing his armor after the duel. Neither of them had named that tear that night, because nothing spoken aloud could match what the quiet walk back along dark piers had already settled. Jake had simply picked up the guard when Zuko wasn't looking and set to repairing it during whatever spare watch opened between duties.
 
-This one, apparently.
+The cabin smelled faintly of tallow and oiled brass, warmed by an iron bulkhead through which the ship's engines held their long, steady thrum. They were pushing north along an uncharted stretch of Earth Kingdom coast whose name Jake hadn't bothered to ask, since only one destination mattered aboard and nobody knew where to point the bow.
 
-The cabin smelled faintly of tallow and cold brass. Outside, the engines held their long low thrum, carrying them north along a coast Jake had not bothered to ask the name of. It did not matter where they were. It only mattered where the Avatar was, and nobody knew that.
+Zuko's breathing slowed further. Jake pulled waxed linen tight through the leather, glanced upward, and allowed himself a quiet second to study his friend without having to explain why.
 
-Zuko's breathing slowed further. Jake pulled the needle through, glanced up, and allowed himself the small luxury of studying his friend without having to explain why.
+Three years across cramped cabins had taught him every hairline difference between real stillness and performed stillness. Right now Zuko held mostly performance: the studied straightness down his spine, the deliberately measured draw of air, like a boy trying to convince an empty room he had conquered his temper. Even sitting alone on wool carpet beside tallow candles, he wore his posture like armor waiting for impact.
 
-Three years of watching Zuko had taught him to read the difference between real calm and performed calm. What he saw now was mostly performance. The studied straightness of the spine. The too-careful evenness of each breath, like a man trying to convince a room that was, at that exact moment, empty except for Jake. Zuko still held himself like someone bracing for the moment it would be tested.
+Boots paused outside, followed by two brisk knuckles against steel before the door eased inward without waiting for leave. Iroh's knock always worked more as polite warning than request. He carried a rolled chart under one elbow and wore the serene, slightly distant smile Jake had learned over three years to mistrust instantly.
 
-A knock, then the door easing open without waiting for an answer. Iroh's knock, more announcement than request. He carried a scroll case under one arm and wore the particular mildness of expression Jake had learned, over three years, to be immediately suspicious of.
+"Prince Zuko." Iroh pushed the door shut behind his wide plum sleeves. "I hope I am not interrupting anything urgent."
 
-"Prince Zuko." Iroh let the door fall shut behind him. "I hope I'm not interrupting anything important."
+"The only reason you should be interrupting me," Zuko said evenly without opening his eyes, "is if you have news about the Avatar."
 
-"The only reason you should be interrupting me," Zuko said, without opening his eyes, "is if you have news about the Avatar."
+"Well." Iroh laid the scroll case down across the small cedar table with deliberate, unhurried care. "There is news, though you might not welcome all of it. Try not to let your temper flare."
 
-"Well." Iroh set the scroll case down on the small table with a care that struck Jake as deliberately unhurried. "There is news. Though you might not like it. Try not to get too upset."
+Zuko's golden eye snapped open. All four candle flames stayed level across their tallow cups.
 
-Zuko's eyes opened. The candle flames did not so much as flicker.
+"Uncle." Rising briskly onto his boots, Zuko brushed invisible creases straight down his tunic sleeve. "You've spent years telling me that a level head marks a great leader. Whatever the scout boats brought back, I can take it."
 
-"Uncle." He rose in one unhurried motion, brushing invisible creases from his sleeve. "You've spent years telling me that a level head is the mark of a great leader. Whatever it is, I can take it."
-
-"All right, then." Iroh spread his hands, apologetic and entirely unafraid. "We have no idea where he is."
+"All right, then." Iroh spread both plump hands wide, completely unafraid behind a mild sigh. "We have no idea where he is."
 
 The candles erupted.
 
-Four thin threads of fire lashed upward at once, licking close enough to the ceiling beams that Jake felt the heat of it brush across his cheek from six feet away.
+Four blinding sheets of orange flame lashed straight upward toward riveted overhead beams, brushing close enough that dry heat washed sharply across Jake's cheeks six paces back against the wall.
 
-Jake had already moved. He had learned to read the half second of stillness before Zuko's temper broke loose, as sailors learn to read a change in the wind. By the time the flames reached their peak his hand had closed over the corner of the polishing rag he had left draped across the open oil tin. He tugged both clear of the candles' reach and set the tin down somewhere safer, out of habit more than thought.
+Jake was already moving before soot darkened wood. Reading the half-second hush right before Zuko's temper broke came as naturally now as sailors reading wind gusts off slack canvas. His scarred fingers caught the corner of an oiled linen rag draped across an open tallow tin, whipping both clear of open flame to rest safely beside his own folded satchel by pure three-year habit.
 
-Zuko was on his feet, and the temper that had flared the candles had not left his face. "What? Give me the map."
+Zuko stood rigid beside the smoking table, temper still burning bright down his unscarred jaw. "What? Give me the map."
 
-"There have been sightings." Iroh drew a paper fan from his sleeve and worked it gently in front of his own face, as if the room had grown warm rather than the prince in it. "Many of them. He is, I'm afraid, rather difficult to pin down."
+"There have been sightings," Iroh offered mildly, drawing a folded paper fan from his robe to stir warm air calmly before his beard as if the cabin had turned summer-warm on its own. "Many of them, in fact. He is proving rather difficult to pin down."
 
-He unrolled the scroll across the little table, weighing the curling corners down with two teacups and the hilt of Zuko's practice dagger. Jake set his needle aside and rose to look. Looking was easier than watching Zuko's face right now. It also satisfied the quiet practical part of him that always wanted to know what they were dealing with before he decided how much space to give it.
+Unrolling stiff parchment across cedar wood, Iroh anchored curling corners under two heavy porcelain cups and Zuko's practice dagger. Jake laid his bone needle aside and stepped close enough to read the ink. Studying coastal routes beat watching Zuko fight down pride, and practical habit demanded seeing real distances before planning around them.
 
-It was nothing like the Fire Nation's naval charts, with their clean grids and confident red lines. This was a mess. A scatter of small ink marks across half a continent's coastline, each one dated, none of them following anything close to a straight line. A sighting near a fishing village. Three days later, a sighting on the far side of a mountain range that should have taken two weeks to cross on foot. Then nothing for a stretch, then two contradictory reports on the same day in ports a hundred miles apart.
+Unlike crisp Fire Navy charts lined with red patrol grids and neat compass bearings, this parchment looked like spilled ink. Tiny black dates dotted half a continent's jagged shoreline and swung wildly inland without order or seamanship. A rumor appeared off a southern fishing cape, followed three days later by a sighting past mountain ridges no foot army crossed inside two weeks. Then came five days of dead silence before two conflicting reports arrived the same morning from bays a hundred miles apart.
 
-Jake had spent three years reading maps for Zuko. Supply lines. Patrol routes. Weather that might slow or speed the search. He understood, looking at this one, exactly why Iroh had reached for the fan before delivering the news rather than after.
+Jake had tallied coal bunkers, sea rations, and coastal tides for three winters running. One look across those scattered ink marks told him plainly why Iroh had packed a cooling fan before knocking on this door.
 
-Zuko snatched the scroll from under Iroh's flattening palm, ignoring the older man's soft noise of protest, and held it up to the candlelight as though staring hard enough might force the ink to rearrange itself.
+Zuko snatched the chart right out from underneath Iroh's steadying palm, brushing aside his uncle's gentle murmur of protest. He held parchment directly against dwindling candlelight as though fierce scrutiny might force chaotic dots into straight lines.
 
-"How am I supposed to find him like this?" His voice had dropped from temper into something flatter, more tired. "He's not running from anything specific. He's not heading toward anything, either." His thumb traced one of the wilder zigzags, back toward the coastline they had started from and then away again. "He's a master of evasive manoeuvring."
+"How am I supposed to find him like this?" Zuko's sharp tone flattened out toward bitter exhaustion as his thumb traced one jagged loop swinging seaward and inland again. "He isn't fleeing any specific port, and he isn't steering toward any fortress either. He's a master of evasive maneuvering."
 
-It did not sound like a compliment. It sounded like a verdict being handed down on the last several weeks of both their lives.
+Spoken aloud inside cramped steel quarters, the admission landed less like praise than a flat sentence passed over the next endless months at sea.
 
-Jake watched the tension settle back into Zuko's shoulders. Not the sharp dangerous heat of a few moments ago. Something heavier and more familiar. The particular exhaustion of a person who had expected, after Ketu Harbor, that things might finally start moving in a straight line, and was now looking at proof they would not.
+Jake watched fresh strain settle heavily back across Zuko's narrow shoulders, replacing sharp anger with tired defeat. After walking clear of Ketu Harbor, the boy had half-expected his hunt to run straight ahead, only to stare down ink proving otherwise. Turning back toward his stool, Jake lifted the scuffed forearm guard and drove his needle right through another tough leather eyelet. He kept his fingers steady while waiting to gauge whether Zuko wanted silence or speech.
 
-He crossed back to the forearm guard and picked the needle up again, giving his hands something to do while he waited to see what Zuko needed from him. Patience, or distance, or simply the plain fact of another person still in the room, breathing steady while everything else refused to hold still.
-
-"Say it," Zuko said.
+"Say it," Zuko muttered without lowering the parchment.
 
 "Say what?"
 
-"Whatever it is you're not saying. You've got the face on."
+"Whatever you're holding behind your teeth. You have that face on."
 
-Jake pulled the thread through. "The map says he's clever and we're slow. Nothing I say will change either of those."
+Jake pulled waxed thread tight until the rawhide seam lay flush. "The map says he travels fast and our ship burns slow coal. Nothing I say out loud changes either fact."
 
-"Then say something useful."
+"Then offer a plan that helps."
 
-"All right." Jake set the vambrace down. "We're chasing a boy who can fly, on a ship that eats coal to do eight knots. Every sighting we chase costs us four days and puts us further from the next one. So we stop chasing sightings."
+"All right." Jake set the leather brace flat across his knee. "We're chasing a boy who flies over mountains, aboard an iron hull struggling to make eight knots on clean boilers. Every cold rumor we chase eats through four days of furnace coal and leaves us farther from wherever he lands next. Stop chasing old ink."
 
-Zuko stared at him. "Stop."
+Zuko turned sharply around, gold eye narrowed against candle haze. "Stop hunting?"
 
-"Stop chasing the ones that are already cold. Wait for one close enough to reach before he moves again. He's not running from us, he's just moving. He'll pass near water sooner or later. Everyone does."
+"Stop steaming after cold weeks," Jake clarified evenly. "Wait near coastal lanes close enough to reach inside a day. He isn't hiding from us; he's crossing from bay to bay. Sooner or later everyone stops near fresh water."
 
-"That is the most infuriating advice I have ever been given."
+"That is the most infuriating counsel I have heard all month."
 
-"It's Iroh's advice."
+"It's Iroh's counsel."
 
-"I know it's Iroh's advice," Zuko snapped. "Iroh's advice is always the most infuriating advice." But he was looking at the map again, and his shoulders had come down a fraction, and he did not throw anything.
+"I know it's his counsel!" Zuko snapped, slapping parchment loudly back onto table wood. "His advice is always the most infuriating kind." Yet his stiff shoulders dropped half an inch as he bent over the map again, leaving the porcelain teacups untouched instead of hurling them across iron plates.
 
-Iroh folded his fan closed with a soft click and glanced toward Jake. The smallest flicker of something that might have been gratitude passed over his face before he turned back to his nephew and began, gently, to talk about patrol routes and probability and the virtue of patience. Words Jake had heard a hundred times, in a hundred tones. None of them had ever once made Zuko less impatient to hear them.
+Iroh snapped his paper fan shut with one crisp click and flicked a brief, warm glance toward Jake before stepping beside his nephew's elbow. He traced currents, harbor inlets, and coal reserves in a gentle, patient rumble. Those were words Jake had heard spoken in fifty harbors across three years, and none of them had ever cured Zuko's impatience for long.
 
 ---
 
-Four days later, the sky had settled into the flat grey that seemed to follow them no matter how far they sailed.
+Four days north, low winter cloud flattened the eastern sea into dull gray pewter.
 
-Jake stood on the main deck with his boots braced against the cold metal, a barrel of seawater open at his side, and watched Zuko roll his shoulders through the old pre-spar ritual. They had done this so many times the ritual barely needed thought. Zuko took three steps back and planted his feet wide on the deck plating still scored from the avalanche. Jake dipped both hands into the barrel and drew the water up in a slow ribbon, letting it coil loose around his wrists.
+Jake stood braced squarely atop cold main-deck planking beside an open cask of green seawater, watching Zuko roll scarred and unscarred shoulders loose through his morning warm-up. No spoken orders opened their spars anymore. Zuko paced three steps backward across iron plates still pitted from polar ice, planted wide boots evenly apart, and raised open palms. Jake dipped gloved wrists straight into chilled brine, lifting a clear, obedient ribbon that coiled around leather cuffs before trailing seaward off his knuckles.
 
-"Ready?" Zuko asked, already dropping into his stance.
+"Ready?" Zuko called, settling down into balanced fire stance.
 
-Jake answered by settling his weight low, knees soft, water trailing from his fingers in an unhurried arc. That was answer enough. It always had been.
+Jake sank low onto bent knees, sliding a thin crescent of seawater wide across his chest in silent answer.
 
-Zuko struck first, as he always did. A short sharp burst of flame aimed low and wide, testing rather than attacking. Jake read the angle before the fire had fully left Zuko's hands and brought the water up to meet it, not head-on but glancing, letting the ribbon curve around the blast and steal its momentum sideways into a hiss of steam. He did not try to smother it. Fighting fire directly only made steam that scalded them both. The trick was in the redirect.
+Zuko struck first, sending a short crisp tongue of bright orange flame low toward Jake's shin to test balance rather than force a block. Reading shoulder turn before heat even cleared Zuko's fingers, Jake swept his water ribbon glancingly beneath the fire. He caught its momentum sideways and tore the flame apart into white steam instead of choking it head-on, which only bred scalding mist across both sleeves. Redirect, never crash square.
 
-Zuko came again, faster, a real strike meant to be blocked rather than played with. Jake let his water spread thin and wide, catching the flame along its surface and splitting it, sending two smaller gouts hissing past his shoulders instead of one large one through his chest. He stepped inside the space Zuko's attack had opened. Not to strike back. Just to close the distance, to be near enough that Zuko had to adjust his stance to account for him rather than firing past an empty patch of deck.
+Zuko pressed closer instantly with a true twin-fisted drive meant to smash through sloppy guards. Spreading water out into a broad translucent arc, Jake parted Zuko's heat along smooth edges so twin licks hissed harmlessly past either shoulder while Jake stepped tight inside Zuko's extended reach. He didn't counterpunch or strike ribs; simply closing distance forced Zuko to pivot hips awkwardly rather than fire freely down open deck space.
 
-That was the whole of it. Jake did not fight to win. He fought to be somewhere Zuko had to think about.
+That remained the whole edge of Flowing Guard training: never fight strictly to dominate, fight to claim space an attacker couldn't ignore.
 
-The rhythm built between them without either needing to call it out. Three years of doing exactly this until it had stopped being a drill and become something closer to a shared language, spoken in heat and water and the small adjustments of weight from one foot to the other. Zuko threw real fire because he trusted Jake to handle it. Jake stepped into the heat because he trusted Zuko's aim.
+Their cadence tightened seamlessly without spoken cues, shaped across three winters of steel decking until fire and brine spoke a private shorthand of weight shifts, lunges, and half-inch dodges. Zuko drove full live blasts because he trusted Jake not to slip, while Jake stepped inside blistering air because he trusted Zuko's precision down to the inch.
 
-"Left," Jake said.
+"Left," Jake clipped out mid-pivot.
 
-Zuko's next blast went left before Jake finished the word, and Jake's water took it and turned it into a curtain of steam that hung between them, and Zuko came through the steam low with his fist already lit, and Jake was not there. He was behind him, water curling up Zuko's back, and Zuko spun and laughed. Actually laughed, a short breathless sound, and threw a blast at Jake's face that Jake took on a palm's-width of water, and the whole thing was, for about four seconds, fun.
+Zuko whipped fire left before the syllable cleared his teeth. Jake gathered rising steam, swung behind his guard as water curled sleek along Zuko's spine, and forced the prince whirling round with a breathless bark of laughter. Zuko actually laughed, tossing one wild backhand spark that Jake caught in a narrow palm-shield of brine before four bright seconds of carefree play shattered abruptly at the ladder well.
 
-Then the boy came up the ladder well with a tray.
+A young mess hand stood frozen atop the iron steps gripping a covered copper platter against his hip. His eyes darted anxiously from curled deck steam to his prince's bare chest and the clear water still hanging round Jake's scarred cuffs.
 
-He was young and nervous and balanced the tray against one hip. He stood at the top of the ladder well with his eyes going from the smoke curling off the deck to the prince to the water still hanging in the air around Jake. He did not step forward.
+Zuko straightened fast, catching the dry linen towel Jake tossed without breaking stride to mop soot off his brow. "Speak."
 
-"Sir. Prince Zuko." He swallowed. "There's word. From the traders we passed this morning."
+The boy swallowed hard beneath Zuko's stare. "Sir. Prince Zuko. Word reached us from coastal salt traders we hailed at dawn." Stepping carefully onto dry plating with the tray held forward, he risked one quick look toward Iroh emerging from the aft companionway behind him. "Fishing smacks spotted a giant six-legged bison flying off Kyoshi Island before noon. Traders swore the whole western harbor was buzzing over it."
 
-Zuko straightened and took the towel Jake held out to him without being asked. "Go on."
+All easy amusement drained straight out of Zuko's expression. There was no candle-flare rage now, just sudden iron focus locking straight like a swung compass needle.
 
-"Fishing boats saw a flying bison near Kyoshi Island. This morning. The traders said the whole harbour was talking about it."
+"Kyoshi Island." Snatching his heavy scarlet coat right off the rail pin, Zuko ignored the covered platter steaming lightly with baked rockfish as he stalked toward the wheelhouse steps. "How far at best steam?"
 
-Zuko went still in a different way than he had over the candles. No flare of temper. Just focus, sudden and total, like a compass needle swinging home.
+"Half a day if boilers hold steady, sir. Less on flood tide."
 
-"Kyoshi Island." He was already reaching for the jacket draped over the rail. "How far?"
+"Then we drop boats before dark." Thrusting stiff arms through wool sleeves, Zuko paused half a stride at the top hatch as Iroh lifted the copper dome off his lunch tray in mild dismay. "Uncle, ready the rhinos! He's not getting away from me this time!"
 
-"Half a day at full steam, sir. Maybe less."
+"Are you going to finish this?" Iroh called calmly after him, gesturing neatly toward fragrant white fish steaming on porcelain.
 
-"Then we'll be there by dark." Zuko shrugged into the jacket. "Ready the rhinos. I want the landing parties armed and on the deck in an hour."
+"I was going to save it for later!" Wheeling back two crisp steps, Zuko snatched the entire warm plate straight out of Iroh's grasp and marched down the aft gangway. The old general stayed beside empty brass railings with both sleeves tucked neatly across his belly.
 
-The boy ducked his head and left at something closer to a normal pace than a flinching retreat. Jake watched him go, and something in his chest turned over.
+The nervous mess boy bolted back down the crew ladder at a brisk trot instead of a panicked sprint. Watching him go, Jake felt cold tension coil slowly behind his ribs as he wiped chilled brine dry across worn breeches.
 
-"Kyoshi Island," he said. "That's Earth Kingdom. Not a Fire Nation port. Not a colony."
+"Kyoshi Island," Jake murmured evenly when Zuko returned up the iron steps ten minutes later wearing chestplate straps. "That's independent Earth Kingdom stone. Not a colony harbor, not an occupied pier."
 
-"I know what it is."
+"I know what stands on their charts," Zuko answered crisply, cinching thick black belt leather round his waist.
 
-"The whole island will be watching the water. They'll have seen the ship before we're within a mile."
+"Island towns watch open ocean all day. Lookouts will spot our stack smoke four miles clear of their cove."
 
-"Good." Zuko pulled the jacket closed. "Let them see it."
+"Good." Zuko snapped his shoulder buckles shut without looking down. "Let them look."
 
-Jake said nothing. He was already running the shift in his head. Knife, seated at his belt where it always rode when they went ashore. Gloves already on. And the other thing, the thing he did before every landing now, the small cold arithmetic of it. Who would be there. What they would see. How much water he could carry without it looking like anything.
+Jake kept further objections behind clenched teeth, letting cold arithmetic run fast across his mind instead. Utility knife strapped tight inside his left boot cuff, dark deerskin gloves tugged dry to the elbow, wool tunic heavy enough to soak snowmelt without binding his ribs. Landing inside an island port meant open wells, rain troughs, harbor tide, and packed roof snow within three steps of every corner. It also meant an airbender boy carrying clear eyes overhead.
 
-They would be going ashore against people who lived on an island, in a town full of wells and troughs and barrels. There would be water everywhere. There would also be an Avatar, and an Avatar had eyes.
-
-"Zuko."
+"Zuko," Jake said low as they stood alone beside the upper mast cleat.
 
 "What?"
 
-"When we go ashore. If it goes badly, I'll be behind you and to the left. Keep me behind you."
+"Once we enter the street, I stay behind your left elbow. Don't swing wide across that lane unless you check my footing first."
 
-Zuko looked at him then, properly, and Jake watched him work out why. Something in his face closed. He was being reminded of a thing he preferred not to hold in his hands.
+Zuko studied his face sharply for two quiet beats, dark gold eye reading every unspoken constraint underneath those words. His unscarred cheek tightened briefly against cold wind, as though forced to hold an ugly calculation he disliked touching aloud.
 
-"Behind me and to the left," he said. "Fine."
-
-Iroh came up from below with a covered dish in his hands and looked at the two of them, and then at the deck, and then at the sky.
-
-"We are going to Kyoshi Island," he said. "A place with a temple, a great many statues of a very large woman, and no strategic value whatsoever."
-
-"He's there, Uncle."
-
-"Then he is there." Iroh lifted the lid off the dish and looked inside it with the expression of a man greeting an old friend. "Eat something before you go. Both of you. A man who goes into battle hungry comes out of it stupid."
+"Behind my left elbow," Zuko agreed flatly. "Stay close."
 
 ---
 
-That evening Iroh found Jake on the foredeck with the landing gear laid out in front of him.
+Late afternoon fog clung cold across the foredeck while deck hands hoisted heavy timber crates up from the lower hold, four armored komodo rhinos grating low protests that rattled iron deck seams underneath Jake's boots. Seated atop a coiled hawser beside the rail lantern, Jake worked steadily down a row of two dozen boarding knives laid across clean sailcloth, drawing gray whetstone evenly along nicked steel.
 
-The blades came first. Two dozen of them, and Jake had them on a cloth in a row, and he was going down the row with a whetstone and a rag and the particular patience of a man who would rather do this than think. Above him the deck crew were swaying the rhino crates up out of the hold, and the animals complained about it in long grinding bellows that made the whole ship sound like it was in pain.
+Iroh eased his bulk gently down onto a spare oak cask beside him, tucking chilled hands deep inside wide wool sleeves as mist thickened around mooring davits.
 
-"You are checking the knives," Iroh said.
+"You are honing blades," Iroh noted mildly.
 
-"Somebody has to."
+"Somebody has to check edges before landing," Jake answered without looking up from clean stone strokes.
 
-"Mm." Iroh lowered himself onto a coil of rope with the care of a man who had been at sea for three years and still expected the rope to be warmer than it was. "You know what Kyoshi Island is."
+"Mm." Iroh squinted toward dim gray headland shadows emerging faintly through harbor mist ahead. "Do you know what Kyoshi Island represents?"
 
-"An island."
+"A wooded rock off the western cape."
 
-"A very particular island." Iroh put his hands in his sleeves. "The Avatar Kyoshi was born there. Four hundred years ago, or near enough. She was a woman who did not care to be told what to do. When a warlord came to take her island, she separated the peninsula from the mainland with a single movement of the earth and left his army standing on a cliff over the sea."
+"A very stubborn rock," Iroh corrected softly. "The Avatar Kyoshi was born along that shore four centuries past. When a mainland warlord marched his legions across to claim her home, she carved the entire peninsula clear of the continent with one movement of earth, dropping his vanguard squarely into coastal tide."
 
-Jake turned the blade over and checked the edge against his thumbnail. "And that worked, so they have not been taken since."
+Jake tested sharp steel carefully against a gloved thumb, then laid the blade neat beside its twin. "Must have held. No banner ever stayed planted there."
 
-"They have not been taken since," Iroh agreed. "There are women on that island who train from girlhood in a discipline older than the Fire Nation. They wear green and paint their faces, and they fight with a fan, and they have a great deal of practice at being underestimated." He looked at Jake. "They will not meet us on the beach. They will let us into the town, and then they will be on the roofs."
+"None has," Iroh agreed calmly. "Young women across those hills still train from childhood inside a closed discipline four centuries old. They wear heavy green silk, paint white masks across their cheeks, fight with paired iron fans, and rely heavily on foreign soldiers underestimating them." Leaning half an inch closer over his knees, Iroh kept his low voice pitched carefully beneath rhino bellows. "They will not meet our landing skiffs along stony beaches. They will draw Prince Zuko straight inside silent houses, then drop off snowy roofs."
 
-"I know."
+"I expected roofs."
 
-"The boy will be there. And he will be looking at my nephew." Iroh paused. "You will be looking at the boy. That is the wrong way round."
+"The boy will be nearby, watching my nephew's fire," Iroh added, resting dark eyes steadily onto Jake's hands. "And you will be watching the sky to stay unseen by that boy. That makes three fights to balance at once."
 
-Jake set the blade down.
+Jake set the wet whetstone down sharply on canvas, steel gleaming cold between his knees.
 
-"If he sees you," Iroh said, "he will not understand what he is seeing, and that is worse than understanding. A boy who knows he has seen a waterbender in Fire Nation red will go looking for the answer. A boy who thinks a roof fell on him at a strange angle will not."
+"Should the airbender witness a Fire Nation boy bending seawater off harbor walls," Iroh continued gently, "he will remember that face and ask dangerous questions wherever he flies next. A boy who merely sees snow slip sideways in battle smoke thinks only of roofs collapsing or stray wind."
 
-"I'll keep it in the gutters. Low. Nothing above the knees."
+"I'll keep every whip below knee height," Jake promised steadily. "Snowbanks and street gutters. Never clear of the eaves."
 
-"Good." Iroh got up, with difficulty. "And Jake. The warriors are not the enemy. They are the thing standing between my nephew and the boy, and they will fight like people defending their own houses, because they are. Try not to kill any of them."
+"Good." Pushing himself upright off the barrel with a low groan through thick wool layers, Iroh paused beside the companionway ladder and looked down thoughtfully at Jake's bent head. "And Jake, those island warriors are not garrison troops. They guard their own sisters and timber homes. Keep blows non-lethal where you can."
 
-"I wasn't going to."
+"I never meant to kill any of them."
 
-"I know," Iroh said. "That is why I am telling you instead of telling him."
+"I know," Iroh said softly, stepping down toward warm engine air. "That is precisely why I am speaking to you instead of Prince Zuko."
 
-Two soldiers came past with the first of the rhino crates, and one of them was saying something to the other about the women on this island, and how they had heard the women on this island fought, and what he thought about that. Jake listened to it for about four words.
+Two young spear hands swung past gripping leather saddle cinches for the landing mounts, one laughing low and coarse to his companion about farm girls playing soldier with silk paper fans. Jake waited barely four words before cutting straight across their path with steel ringing faintly down canvas.
 
-"You'll want to stop talking," he said, without looking up.
+"Keep your voices down and watch the left eaves," Jake told them flatly without raising his pitch. "Think about silk fans while stepping onto stone, and one of those girls drops off a gable onto your collarbone before you draw breath."
 
-"Sir?"
-
-"You'll be on the left of the street with a spear in your hands and a woman in green coming off a roof at you, and you'll be thinking about what you said on the boat. Stop talking."
-
-The soldier looked at the whetstone, and at the row of blades, and then at the two of them and went quiet.
+Both young soldiers glanced between Jake's steady dark eyes, the tidy row of gleaming steel blades, and Iroh's receding footsteps, snapped their mouths shut immediately, and hurried back toward the rhino crates.
 
 ---
 
-The town came into view through gaps in the fog like something already abandoned.
+The village rose slowly out of coastal mist like an abandoned winter camp.
 
-Low wooden buildings roofed in old snow. Shuttered windows. No smoke rising from a single chimney. Jake kept pace at the flank of Zuko's armoured war rhino with his boots finding purchase on the packed dirt of the main street, his eyes moving window to window. Too quiet. He had learned to distrust quiet like this, as he had learned to distrust calm seas before a storm.
+Low timber houses slept beneath thick gray snowbanks with every street-level shutter latched tight and zero hearth smoke rising off shingle chimneys. Jake matched steady stride beside the armored flank of Zuko's massive rhino along rutted mud and packed slush, gloved hand lingering light near his knife belt while his eyes swept upper gable corners one roof at a time. Empty streets never meant safe ground; empty streets meant eyes waiting behind cracked wood.
 
-Behind them the landing boats were still coming in. Two dozen men, rhinos, the pennant snapping. Ahead of them the street ran straight to a square with a stone statue in it the size of a house, a woman in a long robe with a fan held open in one hand. Beyond the square the town opened onto grey water and the long pale line of the coast.
+Behind them up the shingle ramp came eight dismounted spearmen beside three trailing rhino riders, red pennants hanging limp inside wet fog as steam from the hidden ship drifted low past coastal pines. The narrow lane widened ahead toward a stone-paved town plaza dominated by a house-tall carved statue of a stern woman clutching twin painted fans upright against winter clouds. Beyond mossy stone walls, cold gray sea flattened outward toward jagged sea cliffs.
 
-The square was not empty. Jake saw them as the column came out of the fog. A hundred people at least, herded back against the temple steps. In front of them stood an old man in a green robe with his hands raised, and a girl in blue with her arm around a smaller child. Behind them, a boy in orange with an arrow on his head was being pulled backwards into the crowd by three sets of hands.
+Not one villager stood across wide empty cobblestones.
 
-"There!" Zuko shouted. "That's him!"
+Zuko hauled his heavy mount upright directly beneath Kyoshi's towering stone boots, armored tail lashing dirty slush sideways while breath fogged white out of nostrils. "Come out, Avatar!" Zuko's sharp voice cracked loudly off silent clapboard siding, rolling down vacant alleys without drawing a single bolted door open. "You can't hide from me forever! Search the houses!"
 
-The boy looked up. Even at this distance Jake saw his face change, the grin going out of it, and then the crowd closed around him and the old man stepped forward with his hands still raised and said something loud and formal and entirely useless.
+Three mounted riders spurred thick-hided rhinos forward down branching lanes while spearmen fanned toward shuttered porches.
 
-"Out of the way," Zuko said.
-
-The old man did not move. "This is a peaceful island. There are no soldiers here, no armies, no war. Whatever it is you have come for—"
-
-Zuko's fire went over his head, close enough to lift the hem of his robe, and the crowd broke backward with a sound like wind through a field. The old man stood his ground. Jake gave him that, privately, in the second before everything went wrong.
-
-"Come out, Avatar!" Zuko's voice rang flat and hard down the empty street, and the rhino's heavy footfalls were the only answer. "You can't hide from me forever."
-
-Jake's eyes were on the roofs.
-
-He had been watching them since the landing, and he had seen what the town had done with them. Snow piled in the eaves, and under the snow, on the third roof on the left, a line that was too straight. On the fifth, a shutter that was open two fingers when every other shutter in the town was closed.
+Jake's gaze stayed nailed firmly upward along snowy roof ridges. Behind three decades of mossy shingles along the western eaves, snow sat scraped flat from a wooden gutter edge in an unnaturally straight line. Two houses farther down, an upper attic louver hung cracked two fingers wide where every surrounding frame sat frozen shut.
 
 "Zuko."
 
@@ -228,264 +200,262 @@ He had been watching them since the landing, and he had seen what the town had d
 
 "Roofs."
 
-Zuko's hand came up. The column stopped.
+Zuko raised one armored fist instantly. Every soldier froze mid-step beneath fog-choked eaves, rhino hooves shifting heavy across slush while a loose wooden shutter creaked overhead, then stopped.
 
-For a moment nothing happened. The fog moved in the street. Somewhere a shutter creaked, and stopped, and then the roofs came alive.
+Green silk erupted straight down from gray eaves like windblown pine needles.
 
-They dropped in a wave. A dozen of them, more, green silk flaring like sudden leaves against the grey sky, and they struck the ground already moving. One landed square on a soldier's shoulders and rode him down into the snow, twisting a curved metal fan free from his grip before he had fully registered he had been hit. Another swept a second soldier's mount out from under him with a low kick that used the rhino's own momentum against it, and the animal went bellowing sideways into a fence post.
+A dozen painted warriors struck packed street mud already moving in tight spinning arcs, iron fans snapping open crisp as steel shears. One warrior dropped squarely across a spearman's neck before his shaft lifted, riding him sideways into snow while peeling his iron spear off numb leather fingers. Another whipped low across a rhino's forward knee using the beast's own heavy lunge to spin mount and rider both crashing loudly into split porch timber.
 
-Jake was off his rhino before the first fan opened.
+Jake vaulted clear of Zuko's saddle flank before the first metallic fan edge flashed through mist.
 
-He put his back to the rhino's flank and let the water come up out of the snowbank at his feet, a thin ribbon, low. Not high. Low and close to the ground, where the roofline could not see it, where a boy on a glider would have to be looking straight down at him through the smoke to make anything of it.
+Dropping low beside wet gutter slush with his shoulders screened beneath thick gray chimney smoke drifting down the lower yard, Jake drew chilled water off the snowbank in a tight waist-low ribbon. He kept every coil tucked well below eaves and sightlines so any boy swooping off high roofs saw only blurred street slush and winter steam.
 
-A warrior came at him fast, fan flashing toward his ribs. He let the water meet the strike edge-on rather than trying to stop it outright, the same principle as catching Zuko's fire. Redirect rather than resist. The fan's edge sliced through empty air where his water had been a moment before, and his whip caught her wrist on the follow-through. Not hard enough to break anything. Just enough to spoil her balance and send the fan spinning off into the snow.
+A slender painted warrior spun inside his guard immediately, razor-edged steel fan slicing toward his left ribs. Meeting steel edge-on rather than fighting straight power, Jake bent his water whip around her iron ribs to catch incoming force just as he deflected Zuko's blasts aboard ship. Redirect momentum sideways instead of crashing square. Her fan sliced through thin water mist where Jake's side had stood half a heartbeat prior. His whip snapped deftly around her wrist, checking strength well short of snapping bone and twisting balance just hard enough to wrench the painted fan spinning into dirty snow.
 
-She recovered faster than he expected. Already pivoting into a new stance before her weapon had finished falling, and Jake felt something close to respect flicker through the calculation in the back of his mind. She fought like water. Absorbed the strike, used the attacker's own weight to turn the fight, gave ground only when giving ground bought her something better.
+She recovered inside a single breath, dropping into low stance with her empty fist raised before steel stopped skidding across mud. Respect sparked brief behind Jake's careful eyes; those island girls moved almost like Flowing Guard adepts, absorbing strikes, riding an enemy's own weight backward, yielding inches solely to seize better angles.
 
-There was no time to wonder about it.
+No breath remained to marvel further.
 
-Zuko's rhino reared with a furious bellow, a warrior having vaulted onto its back to drag the prince sideways out of the saddle. Jake was already moving before Zuko hit the ground, water snapping out to intercept a second attacker closing on his flank. He did not try to hurt her. He swept her legs with a low arc of water pulled off the packed snow, spilled her onto her back, and had his attention swinging back to Zuko before she had finished falling.
+Zuko's war rhino reared upright with an ear-splitting bellow as a vaulting warrior hauled the prince sideways off thick saddle leather. Jake pivoted fast before Zuko's boots even struck wet cobblestones, snapping a crisp low lash of melted gutter snow neatly beneath a second charging warrior's ankle to spill her sprawling harmlessly across mud away from Zuko's exposed flank.
 
-Zuko pushed up from the ground, planted his palms flat, and spun. A burst of flame lashed out from his heels in a wide low sweep that scattered three warriors backward. Jake felt the heat roll past close enough to prickle his soaked sleeves, and used the half second of room it bought to widen his water into a loose shield between Zuko's back and the two warriors circling for an opening.
+Pushing himself upright off wet palms, Zuko planted hands flat in slush and spun fast, whipping bright crimson fire arcs radially off both boots in a furious low circle that drove three painted warriors scrambling backward behind wood troughs. Blistering heat swept sharply across Jake's chilled sleeves, carving two precious breaths of open space he seized instantly to fan his snowmelt out into a low, crouching barrier screening Zuko's unprotected spine from two flanking fighters probing for blind spots.
 
-They did not take the bait outright. One feinted toward Jake, testing, and he answered by drawing the water up into a thin curling wall rather than a strike. Patient. Unhurried. Exactly the kind of defence that told an opponent there was nothing easy to be found here.
+They circled carefully without diving blind onto cold water. When the spear-carrying warrior whose fan Jake had stripped charged fast behind a partner's feint, Jake twisted his narrow water whip snugly round her ash shaft to drag thrust wide. He stepped straight inside the steel spearpoint and drove one solid armored shoulder squarely through her ribs, spilling her rolling hard across damp snow until she came up swiftly onto one knee with a short belt knife bared ready.
 
-The woman with the lost fan had come back with a spear.
+"Hold," Jake clipped steadily, keeping cold street slush raised in a tight defensive coil round his cuffs.
 
-She came in behind the feint, fast, and Jake turned the spear's point with a twist of water and put his shoulder into her chest, and she went down hard and rolled and came up with a knife.
+She stayed crouched without lunging. Not from fear: her dark eyes flashed sharply behind painted white cheeks as her chin tilted slowly sideways, studying his lowered water and unburnt sleeve like an artisan inspecting crooked joinery.
 
-"Stop," Jake said.
+"You could have broken my arm," she said flatly, pitch tight beneath adrenaline. "Twice."
 
-She stopped. Not because he had said it. Because she had seen something, and she was looking at him now with her head tilted, the way a person looks at a sum that has come out wrong.
+Jake kept both gloved palms steady without answering.
 
-"You could have broken my arm," she said. "Twice."
+"You aren't like their regular troops," she murmured, gaze darting sharply from Zuko's swirling soot back onto Jake's careful low defense. "Same red leather, same ugly steel ships, wrong fight altogether."
 
-Jake said nothing.
+"Get your villagers inside behind heavy doors," Jake told her evenly, keeping his body between her knife and Zuko's shouting throat. "Take your wounded off the street before more houses catch."
 
-"You're not one of them." She said it slowly, working it out as she said it. "You move like them. You dress like them. But you don't fight like them."
+She held his steady dark gaze one sharp beat longer, weighing soldiers, burning eaves, and this quiet gloved stranger holding ice water without once swinging for bone. Then she snapped two terse syllables across open smoke in an urgent island call. Painted fighters along the western lane shifted rapidly backward toward shrine stairs, hauling fallen sisters beneath thick porch lintels while villagers ducked swiftly behind stout timber shutters.
 
-"Get your people off the street," Jake said.
+She retreated dead last, blade raised warily with painted eyes pinned squarely onto Jake until smoke curled thick between them and swallowed her bright green sleeves down a side alley.
 
-The woman looked at him a moment longer. Then she shouted something in a language Jake did not know. The warriors on the left side of the street began falling back toward the temple steps, dragging their wounded and covering the villagers as they ran between the houses with their arms over their heads.
+Instantly Jake lowered every drop of gathered street water flat back down into gutter ruts and snowbanks, erasing every lifted coil from sight before smoke cleared overhead.
 
-She was the last to go. She backed away with the knife still up and her eyes on Jake the whole way, and then she turned and ran.
+Right as a fresh cry rang sharply across the square:
 
-Jake put the water down. Back into the snow, into the gutter, into the trough by the fence, all of it, until there was nothing in the street that had not been there before.
+"Nice try, Avatar! But these little girls can't save you!"
 
-"Nice try!"
-
-Zuko's voice cracked across the square. Jake turned and saw what he was shouting at. A small figure, slight, quick-footed, darting along the edge of the fight with none of the warriors' armour and all of their momentum. The boy ducked a blast that scorched the wall behind him and came up grinning.
-
-"But these little girls can't save you!"
+Smoke drifted momentarily aside along the central plaza. Jake caught sight of Zuko standing ragged and soot-smudged beside an overturned trough while two Fire Nation guards fought back-to-back near a burning porch awning. Beside the trough, a curious, taller warrior dressed in clumsy green silk and smeared white facepaint threw herself wildly in front of the fan-leader. Her desperate fan sweep knocked Zuko's fierce firebolt off course, though it carried none of the other girls' crisp balance. An instant later another roof warrior slammed Zuko off his rhino, only for Zuko to spin low across mud and send both painted fighters and that broad-shouldered stranger tumbling backward against wooden steps.
 
 "Hey! Over here!"
 
-The boy's voice cracked with the particular pitch of someone barely into his teens, and he waved both arms to draw Zuko's fire directly onto himself. Deliberately. Like he had done this before and knew exactly how much room he needed.
+A slight boy carrying a carved wooden staff stepped boldly into open street space past Kyoshi's statue, both bare palms raised calmly while pale blue arrows showed faintly past windblown collar folds. Every sharp shout sounded barely twelve: young, desperate, yet standing deliberately in plain view to draw every flame away from village porches.
 
-Zuko did not hesitate. Fireballs arced across the narrow street in a rapid burn of orange. The boy spun, staff whirling in both hands, and answered not with fire or metal but with a gust of air that hit Zuko square in the chest. It sent him stumbling backward into the side of a house hard enough to rattle the shingles loose.
+"Finally!" Zuko surged instantly forward, hammering twin crisp fireballs straight down the muddy lane.
 
-Jake's whole body wanted to break toward him. He held his ground instead, throwing a wall of snowmelt between the two remaining warriors and Zuko's exposed position, buying the half second Zuko needed to push himself upright. Smoke was climbing off the rooftop nearest the fight now, catching from a stray blast, curling black against the pale sky. Somewhere behind him the boy's staff snapped outward into a wide-winged glider, catching wind that should not have existed a moment before, and lifted him clear of the street.
+The airbender ducked neatly underneath the first red bolt and whipped his wooden staff overhead in a dizzying pinwheel that sheared the second fireball apart into sparks. He vaulted upward onto invisible wind right toward Zuko's chest. Zuko lashed one fierce boot squarely across polished wood, sending the staff clattering wildly into slush. Dropping lightly between two fallen metal fans left behind by retreating warriors, the boy pulled one fan upright on sudden wind and spun twice to gather roaring spiral force. He unleashed a gale so fierce it hurled Zuko straight backward through a cottage clapboard wall in a shattering rain of cedar splinters.
 
-The two warriors did not press. They fell back toward the temple steps, and Jake let the water fall rather than chase them, every instinct pulling him toward Zuko instead.
+Jake's knees coiled instantly to sprint into splintered wood, yet two painted warriors still lingered along adjacent side steps guarding retreating villagers. Throwing up one fast waist-low ridge of gutter melt between the lane corner and the wrecked porch frame, Jake checked their flank advance while his boots cleared porch steps in three strides. He dared not bend higher while smoke still thinned beneath open sky, where the airbender snatched his fallen wooden staff, snapped bright orange glider wings wide overhead, and swept upward off mud.
 
-He reached him just as Zuko shoved off the splintered doorframe, one hand braced against the wall, soot streaked down his jaw and his breath coming hard through his teeth. Not hurt badly. Jake's eyes swept him fast. No blood. No obvious break. Just winded, and furious about it.
+From forty feet above burning shingles, the boy banked tightly over blazing rooftops. His face wrenched pale as he stared down at curling black flames licking up toward Kyoshi's wooden statue skirts. Turning sharply, he angled toward a two-story timber house near the plaza edge where a blue-clad girl leaned frantically out from an upper landing shutter herding terrified little girls down inside.
 
-"He's getting away." Zuko was already moving, shoving past Jake toward the open street where smoke rolled thick off two burning rooftops. Overhead the boy on his glider had banked hard toward the coastline, and beyond him, low over the rooftops, a huge white shape was descending out of the fog. Six-legged. Broad-skulled. Its arrow-marked passenger was already dropping onto its back as it swept past.
+Jake ducked underneath the shattered cottage beam to haul Zuko upright off smashed floorboards. Soot streaked sharply down Zuko's good cheek, breaths rasping tight through clenched teeth, though swift hands checked collar rivets and ribs free of deep cuts or snapped bone. He carried only bruised ribs, split woodwork, and blind towering fury.
 
-"Back to the ship!" Zuko's voice came raw with fury and effort both. "Don't lose sight of them!"
+"He's getting away!" Zuko shoved roughly clear of Jake's grip toward the open doorway where black smoke rolled thick off two caught roof beams. High past drifting ash, the airbender folded his orange wings beside a broad horned shadow swooping straight downward out of mist. Six heavy white legs glided low above village roofs while the boy dropped deftly across thick saddle blankets.
 
-Jake ran with him.
+"Back to the ship!" Zuko roared rawly down the smoky lane, waving scattered spearmen clear of blazing eaves. "Don't lose sight of them!"
 
-They came out of the street onto the headland above the water, and the wind hit them there, and the whole grey sea opened up below. The boy leapt. Jake caught the motion from the corner of his eye, a small figure dropping clean off the flying creature's back and into the water, no hesitation in it at all.
+Jake ran right beside Zuko's heels down muddy waterfront timber toward the gray shingle headland.
 
-The sea did not swallow him. It broke.
+Cold sea wind slammed straight into their faces as the coastal cliff cleared above choppy gray water. High overhead, the winged beast banked sharply across wet mist, and then the airbender boy dropped straight off its saddle edge toward freezing ocean surf without once glancing backward.
 
-Something vast surged up beneath the waves in a boil of white foam. A shape too large to be any fish Jake had ever hauled aboard a ship or heard sailors lie about. The boy rose with it, standing impossibly balanced on a broad scaled head the size of a longboat, as the creature tore itself fully out of the water.
+The sea didn't swallow him. It shattered open.
 
-Jake had one heartbeat to understand what he was looking at.
+Water boiled white thirty yards offshore as a vast ribbed back tore upward through crushing surf. It matched no fish Jake had ever seen hauled aboard or spun inside sailor yarns, thicker than three longboat keels spliced together with pale green eyes gleaming beneath sweeping whiskers. Standing impossibly upright atop that armored skull, the orange-clad boy gripped thick barbels tight with both fists as the sea serpent opened its jaws straight toward shore.
 
-Then the thing opened its jaws, and the ocean came with it.
+Jake had half a heartbeat to grasp what rose above cold waves.
 
-The wave hit the burning street like a collapsing wall. A churning sheet of freezing seawater rolling up from the shore and over the buildings in one continuous crash, snuffing flame and rooftop alike. Jake saw it coming and did the only thing there was time for. He got his shoulder into Zuko's chest and took them both down behind the low stone lip of the headland, hard, and put his back to the wall and his arms over his head.
+Then the ocean lifted off the bay and dropped squarely atop the town.
 
-The water went over them.
+A howling sheet of freezing seawater slammed inward over cliffs, stone piers, and burning cedar rooftops in one deafening thunderclap, snuffing bright house fires to black soot instantly beneath crushing black flood. Seeing that white wall curl forty feet overhead, Jake wasted zero breaths reaching for waterbending. A boy standing atop a sea monster held clear aerial sight over the entire headland, and parting even two inches of surf openly meant handing the Avatar a name he must never earn. Instead Jake flung one solid shoulder straight across Zuko's chestplate and drove both of them down beneath the low stone seawall lip. Cold rock bit Jake's spine as he wrapped gloved arms squarely round Zuko's helmetless skull.
 
-Not like being hit: like being unmade for a moment. Cold so total that it took the air out of his chest and the strength out of his hands. Then it was past and running on up the street, and he was on his hands and knees on wet stone coughing up seawater, his ears ringing, his eyes stinging, the whole world full of the sound of water going where water goes.
+Freezing ocean crushed right over their shoulders.
 
-Beside him Zuko came up out of the same drenching with his hair plastered flat across his scar, sputtering, coughing.
+It felt less like impact than being peeled clear out of breath and bone at once. Brutal polar cold rammed air straight out of Jake's chest while green saltwater thundered across back armor and rattled teeth together inside dark rushing roar. Seconds later the main flood surged loudly inland up village streets. Jake surfaced coughing bitter seawater onto streaming stone on hands and knees, ears ringing dead hollow while stinging eyes fought back blinding salt.
 
-"The fires," he said, when he could. "It's putting out the fires."
+Beside him, Zuko dragged himself upright sputtering fiercely against wet collar wool, dripping hair plastered darkly flat across his scarred left brow.
 
-Jake looked. It was true. The burning rooftops were smoking ruins now, drenched and dead, and the wave was already draining back off the street in brown rivers, carrying ash and roof tiles and somebody's washing with it. Up on the eel's head, small and far away against the grey, the boy had turned in a full circle to look at what he had done. Not at Jake. Not at the ship. At the village.
+"The fires," Zuko gasped out between ragged coughs, staring uphill through dripping brown runoff. "He put out the fires."
 
-Then the eel sank, and the boy was gone. The great white bison came down out of the fog and took him, and the whole shape of them banked once over the smoking sodden ruin of the street before rising higher and turning out to sea.
+Looking backward up streaming cobbles, Jake saw smoking ruined timbers soaked utterly dead, gutters roaring brown with roof tiles, ash, and floating laundry rushing seaward back beneath their boots. High offshore atop the giant serpent's crest, the small boy turned once carefully across steaming ruins. He wasn't glaring down toward bruised soldiers, simply checking that village houses still stood unburned. Then the huge white head plunged back beneath gray swells, tossing its tiny rider effortlessly upward into sweeping saddle claws waiting inside fog.
 
-Jake stayed where he was on his hands and knees. His gloves were full of water. His hands were shaking, and it was not from the cold.
+The massive flying creature circled once silent above drenched shingle roofs, climbed steeply through salt mist, and vanished steadily northward out to sea.
 
-"That was the sea," Zuko said. He was staring after the bison, and his voice had gone flat and strange. "He called the sea."
+Jake stayed planted on stinging palms and wet stone knees while icy brine sloshed slowly inside thick deerskin gauntlets. His scarred hands shook violently beneath leather, and cold wind accounted for less than half that tremor.
+
+"That was the sea," Zuko murmured hoarsely, eyes fixed blankly onto empty northern cloud banks where gray air swallowed winged shadow. "He called the sea."
 
 "Yes."
 
 "How does a boy call the sea?"
 
-Jake got his feet under him. "I don't know," he said, and it was true, and it was the worst thing he had said all day.
+Pushing stiff boots slowly underneath sore ribs, Jake stood dripping gray foam along cold stone walls. "I don't know," he answered steadily, tasting iron salt behind teeth. Those honest words felt heavier than any lie they had carried down three winters at sea.
 
 ---
 
-The cabin door shut against the wind, and the noise of the engines swallowed what was left of the town behind them. Shouting. Wet ash. Soldiers wringing out their sleeves on the open deck.
+Heavy steel hatch dogs clanked shut behind them against cutting ocean spray as boiler rumble swallowed shouting, dripping wool, and wet deck swabs behind thick iron walls.
 
-Iroh was waiting at the top of the ladder well with two dry blankets over his arm. His expression was one Jake had learned to read: *I have been standing here for some time and I have decided not to say anything yet.*
+General Iroh stood calmly waiting inside the warm aft ladder landing holding two dry gray wool blankets draped squarely across one thick forearm. He wore the exact mildly expectant face Jake recognized immediately: *I have waited calmly at this corner while ten men whispered past, and I am allowing everyone else to speak first.*
 
-"The men are asking questions," Iroh said, handing Jake a blanket.
+"The landing party is asking careful questions," Iroh observed mildly, shaking one thick blanket briskly clear across Jake's shivering shoulders.
 
-"What kind?"
+"What sort?" Jake rubbed cold numbness carefully toward bruised knuckles beneath wool folds.
 
-"The kind with a woman in green at the bottom of them." Iroh watched the deck crew haul a rhino crate past. "One of them says a warrior had him dead to rights and then stopped. Another says the snow came up off the street by itself. Nobody has said the word. They are being very careful not to say the word."
+"The sort ending at a green-painted island warrior." Watching drenched spearmen haul muddy rhino harnesses down the main gangway, Iroh lowered his warm voice under steady boiler hum. "One deck hand claims a warrior caught his comrade dead under a knife blade, only to drop arms entirely. Another vows snow lifted off street ruts without boots touching drifts. Nobody has named waterbending aloud yet, since men remain sensibly cautious round sharp truths. That makes the finest armor aboard, yet the thinnest glass. It holds only while nobody feels pushed into asking twice."
 
-"Nobody saw anything."
+"Zuko knows what happened."
 
-"Nobody saw anything," Iroh agreed, "and two dozen men are now certain of it. That is the best kind of secret, and the most fragile. It will hold as long as nobody decides to be clever."
+"My nephew carries fresher bruises tonight," Iroh noted calmly, pausing one quiet step down the lower stairwell before glancing back toward pale red lantern glow. "He set fire across an entire village today, and watched the village extinguish its own flames. Leave him quiet hours to chew through that bitter salt alone."
 
-"The prince knows."
+Disappearing down iron treads toward warm tea stores, Iroh left Jake standing inside damp gangway shadows wrapping wool snugly round dripping ribs. Crewmen filed past carrying buckets, oil rags, and mops without once meeting his dark stare or dropping a single awkward word.
 
-"The prince has other things to be angry about." Iroh turned to go, then stopped. "He burned a town today and the town put its own fires out. He will be thinking about that for a while. Let him."
+Inside their shared cabin aft, Zuko peeled sodden scarlet tunic wool over his head in dead silence and let wet cloth slap heavily straight onto metal flooring. Jake stripped soaked wool sleeves, heavy salt-filled boots, and clammy under-linen alongside him until both boys stood shivering inside dark widening pools smelling sharply of smoked cedar, wet ash, and sea brine.
 
-He went below. Jake stood on the wet deck with the blanket over his shoulders and the wind coming off the sea, and the men went past him with buckets and mops and did not ask him anything at all.
+Kneeling beside Zuko's soaked bundle first, Jake laid bare ungloved wrists near cold cloth and drew gray seawater out. He pulled icy dampness thread by patient thread across stiff seams rather than crushing cloth flat, herding stray brine into one clear sphere before guiding water silently down brass deck grates beneath the bunk.
 
-Zuko peeled his soaked jacket off in silence and let it drop in a heavy slap against the floorboards. Jake did the same with his own. Boots first, then the sodden weight of his shirt, until they stood in the small cabin in a spreading dark stain of seawater and the smell of wet wool and salt.
+Routine shipboard work. Easy technical control he had practiced across three years between island coasts.
 
-Jake knelt by the pile of Zuko's clothes and drew the water out of them. Slow, careful, pulling the cold seawater free thread by thread rather than wringing it loose all at once, until it gathered into a clean obedient sheet hovering above the fabric, and he could guide it down into the drainage grate in the floor.
+His ruined fingers refused to hold steady through ten breaths.
 
-It was easy work, technically. It should have been easy work.
+Registering that fine tremor distantly as an operational flaw needing workarounds rather than pity, Jake fought tight scarred seams across both palms until faint water threads snapped and wavered above wet linen. Blocking spear alleys, deflecting painted warriors behind Zuko's shoulder, and eating full freezing Unagi impact down his spine had emptied every spare reserve his hands carried. Damaged nerves refused polite silence tonight.
 
-His hands would not stop shaking.
+Still kneeling inside chilly bilge puddles, Jake shifted stubbornly toward his own wet tunic next, pulling gray brine sluggishly outward as scarred hands blurred and shook behind pale mist.
 
-He noticed it distantly, as he noticed most things about himself. A fact to be managed rather than a problem to dwell on. The tremor ran fine and constant through his fingers, worse where the scarring pulled tight across his palms. He had spent everything he had holding that wall of snowmelt on the street, and his body had not finished telling him about it yet.
+Zuko stood watching evenly across narrow steel quarters. Jake felt heavy gold scrutiny long before raising his chin.
 
-He moved on to his own shirt anyway, kneeling in the puddle, drawing the water free in the same slow pulls, watching his own hands blur and steady and blur again.
+Zuko offered no spoken comfort or gentle lecture about straining burned palms. Crossing three crisp steps over wet decking, he closed warm fingers firmly round soaked cloth half-tucked beneath Jake's trembling wrist and yanked the tunic straight out of Jake's grip.
 
-Zuko was watching him. Jake felt it before he looked up.
+Suspended seawater collapsed instantly onto deck plates in one cold wet slap. Jake blinked startled upward off his heels, caught less off-guard by lost work than by sudden interruption.
 
-He did not say anything about it. He reached down, closed his hand around the half-damp tunic Jake was still working on, and pulled it straight out of his grip.
-
-The water Jake had been holding lost its shape all at once and slapped back into the fabric, and Jake blinked up at him, more surprised by the interruption than by the loss of the work.
-
-"That's enough." Zuko's voice was gruff, almost annoyed, as though Jake had been the one being unreasonable. He did not look at him while he said it. He turned his back instead, shaking the damp tunic out with more force than it needed before pulling it over his head. "You're shaking."
+"That's enough," Zuko snapped gruffly, voice ragged as though Jake had provoked him deliberately across crowded spars. Turning stiffly away without waiting for eye contact, Zuko snapped the half-damp linen sharply open once against bulkhead air before yanking chilly cloth straight down over damp black hair. "You're shaking."
 
 "I'm cold."
 
-"You're shaking," Zuko said again, and that was the end of it, apparently, because he did not turn around and did not ask again.
+"You're shaking," Zuko repeated flatly, pulling dry sleep trousers firmly up round lean hips with rigid back kept squarely turned across cabin space. That ended every spoken debate right there.
 
-Jake let his hands fall still in his lap. The tremor did not stop, not right away, but the fight had gone out of it now that nothing was demanding it work. He watched Zuko's back, the rigid set of the shoulders under the still-damp fabric, and understood well enough not to argue, or thank him, or make more of it than Zuko was willing to let it be.
+Jake let scarred thumbs drop still inside his lap across damp breeches. Trembling didn't clear miraculously within one breath, yet sharp grinding tension ebbed slowly back down numb wrists once nothing forced stiff tendons straight anymore. Studying the tight, stubborn curve across Zuko's bruised shoulder blades underneath clammy cotton, Jake understood well enough never to argue, offer soft gratitude, or name kindness louder than Zuko could stand hearing tonight.
 
-"The woman," Zuko said, after a while. "The one with the fan. She had you."
+"The fan leader," Zuko murmured after quiet watch bells tapped twice down aft corridors. "In the street. She caught you open."
 
-"She had a spear."
+"She carried a dagger after losing her fan."
 
-"She had you, and she stopped." Zuko turned around at last. "Why did she stop?"
+"She caught your guard, then stepped clear." Zuko finally turned round beside the sea chest, dark hair drying damply back off pale scarred cheekbones. "Why did she stop?"
 
-Jake looked at the water still draining into the grate. "She thought I fought strangely."
+Jake stared downward toward lingering brackish puddles seeping down brass floor slats. "She noticed how I moved."
 
-"Strangely."
+"Oddly."
 
-"She said I didn't fight like a Fire Nation soldier."
+"She told me I didn't fight like Fire Nation soldiers."
 
-The cabin was quiet. Zuko's face did nothing for a moment, and then it did something, and Jake could not read it, and he did not like not being able to read it.
+Dead quiet settled closely back between four painted steel walls while low propeller shafts throbbed evenly overhead. Across pale red lamp haze, Zuko's mouth flattened briefly into a hard, unreadable line Jake struggled to measure: tighter than ordinary annoyance, too quiet for blame.
 
-"How many people saw you today?"
+"How many eyes caught your water?" Zuko asked evenly.
 
-"Nobody saw me." Jake met his eyes. "It was low, it was in the snow, and there was smoke over the whole street. The boy was on the roofs or on the eel. He never had an angle at me."
+"Nobody clear," Jake met his single gold eye steadily from deck planks. "Every sweep ran knee-high through slush behind smoke curtains. The airbender stayed either aloft on roof beams, gliding past chimneys, or fighting out on bay waves. He never held an angle down my lane."
 
-"He had an angle at half the town."
+"He held clear views across half that plaza."
 
-"He wasn't looking at the town," Jake said. "He was putting out the fires."
+"He wasn't hunting soldiers in back alleys," Jake replied softly. "He was saving burning roofs."
 
-Zuko was silent for a moment. Then he made a sound that was almost a laugh and had nothing in it.
+Zuko stayed utterly silent across five steady beats of pounding engine pistons. Then a harsh, dry sound escaped his throat: closer to tired mockery than real amusement.
 
-"He put out the fires," he said. "I burned a village to get him, and he put out the fires."
+"He put out the fires," Zuko echoed flatly, staring through narrow porthole salt crust onto black coastal ocean gliding past. "I burned down an island village to flush him out, and he rode a sea beast just to put out my fires."
 
-Jake did not answer. There was nothing to say that would not be a knife or a lie.
+Jake kept both bruised hands folded still inside his lap without answering. Every honest reply lived either as a sharp blade or a cheap comfort, and Zuko needed neither right now.
 
-Zuko turned away and pulled the blanket off the foot of his bunk and threw it at him, without ceremony, without looking, and it hit Jake in the chest and he caught it.
+Turning briskly sideways, Zuko yanked a rough wool blanket straight off his narrow mattress foot and tossed it across cabin space without ceremony or glance. It struck Jake squarely across wet shoulders before scarred palms caught rough folds automatically.
 
-"Sleep," Zuko said. "We'll be scraping ash off the deck until morning, and I want you doing it with both hands working."
+"Sleep," Zuko ordered brusquely, sliding underneath his own thin quilt toward cold steel ribs. "Crew scrapes charred soot off forecastle armor before sunrise watch, and I want both your hands working properly without stiff cramps."
 
-Jake got up. The blanket smelled of the ship, which was a smell made mostly of coal and salt and other people's washing. He stood there in the middle of the cabin with it in his arms, his feet aching, the taste of the sea still in his mouth.
+Standing stiffly off chilled iron plating, Jake tucked the rough blanket close around his shoulders. Heavy wool smelled sharply of coal dust, damp brine, and the crew's lye soap while bruised arches throbbed above dark metal.
 
 "Zuko."
 
 "Go to sleep, Jake."
 
-He went. The alcove was cold and narrow and his, and he lay down on the mat with the blanket over him and listened to the engines push the ship north, away from an island that had seen two kinds of water in one afternoon.
+Stepping silently out toward his narrow bow supply closet, Jake pulled the thin canvas privacy screen shut behind him and dropped sideways onto coiled hemp mats beneath wool folds. He listened as heavy steam engines drove the patched patrol hull steadily northward, leaving behind an island scarred by two incompatible kinds of water before dusk.
 
-Somewhere above him Zuko put the light out. The dark came down, and with it the sound of the man in the other room not sleeping, moving once, and then going still.
+One bulkhead away through thin riveted steel, Zuko clicked his brass cabin lamp shut, dropping dark quarters into deeper ocean silence punctuated twice by restless shifting blankets before heavy stillness returned.
 
-Jake lay with his hands folded on his chest, feeling them shake, and did not sleep for a long time.
+Jake lay flat with bruised hands pressed warmly underneath chin wool, counting trembling finger joints patiently down dark hours until exhaustion finally took him under.
 
 ---
 
 *Kyoshi Island, the same evening.*
 
-The fires were out, and the town smelled like a wet ashtray.
+Every shingle fire had drowned out completely beneath crushing harbor brine, leaving wet wood, scorched cedar, and spilled ash hanging sour across cold evening wind.
 
-Katara stood in the middle of the square with her arms wrapped around a bucket and watched the last of the steam come off the roof beams. The great eel had gone back down into the deep water, and the sea beyond the headland was going grey and flat the way it did at the end of a day, as if nothing at all had happened in it.
+Katara stood motionless near the cracked central fountain stone gripping a wooden water bucket tight against chilled parka fur, watching thin evening steam drift faintly off black roof beams toward clearing coastal stars. Far past jagged headland cliffs, the great sea serpent had sunk silently back down deep cold currents. Dark open ocean slid smooth and innocent along wet pebble beaches as though fire and flood had never crossed that bay.
 
-Nothing had happened in it, from the sea's point of view. That was the thing she could not stop turning over.
+Nothing stayed scarred across salt water once tides rolled flat; that plain unfair fact kept turning stubbornly behind her eyes while smoke stung wet cheeks.
 
-Suki came across the square with her fan in her belt and her face paint smeared down one cheek. She was sixteen, maybe, and she had spent the afternoon putting her own people back on their feet, and she looked like she had been awake for a week.
+Suki strode briskly across soaked plaza cobbles with closed painted fans tucked snugly inside soaked belt sashes and thick white face paint streaked gray across one bruised jaw. Barely sixteen, having spent two exhausting hours rallying crying village children and organizing shingle repair crews, she walked upright though heavy exhaustion lined every quick stride.
 
-"Your brother fights like a boy who has never been hit," she said.
+"Your brother fights like a boy who never earned a real bruise before leaving shore," Suki commented dryly. She dropped calmly down beside stone fountain steps to wring icy bay brine out of green silk cuffs.
 
-"He's had a very sheltered life."
+"Sokka kept himself busy hunting seal skins back home," Katara offered mildly with half a tired smile.
 
-"He'll learn." Suki looked at the ruined roofs and the black water still running out of the gutters. "They came for the monk. That's all. They burned the town for one boy."
+"He'll catch up fast enough once he stops arguing with girls holding iron." Glancing sideways up charred roof ridges and black muddy ruts rushing steadily down coastal drains, Suki's dark mouth hardened evenly. "They steamed here strictly after the monk. Four riders burned half an island street chasing one boy."
 
-"They do that," Katara said.
+"That's how Fire Navy patrols hunt."
 
-"Yes." Suki's mouth was flat. "I've heard."
+"Yes." Suki dipped dirty gloved fingers into Katara's clean bucket water to rinse gray ash clear of her brow. "Story reached our harbor weeks back. Never liked tasting smoke off my own rooftops, though."
 
-Across the square, Aang was helping Oyaji lift a fallen shutter back into place, apologizing to everybody within reach. He had apologized to the fishwife, to the children, to a goat. He had apologized to the statue of Kyoshi, which had survived the whole thing without a scratch, and now he was apologizing to a door.
+Across muddy flagstones beside the wooden shrine porch, Aang crouched earnestly helping old Mayor Oyaji wedge a warped clapboard shutter back onto bent iron hinges, apologizing anxiously to half the neighborhood at once. He had apologized loudly to the fishmonger's wife, four crying children, an upset snow goat, and Kyoshi's towering stone boots, which stood utterly unbothered amidst wet ash. Judging by his earnest expression, shattered roof gutters came next.
 
-Sokka came out of the dojo with his hair wet and a green uniform folded over his arm and a bruise coming up along his jaw. He was trying very hard to look like a man who had not been thrown on his back four times in an afternoon by a girl.
+Sokka emerged slowly down wooden dojo steps wearing fresh wet hair, an unused green silk tunic draped stubbornly across one forearm, and a dark purple bruise blossoming nicely beside his left jaw. He worked remarkably hard at carrying the dignified posture of a southern warrior who hadn't spent half that afternoon flipped flat onto his spine by island girls.
 
-"Don't," he said, before she could open her mouth.
+"Don't say it," Sokka warned immediately, spotting Katara's glance ten paces off before she lifted her chin.
 
-"I wasn't going to say anything."
+"I wasn't speaking."
 
-"You were going to say it with your face."
+"Your face was winding up to speak loudly."
 
-She was, a little.
+Truth sat fairly enough inside that complaint, though Katara swallowed her grin down inside wet wool fur as twelve painted Kyoshi Warriors filed together beside the wooden shrine steps.
 
-The warriors were gathering by the temple steps. There were eleven of them, and they moved like people who had grown up moving together, and Katara watched them and felt the old pull under her ribs, the one that came whenever she saw other women who could fight.
+Every young woman moved in tight, practiced unison, sisters who had trained side by side across cold winter courtyards since childhood. Watching them stirred that familiar restless tug deep underneath Katara's ribs whenever she met strong women guarding their own ground without waiting behind men's spears.
 
-They were not benders. It did not matter.
+They weren't benders, yet none looked helpless beside steel armor.
 
-She had watched one of them fight a firebender in the street. That was the thing she kept coming back to. There had been a soldier in a plain coat, in the middle of the smoke, and the snow had come up off the ground around him and turned in the air. She had seen it from the roof of the shrine, for the length of a breath, before the smoke closed again. Water, moving in a line, low and quick and tight, with a shape to it. Not the sea. Not the eel. The eel had come later, and the eel had not moved like that.
+Then Katara's quiet stare drifted straight back down muddy street cobbles toward the blackened shingle corner beside the empty lane.
 
-She had told herself it was the wave. It had been a confusing afternoon.
+During the worst smoke, right before Aang swooped low past burning beams, she had stood braced along the upper shelter porch shoving little Koko safely inside heavy oak doors. One sudden gale tore gray soot open down the western alley. She watched a slight Fire Nation soldier dressed in plain wool beside Zuko's charred corner pull thick white slush straight off a roadside gutter in one unmistakable curved whip. The water snapped a painted warrior's iron spear wide before rolling snow settled back down ruts.
 
-"Suki," she said. "The one in the street. The one who wasn't burning anything."
+Water raised on purpose. Tight, disciplined, defensive arcs bent off muddy snow: neither giant sea waves nor wild Unagi floodwater. The serpent hadn't cleared ocean breakers until minutes later, and no wild eel coiled tight ribbons round wooden spear shafts behind alley smoke.
 
-Suki's face did something complicated.
+For two shivering hours organizing bandages, she had ordered herself firmly to blame blowing spray, optical mist, and panic: an exhausting afternoon twisting strange shapes inside blinding ash.
 
-"There was a lot of smoke," Suki said. "And a lot of water."
+"Suki," Katara said low, turning both cold palms thoughtfully along the wet timber bucket rim. "That soldier near the burnt lane corner. The slim one wearing plain wool without heavy armor plates, the one who never lit fire."
 
-"That's not an answer."
+Suki's scrubbing fingers froze mid-rinse inside icy water. Across smeared white cheek paint, guarded dark calculation flickered brief and unmistakable before dropping behind steady composure.
 
-"No," Suki agreed. "It isn't."
+"Smoke lay thick enough down that lane to blind owls," Suki answered carefully, wringing green cuffs dry with deliberate precision. "And ocean waves spilled water clear past half our porches before dusk."
 
-They looked at each other for a moment. Then Suki picked up her fan and went to help with the wounded, and Katara stood in the wet square with the bucket in her arms and the smell of ash in her nose.
+"That doesn't answer what I asked."
 
-The Avatar had been right there. He had been on the roofs, then on the bison, then on the eel, and he had seen the Fire Nation soldiers and the fire and the wave, and he had not said a word about water moving in a street.
+"No," Suki agreed steadily, rising onto wet boots with both closed fans tucked tightly underneath belt cord. "It doesn't."
 
-Maybe there had been nothing to see.
+They held level gazes across cooling embers for two steady heartbeats while wind shifted damp hair across Katara's throat. Then Suki inclined her painted head briefly toward bruised village girls carrying heavy pine planks behind the shrine. Left alone beside cold stone fountains, Katara breathed sharp smoke while gray sea turned empty behind jagged rocks.
 
-She wanted very much for there to have been nothing to see. That was the truth of it, and she did not like the truth of it. A waterbender who fought for the Fire Nation was not a thing she had ever had to imagine, and now that she had imagined it she could not put it down, and the not-putting-it-down felt disloyal to something she could not name.
+Aang had been right above those eaves: flying past smoking gables, soaring atop giant horn-furred beasts, riding furious serpent tides past breaking surf. He had watched Fire Navy boots trample village snow without breathing once about water moving inside Fire Nation ranks.
 
-"Katara!" Aang called. "The door's fixed!"
+Maybe tired eyes truly had forged tricks out of blinding smoke and windblown ocean slush.
 
-It wasn't. It was leaning at an angle that would let the wind straight through, and Oyaji was looking at it with the patient despair of a man who had been mayor for forty years.
+Part of Katara longed fiercely for smoke tricks and panic. Believing one ordinary eye-trick bought tidy peace. Imagining a living waterbender wearing red Fire Nation wool alongside an exiled prince opened dark doors she couldn't bear picturing. Refusing to drop that suspicion felt oddly disloyal toward every brave villager drying ash off torn homes tonight.
 
-She went to help anyway.
+"Katara!" Aang shouted cheerfully from wooden shrine steps. "This doorway hangs straight now!"
 
-Behind her the statue of Kyoshi stood with her fan open and her chin lifted, four hundred years old and entirely unbothered, and the last of the evening came down over the drowned street.
+It hung crooked by four good inches, tilting awkwardly against split porch framing. White-haired Oyaji stared steadily down at shattered hinges with the exhausted patience of an elder who had ruled quiet villages for forty peaceful winters.
+
+Setting her heavy wooden bucket down across slick cobbles, Katara pulled chilled sleeves snugly downward and walked steadily across ash mud to lend her hands anyway.
+
+High above wet roofs behind them, Avatar Kyoshi towered carved and steady beneath coastal twilight. Her stone fans spread wide across carved sleeves, four hundred winters old and utterly unshaken as cold gray evening settled softly across drenched village timber.

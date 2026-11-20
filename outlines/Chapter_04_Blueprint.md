@@ -352,25 +352,25 @@ The burning village street, transitioning to the coastline.
 
 ### Action Beats:
 - Zuko engages the airbender boy. Jake attempts to support, but is kept busy holding off the remaining Kyoshi Warriors to give Zuko his 1v1.
-- **Knowledge Limit Check:** Katara and the others are fleeing/distracted. If Katara sees water moving near Jake, it registers as battlefield chaos or natural phenomena, not clear bending.
-- The airbender blasts Zuko into a building. Jake immediately breaks off his engagement to rush to Zuko's side, pulling him from the debris.
-- The airbender flees on the flying bison. Zuko, furious, orders a retreat to the ship to pursue.
-- As they reach the coast, the giant Unagi bursts from the water. It spews a massive torrent of water over the village.
-- **Jake's Defense:** Seeing the tsunami-level blast falling toward them, Jake instinctively throws up a Flowing Guard water-shield to part the wave over Zuko. He manages to break the *kinetic impact* of the water—preventing Zuko from being crushed or swept out to sea—but the sheer volume and weight of the blast instantly shatters Jake's guard.
-- They are both left completely drenched and humiliated.
+- **Knowledge Limit Check:** Katara is evacuating children inside the second-story shelter; if she later pieces together wet cobbles in the street, it remains ambiguity-locked behind the Unagi's flood.
+- The airbender blasts Zuko into a burning wall. Jake immediately breaks off his engagement to rush to Zuko's side, pulling him clear.
+- The airbender flees on the flying bison. Zuko, furious, orders the twelve ashore (three rhino riders plus eight spearmen and himself/Jake fitting the 30-man crew) back toward the ship to pursue.
+- As they reach the headland, the giant Unagi bursts from the water. It spews a massive torrent of water over the village.
+- **Jake's Cover Action (CRITICAL):** To prevent Aang—perched high atop the Unagi's head—from getting an aerial view of Jake waterbending, Jake does **not** raise water against the wave. He tackles Zuko down behind the stone lip of the headland seawall and braces him there while the ocean roar passes overhead.
+- They are left completely drenched and humiliated.
 
 ### Character Beats:
 - **Zuko:** Enraged by the boy's escape, then utterly humiliated by the Unagi's water dump.
-- **Jake:** Prioritizes Zuko's physical safety over catching the Avatar. His split-second bending saves them from broken bones, but reinforces that he is not a master capable of stopping a force of nature.
+- **Jake:** Prioritizes Zuko's physical safety and operational secrecy over catching the Avatar, tackling him behind stone rather than risking aerial exposure.
 
 ### Relationship Beats:
-- Jake hauling Zuko out of the debris, and then immediately trying to shield him from the Unagi, reinforces his role as the physical safety net.
+- Jake hauling Zuko clear of burning timber and pinning him behind the headland wall reinforces his role as Zuko's physical shield.
 
 ### Environmental Storytelling:
-The roar of the fires replaced instantly by the deafening crash of freezing seawater. The smell of wet ash and ozone. The sheer, terrifying scale of the Unagi.
+The roar of the fires replaced instantly by the deafening crash of freezing seawater. The smell of wet ash, drenched pine, and salt brine. The sheer, terrifying scale of the Unagi.
 
 ### Internal Perspective (Jake):
-Jake is battered and freezing. He recognizes that the airbender didn't just escape—he came back to fix the damage they caused. It’s a fleeting thought, quickly buried under the immediate need to get a furious, soaking-wet Zuko back to the ship.
+Jake is battered and freezing. He recognizes that the airbender didn't just escape—he came back to put out the fires they set. It's a fleeting thought, quickly buried under the immediate need to get a furious, soaking-wet Zuko back to the ship.
 
 ---
 
@@ -411,8 +411,8 @@ Zuko's quarters. The ship is underway again. The room is cold and smells of damp
 
 ### Action Beats:
 - Jake and Zuko are back in the cabin, stripping off soaked, ash-stained armor.
-- **The Bending Chore:** In the zero-risk privacy of the cabin, Jake uses fine waterbending control to pull the freezing seawater out of Zuko's clothes, and then his own. 
-- The effort highlights his exhaustion. His scarred hands tremble violently from the cold and the sheer strain of having tried to block the Unagi's massive blast earlier. 
+- **The Bending Chore:** In the zero-risk privacy of the cabin, Jake pulls freezing seawater out of Zuko's wet wool layers, letting the cold brine drop cleanly into a washbasin.
+- The effort highlights his exhaustion. His scarred hands tremble violently from the cold, bruised knuckles, and the long day's tension. 
 - **Zuko's Intervention:** Zuko notices the tremor. Instead of thanking Jake or offering soft words, Zuko abruptly snatches the half-damp tunic out of Jake's hands, physically breaking Jake's bending focus. 
 - "That's enough," Zuko mutters gruffly, turning his back to put the shirt on. It is a harsh, impatient gesture masking a deep protective instinct.
 
@@ -499,7 +499,7 @@ Sets the baseline of exhaustion and logistical strain that will drive the origin
 - **Bending/Combat Rules (CRITICAL):** Follow Book_1_Macro_Map.md exactly. The Kyoshi Warriors are non-Fire-Nation combatants. This is a **LOW RISK** environment. Jake MUST use Flowing Guard waterbending as his primary combat method in Scene 3.
 - **Katara's Knowledge Limit (CRITICAL):** Katara is present in the village, but she does NOT clearly witness Jake bending. If she sees water moving, it must be framed as battlefield chaos or natural phenomena. The locked reveal is Chapter 9. Do not let Katara recognize Jake as a waterbender here.
 - **Combat Philosophy:** In Scene 3, emphasize Jake's defensive Flowing Guard. He does not blast the Kyoshi Warriors; he intercepts their fans with water whips, sweeps their legs, and redirects their momentum. Note his internal observation that their fighting style (using an opponent's force against them) mirrors his own.
-- **The Unagi's Blast (Scene 4):** When Jake shields against the Unagi, emphasize the crushing weight of the water. The shield must shatter almost instantly; it is a desperate deflection that barely saves their bones, not a master-level block.
+- **The Unagi's Blast (Scene 4):** Jake tackles Zuko down behind the headland seawall lip so the Unagi's wave crests overhead—never bending upward into open air in view of Aang atop the sea serpent.
 - **Pacing and BREATHE Scenes:** Scene 1 and Scene 5 are marked as BREATHE scenes. Slow the pacing down in these scenes. Focus on sensory details (the heat of the candles, the smell of wet ash, the ache in Jake's scarred hands) and the unspoken intimacy of Jake and Zuko's shared routines.
 - **Prose Style (Scene 5 Constraint):** Strictly avoid therapy-speak or summarizing their bond. Do not use words like "co-dependent," "trauma," or "exhaustion" to explain the scene. Show their dynamic entirely through the physical tremor in Jake's hands and Zuko's abrupt, gruff intervention.
 

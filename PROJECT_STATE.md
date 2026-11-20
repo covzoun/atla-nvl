@@ -22,8 +22,11 @@
 - **Chapter 3 (`chapters/Chapter_03.md`, "Ketu Harbor"):** **COMPLETE** (2026-11-20).
   - Re-evaluated from scratch and substantially revised (7,016 words; `sent.py` avg 15.05, max 42, `>45=0`, 193 paras, `>120=0`, 34.7% dialogue, 0.6 dashes/1k, 1 `the way` in Zhao canon line, zero `quietly`, zero non-canon 6-grams).
   - Key fixes: fixed Jee's contradictory muster-ledger confession so he logs Jake's real *palace servant name* on Ketu's 31-man roll (`30 sailors + 1 palace servant`) to deflect clerk scrutiny while seeding Ketu archives for Ch 9–10 Zhao dread; restored missing Ep 3 canon beats (Iroh tipping Zhao's spear rack with `"Eh... my fault entirely"`, Zuko's `"I refuse to let him win"`, Iroh shouting `"Basics, Zuko! Break his root!"`, and Iroh catching Zhao's ankle + choking out the flame on his palm/stone before throwing him); fixed arena surface to volcanic flagstones (not sand), clarified `two hundred garrison soldiers` as port spectators vs. 30 crewmen, removed `ozone` anachronisms and Ch 0 cellar-door/split-mouth continuity slips, unified US spellings (`gray`, `harbor`), and eliminated Guide 1 AI tics and cross-chapter 6-gram overlaps.
-- **Chapter 4 (`chapters/Chapter_04.md`):** **NEXT** — begin Phase A evaluation immediately.
-- **Chapters 5–12:** Pending sequential evaluation/revision.
+- **Chapter 4 (`chapters/Chapter_04.md`, "Borrowed Water"):** **COMPLETE** (2026-11-20).
+  - Evaluated from scratch and substantially rewritten/polished (7,778 words; `sent.py` avg 15.70, max 40, `>45=0`, 225 paras, `>120=0`, 42.2% dialogue, 0.0 dashes/1k, 0 `the way`, 0 `quietly`, zero cross-chapter 6-gram overlaps).
+  - Key fixes: restored Ep 4 canon deserted-street raid staging (fixing the prior square-crowd/disappearing-Aang flaw), restored Sokka's green-dress painted warrior cameo shielding the fan-leader and Zuko's stolen-fish beat (`"I was going to save it for later!"`), grounded Katara's smoke sighting on a second-story shelter porch while herding Koko indoors (removing shrine-roof teleportation while locking ambiguity until Ch 9), replaced the Unagi water-shield with tackling Zuko behind a headland seawall so Aang never gets an aerial view of Jake bending, aligned landing strength to 12 ashore (3 rhino riders + 8 spearmen + officers) fitting the 30-man crew, fixed `four centuries old` Kyoshi dating, fixed wool/cotton & crew-soap wording, purged 21 `"something"` placeholders and UK spellings, and cleared `dupscan.py = 0`.
+- **Chapter 5 (`chapters/Chapter_05.md`):** **NEXT** — begin Phase A evaluation immediately.
+- **Chapters 6–12:** Pending sequential evaluation/revision.
 - **Chapters 13–20:** Pending drafting after Chapters 1–12 stabilize.
 
 ## Locked Orientation Facts (Subject to Merit Review Only When Reopened)
