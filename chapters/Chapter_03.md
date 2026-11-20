@@ -1,403 +1,397 @@
 # Chapter 3: Ketu Harbor
 
-The ship stopped shuddering an hour before they reached the breakwater.
+The cruiser stopped shuddering through her keel plates an hour before they raised the stone breakwater.
 
-It had taken two days and every shovel aboard to get her off the ice shelf, and the whole time the men had worked with the particular silence of people who did not want to say out loud how bad it looked. Now the deck was different under Jake's boots. No roll. No grinding creak of ice against the hull. Just the low slap of harbour water and the shouted numbers of men bringing them in to dock.
+It had taken two full days and every spare shovel aboard to cut her bow clear of that collapsed ice shelf. The crew had worked the entire watch with the grim focus of men who preferred not to tally what the hull might cost. Now wet timber felt unfamiliar beneath Jake's boots. Zero roll, zero grinding crunch of winter pack against iron ribs: only dark harbor chop slapping oiled plating and a leadsman calling depth soundings from the chains.
 
-The stillness was what finally let him sleep. Two hours, maybe less, curled in the alcove with his knees against the steel wall and the cold worked so far into his bones that even sleep had not warmed him. He woke to the smell of hot iron and the sound of Zuko's voice on the deck, and got up.
+That stillness finally bought Jake two hours of real sleep. Wedged inside his narrow supply alcove with frozen knees pulled tight toward steel plating, he drifted out until the sharp smell of coal smoke and Zuko's bootsteps overhead pulled him upright before fifth bell.
 
-There was always something to do in the last hour before port. Lines to coil. The crew's shore gear to gather. Zuko's second armour checked over so it would be ready the moment they set foot on land. Jake kept his hands moving because hands moving meant his mind had no room to do anything else, and right now his mind wanted to do a great many other things.
+Harbor approaches always demanded busy fingers. Mooring hawsers coiled clean along bronze pins, shore cloaks shaken free of salt crust, Zuko's second suit of plate wiped dry of brine before they stepped onto stone. Keeping his palms occupied kept his thoughts fenced inside routine, and routine mattered today because every pier ahead belonged to the Fire Navy.
 
-Ketu Harbor came up slow through the morning haze, and each length of it made the ship under his feet feel smaller.
+Ketu Harbor unfolded slowly out of gray morning mist, and every cable's length made Zuko's scarred patrol cruiser look smaller.
 
-He had known in the abstract that they were sailing into a real port. A working Fire Nation installation, not some coastal fishing town that would barely notice one more military vessel. Knowing a thing and standing in front of it were different animals. Warships lined the deep-water piers in identical rows, black hulls scrubbed and gleaming, banners snapping crisp and red against a sky the colour of ash. Soldiers moved along the docks in columns, boots striking stone in unison. Everything about the place had been built to declare its own order.
+Jake had understood on paper that they were limping into a major colonial staging base rather than some quiet backwater anchorage. Knowing a chart symbol and looking up at sixty-foot steel prows were two different bargains. Heavy iron warships lay moored bow-to-stern down three stone piers, black hulls scrubbed bright and crimson pennants snapping crisp against pale ash sky. Fresh infantry columns marched in iron-shod cadence along paved seawalls. Everything inside that stone basin had been engineered to broadcast discipline and unstoppable reach.
 
-Their ship did not belong among it. The bow still wore the scars of the avalanche. A long raw gouge where ice had scraped paint down to bare metal. A crumpled section of rail the crew had lashed rather than repaired. Water stains bleeding rust down the hull. Where the cruisers sat proud and identical, theirs limped, listing faintly to port, dragging itself the last hundred yards to a berth at the very end of the pier, as far from the polished ships as the harbour could put them.
+Zuko's ship didn't belong beside any of them. Her armored stem carried raw white scars from the avalanche where sheared ice had torn black lacquer straight down to bare gray metal. Crushed port rails sat lashed fast with hemp rope rather than riveted iron, while rust bled downward from half a dozen sprung seams. Beside sleek identical hulls gleaming along the main pier, their battered ship crawled crippled toward a neglected berth at the far outer end of the dock, tucked as deep in the shadows as the harbor master could shove her.
 
-Jake understood exactly what that distance meant.
+Jake didn't need rank badges to read that berth assignment.
 
-The shipwrights were already alongside, four of them in leather aprons and a foreman with a list he intended to read out loud. The crew had spent the walk down the gangway passing their gear to the pier, and the ship had gone quiet in a way Jake had not heard in three years. No bells, no orders, no engines. Hammers somewhere below, and a great many men being paid by the day.
+A shore gang waited beside the bollards already: four shipwrights in tarred leather aprons behind a gray-haired foreman clutching a slate board he clearly meant to read aloud. Crewmen filed down the gangway carrying sea bags toward the barracks gate. Without roaring boilers or watch bells, the cruiser sounded strangely hollow overhead, answered only by iron hammers ringing down below and shoremen earning day wages.
 
-The foreman wanted the ice damage opened out and the plating beaten back where the cliff had folded it. That was a week of cranes. The best he would promise by the morning tide was a patch, a coat of red lead over the gouge, and a promise he would not put in writing. A patched hull held water. It held it until the next hard blow, and then it did not.
+The foreman spent five minutes squinting up at the crushed stem before declaring he needed dry-dock cranes to open two bow plates and heat the buckled frames straight. Zuko gave him until morning tide. The foreman tightened his lips, set his teeth round a work order he couldn't argue against a prince, and put welding torches over the side before noon. When a ship couldn't spare a week in cradles, red lead paint and cold patches held out harbor chop until the next real gale tested them.
 
-Jake had done that sum in every port for three years, and it always came out the same. The ship was the only thing they owned that could be repaired, and the Avatar was the only thing they wanted, and they could not have both in the same week. Zuko gave the foreman the morning tide. The foreman took it the way a man takes a blow he has no choice in, and the gangs went over the side with buckets and torches.
+Jake found Zuko standing beside the main rail above the gangway, dressed neatly in pressed dark crimson wool with his jaw clamped rigid as he cataloged every pier, ladder, and officer's insignia along the wall. Iroh leaned mildly against a stanchion one step behind him, hiding both hands inside wide plum sleeves while wearing the pleasant, slightly vague smile he saved strictly for port officials.
 
-He found Zuko at the rail above the gangway, already dressed, his jaw set in the particular way it set whenever he was bracing for something he could not burn his way through. Iroh stood a pace behind him, hands tucked into his sleeves, wearing the mild, faintly pleased expression he wore in front of strangers.
+"Uncle." Zuko kept his eyes fixed on marching troops down the quay. "Don't breathe his name on these stones. Not the boy, not his arrows, none of it. If word leaks that the Avatar survived, every ambitious captain on this coast will claim a piece of our hunt."
 
-"Uncle." Zuko did not look at him. His eyes were on the harbour, cataloguing it. Exits. Uniforms. Rank insignia. "Don't say his name here. Not the boy, not the arrow, none of it. If word gets out that the Avatar is alive, every firebender on this coast will want a piece of the hunt."
+"I understand what is at stake, Prince Zuko," Iroh replied lightly, though an alert edge flickered underneath his easy tone before fading again.
 
-"I am aware of the stakes, Prince Zuko." Iroh's voice stayed light, but something moved under it, quick and sharp, gone before Jake could be sure he had heard it at all.
+Jake slid into his station half a step behind Zuko's left shoulder as sailors dropped the wooden gangway. Close enough for his silhouette to read strictly as personal body-servant rather than shipboard officer, he folded both gloved hands at his belt and tipped his chin downward. He eased his posture into the unobtrusive stillness he had practiced since age seven inside Fire Nation palace halls. Being invisible wasn't modesty; it was armor.
 
-Jake fell into step behind Zuko's shoulder as the crew ran out the gangway. Close enough that his presence would read as attendance rather than distance. He kept his eyes down, his hands loosely folded, his whole posture arranged into the stillness that made people's gazes slide past him without stopping. It was a skill he had learned before he could walk properly. How to be furniture. How to occupy space without appearing to claim any of it.
+On paved Fire Nation stone, everything about Jake turned into treason waiting for one observant officer to ask twice. His Water Tribe blood, the diagonal pale seams buried underneath worn deerskin, and the bending sleeping inside his wrists could erase three careful years at sea inside five minutes. Out among polar floes, salt wind softened that lie. Ketu Harbor strapped the entire weight straight back across his chest with every downward step onto dry quay planking.
 
-He needed it now.
+*Stay near,* Zuko had said flatly at the top of the companionway when Jake paused beside the quartermaster's lockers. *You're coming ashore with me.* Not a request.
 
-Here, on ground the Fire Nation had already paved and fortified, everything about him was a lie waiting to be found. His birth. His hands under the gloves. The water in his blood that could undo every careful year of pretending he had never had it. Three years of open sea had let him forget, in small ways, how heavy that lie could get. Ketu Harbor put the weight back on him step by step, as the gangway put weight back on his legs after months at sea.
+They hadn't walked twenty paces past the mooring bollards before boots struck stone ahead of them.
 
-He glanced once at Zuko's back. Whatever else happened here, Zuko wanted him close. He had said as much without saying it, at the base of the gangway, in the tone he used for things that mattered. *You're coming with me.* Not a question.
+The officer strode toward them from the largest dreadnought in port, walking with the unhurried ease of a man accustomed to piers clearing before him. Dark Commander's insignia gleamed crisp against freshly pressed scarlet serge, putting Zuko's salt-whitened coat to open shame. Swept black sideburns framed sharp, satisfied features lifted into faint permanent amusement, with two freshly scrubbed guards matching step right behind his cloak.
 
-They were twenty paces down the pier when the man appeared.
+Jake's belly knotted cold before the officer opened his mouth. He didn't know the man's name yet, nor needed to. A single glance traced the danger: lazy dark eyes sweeping from lashed iron rails to Zuko's stiff shoulders, lingering across Iroh's bowed figure, and finally skimming straight past Jake's downcast cap.
 
-He came from the direction of the largest cruiser in port, walking with the unhurried confidence of someone who had never once doubted that a room would arrange itself around him. Commander's red, pressed to a precision that made Zuko's salt-stiffened coat look like something dragged out of a shipwreck, which it very nearly was. Twin points of dark hair framed a face built for smugness. His brows were arched in permanent faint amusement. Two guards fell in a half-step behind him, and even they seemed pressed and gleaming.
-
-Jake's stomach tightened before the man said a word. He did not know the officer's name. He did not need to. He recognized the shape of the danger immediately. Something in how the man's gaze moved. Unhurried. Cataloguing the battered ship, Zuko's stiff posture, Iroh's folded hands, and finally, briefly, Jake himself.
-
-The look did not linger. It did not need to. It noted him, filed him as unimportant, and moved on. Jake had spent a lifetime being grateful for exactly that kind of dismissal. It had never once stopped feeling like a blade passing close enough to nick.
+The gaze settled half a heartbeat on Jake, dismissed a silent gloved servant without flicker, and moved back toward the ship. Being overlooked usually bought safety; under eyes that sharp, it felt closer to cold steel sliding past a bare throat.
 
 "Getting in the way of what, Prince Zuko?"
 
-The voice was rich with satisfaction, pitched to carry. Zuko had gone rigid beside him. Jake felt it more than saw it, a change in the air between them, a held breath.
+The voice rolled out smooth and clear, pitched deliberately to draw dock sentries' attention. Zuko's shoulders locked rigid beside Jake, heat tightening through the winter wind between them.
 
-"It's Commander now," the man went on, before Zuko could answer whatever he had been about to say. "And General Iroh." A small theatrical bow toward Iroh, mockery dressed as respect. "The great hero of our nation, gracing my harbour."
+"It's Commander now," the officer added before Zuko answered. He dipped one sleek theatrical bow toward Iroh, every line polished mockery dressed as court courtesy. "And General Iroh. Great hero of our nation, honoring my humble harbor."
 
-"Retired general," Iroh said mildly.
+"Retired general," Iroh murmured mildly, inclining his head an inch in return.
 
-"Of course." The Commander's smile did not move. "The Fire Lord's brother and the Fire Lord's son. Welcome guests, whenever they choose to appear." His eyes swept the ship, lingering on the raw gouge in the hull, the crumpled rail, the list to port. "What brings you to Ketu Harbor?"
+"Of course." The Commander's smile stayed pinned in place. "The Fire Lord's own brother and son. Honored guests whenever you arrive unannounced." His gaze shifted slowly up the cruiser's dented hull, lingering with idle relish over raw rust streaks and rope-lashed railings. "What brings you into Ketu Harbor?"
 
-"Our ship requires repairs," Iroh said, before Zuko could answer.
+"Our ship requires repairs," Iroh answered evenly before Zuko snapped.
 
-"I can see that." The Commander tilted his head, studying the damage with an interest that had stopped being polite several seconds earlier. "That's quite a bit of it, for a routine patrol."
+"So I observe." Commander Zhao tilted his head, studying torn iron plating with polite curiosity that held sharp teeth underneath. "Remarkable damage for routine coastal patrol."
 
-Jake kept his eyes on the boards of the pier and made himself breathe slowly through his nose. He did not need to look up to know what this man's attention would do if it settled on the wrong detail for too long. He thought of the waterspout. The wave. The girl on the flying beast who had frozen two guards solid without a flicker of hesitation. If this sharp-eyed Commander so much as suspected what had truly happened at that Water Tribe village, the hunt for the Avatar would be the least of Zuko's problems.
+Jake fixed his stare onto oiled pine planks underfoot and kept his breathing level through his nose. He didn't need to glance upward to calculate what happened if this man tugged the wrong loose thread. A towering waterspout, a flooded deck, and one southern girl in blue fur freezing guards straight to steel planks. None of that belonged inside any Ketu Harbor ledger.
 
-"You wouldn't believe what happened." Zuko's voice had gone flat and fast, the tone Jake recognized from a dozen small lies over three years. Not smooth enough to be convincing on its own, but delivered with enough conviction that most listeners let it pass rather than argue with a prince. "Uncle. Tell the Commander what happened."
+"You wouldn't believe what happened," Zuko said, pitch going flat and hurried in a cadence Jake knew well from three winters of harbor bluffs. Never smooth enough for real theater, yet pressed hard enough that minor port captains usually yielded rather than press a prince on lies. "Uncle. Tell Commander Zhao what happened."
 
-Iroh brightened at once, as though he had been waiting all morning for exactly this invitation. "Yes! I will tell him." He pressed a hand briefly to his chest, an old man startled by his own memory. "It was quite incredible."
+Iroh brightened instantly, spreading open hands like a grandfather delighting in parlor stories. "Yes! I will tell him. It was quite extraordinary!" He hesitated half a beat, leaning casually toward Zuko's ear. "What? Did we crash or something?"
 
-"You crashed into something?" the Commander prompted, one eyebrow lifting.
+"Yes!" Zuko snapped quickly, coloring faintly along his good ear. "Straight into an Earth Kingdom ship!"
 
-"Yes," Zuko said. "An Earth Kingdom vessel."
+Silence stretched one thin count too long across damp pier boards. Jake kept every muscle along his cheeks utterly still while cold dread coiled tighter behind his sternum.
 
-There was a pause a beat too long. Jake felt it stretch, felt his pulse pick up in the silence, and did not let his face show a flicker.
+"Indeed," Zhao murmured, his smile sharpening thinly around the edges. "You must regale me with every thrilling detail over tea."
 
-"Really." The Commander's smile widened, sharp at the edges. "You must tell me all the thrilling details. Over a drink, perhaps."
+"Sorry, we were just leaving," Zuko said, already half turned back toward the ramp.
 
-"We were just leaving," Zuko said, already turning.
+"Prince Zuko." Iroh's warm pitch hardened by one steel notch, carrying the dry weight that had turned division generals round during western sieges. "Show Commander Zhao proper respect. We would be delighted to join him." Turning cheerfully back toward their host, Iroh beamed without guile. "Do you happen to stock ginseng tea? It is my particular favorite."
 
-"Prince Zuko." Iroh's tone shifted. Still warm, but with an unmistakable edge of correction beneath it, the voice of a man who had spent decades managing exactly this kind of standoff. "Show the Commander proper respect. We would be honoured to join him." He turned to their host with an expression of pure, guileless pleasure. "Do you happen to have any ginseng tea? It is my particular favourite."
+Zhao gave a dry, pleased chuckle and waved one gloved arm straight toward a row of high crimson command pavilions pitched along the upper quay. "I believe the mess steward can manage that much, General."
 
-The Commander laughed, low and satisfied, already gesturing them toward the row of command tents beyond the pier. "I believe that can be arranged, General."
-
-Jake fell into step a pace behind Zuko as they were drawn forward. Close enough to catch the tension still coiled through his shoulders. Close enough to see the tight, controlled way he was holding his hands at his sides.
-
-Behind them, sailors were already being herded off toward the harbour barracks for questioning. Standard procedure for any ship making an unscheduled port call. Jake felt a fresh thread of cold work down through his chest at the thought of what those interrogations might turn up.
+Jake fell seamlessly into step one pace behind Zuko's cape, close enough to feel rigid heat radiating off stiff wool shoulders. Behind them across the stone yard, armored harbor sentries were already herding Zuko's off-watch crew inside a walled barracks gate for standard post-voyage questioning. Watching Jee vanish past crimson banners left cold dread pooling straight down to Jake's boots.
 
 ---
 
-The command tent swallowed sound the moment the flap fell shut.
+Canvas flaps sealed out wind and seagull cries the instant they stepped inside Zhao's pavilion.
 
-Outside, gulls and dockworkers and the distant clang of repairs. Inside, only the low hiss of oil lamps and the too-sweet smell of incense burning behind a folding screen. Heat pressed close under the canvas, thick enough that Jake felt sweat gather at his collar within moments, though he kept his face as still as he had kept it on the pier.
+Outside lay ringing dock hammers and marching patrols. Within, heavy lamp smoke hung thick beside sweet cedar incense burning behind a brass screen. Stifling stove heat gathered immediately underneath the wool lining of Jake's collar, though he stationed himself obediently beside the inner tent post without dabbing sweat off his forehead.
 
-A map dominated the centre table. The Earth Kingdom laid out in painted greens and browns, red pins driven through cities like wounds. The Commander went to it at once, one hand resting against the table's edge with the easy possessiveness of a man surveying property he already considered won.
+A huge painted war map covered the center timber table, red wooden markers pinned like coal embers through Earth Kingdom provinces. Zhao strolled straight to its edge, resting one palm along the border with the calm arrogance of a commander who considered the whole continent already spent.
 
-"By the year's end," he said, not turning, "the capital falls. And the Fire Lord finally claims the victory his father and his father's father could not."
+"And by the year's end," Zhao declared without looking round, "Ba Sing Se will fall beneath our banners. The Fire Lord will finally claim the victory his father and grandfather never sealed."
 
-"If my father thinks the rest of the world will simply fall in line behind him," Zuko said from his seat, arms crossed, "then he's a fool."
+"If my father thinks the rest of the world will simply follow him willingly," Zuko shot back from his timber stool, arms locked tight across his chest, "then he's a fool."
 
-The words hung in the hot air a beat too long. Jake, standing just inside the tent flap where a servant belonged, felt his pulse tick up at the recklessness of it. Criticizing the Fire Lord aloud, in a stranger's tent, in front of a man clearly gathering ammunition.
+Heat thickened instantly inside heavy canvas air. Standing back beside the dark door seam where servants stayed unseen, Jake felt pulse hammer fast against his ribs at such reckless tongue. Calling Ozai a fool aloud under an ambitious commander's roof while guards stood five steps away courted disaster.
 
-But the Commander only smiled, as if Zuko had confirmed something he already suspected.
+Zhao merely smiled slowly round his shoulder, pleased rather than offended. "Two years at sea have done little to temper that tongue." Walking lazily round the table with both hands tucked behind his belt, he tilted his head toward Zuko. "Tell me, then. How goes your search for the Avatar?"
 
-"Two years at sea have done little to soften that tongue of yours." He turned, hands clasped behind his back. "So. How goes the search for your Avatar?"
+Behind the table, a heavy brass spear stand suddenly tipped sideways with an ear-splitting metallic clatter across timber slats.
 
-"We haven't found him," Zuko said.
+Zhao spun sharp as a whip crack. Iroh stood blinking mildly beside the toppled rack, tucking plump hands slowly back inside plum silk sleeves. "Eh... my fault entirely," the old general offered cheerfully, edging backward behind the incense screen.
 
-"Did you truly expect to?" The Commander's smile sharpened at the corners. "The Avatar's been dead for a hundred years, Prince Zuko. Unless, of course, you've stumbled onto some evidence to the contrary."
+Zhao stared two irritated seconds before rounding back onto Zuko's stool with cold eyes narrowed. "We haven't found him yet," Zuko snapped flatly as though iron spears hadn't rattled past his elbow.
+
+"Did you truly expect to?" Zhao stepped right beside Zuko's chair, watching closely for any flicker around the scarred brow. "The Avatar died a hundred years ago along with the airbenders. Unless, of course, you stumbled onto fresh evidence proving he lives."
 
 "No. Nothing."
 
-The lie came out flat and immediate. Jake watched the Commander's eyes narrow just slightly, weighing it, before the tent flap stirred and a soldier stepped through and dropped to one knee.
+The flat lie left Zuko's tongue clear and steady. Zhao leaned an inch lower, weighing Zuko's unblinking gold eye, until canvas rustled at the entrance and a harbor lieutenant dropped briskly onto one knee before the table.
 
-"Commander Zhao." The name, finally spoken aloud, confirmed what Jake had already understood in his gut. "We interrogated the crew as you instructed."
+"Commander Zhao." Every muscle across Jake's spine locked frozen. "We questioned the prince's crew as instructed."
 
-Jake's whole body went still. *The crew.* His crew. Men who had hauled him out of freezing water more times than he could count. Men who had watched him take the wave off that deck three days ago and said nothing. Not one word, not to Zhao's harbour patrol, not to anyone.
+Cold silence crushed the warm room flat. Thirty sailors: men who had dragged Jake clear of green sea ice, cooked beside his stove, and watched him part a roaring Avatar wave three nights back. Every shipboard secret sat stacked inside that lieutenant's clenched jaw.
 
-He kept his eyes on a point on the tent wall and made himself breathe, slow and even, while every part of him screamed to know what came next.
+Jake nailed his eyes straight onto a frayed red stitch inside the canvas wall, forcing ribs to rise steady and slow while dread screamed inside his ears for the next sentence.
 
-"They confirmed," the soldier went on, "that Prince Zuko had the Avatar in his custody. And let him escape."
+"They confirmed," the lieutenant stated clearly, "that Prince Zuko held the Avatar prisoner aboard, and let him escape."
 
-The silence that followed felt endless. Jake waited for the second half of it. *And that his servant is a waterbender. And that we saw him move the sea itself.* He waited with his stomach in his throat and his gloved hands curling slowly at his sides.
+Dead stillness waited one crushing heartbeat. Jake held his breath for the second line: *And his palace boy bends harbor sea with scarred hands.* Waiting with dry tongue glued against his teeth and deerskin gloves clamped hard over hidden scars.
 
-The soldier said nothing more. He rose, bowed, and withdrew, and the tent flap fell shut behind him, and that was all.
+The lieutenant added zero words. He rose straight, bowed toward Commander Zhao, and ducked back out through swaying canvas flaps, leaving ordinary dock clatter to trickle faint underneath heavy walls.
 
-They had broken on the Avatar. Given up the one secret that would spare their necks from a harbour prison. And said nothing about him. Jake felt something in his chest loosen so fast it was almost dizzying, relief crashing through him with a force that made him grateful for the stillness he had trained into his own body. Whatever else happened here, they had held the line. Every one of them.
+They had broken on the airbender. They had traded the one true capture charge that spared thirty necks from harbor irons, and buried Jake's name underneath dead silence. Relief broke through Jake's chest so fast his knees stayed solid only by three years of iron habit. Every sailor in that barracks yard had held their line.
 
-He did not have time to feel it properly before Zhao's expression curdled into open contempt.
+Barely one heartbeat later, Zhao's smooth courtesy curled straight into open venom.
 
-"Now, remind me," Zhao said, savouring each word, "exactly how your ship came to be so thoroughly wrecked. A twelve-year-old boy. He bested you and a crew of trained firebenders." He shook his head slowly, theatrically, like a man forced to witness something distasteful. "You're more pathetic than I gave you credit for. Capturing the Avatar is far too important a task to leave to a disgraced teenager and his beaten men." His eyes flicked, cold and final, to Zuko. "He's mine now."
+"Now remind me," Zhao murmured, strolling slowly toward Zuko's chair like a man savoring sour fruit, "how exactly did your bow sustain such remarkable structural damage? A twelve-year-old boy bested you and a full complement of trained firebenders." He shook his dark head in slow, theatrical pity. "You are more pathetic than I imagined. Capturing the Avatar matters far too much to trust inside a disgraced teenager's hands. He's mine now."
 
-Zuko was across the tent before Jake had fully registered him moving, one hand already crackling with the promise of flame. The two guards flanking Zhao caught his arms and hauled him back before he closed the distance. Jake's own hands twitched at his sides, a useless instinctive urge to step between them that he strangled before it could show on his face. He had no standing here. Interfering would only give Zhao more to use.
+Zuko launched straight across the rug before Jake drew breath, crimson sparks snapping bright across one raised fist. Both sentry firebenders closed inside two strides, catching Zuko's elbows fast and pinning him rigidly clear of Zhao's chest. Jake's boots shifted half an inch forward, pure three-year reflex, before training snapped him motionless again behind his post. One step by an undocumented palace servant would hand Zhao fresh chains without even touching Zuko.
 
-"Careful, Prince Zuko," Zhao said mildly, not even flinching. "Striking a superior officer is a court-martial offense. Even for you." He gestured, and the guards released Zuko, stepping back to flank the tent's entrance instead. "My search party departs within the hour. Once I'm out to sea, my men will escort you back to your ship. You'll be free to go." He said *free* like it was a kindness, and like he knew exactly how little it meant.
+"Careful, Prince Zuko," Zhao observed mildly without blinking under dying embers. "Striking a superior officer draws court-martial irons, even for fallen royalty." Gesturing for the guards to slacken grip, Zhao turned briskly toward the exit flap. "My search division weighs anchor within the hour. Once my ships clear the breakwater, these sentries will escort you aboard. You'll be free to go."
 
-Then he was gone.
+He dropped *free* across the dirt like copper tossed to street beggars, then disappeared outside.
 
-Zuko stood rigid in the sudden quiet with his fists clenched at his sides. Jake closed the distance to his shoulder, close enough to be felt without being obvious about it. Zuko did not look at him. His jaw worked once, twice, and then his boot came up and slammed into the low table, snapping one of its legs clean through and sending the whole thing crashing sideways in a spray of scattered maps and ink.
+Zuko stood panting sharply beneath crossed halberd shafts while canvas settled flat behind the Commander. Stepping two quick paces forward right beside Zuko's sleeve—near enough for silent heat to ground him—Jake didn't dare touch a bare arm inside sentry sight. Zuko's jaw corded tight twice. Then his booted heel lashed sideways straight through the center cedar table leg, splintering carved wood down one joint and showering maps, inkstones, and lead weights wildly across woven wool.
 
-"Prince Zuko." Iroh's voice was gentle from the corner of the tent, entirely unbothered, as though nephews routinely destroyed furniture in his presence. "Perhaps we should ask for that tea now."
+"Prince Zuko," Iroh called softly from behind the brass stand, calm as if nephews kicked apart mahogany every afternoon before dinner. "Perhaps we might ask for that tea now."
 
-Zuko did not answer. He stood over the wrecked table breathing hard, and Jake watched the fury drain slowly out of his shoulders into something colder and more contained, and said nothing at all.
+Zuko didn't answer back. Standing rigidly above shattered wood while labored breaths thinned out into iron control, he waited out the quarter-hour watch with Jake anchored half a step behind his shoulder.
 
-Zhao returned a quarter hour later, unhurried, freshly amused, as though he had only stepped out to check the tide.
+Zhao pushed the canvas flaps wide again unhurriedly, smug as an admiral inspecting calm tides.
 
-"My search party is ready," he said. "As promised, once I'm out to sea, my guards will see you back to your ship."
+"My search party is ready," Zhao announced flatly from the threshold. "Once my flagship clears outer buoys, guards will return you to your cruiser."
 
-"Don't underestimate me, Zhao." Zuko's voice had gone low and hard. "I'll capture the Avatar before you do."
+"Don't underestimate me, Zhao!" Zuko wheeled sharp over splintered pine, voice ringing hoarse and dangerous. "I will capture the Avatar before you ever sight his trail!"
 
-Zhao laughed, a short, genuine sound. "You can't compete with me, boy. I command hundreds of warships. And you?" His gaze travelled over Zuko slowly, deliberately. The salt-stained coat. The battered ship visible through the tent's open flap. The whole diminished shape of him. "You're a banished prince. No home. No allies." A pause, precisely timed. "Your own father doesn't even want you."
+Zhao tipped his head back and loosed a genuine, amused bark of laughter. "You compete against me? Boy, I command hundreds of steel warships across four seas, and what are you?" His dark eyes measured Zuko top to bottom with unhurried precision: salt-crusted wool, split boot leather, and the crippled hull rising crooked past open canvas behind him. "You're a banished prince. No home, no allies. Your own father doesn't want you back."
 
-"You're wrong." The words came out too fast, too raw. "Once I deliver the Avatar to him, he'll welcome me home. With honour."
+"You're wrong!" The denial tore out too fast, raw round every edge. "Once I deliver the Avatar to my father, he'll welcome me home with honor!"
 
-"If your father truly wanted you home," Zhao said, almost gently, "he would have let you return by now. But in his eyes, Prince Zuko, you are a failure. A disgrace to the Fire Nation." His eyes flicked, deliberately, to the left side of Zuko's face. "You carry the proof of it right there."
+"If your father truly wanted you home," Zhao murmured softly, pitching his voice almost gentle, "he would have recalled you three winters ago, Avatar or not. In Ozai's eyes, Prince Zuko, you remain a failure and a disgrace to our nation." Dark eyes dropped straight onto Zuko's ruined left cheek. "You carry the proof seared across your own skull."
 
-The heat in the tent did not change, but something in Jake's chest went cold. His scarred hands curled tight inside his gloves, an old helpless ache flaring up through skin that had healed wrong three years ago and never quite stopped remembering it.
+Stove heat stayed heavy under canvas, yet ice spread fast behind Jake's collar. His scarred palms tightened sharp inside thick gloves as old blistering seams remembered three winters past in ugly, stinging clarity.
 
-"And really," Zhao went on, savoring it now, plainly enjoying the reaction, "is this what you've been reduced to? Dragging some disgraced servant boy around the world with you. The same one who got you burned in the first place?" His gaze slid, deliberate and dismissive, to Jake. "I'd have thought you'd want to forget his face. Instead you keep him at your heel like a pet. Tells a man quite a lot about how far you've fallen, Prince Zuko."
+"And truthfully," Zhao continued, turning his amused glance lazily off Zuko onto the quiet boy stationed beside the tent pole, "what miserable habit brought you this low? Dragging that disgraced palace servant boy round half the globe behind your heels. The exact clumsy creature who got you burned inside that sand ring?" Zhao looked straight through Jake like dirty boot grease. "Any sensible commander would have left such an embarrassment in capital mud. Keeping him trailing behind you like an obedient hound proves precisely how far your house has fallen."
 
-Jake did not move. Did not let his expression change, did not let his eyes drop or his breath catch, though something in him went white-hot and small and furious in a way he had almost no practice feeling. He was used to being invisible. He was not used to being used. Held up, deliberately, as a wound to press into someone else.
+Jake froze rock still. Not one twitch crossed his eyelids; no breath hitched across his throat. Only cold white anger, tight and unfamiliar, flared crisp behind his ribs. He knew how to disappear into harbor woodwork; he had never before stood still while an officer picked him up like a rusty knife strictly to twist it deeper inside Zuko's scar.
 
-Zuko's reaction was instant, and it was not the reaction of a man defending his own pride.
+Zuko didn't pause to measure odds, and he didn't react for pride alone.
 
-"Maybe," Zuko said, and his voice had gone very quiet, very even, more dangerous than the lunge had been, "you'd like a scar to match."
+"Maybe," Zuko said, dropping his voice razor-low and level, colder and deadlier than any table-kicking rage, "you'd like a scar to match."
 
-Zhao's smile only widened. "Is that a challenge?"
+Zhao's dark brows lifted upward. "Is that a challenge?"
 
-"An Agni Kai." Zuko did not hesitate. "At sunset."
+"An Agni Kai," Zuko answered without one blink. "At sunset."
 
-The word dropped through Jake like a stone through ice. For one long moment he heard nothing else in the tent. Not Zhao's satisfied acceptance. Not Iroh's careful stillness in the corner. Not even his own pulse, which seemed to have stopped rather than continue into whatever came next.
+Those three words dropped straight through Jake's chest like cold lead through dark ice. Sound flattened inside his skull until neither Zhao's satisfied acceptance nor Iroh's warning shift behind the incense stand reached him clear, only heavy, suffocating dread locking cold across his knuckles.
 
-"At sunset, then," Zhao said, already turning away, already dismissing them with the ease of a man who had gotten exactly what he wanted. "I do hope you remember your forms better than your manners, Prince Zuko."
+"At sunset, then," Zhao agreed, tossing his crimson cloak back across one shoulder as he stepped clear of the doorway. "Shame Ozai isn't here to watch me break you properly. I suppose your uncle will serve for witness."
 
-He left. The tent flap settled shut behind him. In the sudden quiet Jake became aware of Zuko breathing hard through his nose, staring at the space where Zhao had stood. His hands opened and closed slowly at his sides. The weight of what he had just done began, visibly, to settle onto him.
+Canvas swung shut behind him. Zuko stood fixed beside broken table splinters with ragged heat steaming past both nostrils, fingers flexing rigid beside his belt while the reality of sunset settled squarely onto narrow sixteen-year-old shoulders.
 
----
-
-The crew was in the yard behind the barracks, and nobody wanted to be looked at.
-
-Jake found them because he could not stop himself finding them. They were off the ship and off the pier, herded through a gate in the wall and stood in a loose crowd on packed dirt with their hands hanging at their sides, waiting to be told what came next. Thirty men who had spent the morning being asked the same question in the same voice by men in clean uniforms. A guard stood at the gate with a ledger propped on a barrel.
-
-Jee was at the edge of the crowd with a folded cloth held against his face. The cloth was not for his face. There was a bruise along his jaw going yellow at the edges, and a cut above one eyebrow that had been opened since Jake had last seen him.
-
-Jake slowed. He could not make himself go any faster, and he could not make himself stop.
-
-"They told him about the boy with the arrow," Zuko said at his shoulder, low enough that only Jake heard it.
-
-"And nothing else."
-
-"Nothing else." Zuko's eyes were on the yard and on nobody in it. "That is the story they told. They will not change it for anyone."
-
-Jake looked at the back of Zuko's head and understood what had been done for him, and by how many people, and at what price to each of them. Thirty men had been asked about a boy with an arrow and had given the harbour an answer that would keep them in a cell for a year, and they had kept the other answer behind their teeth. They had kept it without being asked. Three years of watching a waterbender move the sea on a deck had taught them it was a thing that belonged to the ship.
-
-"The sea," Jake said. "Did they ask about the sea?"
-
-"They asked about the sea." Zuko's mouth moved, not quite a smile. "The cook's boy says it turned. It went around the men and not through them, and it has been the ship's story ever since. Uncle heard him telling it and told him to keep telling it."
-
-"It did turn."
-
-"I know it did." Something in Zuko's face gave way and was put back. "So it is good that the boy has a story for it."
-
-Jee had not looked at either of them. He stood with the cloth against his face and his eyes on the gate, and when Jake's gaze found him he moved the cloth, and looked at Jake, and did not nod, and looked away. It was the first time in three years the man had looked at Jake without asking him for something.
-
-"Lieutenant."
-
-"The sergeant's boy took the ledger," Jee said. "Every name off the ship, and every man who came back aboard it." He turned the cloth over in his hands. "I put the boy's name in the column myself. I thought he would want it entered properly."
-
-Jake did not understand for a moment. Then he did, and it went through him like the crack of ice.
-
-"You wrote it down."
-
-"I wrote it down." Jee put the cloth in his pocket. "It will sit in a file in this harbour for a year, and then the file will be burned, and then the man who burned it will be gone. The boy will be a boy with an arrow that somebody saw once." He drew his bruised arm up against his ribs and looked at the gate. "That is how it is done, on a good day. Today was not a good day."
-
-"Jee—"
-
-"Go up, Jake."
+Across the stone apron outside, bosuns' pipes shrilled as three steel patrol sloops cast off bow lines to carry Zhao's search division northward down the coast. Four harbor halberdiers fell in two paces behind Zuko and Iroh as soon as they stepped into cold sea wind. They herded the exiles down the upper quay past rows of scrubbed hulls whose deck watches leaned along iron rails to watch a banished prince walked under guard toward his crippled ship.
 
 ---
 
-The light in Zuko's cabin had gone the colour of a low fire by the time they reached it.
+They found the thirty crewmen penned inside the dusty gravel yard behind the harbor barracks, eyes fixed steadily onto packed red dirt.
 
-It slanted long and red through the single porthole and crawled slow across the metal floor as the sun sank toward the harbour mouth. Jake had counted that light before, in another room, while he waited for something terrible to finish happening. He made himself stop counting and reached for the clasps at Zuko's shoulder instead.
+Jake walked slowly beside Zuko past iron gate posts because staying aboard alone while his crew sat judged would have split his ribs wide open. Thirty weathered sailors stood clustered loose between stone storehouses with shoulders hunched forward, looking worn thin after four straight hours under identical clean-uniform questions. At the timber gate post, a young garrison clerk rested an open steel-bound muster ledger atop a salt cask.
 
-Neither of them had spoken since the tent.
+Lieutenant Jee waited near the shaded wall edge pressing one folded rag across his cheek. A dark purple bruise bloomed wide beneath his left jaw, while fresh blood beaded along an eyebrow cut he hadn't worn coming down the gangplank.
 
-Zuko stood with his arms held slightly away from his sides, the posture of a man being fitted for something rather than undressed, and let Jake work without protest. The outer plates came first. Breastplate. Shoulder guards. The segmented arm coverings. Each piece unclasped and set aside with a small metallic clink that seemed, in the quiet cabin, unnaturally loud.
+Jake slowed half a stride beside the barrels, caught cold between dread and fierce gratitude.
 
-Jake had done this a hundred times. His hands knew the sequence without his eyes. The hidden catch beneath the left shoulder. The leather strap that always stuck slightly in salt air. The way the breastplate had to be lifted and turned rather than pulled to clear the collarbone.
+"They told the inquisitors about the boy with the arrow," Zuko murmured low near Jake's ear as guards watched idly from the shade.
 
-His hands were not entirely steady today. He noticed it distantly, the faint tremor running through his fingers as he worked the last strap loose, and forced it still before it could show. Zuko did not need to see that. Zuko needed him certain.
+"And nothing else?" Jake breathed.
 
-The plain undershirt came next, and then that too, until Zuko stood in only his training wrap, bare-chested for the ritual that would strip him further still before the sun finished setting. He looked younger like this. Jake had noticed it before, on the rare occasions the armour came fully off. Something in the absence of all that engineered weight let the boy underneath the prince show through. Lean muscle and old scar tissue and a spine held too straight for someone trying not to shake.
+"Nothing else." Zuko kept his single gold eye locked straight ahead across packed dirt without nodding toward a single man. "That is their story, word for word across thirty interviews. None of them will break it."
 
-Jake reached for the fresh wrap folded on the narrow bunk and began winding it at Zuko's waist, movements economical and sure. The same motion he had used a hundred times, readying Zuko for drills that meant nothing next to what waited at sunset.
+Jake studied the quiet backs of carpenters, stokers, and riggers staring calmly down at their own boots. Every man there had offered up the true airbender sighting to save thirty hides from harbor dungeon irons, then swallowed the waterbender deck secret right behind clenched teeth without being asked or bribed. Three winters sharing cramped iron plates and frozen salt rations had turned one hidden servant into ship's business nobody sold ashore.
 
-He did not ask if Zuko was frightened. He already knew. The rigid line of Zuko's shoulders, held so carefully upright that they had to be costing him something to maintain, said all of it.
+"What about the ocean wave?" Jake muttered tight under winter breeze.
 
-Neither of them said the Fire Lord's name. Neither of them needed to. It sat in the cabin with them. It was in the red light crawling across the floor, and in the set of Zuko's jaw, and in Jake's scarred palms, which had begun to itch and burn beneath his gloves the moment the word *Agni Kai* left Zuko's mouth in that tent. His hands remembered fire even when the rest of him tried not to. They had remembered it for three years. Tonight they intended to remember it more loudly than usual.
+"Zhao asked." One corner of Zuko's mouth pulled faint and crooked. "Kaito's mate swore the south sea parted around our masts on its own, cursed ocean spirits pushing boys back inside the rail instead of drowning them. Uncle heard the boy rehearsing it off the gangplank and told him to keep telling it louder."
 
-"You should eat something first," Jake said, because it was true, and because it was easier to say than anything else sitting in his chest.
+"It turned on them," Jake murmured.
+
+"I watched it turn," Zuko replied calmly, letting hard grief flicker brief across his face before burying it again. "Still good the crew owns an easy tale."
+
+Across the yard, Jee lowered his rag slowly off a swollen cheekbone. For three winters the lieutenant had sought Jake out strictly to bargain fuel, rations, or calm Zuko's temper. This afternoon Jee met Jake's dark gaze levelly across open gravel, offered zero words, zero demands, and held one brief clear look that meant twenty other men wouldn't breathe one syllable about wet sleeves either.
+
+"Lieutenant," Jake said low as they stepped past the salt barrel.
+
+"Sergeant's clerk copied the full muster," Jee muttered steadily, tucking stained linen into his coat pocket without glancing toward the gate sentry. "Every sailor off our manifest, plus every shore hand accounted back aboard. I watched him write your own palace name down on the servant line beside Prince Zuko; wouldn't do leaving one boy unlogged when harbor clerks count heads twice."
+
+Shock dropped icy down Jake's backbone. "You put my name inside Zhao's port register?"
+
+"Thirty-one names on ink," Jee answered levelly, rubbing bruised ribs under his leather jerkin. "Mine, Kaito's, and yours, same as if you'd shipped legally from Capital Bay. Better an honest servant's line in Ketu Harbor archives than letting some sharp-eyed clerk start asking why a prince hides one unnumbered boy below decks. That ledger gathers cellar dust for twelve months before harbor scribes burn old rolls. By autumn, all Zhao's clerks will remember is that one runaway child with a blue arrow slipped past thirty tired sailors."
+
+Jee tipped his chin upward half an inch, voice dropping flat. "Walk aboard, Jake. Leave shore guards to me."
+
+---
+
+Late afternoon sun slanted hot copper shafts deep through Zuko's brass porthole, painting diagonal red bands straight across riveted steel decking.
+
+Jake had watched sun shafts turn that exact dark blood-orange inside another stone chamber three years earlier while bells tolled down palace galleries. Shutting memory behind locked teeth, he stepped forward and worked open Zuko's chestplate brass latches without breaking silence.
+
+Neither boy had spoken once since leaving the barracks yard.
+
+Zuko held both arms raised slightly away from his ribcage, stiff and compliant like a soldier braced inside armor rather than stripped down, yielding steel piece by oiled piece without flinching. Curved breastplate first, heavy spiked pauldrons next, segmented forearm bracers last. Every metal shell met wool carpeting with dull clicks that rang loud inside shut iron walls.
+
+Jake knew every strap blindfolded. The catch jammed sideways under left collar rivets, salt stiffness gripping rawhide eyelets along both ribs, the smooth upward twist needed to clear broad collarbones.
+
+Today his gloved thumbs shook barely once as they unpinned the final wool tunic lacing. Stopping instantly, he pressed bruised leather hard against Zuko's linen waistband until steady iron control came back into his wrists. Zuko needed absolute steadiness beside him right now, not shaking sympathy.
+
+Dark outer wool slid off Zuko's shoulders, leaving him bare-chested down to simple cotton training wraps around his ribs and shins. Stripped of heavy spiked steel, he looked sharply younger under warm lamp glow: lean muscle corded hard over ribs, smooth pale scar ridge pulling down his left cheekbone, straight spine braced rigid as though holding back visible shivers.
+
+Jake lifted fresh linen from the bunk foot and wrapped Zuko's waist firmly round and round with smooth practical tension. Same steady routine as two hundred shipboard spars, except tonight held zero wooden swords or harmless leather pads.
+
+He didn't ask if Zuko felt cold fear behind that straight spine. Knowing showed clearly enough inside the rigid set of Zuko's throat.
+
+Neither spoke Ozai's name aloud. No voice needed to bring the Fire Lord inside four steel walls. He hung thick inside red western sunbeams crossing the rug, inside Zuko's silent breathing, and deep inside Jake's ruined palms, which throbbed hotter and sharper beneath deerskin every minute since Zuko spoke *Agni Kai* inside Zhao's hot pavilion. Skin healed wrong never truly forgot bright flame; tonight old burns remembered fiercely.
+
+"Eat first," Jake said softly, voice raspy against long silence because practical truth hurt less than naming fear.
 
 "I'm not hungry."
 
-"I know." Jake finished the wrap and smoothed it once with his palm, an old habit, checking for wrinkles that would chafe. "Eat anyway."
+"I know." Jake smoothed one final wrinkle flat down Zuko's waist sash by ancient habit so tight linen wouldn't pinch mid-pivot. "Eat anyway."
 
-Zuko did not move to obey, but something in his shoulders loosened by a fraction. Jake crossed to the small shelf where the ship kept dried fruit and hard bread for exactly this kind of hour, and pressed a strip of dried mango into Zuko's hand without comment. Zuko looked at it for a moment like he had forgotten what food was for, and then ate it anyway, mechanically, because Jake had put it there.
+Zuko didn't protest further, though rigid strain eased fractionally out of his jaw. Crossing to the hanging oak shelf beside the door, Jake plucked two strips of tough dried mango off their twine hook and pressed one into Zuko's bare hand. Zuko stared down at yellow dried fruit for three heartbeats as though sorting out what food meant before chewing slowly, dutifully, without tasting a bite.
 
-He went out onto the deck and stood in the wind for a while, because the cabin had reached the point where every thought came back round to the same three things.
+Jake stepped briefly out onto the empty forecastle deck while copper evening deepened, needing open salt wind before cabin walls pressed completely shut.
 
-Below the rail the harbour moved black and slow. On the bow the red lead over the gouge had dried to the colour of a scab, and the foreman's gangs were still at work by lantern light. Somewhere north of all of it a boy with an arrow on his head was riding a creature the size of a ship, and every hour the two of them spent in this harbour was an hour he did not have to be found.
+Harbor tide moved black and oiled against battered planking below. Over the damaged prow, fresh coats of red lead primer gleamed dull crimson beside swinging shipyard lanterns while shore welders hammered stubborn rivets shut by torch glare. Far away northward across invisible mountain valleys, one barefoot twelve-year-old boy with pale blue arrows flew free atop an impossible six-legged beast, putting wider miles between them with every passing watch.
 
-Zuko came out and stood at the rail three paces off, and did not ask what he had come out for. They watched the water until a man on the pier beat a gong for the arena, and neither of them moved to go.
+Boots tapped steel planks three paces behind Jake's elbow as Zuko stepped silently to the weather rail beside him. Neither mentioned escape routes or chances. Together they stared across calm harbor water until one deep bronze gong echoed slowly outward across stone piers, calling combatants to the ring.
 
-The light kept crawling.
+Still neither hurried down the gangplank right away.
 
-Jake busied his hands with things that did not need doing. Straightening the folded armour. Checking a strap he had already checked twice. Anything that kept his fingers occupied and his mind a half-step behind the images trying to surface. The smell of ozone before a strike. The particular quality of silence in a room full of people who all knew what was coming and none of whom would stop it.
+Back inside the dim cabin five minutes later, Jake busied stiff fingers straightening neatly stacked armor straps already squared twice over. He forced his mind back behind simple knots whenever sharp sensory flashes crowded close: dry courtyard sand scorching heels, hot sulfur smoke stinging bare nostrils, breathless silence crowding colonnade stairs right before flame struck flesh.
 
-He had been thirteen the last time he stood this close to an Agni Kai about to happen. His hands had not known yet what they were about to do. Everything after that moment had cost him everything he had ever had.
+At thirteen, he had run into that sand courtyard completely blind to what slept inside his own fingers. Everything following that blinding splash had stripped away home, adoptive parents, palace walls, and clean skin alike.
 
-He was sixteen now. His hands knew exactly what they could do, and tonight, whatever else happened, he would not be allowed to use them. If he stepped into that arena, if the water in the harbour so much as answered him in front of two hundred Fire Nation soldiers, there would be no exile waiting on the other side of it. There would be nothing waiting at all, for either of them.
+Now at sixteen, Jake understood what water obeyed inside his veins, and understood equally clearly that tonight his gloves stayed buckled shut down to the last stitch. Should harbor seawater jump even six inches upward before two hundred garrison marines watching Zhao's platform, exile ended permanently before sunrise. No boat waited on the other side of open waterbending in Ketu Harbor; only locked iron doors that opened one direction.
 
-He did not say any of that. He picked up the strip of cloth meant to bind back Zuko's hair for the duel instead, stepped behind him, and began working it through with the same steady care he gave to everything he did with his hands.
+Swallowing hard behind dry teeth, he lifted Zuko's wide silk ribbon from the sea chest, stepped calmly behind Zuko's shoulder, and combed loose black hair upward into its fighting knot with slow, unhurried care.
 
 "Jake."
 
 "Mm."
 
-Zuko's reflection in the small polished disc mounted by the bunk held very still. "If this goes wrong—"
+Zuko watched his own pale reflection inside the polished bronze hand-mirror hung beside the bunk. "If this goes wrong—"
 
-"It won't." Jake kept his hands moving, kept his voice even. "Remember your forms. That's all. The rest of it is just noise."
+"It won't." Jake kept steady pressure tying off the silk knot without snagging damp scalp hairs. "Remember Iroh's basics. Break his root early. Everything else in that ring is empty noise."
 
-It was not the whole truth. There was a great deal more he could have said and did not. He stood there with his scarred hands working through Zuko's hair in the fading light, the ghost of another burning room pressing close around both of them without either one giving it a name. But steadiness was the only kind of comfort he knew how to give.
+Honesty stopped well short of the full ledger sitting heavy inside both chests, yet steady work remained the single kindness Jake knew how to offer with scarred fingers. Zuko's Adam's apple bobbed once without answering.
 
-Zuko's throat worked once. He did not answer.
+Cabin timber clicked lightly without knock as General Iroh eased inside. Tonight held zero theatrical sighs or mild jokes over ginger biscuits. Sober age lined Iroh's broad shoulders like heavy armor.
 
-The cabin door opened without a knock, and Iroh stepped through. His expression was grave in a way Jake rarely saw on him. None of the mild theatre he wore for strangers. Only quiet, sober weight.
+"It is time," Iroh said gently.
 
-"It's time," Iroh said.
+Turning away from polished bronze, Zuko drew every loose vulnerability behind impassive iron composure. Reaching down onto the cot, he draped his loose red dueling robe over bare shoulders with hands that finally held steady, completely clear of tremor.
 
-Zuko turned from the polished disc, and whatever had been sitting loose and unguarded in his face folded itself away, replaced by something harder and flatter. He reached for the light outer robe laid across the bunk, the last piece he would wear until the ritual required him to shed it, and pulled it on with hands that had finally stopped their faint tremor.
+"Uncle," Zuko muttered evenly toward the lamp flame, "keep Jake beside you at the rail."
 
-"Uncle." Zuko's voice had gone very quiet. "Stay close to Jake."
+"Of course," Iroh replied softly, resting zero false cheer inside his tone.
 
-"Of course," Iroh said, as though it needed no saying at all.
+Zuko passed Jake toward the open corridor without glancing backward once. Yet moving past, his warm bare hand settled squarely onto Jake's wool shoulder. One solid, anchoring grip held firm for half a beat before dropping back beside his robe. Then Zuko stepped crisply down narrow iron passageways with straight spine braced tight for stone and fire.
 
-Zuko did not look at Jake again before he turned for the door. But his hand found Jake's shoulder as he passed. One brief, firm press, gone before Jake could do more than feel the weight of it. Then Zuko was moving out into the corridor with his spine set straight, his face already arranging itself into the mask he would wear across the arena floor.
-
-Jake followed him out into the reddening light.
+Jake stepped out after him into red harbor twilight.
 
 ---
 
-The arena sat open to the sky.
+The harbor arena lay flat and bare underneath open crimson sky.
 
-A raised stone platform ringed by soldiers standing shoulder to shoulder in disciplined rows, their armour catching the last hard light of sunset until the whole ring seemed rimmed in dull red fire. Jake found a place at the barrier beside Iroh, close enough to the platform's edge that he could feel the heat radiating up off the stone from a full day under the sun. He gripped the low rail with both gloved hands because it gave him something to hold that was not Zuko's arm.
+A raised circular floor of dark volcanic flagstones stood ringed round by two hundred Ketu Harbor garrison soldiers standing shoulder to shoulder in steel armor, sunset fire catching polished helmets until the entire stone circle seemed hedged inside dull red embers. Jake claimed his post right against the low wooden barrier beside Iroh, standing near enough to catch dry heat baking upward off stone pavers soaked under afternoon sun. Wrapping both gloved fists squarely around splintered rail wood gave his ruined hands an anchor that wasn't Zuko's robe sleeve.
 
-Across the ring, Zhao shrugged off his outer robe with theatrical ease, baring a broad chest already gleaming faintly with sweat. His expression had settled into calm, contemptuous certainty. He had the look of a man who had done this before and won every time.
+Across empty flagstones, Commander Zhao slipped his crimson shoulder cloak off into a sergeant's arms, baring broad muscular shoulders greased bright under sweat. Every arrogant tilt along his sharp chin broadcast easy confidence of an officer who fought weekly duels for promotion and hadn't lost one yet.
 
-Jake did not doubt it.
+Jake knew men built like Zhao wouldn't show pity twice.
 
-Zuko shed his own robe a moment later. The sight of him bare-chested on that stone, the fading sun throwing his scar into sharp relief along the left side of his face, sent something cold straight through Jake's chest. He had seen this before. Not this arena, not this opponent. But this. The specific geometry of two figures facing each other across an open circle of stone while the world went silent and waiting around them.
+Ten paces opposite, Zuko flicked his own plain red mantle gracefully free down the steps. Seeing Zuko stand lean and bare-chested across open stone, evening sun cutting stark crimson light down his scarred left brow and pale chest muscles, drove cold water straight behind Jake's collar. Different stone, different enemy, identical fatal circle: two solitary fighters facing across waiting silence while armed rows watched from stone tiers without blinking once.
 
-"Remember your firebending basics, Prince Zuko," Iroh said, close enough that only Zuko and Jake could hear. "They are your greatest weapon."
+"Remember your firebending basics, Prince Zuko," Iroh pitched low and steady right beside Zuko's shoulder before stepping clear of the boundary line. "They remain your greatest weapon."
 
-Zuko did not answer aloud. His jaw was set, his stance already dropping into the low coiled readiness Jake had watched him drill into his body a thousand times.
+"I refuse to let him win," Zuko answered hoarsely, low enough that only Jake and his uncle caught the edge beneath those words. Dropping straight down into wide rooted readiness Jake had seen drilled through two thousand mornings at sea, he locked every breath tight behind flat dark eyes.
 
-Iroh turned his head, not far enough for anyone watching the ring to see, and spoke to Jake instead.
+Without shifting his feet or glancing away from the ring floor, Iroh tipped his gray chin half an inch sideways toward Jake.
 
 "Jake."
 
 "Sir."
 
-"Whatever happens, stay where you are." His hands stayed folded in his sleeves and his eyes stayed on the stone. "If the harbour water answers you in front of two hundred men, there is no exile at the end of it. There is a cell, and an order written for it, and a room with a door that does not open twice."
+"Hold your post beside this timber regardless of what strikes." Iroh kept both plump palms hidden deeply inside crimson silk sleeves while watching Zuko's stance intently. "Should harbor tide answer you in front of two hundred garrison men, there will be no second ship waiting at the pier. Only iron chains, sealed orders written to the capital, and a stone cell whose door never opens twice."
 
-"I know."
+"I understand."
 
-"Do you?" Iroh's voice was almost gentle. "I have buried men I could not reach because I stood in the wrong place. Do not give me that to carry as well." Across the ring, Zhao rolled his shoulders once, unbothered, and said something to a soldier nearby that Jake did not catch and did not want to.
+"Do you?" Iroh murmured sadly, carrying weight older than Ketu Harbor itself. "I stood one corridor too far away once and buried boys I couldn't pull back out of fire. Do not lay another stone across my back tonight."
 
-"This will be over quickly," Zhao called, loud enough to carry.
+Across bare flagstones, Zhao rolled heavy shoulders loosely once, throwing one arrogant half-grin toward a nearby captain before settling squarely forward. "This will be over quickly," Zhao called loudly across evening stillness.
 
-The gong sounded.
+The bronze gong struck.
 
-The sound cracked through Jake's chest like a physical blow, and for one terrible moment the arena dissolved. He was thirteen again, in a courtyard that smelled of torch smoke and fear, watching a boy he loved stand unarmed in front of a man made of fire. He gripped the rail hard enough that the metal bit into his palms through the leather, hard enough that the old scars ached in immediate furious protest, and made himself stay upright through sheer grinding will.
+Deep brass thunder slammed squarely through Jake's breastbone, snapping three years backward in half an eye-blink. Suddenly he stood thirteen years old again inside a dusty capital courtyard choked under pine smoke and screaming sun, watching his terrified friend kneel unarmed before an unyielding emperor made wholly of fire. Jake crushed the timber top rail inside clenched deerskin until raw wood creaked against scarred seams, forcing rigid knees straight while blinding red flashbacks cleared gradually back into Ketu Harbor twilight.
 
-Zuko struck first. A fast low sweep of flame aimed at Zhao's legs. Zhao blocked it without visible effort, stepped through the dissipating heat, and answered with a two-handed blast that caught Zuko square in the chest and threw him backward across the stone.
+Zuko struck first, driving one sharp low sweep of crimson flame straight toward Zhao's forward shin. Zhao pivoted aside with infuriating ease, stepped straight through fading sparks, and hammered back with a wide twin-fisted fireball that caught Zuko dead center across raised wrists and hurled him skidding backward across gritty stone.
 
-The impact of his body on the platform landed somewhere behind Jake's own ribs. He did not move. Could not. Every instinct screamed at him to vault the barrier, to put water between Zuko and the next blast as he had put water between the crew and the cliff three days ago. Every ounce of sense told him that if he so much as raised a hand here, in front of two hundred Fire Nation soldiers, there would be no exile left to return to for either of them.
+Every heavy thud across Zuko's back ribs landed solidly inside Jake's own chest. Stay anchored. Don't vault timber. Every muscle screamed to pull harbor water up off stone drains three yards past the walls, exactly as he had turned ocean surf away from drowned sailors three days prior. Every cold grain of truth hammered back harder: raise one bucket's worth of saltwater before Zhao's armored garrison, and both boys burned dead by morning.
 
-He stayed where he was and hated himself for it with a clean, simple fury that had nowhere to go.
+Jake locked both gloved fists white along wooden rail splinters, hating helplessness with steady fury that owned nowhere to strike.
 
-Zuko rolled to his feet just as Zhao leapt into the air, both fists cocked back for a blow aimed squarely at his face. The same trajectory. The same intention. Jake had seen it before, in another arena, and his breath caught somewhere in his throat and simply stayed there.
+Zuko scrambled upright breathless right as Zhao launched high across the circle, cocking both blazing fists downward toward Zuko's scarred head, identical downward angle and identical ruthless intent to stamp weakness straight onto stone forever. Jake stopped breathing mid-chest.
 
-Zuko rolled clear at the last possible instant.
+Zuko rolled desperately sideways one heartbeat ahead of falling boots.
 
-He came up already moving, already low, and swept one leg through Zhao's stance before Zhao's feet had fully returned to the stone. Zhao's balance broke. Jake watched the Commander's whole considerable confidence crumble in a single instant as his own momentum betrayed him, arms pinwheeling, and then Zuko was on him. Pressing. Driving forward, breaking whatever remained of Zhao's footing, until the Commander went down flat on his back against the stone with Zuko standing over him, fist already drawn back and burning.
+"Basics, Zuko!" Iroh roared suddenly behind the rail, loud as cannon shot across tense silence. "Break his root!"
 
-"Do it!" Zhao's voice cracked across the silent arena, furious and raw. "Do it!"
+Rolling straight onto planted heels before Zhao settled his weight, Zuko whipped one fierce low leg sweep right through Zhao's forward ankle. Massive proud balance snapped instantly. Arms windmilling wildly backward for one stunned instant, Commander Zhao staggered heavy on stone, and Zuko drove relentlessly forward, firing crisp rhythmic arcs right beneath Zhao's slipping heels until arrogant footing shattered flat.
 
-The world narrowed. Jake's hands had gone white-knuckled on the rail. He was braced for the sound and light of a blast connecting with flesh, for the smell that would follow it, for the sound a person made when fire took something from them that would never grow back.
+Zhao crashed heavy onto his spine across hot pavers, stunned and blinking up as Zuko marched forward over his ribs with one blazing crimson fist cocked directly above Zhao's upturned throat.
 
-Zuko's fist came down.
+"Do it!" Zhao snarled fiercely up from bare stone, pride raw and ugly even beaten flat. "Do it!"
 
-The flame struck stone an inch from Zhao's ear. Close enough to singe hair. Close enough to leave no doubt about how easily it could have gone the other way, and it did not touch him at all.
+Sound drained out of the harbor square. Jake gripped wood tight enough for leather cuffs to bite wet skin, bracing every muscle for seared cloth, charred flesh, and that sharp animal cry any man uttered when fire carved off pieces that never grew back.
 
-Jake did not move. His breath, his pulse, and the endless spinning dread that had been building since the word *Agni Kai* first left Zuko's mouth — all of it stopped. Then it broke all at once, not into relief exactly, but into something larger and stranger that he had no name for yet.
+Zuko's drawn fist snapped downward.
 
-Zuko straightened. He looked down at the man he had every right and every provocation to maim. Then he stepped back.
+Blinding scarlet flame crashed straight into bare gray flagstones two inches clear of Zhao's left ear, hot enough to crisp sideburn hair black yet mercilessly controlled to miss smooth skin by one finger's breadth.
 
-"That's it?" Zhao spat from the stone, incredulous, contemptuous even in defeat. "Your father raised a coward."
+Breath, heartbeat, and choking three-year dread stopped cold across Jake's ribs, then broke open: not simple relief, rather sharp amazed stillness he didn't carry a tidy word for yet.
 
-"Next time you get in my way," Zuko said, low and even, "I won't hold back."
+Zuko slowly straightened his back above the beaten man who had mocked his scars, called him garbage, and stolen his hunt, and stepped calmly backward without kicking twice.
 
-He turned his back and walked away.
+"That's it?" Zhao spat up from soiled pavers, voice trembling between fury and shock. "Your father raised a coward!"
 
-Jake saw it before he understood what he was seeing. Zhao's hand snapping up from the ground, fire already gathering, aimed at the unguarded space between Zuko's shoulder blades. Jake opened his mouth with no plan behind it, only the raw animal need to shout a warning that would have meant nothing against the speed of it.
+"Next time you step in my path," Zuko answered evenly without raising his pitch, "I promise I won't hold back."
 
-Then Iroh moved.
+Turning his bare back flatly onto Zhao, Zuko walked calmly toward the southern steps.
 
-The old man was over the barrier and across the sand before Jake had finished drawing breath. He caught the fire itself on his forearm, turned it aside, and let it break apart over the stone in a shower of sparks that died before they landed. The follow-through put Zhao flat on his back again, winded, his own flame guttering out in his fist.
+Jake spotted murderous motion half a beat before thought formed words. Shoving upright onto one bruised elbow behind Zuko's unguarded spine, Zhao whipped one furious heel sideways, launching blazing flame straight toward unprotected shoulder blades. Jake tore his mouth wide to scream warning across useless open air—
 
-"No, Prince Zuko," Iroh said, and his voice had lost every trace of the mild old man he played for strangers. It rang clean and hard across the silent arena. "Do not taint your victory." He looked down at Zhao. "So this is how the great Commander Zhao behaves in defeat. Disgraceful." He turned, unhurried, toward the ranks of watching soldiers, then back to the man on the ground. "Even in exile, my nephew conducts himself with more honour than you have ever shown in command." A pause, deliberate. "Thank you again for the tea, Commander. It was delicious."
+General Iroh moved faster than speech.
 
-Zuko had stopped and turned back at the sound of it. Jake watched his face in the fading light. There was no triumph in it, and no relief either, only stillness, and the watching of his uncle standing over the man who had tried to kill him from behind.
+Vaulting clear across the timber barrier in three rolling strides, Iroh stepped directly inside Zhao's kicking arc. He clamped one thick calloused palm squarely around Zhao's spinning ankle to choke bright crimson fire dead out across stone, then flung the screaming Commander skidding helplessly back across pavers on his elbows.
 
-Then Iroh turned and walked back toward the barrier without another word, and Zuko fell into step beside him.
+Zuko spun sharply back with fists already rising. Iroh raised one calm stopping palm between them.
 
-Jake vaulted the low rail before he had fully decided to, closing the distance to Zuko's side as the three of them turned together and walked out of the arena, leaving Zhao alone on the stone in the last of the light.
+"No, Prince Zuko," Iroh commanded, stripping away every last shred of jolly tea-shop haze until ringing battlefield authority snapped two hundred garrison heads straight upright. "Do not taint your victory." Lowering his dark gaze onto Zhao sprawled dusty at his sandals, Iroh spoke slowly enough for every marine tier to carry home word for word. "So this is how great Commander Zhao acts in defeat. Disgraceful. Even in exile, my nephew holds more honor than you have ever worn in command."
+
+After three icy heartbeats of absolute harbor silence, Iroh inclined his gray head slightly with cool politeness. "Thank you again for the tea, Commander. It was delicious."
+
+Zuko stared two long seconds past his uncle's steady shoulders onto the furious, defeated officer biting dust beneath crimson torches. Neither triumph nor swagger touched Zuko's pale brow, only heavy, watchful quiet. Then Iroh turned toward the exit gate, and Zuko fell into stride beside his robe.
+
+Jake swung one leg gracefully over the rail without thinking twice, falling silently back into position off Zuko's left heel as the three of them walked calmly out past silent ranks of staring soldiers, leaving Zhao kneeling alone inside dying sunset light.
 
 ---
 
-The harbour had gone quiet by the time they reached the docks again.
+Darkness had softened busy Ketu piers completely by the time their boots touched timber quay planking again.
 
-The frantic daylight bustle of cranes and marching columns was gone, replaced by the ordinary evening sounds of a working port settling toward night. Water lapping at hulls. Gulls somewhere out over the dark. The creak of mooring lines shifting with the tide. None of them spoke as they walked.
+Daytime roar of cranes, iron sledges, and tramping infantry squads had cleared away into ordinary evening quiet along working berths: slow tide slapping wooden pilings, gulls wheeling faint above anchored buoys, hemp mooring warps creaking softly with rising swell. Nobody felt the need to fill three sets of echoing steps with noise.
 
-Jake's heartbeat was only now easing back toward something ordinary. He noticed it as he noticed weather changing. Not all at once. By degrees. The tightness in his chest unwinding a little further with every step that put the arena behind them.
+Jake's hammering pulse eased back gradually, not snapping calm at once, just unwinding rung by rung like wet cable slackening off a capstan with every dark wharf put between them and that scorched ring.
 
-Zuko walked between them with his robe pulled back over his shoulders, damp hair coming loose from its binding, carrying himself with a stillness Jake had not seen on him before. Not the rigid braced stillness of a man holding himself together. Something quieter.
+Between them, Zuko walked barefoot across damp pier boards with his loose red dueling robe hooked carelessly over one bare shoulder, damp black hair falling untied round his collar. Every line across his tired shoulders sat strangely settled: not rigid defensive poise holding anger down, just plain drained calm.
 
 "Did you really mean that, Uncle?"
 
-Zuko's voice, when it finally came, sounded almost young. Smaller than the voice that had challenged Zhao to a duel a few hours earlier.
+Zuko's voice sounded noticeably younger out beneath cool night stars, smaller by half than the fierce prince who had sworn an Agni Kai across Zhao's map table four hours earlier. Glancing sideways beneath his dark cap brim, Jake caught uncertain hope waiting bare and unguarded across Zuko's unscarred profile.
 
-Jake glanced sideways in time to see him watching Iroh with something uncertain in his face, waiting.
+"Of course," Iroh answered warmly without theatrical wink or pause. "I told you before. Ginseng tea truly is my favorite."
 
-"Of course," Iroh said, without hesitation, without any of his usual theatre. "I told you. Ginseng tea is my favourite."
+Zuko let out one dry breath that pulled the corner of his mouth upward in a genuine, fleeting half-smile rarer than dry gold on their ship. It vanished inside three steps, yet warmth lingered unmistakably beside his eye.
 
-Zuko huffed, and the corner of his mouth pulled up in a faint unguarded curve that Jake had learned, over three years, was rarer than almost anything else Zuko's face knew how to do. It did not last more than a moment.
+Jake closed one short step onto Zuko's shoulder side, unbuckled the leather canvas satchel slung across his back, and drew out the cool tin water canteen filled before sunset watch. Extending it silently without breaking pace, Jake waited while Zuko drank deep, wiped cold moisture off his jaw with his wrist, and handed the tin back into gloved palms. Simple quiet trade of plain care practiced over three winters ashore and afloat, speaking clearly enough without clumsy speeches about survival or grace.
 
-Jake took his place at Zuko's shoulder as they walked, close enough to be felt, and reached without a word into the bag he had carried down from the ship. He pulled out the canteen he had filled before they left and held it out. Zuko took it without comment, drank, and handed it back. That was all that passed between them. No grand words. No acknowledgment of what either of them had just survived. Just the same quiet exchange of care they had traded a thousand times over three years, dressed tonight in the ordinary shape of water and cloth.
+Deep throb hadn't abandoned Jake's scarred hands inside worn deerskin. Winter air always woke those pale seams round twilight. Yet for the first time since walking inside Zhao's smoky tent, sore hands didn't drag hot courtyard sand, screaming steam, or the latched cellar door straight up behind his eyelids. Tonight the ghost stayed quiet down beneath cold tidewater.
 
-The ache in Jake's hands had not left him. It sat under his gloves as it always did, old and familiar, flaring faintly with the cooling air. But for the first time since Zuko said the words *Agni Kai* in that tent, the ache did not drag the throne room up behind it. He kept waiting for the memory to close over him, the smell of ozone, the silence before pain, and it did not come.
-
-They climbed the ramp toward their battered ship. Behind them, Ketu Harbor's lights came up one by one against the darkening sky, indifferent to what had happened in its arena, already moving on to whatever the next tide would bring.
+Ahead through harbor fog, lanterns swung yellow from their cruiser's freshly patched bowsprit. Behind them, bright signal beacons blinked orderly red along Ketu Harbor's stone moles, completely indifferent to shaken pride, torn rosters, or bruised generals left behind inside dark rings.
 
 "Jake."
 
 "Sir."
 
-Zuko stopped at the top of the ramp with one hand on the rail. The harbour lights were in his face and the scar was a flat pale line in the dark.
+Zuko halted squarely beside the wooden gangway head with one bare forearm braced easily along upper railing timber. Lantern light caught pale healed skin down his cheek: plain, steady, tired down to bone.
 
-"Thank you," he said. "For the mango."
+"Thank you," Zuko said evenly. "For the mango."
 
-Jake looked at him. "It was only dried fruit."
+Jake blinked once at him in yellow lamp glow. "It was only dried fruit."
 
-"I know what it was." Zuko's hand came off the rail and found Jake's shoulder again, the same brief press as before, and stayed a heartbeat longer this time. "Get the men aboard. We sail on the morning tide."
+"I know what it was." Leaving the rail, Zuko settled one warm palm directly onto Jake's shoulder a second time, holding firm for one honest heartbeat longer than dusk before turning up the planks. "Get our men rounded back aboard before curfew closes. We weigh anchor on the morning tide."
 
-Then he was gone up the deck, and Jake stood at the rail with the canteen in his hand and the cold coming off the water, and watched the harbour lights burn steady in the dark.
+Climbing briskly upward onto patched decking, Zuko vanished beneath the quarterdeck lamp shadows. Jake lingered beside the lower bollard holding the cool canteen in both gloved fingers, breathing sharp sea salt while harbor beacons burned clear and steady down empty dark water.

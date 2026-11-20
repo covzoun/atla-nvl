@@ -376,12 +376,12 @@ The harbor arena at sunset. A raised stone platform surrounded by Fire Nation so
 ### Action Beats:
 - Jake stands on the sidelines beside Iroh. The gong sounds.
 - The fight begins. Zhao is overwhelmingly aggressive, pushing Zuko back.
-- **Sensory Overlap:** For Jake, the sound of the roaring flames, the heat on his face, and the smell of ozone perfectly mirror the Agni Kai with Ozai. He grips the railing, fighting the overwhelming instinct to run into the ring.
+- **Sensory Overlap:** For Jake, the sound of the roaring flames, the heat on his face, and the smell of pine smoke and hot sulfur mirror the Agni Kai with Ozai. He grips the railing, fighting the overwhelming instinct to run into the ring.
 - Zuko is knocked down. Zhao leaps for the finishing blow. Jake stops breathing.
-- Zuko rolls, sweeps Zhao's legs, and breaks his root. Zuko stands over the defeated Commander.
+- Iroh shouts *"Basics, Zuko! Break his root!"* Zuko rolls, sweeps Zhao's legs, and breaks his root. Zuko stands over the defeated Commander.
 - Zhao yells, "Do it!"
-- Zuko fires the blast into the ground next to Zhao's head. He turns and walks away.
-- Zhao fires a cowardly blast at Zuko's back. Iroh intercepts it, throws Zhao down, and shames him.
+- Zuko fires the blast into the flagstones right next to Zhao's head. He turns and walks away.
+- Zhao fires a cowardly blast at Zuko's back. Iroh intercepts Zhao's spinning ankle, extinguishes the flame, throws Zhao down, and shames him.
 
 ### Character Beats:
 - **Zuko:** Overcomes his fear, remembers his training, and makes a conscious choice not to perpetuate the cruelty his father taught him.
@@ -521,8 +521,8 @@ Sets the emotional baseline of deepened trust for the upcoming Kyoshi Island enc
 - **Character Introductions (CRITICAL):** Commander Zhao is marked "Not yet introduced." You MUST introduce him naturally in the prose during Scene 1.
   - Establish Zhao through his smug authority, his prominent sideburns, and his pristine Commander's uniform as he approaches the battered ship, before revealing his name.
 - **Bending/Combat Rules (CRITICAL):** Follow Book_1_Macro_Map.md and Bending_Styles.md exactly. This chapter takes place in a Fire Nation military port with Zhao present. This is a **HIGH RISK** environment. Jake MUST suppress his bending entirely. He does not fight or bend in this chapter.
-- **POV Constraints:** The narrative is strictly Jake's deep third-person POV. Jake's experience of the Agni Kai must be filtered through his own trauma and physical sensations (the heat, the smell of ozone, the ache in his scarred hands).
-- **The Interrogation Relief (Scene 2):** When the soldier reports the crew's confession, emphasize Jake's internal panic followed by profound relief. The crew broke on the Avatar, but they actively held the line on Jake's secret.
+- **POV Constraints:** The narrative is strictly Jake's deep third-person POV. Jake's experience of the Agni Kai must be filtered through his own trauma and physical sensations (the heat, the pine smoke and sulfur, the ache in his scarred hands).
+- **The Interrogation Relief (Scene 2):** When the soldier reports the crew's confession, emphasize Jake's internal panic followed by profound relief. The crew broke on the Avatar, but they actively held the line on Jake's secret. Afterward, Jee notes he logged Jake's real palace servant name on the 31-man muster so Ketu harbor clerks won't probe an unnumbered phantom aboard.
 - **Zhao's Insult (Scene 2):** Ensure Zhao's insult targets Jake's low status and his disgrace at the Agni Kai ("the servant boy"). Zhao does NOT know Jake is a waterbender or Southern Water Tribe. He uses Jake purely as a prop to humiliate Zuko.
 - **The Agni Kai Trauma:** In Scenes 3 and 4, lean heavily into Jake's internal trauma response. The ritual of the Agni Kai is identical to the one that ruined his life. He is terrified of a repeat outcome and helpless to stop it.
 - **Zuko's Mercy (Scene 4/5):** Frame Zuko's decision to spare Zhao as a profound revelation for Jake. It proves Zuko is not Ozai, shifting Jake's loyalty from trauma-bonded obligation to genuine respect.

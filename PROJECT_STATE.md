@@ -19,8 +19,11 @@
 - **Chapter 2 (`chapters/Chapter_02.md`, "The Breach"):** **COMPLETE** (2026-11-20).
   - Re-evaluated and fully rewritten/polished (7,267 words; `sent.py` avg 15.49, max 38, `>45=0`, 184 paras, `>120=0`, 26.6% dialogue, 1.2 dashes/1k, zero `the way`, zero `quietly`, zero `something`, zero `not quite`, zero cross-chapter 6-gram overlaps).
   - Key fixes: eliminated Scene 4 upper-railing-to-lower-deck teleportation (Jake takes the port bridge ladder onto main decking), fixed davit flank-boat staging at ramming speed (`swung on davits` until grounding instead of dragged under full steam), removed invented `"Water Tribe dialect / Fire Nation"` speech lore, restored Sokka's spear-snap + triple-tap forehead beat paying off his staff-poke on Zuko, fixed Aang's age read (`barely twelve`), purged `Appa`/`Wolf Cove` narrator/Jake POV slips, added explicit thawing of the two frozen deck guards (`s01e02`), cut future-tense narrator flash-forward (`"hundred times since"`), and cleared all 38 cross-chapter 6-gram hits + 30 `"something"` placeholders.
-- **Chapter 3 (`chapters/Chapter_03.md`):** **NEXT** — begin Phase A evaluation immediately.
-- **Chapters 4–12:** Pending sequential evaluation/revision.
+- **Chapter 3 (`chapters/Chapter_03.md`, "Ketu Harbor"):** **COMPLETE** (2026-11-20).
+  - Re-evaluated from scratch and substantially revised (7,016 words; `sent.py` avg 15.05, max 42, `>45=0`, 193 paras, `>120=0`, 34.7% dialogue, 0.6 dashes/1k, 1 `the way` in Zhao canon line, zero `quietly`, zero non-canon 6-grams).
+  - Key fixes: fixed Jee's contradictory muster-ledger confession so he logs Jake's real *palace servant name* on Ketu's 31-man roll (`30 sailors + 1 palace servant`) to deflect clerk scrutiny while seeding Ketu archives for Ch 9–10 Zhao dread; restored missing Ep 3 canon beats (Iroh tipping Zhao's spear rack with `"Eh... my fault entirely"`, Zuko's `"I refuse to let him win"`, Iroh shouting `"Basics, Zuko! Break his root!"`, and Iroh catching Zhao's ankle + choking out the flame on his palm/stone before throwing him); fixed arena surface to volcanic flagstones (not sand), clarified `two hundred garrison soldiers` as port spectators vs. 30 crewmen, removed `ozone` anachronisms and Ch 0 cellar-door/split-mouth continuity slips, unified US spellings (`gray`, `harbor`), and eliminated Guide 1 AI tics and cross-chapter 6-gram overlaps.
+- **Chapter 4 (`chapters/Chapter_04.md`):** **NEXT** — begin Phase A evaluation immediately.
+- **Chapters 5–12:** Pending sequential evaluation/revision.
 - **Chapters 13–20:** Pending drafting after Chapters 1–12 stabilize.
 
 ## Locked Orientation Facts (Subject to Merit Review Only When Reopened)
