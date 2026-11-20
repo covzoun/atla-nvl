@@ -16,8 +16,11 @@
 - **Chapter 1 (`chapters/Chapter_01.md`, "The Reality of Exile"):** **COMPLETE** (2026-11-20).
   - Evaluated from scratch and rewritten/polished (7,717 words; `sent.py` avg 15.42, max 35, `>45=0`, 217 paras, `>120=0`, 43.3% dialogue, 1.8 dashes/1k, 3 `the way`, zero `quietly`, zero `not quite`/`something`, zero non-canon cross-chapter 6-grams).
   - Key fixes: aligned ship's company (`two hundred` → `thirty men` / `twenty armed men`) with Ch 3/12, separated 3-year exile vs. 2-year ice hunt, restored canon Pai Sho deck encounter with Iroh (`"I won't get to finish my game?"` and jasmine tea), replaced overnight full-plate armor in Scene 4 with collar-strap load test and racking before sleep, lowered `11 days of coal` exaggeration to `four days of bunker coal` matching Ch 5/11, cleared Year 1 rumor-fear vs. conscious hand-cooling continuity, removed premature `Wolf Cove` / `hundred years` / earth-calendar anachronisms, matched `pale stone` necklace detail, and rebuilt the Wolf Cove Katara interlude post-banishment (`s01e01`/`s01e02` seam) rather than inventing a pre-banishment tent stew dinner with Aang inside.
-- **Chapter 2 (`chapters/Chapter_02.md`):** **NEXT** — begin Phase A evaluation immediately.
-- **Chapters 3–12:** Pending sequential evaluation/revision.
+- **Chapter 2 (`chapters/Chapter_02.md`, "The Breach"):** **COMPLETE** (2026-11-20).
+  - Re-evaluated and fully rewritten/polished (7,267 words; `sent.py` avg 15.49, max 38, `>45=0`, 184 paras, `>120=0`, 26.6% dialogue, 1.2 dashes/1k, zero `the way`, zero `quietly`, zero `something`, zero `not quite`, zero cross-chapter 6-gram overlaps).
+  - Key fixes: eliminated Scene 4 upper-railing-to-lower-deck teleportation (Jake takes the port bridge ladder onto main decking), fixed davit flank-boat staging at ramming speed (`swung on davits` until grounding instead of dragged under full steam), removed invented `"Water Tribe dialect / Fire Nation"` speech lore, restored Sokka's spear-snap + triple-tap forehead beat paying off his staff-poke on Zuko, fixed Aang's age read (`barely twelve`), purged `Appa`/`Wolf Cove` narrator/Jake POV slips, added explicit thawing of the two frozen deck guards (`s01e02`), cut future-tense narrator flash-forward (`"hundred times since"`), and cleared all 38 cross-chapter 6-gram hits + 30 `"something"` placeholders.
+- **Chapter 3 (`chapters/Chapter_03.md`):** **NEXT** — begin Phase A evaluation immediately.
+- **Chapters 4–12:** Pending sequential evaluation/revision.
 - **Chapters 13–20:** Pending drafting after Chapters 1–12 stabilize.
 
 ## Locked Orientation Facts (Subject to Merit Review Only When Reopened)

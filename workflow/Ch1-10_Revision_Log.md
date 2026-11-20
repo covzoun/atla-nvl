@@ -181,3 +181,12 @@ Cycle completion update (2026-10-29): Grok Turns A and C and ChatGPT Turn B comp
   - Rebuilt the Wolf Cove Katara interlude immediately *after* Aang and Appa leave over the ridge into the dark: Sokka drilling young boys outside in seal-fat warpaint, Kanna banking peat coals with hot broth, and Katara grieving `"There goes my one chance at becoming a waterbender"` while gripping her mother's stone pendant.
   - Elevated prose rhythm from `avg=12.5` to `15.42`, eliminated Guide 1 AI tics (`quietly`, `not quite`, `something`, `for a moment`), and cleared all cross-chapter 6-gram collisions (`dupscan.py = 0`).
 - **Metrics (`sent.py` / `metrics.py`):** 7,717 words | 500 sentences | avg 15.42 | max 35 | >45=0 | 217 paras | >120=0 | 43.3% dialogue | 1.8 dashes/1k | 3 `the way` | 0 `quietly`.
+
+### Chapter 2 — "The Breach" (7,267 words)
+- **Why rewritten:** The prior draft suffered from 38 cross-chapter 6-gram repetitions (`dupscan.py`), 30 vague `"something"` placeholders, choppy `avg=13.64` rhythm with screenplay fragments, lower-to-upper-deck teleportation in Scene 4 (Jake watches Zuko from the upper railing, then grabs main-deck grating mid-wave), boats already dragging in the water at ramming speed, invented `"Water Tribe dialect / Fire Nation"` speech lore, dropped Sokka spear-snap/forehead-tap symmetry, `Jake's age or younger` for 12-year-old Aang, narrator POV slip using `"Appa"`, missing guard-thaw beat (`s01e02`), and a future-tense flash-forward violation (`"hundred times since"`).
+- **Key revisions:**
+  - Fixed boat deployment (`swung on the davits` until grounding) and added explicit bridge-ladder descent onto wet main planking before the Avatar State eruption.
+  - Restored Sokka's spear snap and triple forehead tap (*tap, tap, tap*) paying off his later staff-poke against Zuko on the anchor chain, plus fire-brazier thawing of the frozen crewmen in Scene 6.
+  - Removed dialect-lore errors (shared tongue, coastal/Emi cadence instead), fixed Aang's age (`barely twelve`), removed narrator `"Appa"` / `"Wolf Cove"` / `"hundred times since"` POV leaks, and separated 3-year exile vs. 2-year ice clock cleanly.
+  - Cleared all 30 `"something"` placeholders, `not quite`, `for a moment`, `quietly`, and reduced cross-chapter 6-gram collisions from 38 to 0.
+- **Metrics (`sent.py` / `metrics.py`):** 7,267 words | 469 sentences | avg 15.49 | max 38 | >45=0 | 184 paras | >120=0 | 26.6% dialogue | 1.2 dashes/1k | 0 `the way` | 0 `quietly`.
