@@ -1,486 +1,461 @@
 # Chapter 5: The Long Way Down
 
-The coal bunker had stopped echoing when Jake dropped a scoop into it. It rang now, a flat, dull sound against the bare iron floor, and the sound was worse than silence.
+The coal bunker had stopped echoing when Jake dropped a scoop into it. Now the shovel rang with a flat, dull slap against bare iron plate, and that dead sound carried worse than silence.
 
-He stood with the lantern hooked on his wrist and looked at the back wall, where the black had been stacked to the height of his head when they left Ketu Harbor. Now there was a slope of it, sagging and dusty, with the pale scarred plating showing above.
+Jake stood with the brass lantern hooked over one wrist and studied the aft bulkhead. When the ship steamed out of Ketu Harbor, black lump coal had banked all the way to the height of his shoulders. Days of hard coastal running had eaten that stack down to a sagging gray-black slope with pale scraped hull plating showing above it.
 
-Jake wrote the number in the ledger. He crossed it out, weighed the scoop in his hand, and wrote it again with the smaller figure he had first tried to talk himself out of.
+He entered the tonnage in the leather-bound ledger, paused to weigh the iron scoop by hand, and scratched out his own hopeful estimate. Better to write the true, smaller figure now than lie to himself on paper.
 
-The lower hold was cold in a way no other hold on the ship could be. The chill came up through the soles of his boots from the sea on the other side of the hull and settled in the joints of his fingers. Everything smelled of coal dust, cold iron, and the damp wool of the blankets stacked by the ladder, which no one had had the chance to dry in days.
+Cold settled deep down in the lower hold in a way upper decks never trapped. Salt-chilled seawater pressed right through the other side of the steel hull, biting up through boot leather and stiffening the knuckles beneath his gloves. Everything down here tasted of dry coal grit, cold rust, and damp wool blankets piled beside the ladder where stokers snatched broken naps between watches.
 
-Under all of it ran the engines. He no longer heard them so much as carried them. The hum had worked its way up through his heels into his knees and teeth. Every few seconds the drive shaft, the long iron rod that turned the propeller, gave a grinding shudder, like something swallowing wrong.
+Underneath every plank ran the engines. Jake no longer heard their pulse so much as wore it inside his teeth and heels. Every few seconds the drive shaft, the long iron axle carrying steam power aft to the ship's propeller, gave a harsh grinding shudder as though a bearing had swallowed sand.
 
-He set the scoop down and flexed his hands inside his gloves.
+He set the scoop upright against a stanchion and flexed his hands slowly inside Iroh's leather gloves. Deep soreness lived beneath the pale Agni Kai scars rather than along their edges, lingering from days of cold hauling and hard sea work. Salt stiffened the palms where constant scrubbing never quite washed the hide supple again. Pinning the stubby pencil between thumb and forefinger, he waited for the ache to settle around the cedar barrel, then walked down the port aisle to count dry rations.
 
-They ached. They had ached for days, a deep, spread-out soreness that lived below the scars instead of in them, and he had stopped trying to make it go away. The leather was stiff with salt that no amount of scrubbing had gotten out. He pinched the pencil between two fingers and thumb, waited for the ache to settle around the shape of it, and went on counting.
+Sacks of rice stood stacked beside salt fish, shriveled pickled cabbage casks, and two strapped tea chests. Lifting each sack slightly off the dunnage to test its heft, Jake tied the twine fast and balanced column totals across both pages. The dried fish would hold out if the galley stopped soaking double portions ahead of time, and the rice could stretch if upper watches stuck to single bowls. Tea stayed off his ration tally altogether. Those strapped chests lasted exactly as long as General Iroh pleased, and in three winters at sea nobody aboard had ever glimpsed bare cedar at the bottom of Iroh's private tea stores.
 
-Coal first. Then the sacks along the port wall: rice, dried fish, the last of the pickled cabbage, tea. He worked down the line with the ledger propped on his forearm, lifting a sack to feel how much it weighed and tying it shut again. Twice he moved something from one column to another and paused to see whether he'd done it right. The fish would last if the cook stopped soaking it. The rice would last if no one asked for a second bowl. The tea he wrote down and left alone. The tea would last exactly as long as Iroh allowed it to, which was to say, no one had ever seen the bottom of that particular chest.
+Heavy boots grated on the steep iron ladder behind him.
 
-Boots on the ladder.
+Jake kept counting down the cabbage column without turning straightaway. Three years on one small vessel taught a person to name any sailor by boot weight alone, and this tread hit slow and favored the left heel, carrying the unmistakable stiffness of an officer who had stood his bridge watches upright since before dawn. Only after finishing the line did Jake shut the ledger finger-marked and turn toward the lantern circle.
 
-Jake didn't look up right away. He had learned the crew by their steps, and this one was slow, heavy on the left, the tread of a man who had been on his feet since before the watch changed. He finished the line he was writing and then turned.
+Lieutenant Jee stepped off the bottom rung looking ten years older than he had at Ketu Harbor. His broad face had gone clay-gray underneath both eyes, coal grease darkening one forearm above an unfastened uniform cuff. Even his thick sideburns, normally trimmed razor-straight to the corner of his jaw, hung damp with boiler sweat as he tucked his horned helmet beneath his ribs.
 
-The man stepping down into the lantern light was older than most of the crew, close to fifty, with a broad, weathered face gone gray under the eyes. His sideburns were thick and bristling, long enough to reach his jaw, and they were still neat, somehow, even though everything else about him wasn't. The collar of his officer's uniform hung open. There was soot ground into the cuffs and a black smear along one forearm where he had leaned on something he shouldn't have. He carried his helmet under his arm as if he'd forgotten it was there.
+"Lieutenant," Jake said, straightening beside the rice sacks.
 
-"Lieutenant Jee," Jake said, and straightened.
+"Jake." Jee halted three paces inside the pool of light, flicked a glance from the open ledger pages to the bare iron plates behind the coal slope, and let his jaw tighten. "You've weighed it, then."
 
-"Jake." Jee stopped a few paces off. He looked at the ledger, then at the sagging black slope behind Jake, and something moved in his jaw. "You've seen it, then."
+"Finished checking the aft wall just now."
 
-"I'm counting it now."
+"Save yourself the chalk." Jee let out a short, humorless breath through his nose. "Gauge pressure is dropping across the main boiler. Only a hair every watch, mind you, though every stoker aboard feels it in the shaft long before the needle shifts. That iron drum keeps steam pressure alive for the pistons, and my crew has been feeding its grate four hours on and four hours off without a dry shirt between them. Every time two stokers crawl into hammocks, word drops down from the bridge to squeeze two extra knots out of tired coal."
 
-"Don't bother on my account. I could give you the number." Jee laughed, once, without any humor in it. "The pressure's dropping in the main boiler. Not by much. A hair every few hours. The boiler is the iron tank that makes the steam, and the pressure is what the steam is worth, and the men can feel it in the shaft before the gauge shows it. They've been feeding that furnace in shifts of four hours on and no hours off, because every time someone gets to the bunk we get another order to find speed we don't have."
+"I saw the log," Jake said.
 
-"I know."
+"Did you." Jee turned his helmet slowly between soot-stained palms. "Had a fireman drop asleep standing straight up by the furnace door at fifth bell. Fingers locked around a loaded shovel, eyes wide open, snoring into his scarf until I pried the wood out of his grip. Thirty years on Fire Navy iron, and I have never had to catch a standing man before his head hit the firebox."
 
-"Do you." It wasn't quite a question. Jee turned the helmet in his hands. "I've got a stoker who fell asleep standing up this morning. Stood there with the shovel in his hands and his eyes open. I had to take it out of his fingers." He was quiet a moment. "I've served on ships for thirty years. I have never had to do that."
+Jake laid the ledger carefully flat across a burlap rice bag, giving his bruised palms somewhere steady to rest. "Who was it? Did he burn?"
 
-Jake set the ledger down on a sack of rice. He did it slowly, so that his hands would have something to do.
+"Youngest stoker from third watch. Sleeping now, wrapped in dry wool aft." Jee exhaled slowly, shoulders sagging an inch inside his coat. "Whether he bruised his shins isn't the trouble."
 
-"Is he all right?"
+"No," Jake agreed evenly. "It isn't."
 
-"Sleeping. Finally." Jee let out a long breath through his nose. "That's not the point."
+Jee raised sharp gray eyes straight to Jake's face, waiting for the easy loyal excuses officers traded when orders went sour. Jake gave him none. He didn't repeat that Prince Zuko carried royal authority, nor claim that chasing every scrap of rumor brought home an airbender faster. Both men heard the iron drive shaft shudder again beneath their boots, rattling the lantern glass softly against Jake's wrist before settling back into its uneven drone.
 
-"No," Jake said. "It isn't."
+"Every dark cloud on a fishing bank," Jee murmured, dropping his voice low enough that the shaft swallowed its edges. "Every half-blind junk skipper who swears he spotted horns or white wings above a reef. We swing thirty men and three hundred tons of steel on a dime, steam hard through cross-seas all afternoon, and run down an empty cliff or a whale breaching at dusk. Half the time the navigator marks a pencil line just to keep ink on the chart. I am not speaking disrespect against Prince Zuko."
 
-Jee's eyes came up to him, sharp, and Jake held them. He didn't say *the prince has his reasons*, or *we all want the same thing*, or any of the other things a person could say that meant *be quiet*. The engine gave another grinding shudder through the deck, and both of them waited it out.
+"I know you aren't."
 
-"Every shadow on the horizon," Jee said, quieter now. "Every fisherman who says he saw something big in the clouds. We turn the whole ship. We run hard for a day. We find a cliff, or a whale, or a man with a bad memory, and then we turn again. I've stopped asking the navigator for a heading. He doesn't have one. He has a rumor and an order." He rubbed his face with his free hand and left a gray smudge along his cheekbone. "I'm not saying this to insult the prince."
+"I am saying this hull isn't hammered out of stubbornness."
 
-"You aren't."
+Every word struck true, sitting cold and heavy inside Jake's ribs like swallowed stones. He looked back at the bare gray wall above the coal heap, at the brass oil flame trembling beside his elbow, and pictured a stoker propped upright over glowing grates by nothing but habit.
 
-"I'm saying the ship is not made of will."
+"The coal tally's worse than your boiler pressure," Jake said.
 
-Jake nodded. It was true, and he did not want to pretend otherwise. The blackened floor plates. The shaft that shook the lantern on his wrist. The stoker asleep on his feet. Every part of it was true, and it settled into his stomach one piece at a time, a cold weight, like swallowing stones.
+Jee's scarred brows pulled together. "How much worse?"
 
-"The coal's worse than you think," he said.
+"Eleven days steaming at cruising speed along fair currents." Jake tapped the ink figure once with his pencil eraser. "At the pace we've burned since Kyoshi Island, we have five days left. Maybe six if tailwinds hold behind the stern and the cook quits wasting kettle water."
 
-Jee's brows drew together.
-
-"At cruising speed we have eleven days. At what we've been doing, five. Maybe six if the weather stays behind us." He watched the number land. "The dried fish is fine. The rice is thin. If the cook stops soaking things, we can stretch it."
-
-"Five days." Jee said it flat.
+"Five days," Jee echoed flatly. "Out of Ketu Harbor less than two weeks."
 
 "Five."
 
-"And he doesn't know."
+"And the prince hasn't seen that page."
 
 "Not yet."
 
-For a moment Jee just stood there, breathing, the lantern light catching the gray in his sideburns. Then he laughed again, softer, and shook his head. "You're telling me first. I'll say this for you. You're the only one who ever does."
+Jee stood still in the stale cold below decks, chest rising once before he shook his head with a flat, tired grin. "You come straight out with numbers, boy. Half the petty officers in this navy would pad a quarter ton rather than climb that ladder with bad news. You're the only one aboard who tells me true before locking the ink."
 
-Jake didn't answer. He picked up the pencil and turned it end over end between his gloved fingers, because turning it was better than standing still.
+Jake spun the pencil end over end between stiff gloved fingers, keeping his eyes down on the leather spine rather than accepting praise he hadn't earned. "I'm taking it upstairs as soon as we finish here."
 
-"I'll tell him," he said.
+"And what happens when you lay five days across his chart table?"
 
-"Will he listen?"
-
-"He'll shout first." He said it without thinking, and then stopped, and heard how it sounded. "That isn't— I only mean, it will take him a moment. He'll listen after."
+"He shouts first." The words slipped free before Jake weighed them, and he paused, hearing the plain honesty underneath. "Then he kicks a stool or clears the map table. After his breath settles, he listens."
 
 "After he shouts."
 
-"Yes."
+"Usually."
 
-Jee's mouth twitched. It wasn't a smile, but it was close to one. "You'll excuse me, Jake, if I don't envy you."
+A brief twitch tugged one corner of Jee's mouth, too grim for humor yet near enough to kinship between tired watch-keepers. "Then I won't crowd you on the ladder, Jake. Have fun up there."
 
-"I'd rather you didn't." Jake tucked the pencil into the ledger's spine. "Tell the men the furnace goes to three-hour shifts as of the next watch. I'll have the mess bring hot rice to the boiler room instead of making them climb for it. And no one takes a double. If someone sleeps on their feet again, wake him and send him to me."
+"You won't wait long." Jake slid the pencil back into the ledger sleeve and tucked the heavy book under his left arm. "Cut the furnace gangs to three-hour watches starting at noon bell. I'll send mess boys down the hatch with hot rice and salt pork so stokers eat beside the vents instead of climbing four ladders for broth. No double turns, even if bridge bells ring for flank speed. Next time a man sways on his shovel, pull him clear and send word to me."
 
-Jee's eyebrows rose. "Those aren't the prince's orders."
+Jee's eyebrows climbed slightly beneath damp bangs. "Three-hour shifts aren't Prince Zuko's standing watch."
 
-"No," Jake said. "They're mine."
+"No," Jake said calmly. "They're mine."
 
-He heard the shape of it as it left his mouth, and he waited for Jee to argue, or to laugh, or to point out what a servant's orders were worth. But the older man only looked at him a long moment. Then he settled his helmet under his arm and gave a small, tired nod. It was a nod between people who knew who would be blamed if this went badly.
+Silence stretched thin inside the low bunker while both men measured the weight of a servant handing watch orders to a commissioned lieutenant. Neither blinked. Under three years of salt and shared danger, rank mattered only as far as it kept thirty men breathing and thirty tons of coal burning clean. Jee tucked his helmet tighter under his elbow and dipped his chin once.
 
-"Three hours," Jee said. "I'll see it done."
+"Three-hour watches," Jee agreed evenly, though his tone carried iron. "I'll tell the chief engineer before noon."
 
 "Thank you, Lieutenant."
 
-"Don't thank me. Just get him to slow down."
+"Don't thank me. Persuade the boy to ease off the throttle before he snaps our propeller axle in half."
 
-He climbed the ladder with the same heavy tread as before, favoring the left foot, and the hatch cover clanged shut behind him. The cold, which had gone somewhere while they talked, came back into the hold all at once.
+Jee climbed rung by rung up the vertical shaft, boots thudding steady until the overhead hatch dropped shut with a dull clang. Once the door sealed, damp chill reclaimed every corner of the hold as though body warmth had never touched it.
 
-Jake stood a while longer with his hand on the sack of rice.
-
-Then he opened the ledger and did the sum again, as he had done it twice already, going down each column and touching each figure with the pencil. Five days. Six with luck. The arithmetic did not change. It didn't shout or slam its fist against a rail. It was a small, cold, honest thing, and if he kept his eyes on it, he didn't have to feel how tired he was.
-
-When he was done he blew on his fingers, closed the ledger, and tucked it under his arm. The lantern swung as he took it off his wrist. The shaft groaned somewhere in the dark behind him.
-
-He went up the ladder one rung at a time, the leather creaking around his knuckles, toward the grey light and the bridge and whatever the prince had found to be furious about while he was gone.
+Jake lingered a hand's span beside the rice stack, ran one gloved thumb along the ink column one last time, and lifted the lantern clear. Five days didn't argue, threaten, or care how desperately a sixteen-year-old prince needed home. Numbers stayed dry and patient until the bin scraped empty.
 
 ---
-The bridge door stuck, as it had since Ketu Harbor, and Jake had to put his shoulder into it. The cold came in with him. The bridge was the one place aboard where the wind was allowed inside, and it found every gap in the frame and ran along the floor. The windows were streaked white with salt. Beyond them the sky was the color of old pewter, heavy and low, and the coast was a long dark smear under it.
 
-He had the ledger against his ribs and the first sentence ready. *Five days, Prince Zuko, at the pace we've kept.* He had worked out where to put the pause after it.
+Cold spray drove needles straight through the sticking bridge door when Jake leaned one shoulder into its warped latch.
+
+Even sealed tight, the small armored wheelhouse stayed colder than any bunk below. Wind found every salt-rimmed seam along the steel casements, skimming over plank decking in icy drafts while greasy streaks across the forward panes smeared the horizon into pale pewter. Beyond the glass, the Earth Kingdom shoreline unrolled as a jagged black tooth-line under sagging storm cloud.
+
+Jake hugged the ledger tight inside his coat and rehearsed the cleanest opening line he could build. *Five days at this speed, Prince Zuko. Either we trim three knots or we drift off a hostile reef before next week.*
 
 "*Sighting!*"
 
-The shout came down the voice pipe from the crow's nest, cracked and too loud in the small space. Every head on the bridge turned toward the brass mouth in the wall.
+The lookout's screech blasted straight down the brass voice pipe beside the compass housing, tinny and loud enough to jolt every watchman upright.
 
-"Large white shape, bearing east-northeast! Airborne! It's heading into the inlet, sir. It went into the cliffs!"
+"White shape, bearing east-northeast! High off the water, heading straight into the headland cliffs!"
 
-Nobody breathed.
+Air froze inside the small room.
 
-Then Zuko was moving. He had been standing at the chart table with both hands flat on the wood, and Jake had seen him from the doorway, the set of his back, the shadows under his eyes gone to bruises. He had not slept properly in days. Now all of that dropped away at once, like a cloak. He crossed to the glass in three strides and pressed one palm against it, and the salt streaks fogged white around his fingers.
+Zuko stood hunched over the chart table behind Jake's elbow, ink smudges blackening his wrists and bruised hollows dug deep beneath both eyes from three sleepless nights. The instant those words cleared the brass tube, fatigue peeled right off his shoulders. He crossed four paces to the fogged bridge glass in two long strides and planted one bare palm hard against cold salt crust, leaving cloudy steam around his spread fingers.
 
-"Where?" He wasn't asking anyone in particular. "Where, *where*—there. Helm! Bring us about. East-northeast. Now."
+"Where?" His voice cracked sharper than iron. "Helm! Bring us about right now. Hard east-northeast!"
 
-"Sir." The helmsman was a young man with a wide, frightened face, and he threw his weight into the wheel before he'd finished the word. The deck began to lean.
+"Aye, Prince Zuko." The young steersman threw his whole weight onto the brass spokes before Zuko finished barking the bearing. Deck plates canted steeply beneath Jake's boots as the rudder bit into dark cross-swell.
 
-"Full speed."
-
-"Prince Zuko."
-
-The voice came from behind Jake. He heard the door scrape and boots on the plating, and Lieutenant Jee came past him, still flushed from the ladder, his helmet gone and his sideburns damp with the cold. He stopped just inside the room and drew himself up. It cost him something to do it. Jake could see that.
-
-"Sir, with respect, that inlet isn't on any of our charts."
-
-Zuko turned his head. He didn't turn his body. It was a small movement, and every man on the bridge felt it.
-
-"The shore's all reef and current from here to the point," Jee went on. He was speaking carefully and quickly, as a man does who knows he has one chance to get through a sentence. "I've watched it for the last hour. We take that narrows at full speed with the boiler like it is, the shaft will shear. If it doesn't, the hull will. We'll be sitting on the rocks with no engines and a hundred and forty men."
-
-"Are you telling me," Zuko said, "that we let it go."
-
-"I'm telling you the ship—"
-
-"A *shape*, Lieutenant. In the air. It's white. It's going into the cliffs." His voice had risen without his seeming to notice, and the words came faster with each one. "I have lost him twice. Twice. I had him on the deck of this ship and he—" He stopped. His mouth worked. "And you stand there and tell me the engines are *tired*."
-
-"Sir—"
-
-"You are a coward."
-
-"I am not—"
-
-The air changed. Jake felt it on his face before he saw anything, a dry pressure, as if someone had opened a furnace door a foot away. A faint shimmer stood around Zuko's hands. The salt on the glass beside him began to crackle. Jee's eyes went to it and he took a half step backward, and the helmsman, without turning around, ducked his head between his shoulders.
-
-Jake was already crossing the floor.
-
-He didn't decide it. His feet went, the ledger still under his arm, and by the time he understood what he was doing he was standing between them, close enough to Zuko that the heat pressed against his cheeks and the inside of his gloves prickled. His scars woke with a slow, deep throb. He kept his hands loose at his sides. He kept his voice low.
+"Full steam ahead. Tell the furnace room I want everything the boilers hold."
 
 "Prince Zuko."
 
-Zuko's gaze flicked to him. It was hot and unfocused, the gaze of a man looking at three things at once, and for a moment Jake wasn't sure it had landed. He held it. He didn't step back. He knew from long experience that stepping back was the thing that made it worse.
+Steel scraped behind Jake's shoulder as Lieutenant Jee hauled the sticking hatch wide and stepped over the raised coaming. Soot still blackened his cheekbone, and cold sweat glistened above his collar where he had hurried straight up two ladders from the hold. Stopping squarely beside the chart chest, Jee braced his heels despite the lean of the deck.
 
-"We take it," Jake said. "You're right. We go in now, before he clears the cliffs."
+"With respect, Prince Zuko, those cliffs aren't sounded on Fire Navy charts."
 
-Behind him, Jee drew a sharp breath. Jake kept his eyes on Zuko's.
+Zuko turned only his head, golden eyes hot enough to make every sailor by the binnacle keep his gaze glued downward on the compass dial.
 
-"But we take the narrows at half speed."
+"The whole point bristles with blind reefs and ripping shore currents," Jee pressed steadily, speaking fast like a man trying to outrun thunder before it cracked. "I checked those headlands through the spyglass an hour ago. Push our cracked drive shaft through narrow rocks at flank speed and either the axle snaps clean or shoal granite rips our bottom wide open. We will sit stranded inside hostile Earth Kingdom water with flooded engines and thirty men waiting to drown."
 
-"No."
+"Are you telling me," Zuko said softly, danger flattening every vowel, "to let the Avatar fly away?"
 
-"If we open the hull on a reef, we can't follow him when he flies out the other side."
+"I'm telling you this vessel cannot survive—"
 
-Zuko's mouth opened, and the word was ready, and it stayed there.
+"White wings in coastal fog, Lieutenant! Going straight into the rocks!" Zuko's pitch jumped unchecked, words piling hard atop one another as his fingers curled tight against the steel sill. "Twice I had him within reach! I stood three paces from him on the ice, and twice he slipped right through my crew's hands! Now you climb onto my bridge to whine that iron engines need *rest*?"
 
-The shimmer around his hands wavered. Outside, a gull cried and was gone. Jake could see the argument in him, all of it, the fear underneath it, the small hard voice that said *slow is losing*. He watched it go around once and come to the same place. Jake didn't say anything else. Anything else would be an order, and Zuko would not take an order from him. He had learned to give the prince a door and then be quiet while he walked through it.
+"Sir, my boilers—"
 
-Zuko turned his head away. It was the look of a man being made to look at something he already knew.
+"You are afraid to steer into weather."
 
-"Half speed through the narrows," he said, to the helmsman, and the words came out rough. "Full once we're clear. The moment we're clear."
+"I am no coward, Prince Zuko—"
 
-"Yes, Prince Zuko!"
+Heat slammed through the closed wheelhouse like an unlatched furnace door. Dry pressure prickled instantly across Jake's cheeks while faint orange shimmer rippled along Zuko's clenched knuckles, hissing against wet frost crusted along the brass window frame. Jee stiffened, biting down on his jaw without retreating an inch, while the steersman ducked low between his shoulders without daring to pull his hands off the spokes.
 
-"And someone get the lookouts doubled. I want eyes on every rock in that channel."
+Jake stepped neatly forward into the three-foot gap between officer and prince before Zuko's breath caught for flame.
 
-"Yes, sir!"
+Holding the coal ledger pinned silently against his ribs, Jake stopped close enough that dry heat prickled straight through soaked glove leather and woke the deep ache along his palms. He kept both hands hanging loose outside his coat, meeting Zuko's furious gaze levelly without stepping back a single inch. Years on board had taught him that flinching only gave Zuko's temper room to swell.
 
-The heat went out of the air by degrees, as a stove cools when the door is left open. Zuko stood with his hands at his sides and his back rigid, and Jake became aware that his own heart was hammering, and that it had nothing to do with the prince. It was the coast. It was the dark line of the cliffs growing in the windows and the water the color of slate below them, broken, white where it hit stone. He had seen the swells from the deck yesterday. He had seen what the current did to driftwood. He set all of that down somewhere behind his ribs and let his face stay still.
+"We go in," Jake said steadily, pitching his voice underneath the wind. "You're right, Prince Zuko. No turning away if he's tucked behind that cliff."
 
-"Thank you, sir," Jee said, to the room, not looking at anyone.
+Behind him, Jee drew one sharp, bitten-off breath. Jake didn't flicker a glance back toward the door.
 
-Zuko said nothing. He was already at the glass again, watching the cliffs come on.
+"Half speed until we clear the channel mouth," Jake added without sharpening his tone. "Drop the engine stroke just while we pass between the rocks. If granite opens our hull in the narrows, we can't chase him once he lifts out the far side."
 
-The deck heeled as the ship banked toward the coast, and the ledger slid against Jake's arm. He caught it. The sky was darkening now, the pewter going to slate, and the cliffs had teeth. They stood in a jagged line along the shore, pale where the spray had washed them, black where it had not. Between two of them there was a gap so narrow that Jake had to look twice to believe it was a channel at all.
+Zuko's lips parted on an angry refusal that caught half-formed behind his teeth.
 
-Fog lay inside it like wool in a jar.
+Orange heat wavered around his fingers while cold gray fog swept past the salt-smeared panes outside. Pride warred visibly across Zuko's scarred face against hard, ugly fear. Jake recognized the panicked dread whispering that slowing down by two knots meant losing his birthright all over again. He held his tongue, offering no second argument. Giving orders invited defiance, while leaving Zuko one open doorway let the boy walk through it on his own name.
 
-"Steady," the helmsman muttered, to no one. "Steady, steady."
+Zuko tore his stare away from Jake toward the darkening coastline ahead.
 
-The ship slid into the gray. The last of the light went out of the windows, the cold came in at the seams, and somewhere below them, in the dark, the engines began to labor against the current.
+"Half speed through the mouth," Zuko snarled at the helm, every syllable scraped raw off pride. "Full stroke the instant those walls widen out. Double the bow lookouts and put lead-line men on both chains right now."
 
----
-The fog closed over the bow and took the coast with it.
+"Aye, Prince Zuko!"
 
-Jake stood at the port rail with his gloved hands on the wet iron and could not see the far end of his own arm's reach without squinting. The cold had a texture in here. It beaded on his lashes and on the rope coils and the rail, and where the wind drove spray against the deck it froze in thin gray sheets that skated under his boots. Somewhere ahead and to either side the sea was working at the cliffs. It was a long wet roar with a boom in it, and the sound came from everywhere at once.
+Furnace pressure drained back out of the cabin bit by bit as Zuko turned both shoulders hard to the forward glass. Under Jake's coat, his own pulse hammered tight against his collarbone. Not from Zuko's half-lit flame, which he had stood beside for three years, but from the ragged tooth-line of wet granite looming higher past the bowsprit. Yesterday he had watched coastal swells smash oak driftwood into splinters along this cape. Pushing sixty feet of iron hull into an uncharted cleft felt like threading a sewing needle in the dark.
 
-Below the deck, the engines had dropped to a slow, grudging beat. Half speed. It felt slower than that.
+"Thank you, Prince Zuko," Jee murmured evenly to the deck planks before turning aft to relay the lookout order.
 
-At the bow, Zuko stood alone.
-
-He had planted himself at the very tip, one hand on the forward rail, leaning into the fog as though it could be pushed aside. He wasn't shouting orders. Jake had half expected he would, and it unsettled him more that he wasn't. The prince stood with his head tipped up and his eyes searching the gray for a white shape, a wing, a shadow, anything. The sleeves of his coat were dark with damp. He hadn't shaken the spray from his hair. He looked like someone who had forgotten he had a body.
-
-*Half speed.* Jake let himself look away from the bow. The water. That was the thing to watch. He stared down the port side, into the churn, and let his eyes go soft and searching, as Iroh had taught him to watch a room for the man who would throw first. Swells came under the hull and moved on. Foam scattered. A slick of green weed rose and fell.
-
-"Depth's shelving!" a lookout called from the rigging, somewhere above the fog. "Twelve fathoms. Eleven!" A fathom was a man's reach, his two arms, six feet. Jake heard the number drop and understood that the water under them was going from deep to shallow faster than any chart allowed.
-
-"Hold the line," someone answered. It was Jee's voice, gone thin and flat down the voice pipe on the mast. "Hold it."
-
-Eleven. Ten.
-
-The swell changed.
-
-Jake felt it before he saw it, a shift under the keel, as if the sea had drawn a breath and was deciding what to do with it. The water on the port side was moving the wrong way. It slid inward, toward the ship, gathered, and slid back with a flat sucking sound, and past the rail a pale shape rose out of the gray.
-
-It was a tooth of black stone, ragged and streaming, thrusting up through the surf not forty feet off the port bow. Then, behind it, another. And a third that did not break the surface at all, and only showed in how the water piled up around it.
-
-"*Reef!*" Someone screamed it. "Port bow, reef—"
-
-"Wheel hard right!"
-
-The helmsman threw the wheel. The whole ship groaned with it, a long metal complaint through the hull, but the bow was heavy and the current was setting west, straight onto the stone, and it did not turn. Jake watched the black tooth come on. He did the arithmetic without meaning to. It was easy arithmetic. Forty feet. Thirty. The current pushed the bow sideways in a slow, inevitable slide, and the hull would meet the rock along the scarred old plating at the rear, where the ship was weakest.
-
-Nobody was going to get to it in time. Not with a wheel. Not with rope.
-
-He was moving before the thought finished.
-
-Jake pulled off the glove nearest him, no, that wasn't right, he left the gloves where they were. The leather would only slow him. It would only matter in front of strangers, and there weren't any. He went down into a crouch on the ice, narrow-footed, weight forward, one hand out over the rail and the other tucked back against his ribs, and reached for the sea.
-
-It came up to him like something that had been waiting.
-
-The water off the port side lifted in a long, grey ridge. It wasn't a wave. Jake didn't let it become one. He drew it toward himself and then let it out again, shaping it as it rose, a dense, heavy cushion sliding into the gap between the hull and the reef. His arms swept in a tight arc. His back foot slid on the ice and he caught it and shifted, and the ridge grew, and thickened, and pressed.
-
-The bow met it.
-
-The impact went through his arms and shoulders like a fist. The cold seawater bit through the leather and into every scarred line of both palms, and pain flared up his forearms, but the water held. The hull leaned against it as a boat leans against a dock, and the cushion swelled between iron and stone and *pushed*. He gave it everything he had and then more, the water pressing back at the ship's weight, the ship's weight pressing against him. The bow began, slowly, to turn away from the reef.
-
-The ship shuddered. Rivets shrieked. Somewhere below decks a man cried out and something heavy fell.
-
-Stone scraped iron. Jake heard it, a long, tearing note that seemed to go on through his teeth, and for a moment he was sure they had struck, that he had failed and the hull was opening. He drove his back foot into the ice and pulled the water in tighter, and another pulse ran up both arms, and the sound stopped.
-
-The reef slid past the port side. Inches. A hand's breadth, no more, of black water between the hull and the stone. He could have reached out and touched the weed on it.
-
-Then it was behind them.
-
-Jake let go.
-
-The cushion collapsed into the sea. The strength went out of his legs so quickly that he stopped thinking and only clung, hands on the rail, forehead almost touching the ice. Spray hit him in the face. His arms were trembling from the shoulder down. His hands throbbed inside the gloves in slow, heavy beats, the ache so deep it seemed to belong to the bone, and his breath came ragged and loud in his own ears. He stood in it for as long as he could afford. Then he pushed himself up.
-
-Nobody on the deck was looking at him.
-
-They were looking very carefully at other things. The rigging. The wheel. The lines. A sailor near the mainmast had his hands full of frozen rope and was working at it with great attention. Another had gone back to sounding with a lead-line, calling the depth in a low, steady voice. There was a silence around Jake that everyone had agreed to keep. He felt it settle on him, the way a blanket is put over a sleeping man, and for a moment it was almost harder to bear than staring.
-
-He looked toward the bow.
-
-Zuko had turned his head.
-
-He stood at the forward rail with one shoulder drawn around, and his eyes had found Jake through the fog. His face was gray with cold, and the scar around his eye stood out dark against it. He looked at Jake bent over the rail with his hands shaking. Something moved in his expression, a flinch or a question, gone before Jake could name it. Then the ship's bow lifted on a new swell, and the fog shifted in front of them, and Zuko's head turned back.
-
-He stared into the white again.
-
-Jake straightened. His knees hurt. He worked his fingers inside the gloves, one at a time, felt them answer, and put one hand on the rail. The next rock would come. He could feel it in the way the water was moving, the sullen pull of the current along the cliffs. He found his footing on the ice and set his feet. His hands could hold for one more.
-
-"Fathoms?" he said. It came out hoarse.
-
-"Nine," the man with the lead-line said. "Eight, sir. It's opening."
-
-It was. The roar of the surf dropped by a degree, then another, and the walls of stone drew in on either side, close enough now that Jake could see the wet gleam of them through the gray. The channel narrowed to a single black throat, and the ship slid through it with a foot to spare on either side, silent and dripping. Then the walls fell away, and the water flattened, and the fog thinned and held.
-
-They had come into a cove. It was small and round and still, sunk in a bowl of pale cliff, and the ship drifted into the middle of it and lay there with the engines muttering under her, while the last of the spray came down like rain.
+Zuko offered no reply, one palm resting pale against salt glass as the bow swung straight toward a narrow cleft choked thick with white sea mist.
 
 ---
-For a while nothing moved in the cove but the water.
 
-The ship drifted on the last of her way and slowed, and the engines dropped to a low, shivering idle. The fog stayed thick at the waterline and thinner above, hanging in slow gray curtains against the cliff. Jake found the rail by feel and held it. His arms were still unsteady, and he kept them close against his sides until they stopped.
+Fog swallowed the bowsprit first, then erased every yard of shore behind them.
 
-Nobody spoke. Men stood at their stations with their heads tipped back and the cold on their faces. Somewhere a rope creaked. On the port side the lead-line splashed and was drawn up again, dripping.
+Jake gripped the port iron rail amidships, blinking cold salt droplets from his lashes while icy mist beaded gray across hemp coils and stanchion hooks. Wherever spray slapped the steel gunwales, seawater froze fast into glassy black sheets that slid traitorously under leather boot soles. From every side at once came the heavy, hollow boom of swells pounding invisible stone walls.
 
-At the bow, Zuko had not moved.
+Below deck, the main engines eased down into a slow, reluctant thump that rattled Jake's soles far less than flank speed, though the prow still carved forward too fast for blind channel water.
 
-The curtains stirred. A breeze had found its way in over the cliff, and where it touched the fog the gray drew apart and rolled up into the rock, and behind it, high on the pale wall, something white was moving.
+Out at the sharp peak of the forecastle stood Zuko alone.
 
-It was large. That was the first thing Jake saw, and it caught at him before he could stop it. A vast pale shape lay along the cliff face, broad and slow, and its edges shifted and rippled as if the body of it were breathing. There were curves in it that could have been a flank, a shoulder, the swell of a great shaggy back. It rose and settled. It was white, all of it, a dirty, streaked white, like fur that had been through weather.
+With one gloved hand locked tight onto the forward stay-iron, Zuko leaned past the stem into wet fog as though his glare alone could slice mist off rock. He shouted zero commands now, which tightened Jake's stomach worse than yelling ever did. Hair plastered wet against his temples, wool sleeves black with salt soak, the sixteen-year-old looked hollowed down to bone and hunger. His eyes stretched wide toward empty white air for any shadow of fur or folded wing.
 
-"*There,*" Zuko whispered.
+*Watch the water,* Jake told himself, turning his shoulders squarely over the port bulwark. Looking up into gray mist only fed panic. Water never lied when stone hid below its skin.
 
-He had leaned out over the rail. His whole body strained toward the wall, one hand clenched in the ironwork, and the word came out so quiet and so raw that it did not seem meant for anyone. Jake had heard him say things in his sleep in that voice. He had not heard it awake in three years.
+He fixed his eyes down along the dark green chop rolling past the iron plates, letting his focus widen as Iroh taught him to scan a crowded courtyard before trouble broke. Thick olive weeds tumbled upward and sank. Cold foam streaked past riveted iron, swift and oily smooth where deep water still held under the keel.
 
-Then the wind turned, and the fog fell back, and the shape came apart.
+"Twelve fathoms!" sang the leadsman perched forward along the chains, shouting up through damp fog from six-foot arm-lengths of knotted cord. "Eleven! Dropping fast!"
 
-It was birds.
+"Hold steady on the spokes!" Lieutenant Jee barked down through the mainmast voice tube, voice tight and thin against surf roar. "Give her nothing to drift on!"
 
-Thousands of them, packed into the ledges of the cliff so tightly that the rock itself had vanished under them. Seabirds, white and grey, sitting shoulder to shoulder in their rows, shifting and resettling in the wind. Their droppings streaked the pale stone in long yellowish runs, and the grey shadows between the ledges had made the joints and folds Jake had taken for a body.
+Ten fathoms. Nine.
 
-Where the mass had seemed to breathe, gulls were jostling for a place. Where it had seemed to rise, a wave of wings had lifted and settled. It was a cliff. It was a very ordinary cliff, and the smell of it reached the ship now, sour and fishy and thick.
+Under Jake's boots, the deep swell altered pitch.
 
-The silence went on.
+He felt it through his soles half a heartbeat before his eyes caught the boil. A sudden flattened drag pulled under the port bilge as though unseen mouths beneath the keel had sucked breath inward. Along the ship's left flank, green current curled sideways instead of streaming aft, slurping backward before white foam split around a ragged black fang barely forty feet off the port bow.
 
-Jake watched the back of Zuko's neck. He watched the prince's shoulders, which had gone up and locked, the lines of the coat drawn tight across them. Zuko's hand had come away from the rail. It hung open at his side, and the fingers were not quite steady, and his breath had begun to come in short, harsh drags, each one louder than the last. He had not looked around. He didn't seem to know there was anything to look around at.
+Behind that first pinnacle lurked a second submerged spike where gray chop bunched high and oily without breaking.
 
-The air around him shimmered.
+"*Reef!*" the bow lookout shrieked. "Dead off the port bow, reef right under us!"
 
-Jake knew that shimmer. He had seen it on the bridge, only it was worse now, wider, and it reached across the deck and touched Jake's face and hands, and the ice near the bow began to hiss and run. A sailor near the mainmast took two quick steps back. Another crouched behind a coil of rope.
+"Hard starboard! Full wheel!"
 
-Zuko's arms came up.
+Wood spokes blurred as the helmsman threw every pound onto the helm. Iron groaned from stem to rudderpost, complaining bitterly along strained frames, yet thirty-knot shore current shoved the slow iron nose steadily sideways toward jagged basalt.
 
-Flame caught in both palms, a fierce orange-white that flared before it settled, and his feet shifted on the wet iron into the stance Jake had seen him take a hundred times. He drew in a long, shuddering breath. His chest swelled with it. The whole line of his body pointed at the cliff, at the birds, at the blank white wall that was not what he wanted it to be.
+Jake measured distance flatly without pausing to hope. Thirty-five feet. Twenty-eight. Shore set drove them broadside straight toward the scarred aft belly plate where Ketu Harbor's yard hands had only stitched cold patches over ice damage.
 
-There was so much fire gathering that it bent the fog. It would take the rigging. It would take the deck, and set the cargo alight, and it would burn upward through the rock, up and up into the night, where any patrol for a day's ride could see it.
+Rudder wouldn't swing forty tons clear in five heartbeats. Neither would pike poles nor stern anchors.
 
-Jake was already crossing the deck.
+Jake moved before thought finished forming.
 
-He did not run. He found afterward that he didn't remember crossing it at all, only the ice going by under his boots and the heat growing on his face. He stepped in from the side, directly into the space between Zuko and the cliff, close enough that the flame lit the inside of his sleeves. He took Zuko's wrists in both hands.
+Old palace caution tugged once at the thumb of his left glove before common sense killed the habit cold. Bare scarred skin wouldn't survive scraping icy iron rails if the ship rolled, and every sailor staring horrified over the gunwale had already seen what hid under his cuffs at Wolf Cove and on deck.
 
-The leather of his gloves went hot at once. The heat came through, into every scarred line on the undersides of his palms, and a hard bright pain went through both hands as if he had closed them on a coal. He tightened his grip. He pulled the wrists down, steadily, with all the weight he had, and the stance broke. The flame guttered and lurched sideways and roared skyward in a thin useless sheet.
+Leaving both wet leather gloves strapped tight, Jake dropped into a narrow crouched stance along iced planking. He bent his front knee deep, braced his right hand low near his belt, and reached left past the rail toward black surf.
 
-"Stop," Jake said.
+The cold sea answered like muscle remembering an old pull.
 
-He said it low. He did not raise his voice, and he heard how steady it sounded, steadier than he was. "If you burn out the engines, we lose him forever. If you burn the ship, it's over."
+Off the ship's port shoulder, green water thickened silently upward. He raised no showy breaking wave that might slap deck rails or blind lookout eyes, instead swelling a dense wall beneath the waterline. Sweeping both gloved palms in one tight circular draw, Jake gathered deep ocean weight between iron plating and wet basalt, packing fluid pressure tighter until the surge pushed outward like wet oak timber.
 
-Zuko fought him.
+Iron bow met liquid wedge.
 
-It was a quick, hard wrench, a whole body turning against the hold, and it nearly took Jake off his feet. The muscles in Zuko's forearms were like cable. His face was inches away, and the eyes in it were wide, and wild, and did not see him. They had the look of an animal in a trap. His mouth was open. His breath rasped, and the fire in his palms flickered and spat.
+Shock slammed straight up Jake's wrists, shoulders, and spine like an oar handle jabbed hard into his ribs. Freezing saltwater soaked instantly through stitched seams, driving stinging ice deep into every pale scar line across both palms. He bit down hard on the inside of his cheek and sank three inches lower onto sliding boot heels. There he held the dense water pillow jammed flat between two unyielding masses: steel hull sliding left, sea stone thrusting straight up from the dark.
 
-Jake did not let go.
+For three endless seconds, the ship tilted against his arms. Rivets shrieked along the bow plates. Somewhere down in the galley, tin pots crashed loudly across iron grating while a sailor yelped near the main hatch.
 
-He kept his eyes on Zuko's and held him, and the heat went on burning through the leather into his skin. He thought, very clearly, *it's only my hands.* He thought nothing else.
+Rock kissed the lower hull with one long, teeth-jarring grind that set every spine tingling from stem to stern. Fear kicked sharp under Jake's breastbone that he had torn her open. He planted his back boot against a steel scupper, hauled both wrists inward toward his chest, and shoved one final pulse straight outward beneath the keel.
 
-A second passed. Then another.
+The scraping stopped.
 
-The fight in Zuko's arms began to change. It slowed. The wildness in his face went ragged around the edges. Something reached him, the pressure on his wrists, the voice, the smell of scorching leather, and his eyes found Jake's and focused, all at once, like a hand closing. The flames went out in his palms. They didn't fade. They simply stopped, and the light went with them, and the cold rushed back in.
+Black basalt slid clear along the port waterline with barely a hand's span of boiling white foam left between barnacled rock and red hull paint. Jake could almost have stretched one finger down past the stanchion and brushed wet kelp off the stone shelf.
 
-Above them the cliff exploded.
+Then sharp current swept the spire safely astern into white fog.
 
-The birds went up all at once, thousands of them, in a single thundering roar of wings and shrieks that filled the cove from wall to wall. They boiled off the ledges in a white storm and wheeled over the ship and the water, a torn and shrieking cloud, and the noise of it seemed to go on and on. Feathers drifted down onto the deck. A gull passed low over the bow, screaming, as if it had something to say to them.
+Jake released his hold on the bay.
 
-The smell of the fire hung under it, sharp, like the air after lightning.
+Water slumped flat back into natural chop, and strength drained straight out of both knees at once. He caught the cold iron top-rail with both soaked gloves, hanging his forehead inches off icy metal while sea spray stung his salt-chapped cheekbones. Both forearms shook violently from shoulder socket to wrist bone; dark red throbs beat straight down into his knuckles in heavy, sick pulses. He stayed doubled over the cold pipe as long as pride allowed, dragging two ragged chestfuls of fog into burning lungs before forcing his spine upright.
 
-Jake still did not let go. He could feel Zuko's arms beneath the leather, the rope of the muscle slowly loosening, and he waited until the last of the tension had run out of them. His own hands throbbed in time with his pulse. He looked at Zuko's face, at the raw skin under his eyes and the scar drawn white across the one side, and something in his chest shifted, heavy and slow. He had not known how much of him was holding on. Now that it had stopped, there was nothing left over to feel it with.
+Across the wet main deck, not one man looked toward the port rail.
 
-Zuko wrenched his arms out of Jake's hands.
+A deckhand by the mainmast fiddled intently with a stiffened ratline knot he had already tied twice. Two paces aft, the leadsman leaned far out over the chains, singing depth counts in an unnaturally flat baritone while staring straight down into foam. Every sailor aboard kept his gaze deliberately nailed to hemp, iron, or sky, wrapping Jake in silent shelter heavy as wet sailcloth laid across a wounded mate.
 
-He did it hard, with a short, ugly jerk, and stepped back. He did not look at Jake. He did not look at the cliff, or the crew, or the birds still swirling overhead like a snowfall in reverse. He turned his shoulder to all of it, pulled his coat straight, and walked away along the deck.
+Jake glanced forward through thinning gray mist.
 
-The men moved out of his path without being told. The hatch door banged. His boots went down the ladder, steady, every step even, and the sound of them faded into the ship.
+At the prow, Zuko had turned half around over one damp wool shoulder. Even through mist streaks, his dark scar showed chalk-pale against wind-chapped skin as golden eyes caught Jake gripping the rail with visibly shaking gloves. Surprise flickered briefly across Zuko's mouth, followed by an odd tightening near his jaw that vanished almost before Jake caught its shape. A long swell lifted the stem upward, gray curtains parted ahead, and Zuko snapped his face back toward open water.
 
-Jake stood where he was. His hands hung at his sides. The gloves were still warm.
+Forcing stiff knees straight, Jake flexed cramped fingers inside cold wet hide one knuckle at a time until each tendon answered, then planted his left boot firmly back behind the rail stanchion. If another tooth waited in the throat ahead, two aching palms could still hold one more turn.
+
+"Depth?" Jake called forward, surprised by how raw his own throat scraped.
+
+"Nine fathoms, then eleven!" the leadsman answered quickly. "Channel's widening clear out ahead!"
+
+Surf thunder dropped swiftly to a hollow slap behind their wake. Towering pale limestone cliffs pinched close on either flank, barely two boat-hooks past either gunwale, before dropping back into stillness. Fog drifted thin across flat dark water ahead.
+
+Slowly, the patrol ship glided out of stone jaws into an empty round cove ringed by sheer white cliff walls, coasting under dead idle while cold mist settled softly down over soot-streaked decking like rain.
 
 ---
-The cove kept its silence after dark.
 
-They had dropped anchor well before the light went, in the one place where the sounding-line came up short and the bottom held, and by the time the last lamps were lit the ship rode the black water like a sleeping animal. The cliff was invisible now. Somewhere in the night the birds had come back to it. Jake could hear them through the hull, a low, restless murmur, like a crowd waiting to be told something.
+For long minutes nothing stirred inside the quiet salt bowl except lap marks spreading off the rudder.
 
-He carried the tray along the officers' passage with both hands, and it took some care. Every joint in his fingers felt swollen, and the wood of the handles rubbed at the skin through the leather. There was a bowl of rice on it, and a small portion of the dried fish, and three folded leaves of the pickled cabbage, all weighed out that afternoon. Beside them stood a clay pot with a chipped spout and a single cup.
+Twin paddle-beats eased down to a weary, shuddering hum underneath the afterdeck while fog clung low around the cliff base in slow drifting ribbons. Jake hooked both thumbs silently over the port stanchion until tremor finally left his elbows, letting cold wind dry salt crust along his collar.
 
-He had checked the men on his way. The stokers were eating their hot rice at the boiler-room hatch, in three-hour shifts, and the one Jee had taken the shovel from was asleep on a coil of rope with a blanket over him. Nobody had asked him to look. He had looked anyway.
+Crewmen lingered still beside halyards and boat lashings, faces tipped upward into pale mist. Far back near the chains, the lead weight plopped once into still black water and came back dripping clear.
 
-He nudged the cabin door open with his shoulder.
+At the prow, Zuko stood frozen as hammered iron.
 
-The room was dim. One lamp burned on the wall bracket, turned low, and its light barely reached the corners. It was warmer here than anywhere else on the ship. The walls were thick with old lacquer and lined with felt against the wind, and the sea came in only as a soft steady slap against the hull.
+A sharp sea gust slid over the eastern rim above them, peeling gray mist off the upper cliff face. Behind that thinning curtain, high along pale rock ledges, white mass shifted in the dim light.
 
-The armour stood where it always did, the shoulder plates on the lid of the chest and the breastplate propped against it, the dull red catching the lamp. Zuko had taken all of it off. The coat lay across the foot of the bunk, still dark with damp, and he sat on the edge of the mattress in his undershirt with his elbows on his knees and his eyes on the floor.
+Huge. That simple scale struck Jake before reason caught up, pulling his spine upright off the rail. Broad white flanks stretched pale across thirty feet of rock shelf, curving in slow rounded swells that seemed to lift and settle like sleeping lungs inside heavy white fur streaked gray by storm weather.
 
-He didn't look up when the door opened. He didn't move at all. His hands hung between his knees, open and loose. Jake had seen Zuko sit still before, but only when he was sleeping, or pretending to, and it was strange to see him do it awake. It looked as though someone had taken a rope in his shoulders and cut it.
+"*There,*" Zuko breathed.
 
-Jake did not say anything.
+He leaned far forward past the stem rail, every sinew drawn taut down one shoulder while that half-choked whisper carried across wet iron. It sounded torn straight out of sleep rather than shouted from a deck. Jake had heard that thin pleading note twice in nightmares three years back, never awake in front of twenty silent men.
 
-He crossed the room to the low table beside the bunk and set the tray down on it, as he might have set it beside a sleeper. He lifted the pot and poured. The tea came out dark and fragrant, and steam rose from the cup in a thin thread and bent in the draft. He turned the cup so the handle faced Zuko's right hand, and pushed it an inch closer to the edge of the table, within easy reach. Then he stepped back.
+Wind shifted off the headland, sweeping the last fog ribbons straight out to sea.
 
-Zuko's eyes flicked to the cup and away again.
+The great white flank broke apart into wings.
 
-Jake left him there. He went to his own corner, the small alcove off the cabin's far wall, where a narrow cot and a shelf and a hook for his coat fit into a space hardly wider than the door. There was a curtain across it that he rarely drew. He lowered himself onto the cot and the frame creaked, and the weight of the day came down on him all at once, so heavily that he sat for a moment with his elbows on his knees and did nothing.
+Thousands of pale coastal seabirds packed shelf after shelf along chalk limestone, jostling gray-tipped shoulders against salt spray until stone vanished underneath feathers. Yellowish guano streaked deep cracks down the pale cliff, tricking mist-blinded eyes into reading shadows as heavy limbs and thick breathing fleece. Where the mass had seemed to heave, one tier of gulls flapped upright to trade ledges. Where flanks had swelled, pale feathers settled flat back out of wind.
 
-His hands throbbed. He looked at them.
+Nothing crouched there except cliff stone, bird dirt, and sour sea wind carrying dead fish scent down across silent decking.
 
-The gloves had darkened at the fingers, and the palms were stiff and creased where the heat had gone through them. He worked the left glove off, one finger at a time, and the leather stuck. When it came free the air on his skin made him wince.
+Nobody moved or spoke.
 
-The scars ran across the underside of the hand, from the heel of the palm to the tips of the fingers. They were red, redder than usual, standing up tight and shiny against the tan skin. The lines had not opened. He turned the hand over and closed it slowly, and opened it. The tremor was still there, fine and quick, like a wire that had been plucked.
+Jake watched the tight nape of Zuko's neck above his wet collar. Both armored shoulders rose an inch and locked rigid under heavy wool while Zuko's hand slipped slowly off the bow iron, fingers trembling slightly against his thigh as breath tore through his teeth in short, ragged pulls. He didn't turn around toward Jee, the steersman, or the quiet crew waiting near the mast. He looked completely emptied of the air around him.
 
-He took off the other glove and set them both on the shelf.
+Then heat rolled outward across the foredeck.
 
-There was a basin on the shelf, half full of last night's washing water. He looked at it for a while. Then he laid both hands over it, palms down, an inch above the surface, and let the water come up to him, thin and cold, a film of it clinging to the scarred skin. It ran into the creases. The sting eased first, then the heat, and the deep ache began to loosen its hold by small degrees. He kept his eyes on the basin so that he would not look up.
+Jake felt the dry snap instantly across scarred palms. It burned hotter than the wheelhouse flare, wider and hungrier, licking straight across damp salt ice until puddles near the stem hissed into steam. Two watchmen beside the mainmast stepped hastily backward behind coiled cable while Kaito ducked low under a boat thwart.
 
-In the bunk, something clinked.
+Zuko threw both wrists wide.
 
-Jake's gaze moved. Zuko had reached out, finally, and taken the cup. He held it in both hands, as a child might, close against his chest, and the steam curled up around his face. He didn't drink. His eyes had gone to Jake's hands, to the water clinging to them, the red lines beneath, and they stayed there a moment too long. Then he looked at the tea.
+Fierce white-orange flame burst bright from both open hands as his boots stamped wide across freezing steel into the hard, squared opening form Jake had watched him drill ten thousand times since palace courtyards. His ribcage swelled deep on a tearing breath, every angle from heel to outstretched knuckles aimed squarely up at pale stone ledges packed with squawking white wings.
 
-His shoulders came down.
+Flame swirled bright enough to bend wet mist sideways. One full-chested blast from that close under a dead cliff wall would sweep straight across tarred signal rigging and ignite stacked cordage behind the bridge. Worse, towering orange glare would roar upward into coastal sky where every Earth Kingdom watchtower within twenty miles could mark them before dark.
 
-It was an inch, less, the tension slipping out of the line of his back like a knot working itself loose. The stiffness left his neck. He sat with the cup against his chest and his head bowed, and he said nothing about the bridge, or the cliff, or the hands on his wrists. Jake had not expected him to. There was no way to say those things that did not cost more than Zuko had, and they both knew it. It was enough that the cup was in his hands.
+Jake crossed twenty feet of slick iron without hearing his own boots land.
 
-Jake let the water fall back into the basin. He dried his palms on a corner of his shirt, carefully, and folded his hands in his lap.
+Afterward he remembered nothing of crossing, only wind cutting cold against his jaw and blinding orange glare swelling inside his coat sleeves. He stepped sharply between Zuko's left shoulder and the cliff edge before breath loosed fire, catching both armored wrists squarely in gloved hands.
 
-For a long time there was only the sound of the ship. The hull creaked against the anchor line and eased. The lamp ticked. Under the deck, so faint that he felt it more than heard it, the engines were resting, a low, slow, steady hum, the sound of a sleeper who was not yet certain he could stop.
+Scorched hide flashed hot as branding iron in half a heartbeat. Blinding needles jumped instantly up every pale scar seam inside both palms, fierce enough to twist his teeth tight together behind closed lips, yet Jake locked his weight downward and hauled both rigid forearms sharply toward the decking. Zuko's rooted stance broke sideways. Wild flame splashed uselessly skyward in one tall roaring sheet that licked empty mist and died overhead.
 
-"The engines," Zuko said.
+"Stop," Jake said low.
 
-His voice was rough, and it came out low, as though it had been left too long in the cold. He was still looking at the tea.
+He kept his voice level underneath the dying crackle, amazed how steady every word came out against pain throbbing straight up his elbows. "Burn out this ship and you never catch him. Burn the rigging and we're dead on the rocks."
 
-Jake turned his head. "Jee says they'll hold."
+Zuko bucked hard against the hold.
 
-Zuko waited.
+Corded forearm muscle surged like iron cable as Zuko twisted his whole chest inward, nearly dragging Jake off wet iron heels. Three inches from Jake's face, wide golden eyes burned bright and unfocused like an animal trapped under falling stone. Chest heaved harshly through parted teeth while orange fire still spat wildly around both pinned wrists.
 
-"If we give them the night."
+Jake didn't drop his grip or give an inch of ground.
 
-There was a pause. Jake watched it go through him. He watched the argument rise in the prince's face, the reflex, the old hard voice that said *we can't afford a night*, and he watched it come to the edge and stop there. Zuko's fingers moved once on the cup. Then he nodded, a single short dip of the head, and it was over. He did not say *fine*. He did not say *you were right*. He raised the cup and drank.
+He pinned Zuko's stare directly with his own while hot hide cooked slowly against old burn lines, clearing every other thought out of his head except two quiet words: *Only hands. Hold fast.*
 
-Jake looked down at his hands again.
+One ragged heartbeat crawled past. Then two.
 
-There would be another map in the morning. Iroh would spread it across the table, and there would be new pins in it, and someone would report a shadow, a rumor, a fisherman with a story. The coal would be lower. The stokers would be slower. He had not told Zuko about the eleven days and the five. The ledger lay on the shelf beside his gloves, closed, and it could wait until tomorrow. It would keep. Tonight the ship lay at anchor in a stone bowl with a hundred and forty men asleep in her, and across the cabin the prince was drinking tea.
+Slowly, fighting resistance shifted out of Zuko's arms. His desperate wrench slowed, wild heat receding along his bruised cheekbones as wet scorching leather scent reached up between them. Suddenly Zuko's gaze focused sharp and clear on Jake's face, and fire simply vanished out of his palms. No slow fade or sputtering tail; light went straight out, leaving damp gray twilight rushing cold across iron rails.
 
-It was warm in the room. His hands had stopped shaking.
+Overhead, the entire cliff erupted.
 
-Jake leaned back against the wall of the alcove, and it was cold at his shoulder blades and the lamp made a gentle light on the floor. Zuko finished the tea without saying anything more. He set the cup on the table with a small, careful click, and sat looking at the wall, and the ship rocked them both slowly, side to side, in the dark.
+Startled by the sudden sky-flare and vanished boom, three thousand gulls burst upward off chalk ledges in a deafening white thunder of beating pinions and frantic shrieks that rattled earbones across the cove. Pale feathers rained lazily downward like wet ash while one bold sea gull skimmed ten feet past Zuko's hair, screaming furiously out toward open ocean. Beneath bird noise lingered sharp sulfur-hot ash scent on wet breeze.
+
+Still Jake kept hold until tight muscle cables under his gloves loosened fraction by fraction, waiting out the last hard tremor in Zuko's ribs before releasing a single finger. When tension finally ran down through both elbows, his own pulse crashed back loud inside his ears. Looking closely at bruised hollows under Zuko's scarred eye, he felt a heavy ache settle deep behind his breastbone. Holding Zuko back from breaking always drained whatever little strength Jake thought he still kept in reserve.
+
+Zuko wrenched both arms violently backward out of Jake's grip.
+
+He jerked free with an ugly, sharp snap of shoulders, never throwing a single glance at Jake, the pale guano ledges, or silent crewmen staring down at wet ropes while feathers drifted past like reversed snow. Turning one proud shoulder hard against the entire deck, Zuko tugged his charred cuffs straight and strode briskly down the main companionway.
+
+Sailors melted wordlessly out of his lane. Heavy steel door slammed behind him; steady measured footsteps hammered down steep iron rungs until ship hum swallowed them out of earshot.
+
+Jake stayed motionless beside the forward rail, damp wool hanging cold around his hips while stiff leather gloves still radiated stale dry heat against his bruised palms.
+
+---
+
+Night fell still over the salt cove once the anchor cable bit bottom mud.
+
+Jee waited until twilight dimmed down into deep gray before dropping the bow iron into twelve feet of sheltered water, swinging the patrol vessel motionless beneath towering black limestone walls. Hidden birds murmured restlessly high along invisible ledges like crowds shuffling through dark streets before curfew.
+
+Jake balanced the narrow oak supper tray carefully down the low officers' passage, wincing faintly whenever tray handles rubbed tight knuckles through stiffened leather. On board rode weighed half-rations: one small earthenware bowl of steamed barley rice, neatly flaked salt cod, and three crisp pickled cabbage leaves beside a chipped clay pot of jasmine tea and one handleless porcelain cup.
+
+Along the way aft he had detoured softly past the boiler hatch. Below decks, two stokers sat cross-legged beside an open iron grate eating hot rice off tin plates while the exhausted youngster Jee had pried off his shovel slept dead under wool blankets beside spare cordage. Nobody had instructed Jake to inspect boiler rations; checking stayed easier than lying awake wondering.
+
+He nudged Zuko's cabin door silently inward with one padded shoulder.
+
+Inside hung deep warm hush fed by a single turned-down oil wick along the far bulkhead. Felt lining damped ocean wind out of lacquered walls, leaving only soft rhythmic lap marks slapping gently against outer steel strakes. Zuko's breastplate and flared pauldrons sat neatly racked atop the cedar sea chest, catching dull orange glint across fresh soot smears.
+
+Zuko himself sat motionless on the narrow bunk margin in plain dark undershirt trousers, wet coat flung crooked across his boots while both elbows dug deep onto bare knees and dark gaze stared flatly at swept floorboards. He didn't lift his chin when hinges sighed. Open, idle hands hung slack between his calves. Jake normally glimpsed stillness like that only once exhaustion knocked the sixteen-year-old asleep after midnight; tonight he looked like a crossbow someone had unstrung to wood.
+
+Jake crossed felt matting without speaking, laid the supper tray down beside the bunk's reading lamp, and tilted the chipped pot until dark golden steam rose in one slim ribbon through drafty air. Turning the chipped porcelain cup neatly toward Zuko's right palm, he slid the saucer an inch closer to bunk edge before stepping back into shadows.
+
+Zuko's dark eyes flicked once toward the rising tea curl, then dropped straight back to plank grain.
+
+Jake left him space, turning silently into the cramped service alcove built along the cabin's far wall where one narrow canvas cot, iron coat hook, and scarred water shelf left barely enough width for broad shoulders. Dropping onto taut canvas, he braced his elbows over his knees while twelve hours of fog, rock strain, and scalding grip caught up across every joint at once.
+
+Slowly, he raised both blackened gloves toward faint alcove lamp light.
+
+Dark heat creases stiffened both leather palms into hard cracked bark. Clenching his jaw slightly, Jake caught the left thumb tip between pinched fingers and worked bruised hide downward joint by joint until dry peel finally freed aching skin. Cool cabin air washed across raw palms like nettle sting, drawing a short hiss past his teeth before he controlled it.
+
+Pale old Agni Kai ridges crisscrossed his palm flesh from wrist heel clear to index tips, flushed angry crimson underneath stretched tan skin though none of the toughened seams had torn open bleeding yet. Slowly he curled bruised fingers inward toward a fist, opened them carefully straight, and watched fine rapid tremor dance through every knuckle like plucked lute strings.
+
+Once both stiff gloves lay neatly side by side beside the coal ledger on his shelf, Jake leaned above the battered enamel washbasin holding cold washing water left from last morning.
+
+Holding wet raw palms steadily an inch above dark water, Jake breathed out long and let cool water lift upward through stale air. Thin cold sheen climbed around aching creases without spilling a single drop onto plank flooring. Sharp sting faded first underneath steady icy wrap; deep heat drew gently out along his forearms until tight tendon knots loosened fraction by fraction down to his wrists. Keep eyes fixed downward, keep posture small, ask nothing out loud.
+
+Across the narrow dark cabin, porcelain clicked softly against oak wood.
+
+Without tilting his head high, Jake caught the shift out of the corner of his vision. Zuko had lifted the warm clay cup in both scarred hands, cradling porcelain high against his chest like an eight-year-old boy warming stiff thumbs around winter broth while tea steam brushed his cheek. He didn't sip straightaway. Golden eyes lingered across the alcove threshold upon gray washing water clinging around glowing crimson skin along Jake's hovering palms, holding there three breaths too long before dropping straight down into his tea.
+
+Zuko's high stiff shoulders settled down an inch.
+
+Not an apology; neither prince nor servant possessed language soft enough to name fog reefs, scorched cuffs, or two hands stepping deliberately into fire without flinching. Simply the tight steel knot along Zuko's spine loosened under warm lamp glow while both bowed shoulders owned how heavy the chase weighed.
+
+Jake eased his fingers open, guiding cool water back into the tin basin without breaking surface stillness. Reaching down for a dry flannel square beside the bunk post, he blotted both reddened palms thoroughly dry and folded quiet bruised hands back over his knees.
+
+For long mute minutes only ship planks spoke. Hulls groaned slowly against slack anchor chain while cold sea swell lifted and dropped them gently in dark water, and below floorboards, banked boilers clicked softly as iron cooled toward sleep.
+
+"Engines," Zuko said softly.
+
+Raw salt and old smoke roughened his throat down to barely a scrape above hull creaks, gaze still buried inside dark tea leaves.
+
+Jake turned his head slightly against cold steel wall ribs. "Lieutenant Jee says the shaft holds."
+
+Zuko stayed utterly still, waiting.
+
+"If we leave them cold until sunrise."
+
+Long hesitation moved visibly across Zuko's cheekbone. Old desperate habit tightened his jaw around every excuse warning *we can't drop eight hours behind*, climbing toward refusal before hitting silent truth and halting dead on his tongue. Zuko's thumb shifted once along chipped clay rim. Then he gave one short, sharp dip of his chin, raised porcelain to chapped lips, and drank deep.
+
+Jake lowered his gaze back toward cool scarred skin folded peacefully across his knees.
+
+Morning would spread fresh paper rumors across that oak map table. General Iroh would slide pale wooden pins along new coastal channels, fishermen would trade tall tales for copper coin, coal piles would sink closer toward bare bunker plate, and stokers would drag heavier shovels on lean rations. Tomorrow he still had to set five days of pursuit fuel open beside Zuko's breakfast cup. Tonight the closed leather ledger could wait beside blackened hide gloves on one narrow shelf while thirty men slept dry at anchor inside cold stone walls and Zuko finished warm tea across a still room.
+
+Lamp glow warmed the low felt corner softly against his shoulders. When Zuko finally drained the last sip and set porcelain gently down onto wood without a clatter, the calm cove rocked both boys softly onward into dark.
+
 ---
 
 *Omashu, four days later.*
 
-The King of Omashu was a madman, and Katara had decided she liked him.
+The King of Omashu was completely out of his wits, and Katara had decided she rather liked him anyway.
 
-He had made them run his three challenges. The first had been a room of green crystals that grew over everything they touched, and Aang had solved it by laughing and doing the least sensible thing possible. The second had been the mail chute, which had carried them through the mountain at a speed that made Sokka scream the whole way and then claim he had not. The third had been a fight, and the fight had been a goat gorilla.
+Even now her jaw still ached slightly from biting through green rock candy. Hours after breaking out of her stone-crystal cage, she still couldn't figure out which part of the past day had rattled her worst. First had come hurtling down steep stone mail chutes until they smashed half a cabbage cart under palace guard spears. Next came watching the hunched old monarch chuck a chicken drumstick at Aang across a feast table just to catch him airbending. After that, she and Sokka had stood helplessly on a cavern balcony while creeping green jennamite climbed past their elbows and ankles during Aang's three impossible trials.
 
-"A goat gorilla," Sokka said, for the fourth time. "The final test of the Avatar was a goat gorilla."
+First, fishing a dangling lunchbox key out from behind a roaring waterfall, which Aang solved by slicing a stone stalagmite with wind and shooting it like a dart to snap the brass chain. Second, hunting down the King's sweet lost pet Flopsie, who turned out not to be any trembling white rabbit at all. Instead, Flopsie proved to be a roaring ten-foot horned goat gorilla that pinned Aang down only to lick his bald head before rolling onto his furry back for belly rubs.
 
-"It was a very good goat gorilla," Aang said.
+Third came an earthbending duel where Aang bypassed two terrifying giant guards and pointed straight at the frail old king. Bumi promptly ripped off velvet robes, unveiled slabs of coiled muscle, and traded boulder storms against roaring air tornadoes across cracked flagstones before Aang guessed his childhood friend's name out loud and shattered the rock-candy trap.
 
-They were sitting on the steps of the palace with the whole city spread out below them, and the evening market starting up in the squares, and the smell of frying dough coming up the terraces in long warm drifts. Katara had eaten three of something fried with onions in it and could have eaten four.
+"A goat gorilla," Sokka repeated darkly from two steps lower on the sandstone terrace, staring bleakly down across terraced olive trees as though saying the creature's name a fourth time might force Omashu into making sense. "The final secret trial of the Avatar involved belly rubs for a *goat gorilla*."
 
-The King had taken off his crown and his rings and put on a plain robe, and he was sitting with them like a man who had nowhere better to be, which, being the King, he plainly did not.
+"He had remarkably soft ears once you stopped screaming," Aang replied cheerfully, swinging both orange-wrapped ankles over a stone balustrade high above city lamps.
 
-"So," Bumi said. "The Avatar returns, and the first thing he does is lose a hundred years and get himself adopted by a village of people who cannot teach him anything."
+All three sat strung lazily along warm palace steps overlooking Omashu's jagged pyramid roofs while late afternoon market fires flared orange down lower avenues, lifting rich garlic broth and hot frying oil scents upward across stone tiers. Katara had already devoured three crisp onion-fried scallion cakes bought off a wheel-cart vendor and strongly suspected she could put away a fourth before twilight finished settling.
 
-"Hey," Sokka said.
+Beside Aang sat King Bumi himself, frail-looking once more in plain gray homespun tunic without brass crown or rings, nibbling dry salted melon seeds off his palm like any idle grandfather with nowhere sharper to climb until morning.
 
-"You can teach him to throw a boomerang," Bumi said. "That is a fine thing to teach. It will not help him against my old friend's grandson."
+"So," Bumi remarked lightly between sharp shell snaps, squinting sideways down his crooked nose. "Our bright little Avatar skips across an entire century, melts straight out of polar ice, and promptly lets himself get adopted by two stubborn southern kids carrying one chipped bone spear and zero earthbending teachers."
 
-Katara set her cup down. "Zuko."
+"Hey!" Sokka protested automatically, pointing halfway down his mouth with a scallion cake crust. "That club kept our cove fed!"
 
-"The boy with the scar. Yes." Bumi's eyes, one wide and one narrow, went from her to Aang and back. "He is not the danger. He is a boy with a ship and too much fire and a father he is trying to get back to. The danger is the man who is behind him, and the man behind that one." He picked up a nut from the bowl and cracked it one-handed. "You have three elements left to learn, Avatar Aang. You had better start."
+"You throw a curved stick famously well, young warrior," Bumi agreed solemnly, one bright wide eye blinking out of step with its narrower twin while Momo stole a melon seed straight off his knee. "Marvelous skill for hunting gull-ducks. Slightly less practical against my old friend Sozin's great-grandson when ships carry catapults."
 
-"Will you teach me earthbending?" Aang said.
+Katara slowly set her earthenware water cup down against warm stone beside her hip. "Prince Zuko."
+
+"Boy with the fresh burn scar, loud armor, and too much hurry behind his heels," Bumi said easily, cracking another hull single-handed. "Oh, don't look so haunted at me, daughter of the South. That boy isn't your storm. He's sixteen years old with an iron tub, angry fire, and a father's boots he's still desperate to step back inside." His mismatched gaze shifted gently back toward Aang swinging heels happily over sheer stone drops. "Real storms wait behind that throne room, behind his father, and behind every flag flying eastward. Three heavy elements left to master before summer fire turns fierce, Avatar Aang. Better start learning fast."
+
+Aang stilled his dangling ankles, dark gray eyes growing older than twelve beneath faded arrows. "Wait, will you teach me earthbending before we leave?"
 
 "No."
 
-"Because I'm not ready?"
+"Why not? Aren't we old friends?"
 
-"Because I am an old man with a city to run and a bad back," Bumi said, "and because a teacher you argue with is worth more than a teacher you like. Go north. Find a waterbender with a temper and the patience of stone. She will be better for you than I would be."
+"Because old friends make rotten drill masters, and I have three thousand broken roof tiles to straighten before autumn winds blow," Bumi answered cheerfully, dusting pale hulls off his knee. "Any stone teacher you pick needs sharp elbows enough to survive you flying right over his walls. Fly north like you promised the girl before smashing those cabbages. Find water masters first, sharp-tongued, stubborn, patient as deep glacier ice. Leave rocky chests for once your feet stop dancing off clouds."
 
-Katara looked up.
+Katara lifted her chin swiftly off her folded knees.
 
-"North," she said. "The Northern Water Tribe."
+"North," she whispered, testing the weight of that single direction over sprawling green rooftops below. "You mean the Northern Water Tribe really still stands behind its walls?"
 
-"There is a city of your people at the top of the world, and they have masters there." Bumi's wide eye settled on her. "You will want to learn too, I think."
+"Tall ice, curved canals, proud old men with white braids and terribly strict manners," Bumi chuckled dryly, leaning close until his mismatched eyes narrowed into genuine seriousness beneath wild silver tufts. "Cities full of your people holding water steady behind frozen stone, young master. You'll want their scrolls as fiercely as our bald friend needs their stance."
 
-"I've been learning," she said, and heard how small it sounded.
+"I've been teaching myself from old village stories," Katara murmured, glancing down at faint damp knuckles clenched tightly around her pale pouch strap. The confession dropped brittle and small between real benders.
 
-"Yes," Bumi said. "I can tell." He said it without mockery, which was somehow worse.
+"Yes," Bumi said mildly, lacking any drop of mockery, which somehow stung twice as sharp beneath warm twilight. "I noticed right when you froze three drops beside your shoulder at the feast."
 
-Later, walking down through the terraces with the market lamps coming on and Aang flying loops around a fountain for the fun of it, Sokka fell into step beside her with the map under his arm.
+Later, wandering gently downward along zig-zag stone ramps while copper courtyard lanterns bloomed golden down three miles of city terraces, Aang looped lazily overhead chasing Momo around cedar eaves. Sokka tucked rolled parchment tight under his elbow and fell naturally into step along Katara's shoulder.
 
-"North," he said. "That's a long way. Ice, snow, more ice."
+"North," Sokka muttered, grimacing slightly up toward faint cold stars pricking above mountain peaks. "Sounds like ten days of Appa fur, frozen ears, and chewing tough seal jerky across half a continent just to trade small snow for giant snow walls."
 
-"You'll be home."
+"You won't freeze half as bad inside stone buildings," Katara offered gently, gesturing toward slate roofs rising solid and unmelted across the valley beneath them.
 
-"Wolf Cove is my home." He said it quickly, and then was quiet for a while. "Do you think they'd take us? The Northern Tribe. It's a real city, with kings and walls and things. They might not want two kids from a village with thirty people and one canoe."
+"Wolf Cove isn't stone, though. Wolf Cove is home." Sokka clipped the words quick and defensive before letting quiet breath ease his jaw slightly as they rounded an olive shrine. "Anyway... think northern elders even welcome folks like us? Huge walled city with marble bridges and real chiefs and trained guards. Maybe two dirt-poor kids from a tiny southern camp of thirty folks and one stitched kayak look pretty small stepping off a flying bison."
 
-"They'll want the Avatar."
+"They have to welcome the Avatar," Katara replied softly, shading both eyes to trace Aang banking wide over illuminated courtyard fountains.
 
-"And us?"
+"Sure. The Avatar." Sokka kicked one loose pebble off the ramp edge into empty dark air. "What about us?"
 
-Katara looked up at the palace, where the old King was presumably eating nuts and thinking about goats. "They'll want us because Aang won't stay without us."
+Katara stopped along the stone parapet, looking briefly upward toward distant dark palace balconies where crazy King Bumi was likely already climbing down garbage chutes or bothering sleepy stone cooks with bad jokes. She turned her gaze back toward cold dark northern ranges beyond city roofs. "They take us because Aang won't stay three nights anywhere without us."
 
-Sokka nodded slowly. "That's a good answer. I hate it."
+Sokka weighed that slowly across three paces before cracking one reluctant crooked grin. "Worst comforting speech ever. Fine. Tell him tomorrow before breakfast so I can pack extra salted pork."
 
-They walked on. Below them the city opened up, wide and warm and full of lights, and somewhere north of all of it there was a city of her own people that she had never seen, with masters in it, and a wall that had never been broken.
+They walked slowly onward down warm brick steps as Omashu opened wide beneath them in gold lantern tiers, stone houses stacked firmly against winter winds. Weeks ahead past Earth Kingdom plains waited an unbroken ice city humming with her own lost bloodline.
 
-She had spent her whole life being the last waterbender in the world. She was going to walk into a city full of them.
+All fourteen winters of Katara's memory, she had carried one solitary secret: the last living spark of southern waterbending tucked inside mittens while ships raided older sisters away.
 
-She did not know yet whether that was a promise or a fear.
+Ahead waited whole frozen avenues crowded with master benders bearing water pouches freely on open hips. Stepping toward northern lights down these warm stone terraces, Katara gripped her worn leather sash tight and realized she still couldn't tell whether that packed city waiting at the world's crown felt closer to salvation or judgment.

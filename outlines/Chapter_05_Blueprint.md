@@ -73,9 +73,9 @@ This chapter adapts a `Book_1_Macro_Map.md` original B-plot. No episode source e
 - **The Climax of the Scene:** They track a "confirmed" sighting into a treacherous, rocky Earth Kingdom inlet, only to find it's a false lead (e.g., a large white cloud or a different animal). Zuko nearly spirals into a destructive rage, and Jake has to physically ground him, reminding him that burning out the crew means losing the Avatar forever. It highlights how much Zuko relies on Jake to anchor him to reality.
 
 ## Continuity Touchpoints
-- **Character States:** Jake's hands still ache from the overexertion of blocking the Unagi wave in Chapter 4. Zuko is hyper-fixated and sleep-deprived.
-- **Crew Dynamics:** The crew is exhausted. Lieutenant Jee is introduced here as the voice of the crew's physical limits.
-- **Ship Status:** The engines are strained; coal is running low; the hull still bears cosmetic avalanche scars and minor Kyoshi raid wear.
+- **Character States:** Jake's hands still ache deeply below the scars from Ch 4 rigging/seawall sprint strain and wet grip. Zuko is hyper-fixated and sleep-deprived.
+- **Crew Dynamics:** The crew is exhausted. Lieutenant Jee (established in Ch 1–3) steps forward as the voice of the crew's physical limits.
+- **Ship Status:** The engines are strained; coal is running low (`11 days cruising / 5–6 at pursuit speed` after Ketu coaling); the hull still bears cosmetic avalanche scars and Ketu cold patches.
 
 ---
 
@@ -96,7 +96,7 @@ N/A — original chapter.
 ## Scene Purpose
 
 ### Narrative Purpose:
-Establish the physical reality of the ship's dwindling supplies and introduce Lieutenant Jee as the voice of the crew's strain.
+Establish the physical reality of the ship's dwindling supplies and position Lieutenant Jee as the voice of the crew's breaking strain.
 
 ### Emotional Purpose:
 Show Jake's role as the quiet, practical load-bearer for the ship's survival. 
@@ -113,7 +113,7 @@ The ship's lower hold. Dimly lit, smelling of coal dust, cold iron, and damp woo
 
 ### Action Beats:
 - Jake is conducting an inventory check, counting dwindling coal reserves and rationing dried supplies. He works methodically, his gloved hands moving with practiced efficiency despite the lingering ache from Kyoshi Island.
-- An older Fire Nation officer with prominent sideburns approaches—Lieutenant Jee. 
+- Lieutenant Jee climbs down into the hold, gray-faced with boiler fatigue and grease-smudged cuffs. 
 - Jee reports that the boiler pressure is dropping and the men are exhausted. He complains bitterly about Zuko's orders to maintain pursuit speed for every shadow on the horizon.
 - Jake does not pull rank or defend Zuko's temper. He absorbs Jee's frustration, validates the mechanical reality of the engines, and quietly promises to handle the prince.
 
@@ -286,7 +286,7 @@ The bow of the ship, looking out into the cove. The fog begins to thin.
 - The physical grounding. Zuko allows Jake to touch him, to restrain him, in a moment of absolute volatility where anyone else would have been burned. It is the ultimate proof of their codependence.
 
 ### Environmental Storytelling:
-The sudden, deafening squawk of the seabirds taking flight, mocking their effort. The smell of ozone and unspent fire fading into the cold sea air.
+The sudden, deafening squawk of the seabirds taking flight, mocking their effort. The smell of sulfur-hot scorched air and unspent fire fading into cold sea mist.
 
 ### Internal Perspective (Jake):
 Jake feels the heat radiating through his gloves, aggravating his scars, but he doesn't let go until he feels the tension leave Zuko's muscles. He feels a profound, heavy sorrow for Zuko's desperation, mixed with the exhausting realization that he is the only thing keeping Zuko from falling apart.
@@ -379,22 +379,22 @@ Sets the baseline of crew fatigue and ship strain that will boil over into the m
 - The ship is pushing its engines to the limit.
 
 ### Items / Equipment Status:
-- Jake's gloves are worn; his hands are aching from the Unagi wave block.
+- Jake's gloves are worn; his hands carry lingering deep soreness below the scars from Kyoshi Island combat and rigging strain.
 
 ---
 
 ## Chapter Opening Relationship To Previous Chapter
 
-- Short time skip (a few days). The ship has been sailing down the Earth Kingdom coast, chasing rumors, leading directly into the logistical strain of Scene 1.
+- Short time skip (several days). The ship has been sailing down the Earth Kingdom coast, chasing rumors, leading directly into the logistical strain of Scene 1.
 
 ---
 
 ## Transition Requirements
 
 ### Must Carry Over:
-- Jake's physical fatigue and the ache in his hands from Chapter 4.
+- Jake's physical fatigue and deep palm soreness from Chapter 4.
 - Zuko's heightened obsession following the Kyoshi Island escape.
-- The ship's mechanical strain.
+- The ship's mechanical strain (`30-man` complement).
 
 ### Must Not Repeat:
 - Do not re-explain the Kyoshi Island raid or the Unagi.
@@ -406,11 +406,11 @@ Sets the baseline of crew fatigue and ship strain that will boil over into the m
 
 # AI Drafting Instructions
 
-- **Character Introduction (CRITICAL):** Lieutenant Jee is marked "Not yet introduced." You MUST introduce him naturally in Scene 1. Describe his older, weary face, his prominent sideburns, and his Fire Nation officer uniform before or as Jake addresses him by name.
-- **Bending Risk Assessment (CRITICAL):** In Scene 3, Jake uses waterbending to buffer the ship away from the rocks. This is a **LOW RISK** environment because only the exile crew is present, and they already know his secret. Jake must bend openly but defensively (Flowing Guard) to protect the hull.
+- **Crew & Officer Continuity (CRITICAL):** Lieutenant Jee was already introduced in Chapter 1; do not stage his entrance in Scene 1 as an unfamiliar stranger. Focus on the physical toll of boiler watches on his weathered face and uniform. Keep ship complement locked at `thirty men` (never `140`).
+- **Bending Risk Assessment (CRITICAL):** In Scene 3, Jake uses waterbending to buffer the ship away from the rocks. This is a **LOW RISK** environment because only the exile crew is present, and they already know his secret. Jake leaves his wet gloves on and bends defensively (Flowing Guard) to protect the hull.
 - **Prose Style (Banned Tropes):** Strictly avoid therapy-speak. Do not use words like "grounding him," "codependent," "de-escalate," or "processing." Show Jake grounding Zuko in Scene 4 entirely through the physical act of grabbing his arms, the heat against Jake's gloves, and the change in Zuko's breathing.
 - **Pacing and BREATHE Scenes:** Scene 1 and Scene 5 are marked as BREATHE scenes. Slow the pacing down. Focus heavily on sensory details (the smell of coal dust, the vibration of the deck, the warmth of the tea, the ache in Jake's scars) and Jake's internal endurance. Keep Scenes 2, 3, and 4 tight, tense, and propulsive.
-- **Knowledge Limits:** Jake and Zuko do NOT know the Gaang is in Omashu. Do not mention Omashu, King Bumi, or the Gaang's activities in the prose. The focus is entirely on the ship's isolated struggle.
+- **Knowledge Limits:** Jake and Zuko do NOT know the Gaang is in Omashu. Keep Omashu confined strictly to the appended Katara interlude (mirroring Ep 5 canon: waterfall key, Flopsie goat-gorilla, Bumi duel, and rock-candy jennamite).
 - **Jake's Agency:** Jake is not passive. He actively manages the ship's logistics in Scene 1, actively alters Zuko's orders in Scene 2, actively saves the ship with bending in Scene 3, and actively restrains Zuko in Scene 4. Emphasize his quiet, load-bearing strength.
 
 ---
@@ -419,8 +419,8 @@ Sets the baseline of crew fatigue and ship strain that will boil over into the m
 
 ✓ Macro Map B-Plot Anchor preserves the structural requirements for this original chapter.
 ✓ Developmental Blueprint creates a complete, emotionally coherent novel chapter.
-✓ POV limitations are respected (no knowledge of Omashu).
-✓ Character introductions are planned naturally (Lieutenant Jee).
+✓ POV limitations are respected (no Jake/Zuko knowledge of Omashu).
+✓ Character continuity is preserved (Lieutenant Jee already established; 30-man crew).
 ✓ Previous chapter continuity is preserved (Jake's aching hands, ship strain).
 ✓ Original scenes weave together to create a propulsive narrative.
 ✓ Jake has active agency; his waterbending is used appropriately under Low Risk rules.
