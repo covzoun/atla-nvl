@@ -166,13 +166,12 @@ The main deck, mid-day. The sea is rough, the ship pitching violently.
 
 ### Action Beats:
 - Zuko is on the bridge, demanding a course correction to chase a new, flimsy rumor, forcing the ship to cut sharply across the wind.
-- The sudden shift puts immense strain on the frozen rigging. High above, a frayed halyard snaps with a sound like a gunshot.
-- A massive, iron-bound wooden rigging block plummets toward the deck, directly toward Kaito.
-- **Bending Execution (CRITICAL - LOW RISK):** Jake is too far to push Kaito physically. He drops into a low stance and uses a sharp, subtle upward surge of water (pulled from the freezing spray on the deck) to strike the falling block, altering its trajectory just enough. 
-- The block smashes into the deck inches from Kaito, splintering the wood but sparing the boy.
-- Zuko emerges from the bridge, furious not about the near-death, but about the dropped sail and the lost speed. He demands it fixed immediately, his voice cutting and devoid of empathy.
-- The crew freezes, glaring at Zuko. Lieutenant Jee looks ready to draw his sword.
-- Jake breaks the tension. He steps forward, grabs the heavy, broken line himself, and begins hauling it, ignoring the searing pain in his hands. He barks an order at Kaito to help him, breaking the mutinous stare-down and forcing the crew back to work.
+- High above along the foresail spar, the weathered rope strop fails under helm load and a forty-pound lower iron-bound traveling block plummets straight down the mast face toward Kaito (while the bolted upper block stays aloft for re-reeving).
+- **Bending Execution (CRITICAL - LOW RISK):** Jake is too far to push Kaito physically. He drops into a low stance and uses a sharp, subtle upward surge of water (pulled from liquid brine beneath freezing deck ice) to deflect the falling block slightly.
+- The block smashes into the oak planking beside Kaito's boot, splintering wood down to structural steel while sparing the boy.
+- Zuko emerges from the bridge, furious not about the near-death, but about the dropped sail and the lost speed. He demands it re-reeved immediately, his voice cutting and devoid of empathy.
+- The crew freezes, glaring at Zuko. Lieutenant Jee's hand settles on his sword hilt.
+- Jake breaks the tension. He steps forward, grabs the heavy, broken line himself, and hauls it back through the upper block using a spare strop, barking at Kaito and three crewmen to tail behind him and breaking the mutinous stare-down.
 
 ### Character Beats:
 - **Zuko:** Completely blinded by his goal. He views the broken line as a personal insult to his mission, failing to see the human cost.
@@ -289,7 +288,7 @@ The deck of the ship, looking out at the massive, metal offshore Earth Kingdom p
 - Zuko is entirely focused on the prey. Jake is entirely focused on Zuko and the perimeter.
 
 ### Environmental Storytelling:
-The hollow, echoing clang of their boots on the metal grating. The smell of burnt coal and ozone. The eerie silence of the massive, empty prison.
+The hollow, echoing clang of their boots on the metal grating. The smell of burnt coal slag, scorched brass, and cold frost wind. The eerie silence of the massive, empty prison.
 
 ### Internal Perspective (Jake):
 Jake feels a cold knot in his stomach. He had hoped the trail was dead, that they could finally rest and repair the ship. Seeing the destruction, he knows Zuko will never stop now.
@@ -331,7 +330,7 @@ The upper deck of the prison rig, near the ruined warden's office. Wind whips ac
 - Zuko stops. He crouches down near a pile of twisted metal.
 - He reaches out and picks something up. It is a dark blue ribbon with a carved stone pendant attached to it. The fabric strap is torn at the end.
 - Zuko stands slowly, the necklace dangling from his fingers. He stares at it.
-- Jake comes up beside him. He recognizes it immediately—it's the necklace worn by the Water Tribe girl who travels with the Avatar.
+- Jake comes up beside him. He recognizes it immediately from Wolf Cove—both from the dark-eyed girl lunging at Zuko's blade beside the frozen village wall and from the thawed sentries whispering afterward about ice-locked corridors—though he keeps silent counsel and neither boy knows her name.
 - Zuko's expression goes completely blank, then hardens into absolute, terrifying determination. He closes his fist around the pendant.
 - "They have a waterbender," Zuko says softly, looking out at the empty horizon. "And now we have her necklace."
 - He turns on his heel and marches back toward their ship, barking orders to prepare to get underway immediately.

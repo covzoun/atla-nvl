@@ -217,3 +217,12 @@ Cycle completion update (2026-10-29): Grok Turns A and C and ChatGPT Turn B comp
   - Rebuilt Katara's Ep 5 Omashu interlude summary to reflect the actual mail-chute prelude, lunchbox key inside the roaring waterfall, Flopsie the horned goat-gorilla, Bumi's duel and rock-candy jennamite reveal, `fourteen winters`, and crisp scallion cakes (removing `"something"`).
   - Lifted prose rhythm from `avg=11.50` to `15.71` (`max=44`, `>45=0`, `>120=0`, `0.4` dashes/1k), removed all `quietly`/`something`/`not quite`/`for a moment`/UK spellings, and cleared all 16 cross-chapter 6-gram overlaps (`dupscan.py = 0`).
 - **Metrics (`sent.py` / `metrics.py`):** 7,988 words | 508 sentences | avg 15.71 | max 44 | >45=0 | 225 paras | >120=0 | 32.4% dialogue | 0.4 dashes/1k | 2 `the way` | 0 `quietly`.
+
+### Chapter 6 — "The Weight of the Line" (7,598 words)
+- **Why rewritten:** The prior draft suffered from severe sentence bloat (`avg=19.04`, `15` sentences over 45 words, `max=67`), high dash density (`5.0/1k`), heavy stock-tic repetition (`34 cleanly`, `7 smoothly`, `4 quietly`, `1 something`), inline meta-drafting stumbles (`"Wait, no"`, `"Three weeks—no"`), a steamship-era `"set back to their oars"` slip, impossible upper-block rigging physics (leaving no aloft sheave after a falling block broke deck planks), an older Ch 2 deck-only necklace memory, and 24 cross-chapter `dupscan.py` 6-gram collisions.
+- **Key revisions:**
+  - Re-engineered Scene 2's foresail purchase into an upper iron block bolted to the masthead spar plus a forty-pound lower iron-bound traveling block, keeping the oak deck gouge accurate while letting Jake, Kaito, the old rigger, and stokers re-reeve the line cleanly aloft via spare block strop.
+  - Replaced `"oars"` anachronism, changed `"cotton"` bandage tail to `"linen"`, changed `"hour zero"` to `"day one"`, preserved `haru = 0` name-collision lock, and aligned Jake's Ch 2 necklace recall to the frozen village wall lunge and thawed guards whispering of ice-locked corridors.
+  - Tightened prose rhythm from `avg=19.04` (`>45=15`) to `avg=15.22` (`max=36`, `>45=0`, `>120=0`), bumped dialogue to `27.4%`, eliminated all em dashes (`0.0/1k`), removed all Guide 1 AI tics (`cleanly`, `smoothly`, `quietly`, `something`, `at last`, `not quite`, `for a moment`, UK spellings), and cleared all 24 `dupscan.py` collisions (`0`).
+- **Metrics (`sent.py` / `metrics.py`):** 7,598 words | 499 sentences | avg 15.22 | max 36 | >45=0 | 190 paras | >120=0 | 27.4% dialogue | 0.0 dashes/1k | 0 `the way` | 0 `quietly`.
+

@@ -28,8 +28,11 @@
 - **Chapter 5 (`chapters/Chapter_05.md`, "The Long Way Down"):** **COMPLETE** (2026-11-20).
   - Re-evaluated from scratch and substantially rewritten/polished (7,988 words; `sent.py` avg 15.71, max 44, `>45=0`, 225 paras, `>120=0`, 32.4% dialogue, 0.4 dashes/1k, 2 `the way`, 0 `quietly`, zero cross-chapter 6-gram overlaps).
   - Key fixes: aligned ship's company headcount from `a hundred and forty men` to `thirty men` (matching Ch 1, 3, and 12), removed stale Ch 5 "first introduction" framing for Lieutenant Jee (already active since Ch 1), eliminated the inline drafting glitch (`"no, that wasn't right"` on the port rail glove scene while keeping wet leather on for reef cushioning and wrist-grab consistency), repaired Katara's Omashu interlude to match Episode 5 canon (mail chute pre-trial + waterfall lunchbox key + Flopsie goat-gorilla + Bumi duel + rock-candy jennamite instead of misstated chute/crystal/fight trials, fixed Katara's age to `fourteen winters`, purged `"something"` onion food placeholder), elevated sentence rhythm from `avg=11.50` to `15.71`, cleared all 16 cross-chapter `dupscan` collisions (`0`), and purged UK spellings and Guide 1 AI tics.
-- **Chapter 6 (`chapters/Chapter_06.md`):** **NEXT** — begin Phase A evaluation immediately.
-- **Chapters 7–12:** Pending sequential evaluation/revision.
+- **Chapter 6 (`chapters/Chapter_06.md`, "The Weight of the Line"):** **COMPLETE** (2026-11-20).
+  - Re-evaluated from scratch and rewritten/polished (7,598 words; `sent.py` avg 15.22, max 36, `>45=0`, 190 paras, `>120=0`, 27.4% dialogue, 0.0 dashes/1k, 0 `the way`, 0 `quietly`, zero cross-chapter 6-gram overlaps).
+  - Key fixes: fixed lower-block/halyard rigging physics using a two-block foresail purchase (upper block bolted aloft, forty-pound iron-bound lower traveling block drops onto oak deck, crew re-reeves via spare block strop), replaced galley `oars` steamship anachronism, aligned Katara necklace memory with revised Ch 2 (frozen village wall lunge + thawed sentries whispering of ice-locked corridors, Jake keeping his gray hood down), corrected bandage fabric to linen, enforced Haru name-collision lock (`haru = 0`), brought `sent.py` rhythm down from `19.04` (`>45=15`, `max=67`, `5.0` dashes/1k) to `15.22` (`max=36`), eliminated `34 cleanly`, `7 smoothly`, `4 quietly`, `something`, `"Wait, no / Three weeks—no"` meta slips, and cleared all 24 cross-chapter `dupscan` collisions (`0`).
+- **Chapter 7 (`chapters/Chapter_07.md`):** **NEXT** — begin Phase A evaluation immediately.
+- **Chapters 8–12:** Pending sequential evaluation/revision.
 - **Chapters 13–20:** Pending drafting after Chapters 1–12 stabilize.
 
 ## Locked Orientation Facts (Subject to Merit Review Only When Reopened)
